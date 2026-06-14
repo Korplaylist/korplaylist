@@ -1,5 +1,11 @@
 ---
-import { categories, regions, siteConfig } from "../site.config";
+import { regions, siteConfig } from "../site.config";
+
+const languages = [
+  { href: "/", flag: "🇰🇷", label: "한국어", code: "KO" },
+  { href: "/en/", flag: "🇺🇸", label: "English", code: "EN" },
+  { href: "/ja/", flag: "🇯🇵", label: "日本語", code: "JA" }
+];
 ---
 
 <header class="site-header">
@@ -13,7 +19,18 @@ import { categories, regions, siteConfig } from "../site.config";
     <a href="/about/">소개</a>
     <a href="/contact/">문의</a>
   </nav>
-  <div class="quick-links" aria-label="빠른 지역">
-    {regions.slice(0, 4).map((region) => <a href={`/regions/${encodeURIComponent(region)}/`}>{region}</a>)}
+  <div class="header-actions">
+    <div class="quick-links" aria-label="빠른 지역">
+      {regions.slice(0, 4).map((region) => <a href={`/regions/${encodeURIComponent(region)}/`}>{region}</a>)}
+    </div>
+    <nav class="language-switcher" aria-label="언어 선택">
+      {languages.map((language) => (
+        <a class="language-link" href={language.href} aria-label={`${language.label} 메인 페이지로 이동`} title={language.label}>
+          <span class="language-flag" aria-hidden="true">{language.flag}</span>
+          <span class="language-label">{language.label}</span>
+          <span class="language-code">{language.code}</span>
+        </a>
+      ))}
+    </nav>
   </div>
 </header>

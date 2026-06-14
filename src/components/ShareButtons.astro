@@ -1,0 +1,81 @@
+---
+const { title, url, description = "" } = Astro.props;
+
+const encodedUrl = encodeURIComponent(url);
+const encodedTitle = encodeURIComponent(title);
+const encodedText = encodeURIComponent(description ? `${title} - ${description}` : title);
+
+const shareLinks = [
+  {
+    name: "네이버블로그",
+    href: `https://share.naver.com/web/shareView?url=${encodedUrl}&title=${encodedTitle}`
+  },
+  {
+    name: "X",
+    href: `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedText}`
+  },
+  {
+    name: "페이스북",
+    href: `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`
+  }
+];
+---
+
+<aside class="share-panel" aria-label="글 공유">
+  <div>
+    <strong>이 글 공유하기</strong>
+    <p>필요한 곳에 저장하거나 여행을 함께 준비하는 사람에게 보내세요.</p>
+  </div>
+  <div class="share-actions">
+    <button type="button" class="share-button" data-native-share data-title={title} data-text={description} data-url={url}>
+      공유
+    </button>
+    <button type="button" class="share-button secondary" data-copy-link data-url={url}>
+      링크 복사
+    </button>
+    {shareLinks.map((link) => (
+      <a class="share-button secondary" href={link.href} target="_blank" rel="noopener noreferrer">
+        {link.name}
+      </a>
+    ))}
+  </div>
+  <p class="share-note">인스타그램은 웹 직접 공유가 제한되어 링크 복사를 사용하는 방식이 가장 안정적입니다.</p>
+</aside>
+
+<script>
+  const copyButtons = document.querySelectorAll("[data-copy-link]");
+  copyButtons.forEach((button) => {
+    button.addEventListener("click", async () => {
+      const url = button.getAttribute("data-url") || window.location.href;
+      try {
+        await navigator.clipboard.writeText(url);
+        button.textContent = "복사 완료";
+        window.setTimeout(() => {
+          button.textContent = "링크 복사";
+        }, 1800);
+      } catch {
+        window.prompt("아래 링크를 복사하세요.", url);
+      }
+    });
+  });
+
+  const nativeButtons = document.querySelectorAll("[data-native-share]");
+  nativeButtons.forEach((button) => {
+    const canShare = Boolean(navigator.share);
+    if (!canShare) {
+      button.setAttribute("hidden", "");
+      return;
+    }
+
+    button.addEventListener("click", async () => {
+      const title = button.getAttribute("data-title") || document.title;
+      const text = button.getAttribute("data-text") || "";
+      const url = button.getAttribute("data-url") || window.location.href;
+      try {
+        await navigator.share({ title, text, url });
+      } catch {
+        // User canceled the native share sheet.
+      }
+    });
+  });
+</script>

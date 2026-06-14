@@ -3,6 +3,8 @@ import { siteConfig } from "../site.config";
 
 const staticPaths = [
   "/",
+  "/en/",
+  "/ja/",
   "/travel/",
   "/regions/",
   "/categories/",

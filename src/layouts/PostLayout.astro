@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
+import ShareButtons from "../components/ShareButtons.astro";
 import { siteConfig } from "../site.config";
 import { formatDate, getPostUrl } from "../lib/travel";
 
@@ -65,5 +66,6 @@ const jsonLd = {
     <div class="article-content">
       <slot />
     </div>
+    <ShareButtons title={post.data.title} description={post.data.description} url={postUrl} />
   </article>
 </BaseLayout>
