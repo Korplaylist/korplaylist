@@ -1,0 +1,19 @@
+---
+import { categories, regions, siteConfig } from "../site.config";
+---
+
+<header class="site-header">
+  <a class="brand" href="/" aria-label="한국플레이리스트 홈">
+    <span class="brand-mark">K</span>
+    <span>{siteConfig.siteName}</span>
+  </a>
+  <nav class="nav" aria-label="주요 메뉴">
+    <a href="/regions/">지역</a>
+    <a href="/categories/">테마</a>
+    <a href="/about/">소개</a>
+    <a href="/contact/">문의</a>
+  </nav>
+  <div class="quick-links" aria-label="빠른 지역">
+    {regions.slice(0, 4).map((region) => <a href={`/regions/${encodeURIComponent(region)}/`}>{region}</a>)}
+  </div>
+</header>

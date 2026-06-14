@@ -1,0 +1,27 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import PostCard from "../../components/PostCard.astro";
+import { getPublishedTravelPosts } from "../../lib/travel";
+
+export async function getStaticPaths() {
+  const posts = await getPublishedTravelPosts();
+  const categories = [...new Set(posts.map((post) => post.data.category))];
+  return categories.map((category) => ({ params: { category }, props: { category } }));
+}
+
+const { category } = Astro.props;
+const posts = (await getPublishedTravelPosts()).filter((post) => post.data.category === category);
+---
+
+<BaseLayout title={category} description={`${category} 국내여행 정보를 모았습니다.`} canonical={`/categories/${encodeURIComponent(category)}/`}>
+  <section class="page-shell">
+    <p class="eyebrow">Category</p>
+    <h1>{category}</h1>
+    <p>{category}에 맞는 국내여행 글입니다.</p>
+  </section>
+  <section class="section">
+    <div class="post-grid">
+      {posts.map((post) => <PostCard post={post} />)}
+    </div>
+  </section>
+</BaseLayout>

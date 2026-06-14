@@ -1,0 +1,16 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { siteConfig } from "../site.config";
+---
+
+<BaseLayout title="문의" description="한국플레이리스트 문의 안내입니다." canonical="/contact/">
+  <section class="page-shell">
+    <p class="eyebrow">Contact</p>
+    <h1>문의</h1>
+    <div class="page-copy">
+      <p>콘텐츠 오류 제보, 제휴 문의, 사이트 운영 관련 문의는 아래 이메일로 보내주세요.</p>
+      <p><a href={`mailto:${siteConfig.contactEmail}`}>{siteConfig.contactEmail}</a></p>
+      <p>여행지 운영 시간, 요금, 교통편은 현장 상황과 기관 공지에 따라 달라질 수 있습니다. 중요한 일정은 방문 전 공식 안내를 함께 확인해 주세요.</p>
+    </div>
+  </section>
+</BaseLayout>

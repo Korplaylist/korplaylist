@@ -1,0 +1,30 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import PostCard from "../../components/PostCard.astro";
+import { getPublishedTravelPosts } from "../../lib/travel";
+
+const posts = await getPublishedTravelPosts();
+const uniqueRegions = [...new Set(posts.map((post) => post.data.region))];
+
+export async function getStaticPaths() {
+  const allPosts = await getPublishedTravelPosts();
+  const regions = [...new Set(allPosts.map((post) => post.data.region))];
+  return regions.map((region) => ({ params: { region }, props: { region } }));
+}
+
+const { region } = Astro.props;
+const regionPosts = posts.filter((post) => post.data.region === region);
+---
+
+<BaseLayout title={`${region} 여행`} description={`${region} 여행 코스, 교통, 비용, 방문 팁을 정리한 글입니다.`} canonical={`/regions/${encodeURIComponent(region)}/`}>
+  <section class="page-shell">
+    <p class="eyebrow">Region</p>
+    <h1>{region} 여행</h1>
+    <p>{region} 지역의 국내여행 가이드를 모았습니다.</p>
+  </section>
+  <section class="section">
+    <div class="post-grid">
+      {regionPosts.map((post) => <PostCard post={post} />)}
+    </div>
+  </section>
+</BaseLayout>

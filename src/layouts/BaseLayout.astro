@@ -1,0 +1,54 @@
+---
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { siteConfig } from "../site.config";
+import "../styles/global.css";
+
+const {
+  title = siteConfig.siteName,
+  description = siteConfig.description,
+  canonical = Astro.url.pathname,
+  image = "/images/hero-korea-travel.svg",
+  type = "website",
+  jsonLd
+} = Astro.props;
+
+const absoluteUrl = new URL(canonical, siteConfig.domain).toString();
+const absoluteImage = new URL(image, siteConfig.domain).toString();
+const pageTitle = title === siteConfig.siteName ? title : `${title} | ${siteConfig.siteName}`;
+---
+
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={absoluteUrl} />
+    <meta property="og:locale" content="ko_KR" />
+    <meta property="og:type" content={type} />
+    <meta property="og:site_name" content={siteConfig.siteName} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={absoluteUrl} />
+    <meta property="og:image" content={absoluteImage} />
+    <meta name="twitter:card" content="summary_large_image" />
+    {siteConfig.googleSiteVerification && <meta name="google-site-verification" content={siteConfig.googleSiteVerification} />}
+    {siteConfig.naverSiteVerification && <meta name="naver-site-verification" content={siteConfig.naverSiteVerification} />}
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      name: siteConfig.siteName,
+      url: siteConfig.domain
+    })} />
+    {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
+  </head>
+  <body>
+    <Header />
+    <main>
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

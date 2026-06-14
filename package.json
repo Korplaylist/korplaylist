@@ -1,0 +1,17 @@
+{
+  "name": "korplaylist",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "build:static": "node scripts/build-static.mjs"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.2.1",
+    "astro": "^5.10.0"
+  },
+  "devDependencies": {}
+}

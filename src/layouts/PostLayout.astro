@@ -1,0 +1,69 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import { siteConfig } from "../site.config";
+import { formatDate, getPostUrl } from "../lib/travel";
+
+const { post, headings = [] } = Astro.props;
+const postUrl = new URL(getPostUrl(post), siteConfig.domain).toString();
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: post.data.title,
+  description: post.data.description,
+  image: new URL(post.data.heroImage, siteConfig.domain).toString(),
+  datePublished: post.data.publishedAt.toISOString(),
+  dateModified: post.data.updatedAt.toISOString(),
+  author: {
+    "@type": "Organization",
+    name: siteConfig.siteName
+  },
+  publisher: {
+    "@type": "Organization",
+    name: siteConfig.siteName
+  },
+  mainEntityOfPage: postUrl
+};
+---
+
+<BaseLayout
+  title={post.data.title}
+  description={post.data.description}
+  canonical={getPostUrl(post)}
+  image={post.data.heroImage}
+  type="article"
+  jsonLd={jsonLd}
+>
+  <article class="article-shell">
+    <nav class="breadcrumb" aria-label="현재 위치">
+      <a href="/">홈</a>
+      <span>/</span>
+      <a href={`/regions/${encodeURIComponent(post.data.region)}/`}>{post.data.region}</a>
+      <span>/</span>
+      <span>{post.data.title}</span>
+    </nav>
+    <header class="article-header">
+      <p class="meta">{post.data.region} · {post.data.category}</p>
+      <h1>{post.data.title}</h1>
+      <p>{post.data.description}</p>
+      <dl class="article-facts">
+        <div><dt>게시일</dt><dd>{formatDate(post.data.publishedAt)}</dd></div>
+        <div><dt>업데이트</dt><dd>{formatDate(post.data.updatedAt)}</dd></div>
+        <div><dt>태그</dt><dd>{post.data.tags.join(", ")}</dd></div>
+      </dl>
+      <img src={post.data.heroImage} alt="" width="1200" height="630" loading="eager" />
+    </header>
+    {headings.length > 0 && (
+      <aside class="toc" aria-label="글 목차">
+        <strong>목차</strong>
+        <ol>
+          {headings.filter((heading) => heading.depth === 2).map((heading) => (
+            <li><a href={`#${heading.slug}`}>{heading.text}</a></li>
+          ))}
+        </ol>
+      </aside>
+    )}
+    <div class="article-content">
+      <slot />
+    </div>
+  </article>
+</BaseLayout>
