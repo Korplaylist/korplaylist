@@ -1,5 +1,5 @@
 ---
-const { title, url, description = "" } = Astro.props;
+const { title, url, description = "", image = "" } = Astro.props;
 
 const encodedUrl = encodeURIComponent(url);
 const encodedTitle = encodeURIComponent(title);
@@ -22,12 +22,16 @@ const shareLinks = [
 ---
 
 <aside class="share-panel" aria-label="글 공유">
-  <div>
-    <strong>이 글 공유하기</strong>
-    <p>필요한 곳에 저장하거나 여행을 함께 준비하는 사람에게 보내세요.</p>
+  <div class="share-preview">
+    {image && <img src={image} alt={`${title} 대표 이미지`} width="220" height="140" loading="lazy" />}
+    <div>
+      <strong>이 글 공유하기</strong>
+      <p>{title}</p>
+      <span>필요한 곳에 저장하거나 여행을 함께 준비하는 사람에게 보내세요.</span>
+    </div>
   </div>
   <div class="share-actions">
-    <button type="button" class="share-button" data-native-share data-title={title} data-text={description} data-url={url}>
+    <button type="button" class="share-button" data-native-share data-title={title} data-text={description} data-url={url} data-image={image}>
       공유
     </button>
     <button type="button" class="share-button secondary" data-copy-link data-url={url}>
@@ -60,6 +64,24 @@ const shareLinks = [
   });
 
   const nativeButtons = document.querySelectorAll("[data-native-share]");
+  async function getShareFiles(imageUrl: string, title: string): Promise<File[]> {
+    if (!imageUrl || !navigator.canShare) {
+      return [];
+    }
+
+    try {
+      const response = await fetch(imageUrl, { cache: "force-cache" });
+      const blob = await response.blob();
+      const file = new File([blob], `${title.replace(/[^\p{L}\p{N}]+/gu, "-").slice(0, 40) || "korplaylist"}.png`, {
+        type: blob.type || "image/png"
+      });
+
+      return navigator.canShare({ files: [file] }) ? [file] : [];
+    } catch {
+      return [];
+    }
+  }
+
   nativeButtons.forEach((button) => {
     const canShare = Boolean(navigator.share);
     if (!canShare) {
@@ -71,8 +93,10 @@ const shareLinks = [
       const title = button.getAttribute("data-title") || document.title;
       const text = button.getAttribute("data-text") || "";
       const url = button.getAttribute("data-url") || window.location.href;
+      const image = button.getAttribute("data-image") || "";
       try {
-        await navigator.share({ title, text, url });
+        const files = await getShareFiles(image, title);
+        await navigator.share({ title, text, url, ...(files.length ? { files } : {}) });
       } catch {
         // User canceled the native share sheet.
       }

@@ -6,12 +6,13 @@ import { formatDate, getPostUrl } from "../lib/travel";
 
 const { post, headings = [] } = Astro.props;
 const postUrl = new URL(getPostUrl(post), siteConfig.domain).toString();
+const postImage = new URL(post.data.heroImage, siteConfig.domain).toString();
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "Article",
   headline: post.data.title,
   description: post.data.description,
-  image: new URL(post.data.heroImage, siteConfig.domain).toString(),
+  image: postImage,
   datePublished: post.data.publishedAt.toISOString(),
   dateModified: post.data.updatedAt.toISOString(),
   author: {
@@ -66,6 +67,6 @@ const jsonLd = {
     <div class="article-content">
       <slot />
     </div>
-    <ShareButtons title={post.data.title} description={post.data.description} url={postUrl} />
+    <ShareButtons title={post.data.title} description={post.data.description} url={postUrl} image={postImage} />
   </article>
 </BaseLayout>
