@@ -160,7 +160,7 @@ draft: false
 このルートでは、到着、写真、食事、最後の目的地を分けて考え、予定を調整しやすくしています。
 
 <figure class="content-photo">
-  <img src="/images/kto/incheon-open-port-content.jpg" alt="韓国旅行写真：인천 차이나타운" width="1200" height="800" loading="lazy" decoding="async" />
+  <img src="/images/kto/gyeongju-history-two-day-content.jpg" alt="韓国旅行写真：경주 불국사" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
 </figure>
 
@@ -173,8 +173,8 @@ draft: false
 似たルートで迷う場合は、まず[仁川日帰りコース：開港場・チャイナタウン・月尾島を巡る首都圏旅行](/ja/travel/incheon/incheon-open-port/)を比較してください。食事、交通、季節の条件を詰めたい時は[慶州1泊2日歴史旅行コース：大陵苑・瞻星台・仏国寺まで整理](/ja/travel/gyeongbuk/gyeongju-history-two-day/)も参考になります。
 
 <figure class="content-photo">
-  <img src="/images/kto/gyeongju-history-two-day-content.jpg" alt="韓国旅行写真：경주 불국사" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <img src="/images/kto/gyeongju-family-content.jpg" alt="韓国旅行写真：경주 대릉원" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-IR 스튜디오</figcaption>
 </figure>
 
 ## 公共交通・タクシー・レンタカーの選び方
@@ -220,8 +220,8 @@ draft: false
 残りは食事と休憩に切り替えます。夏は昼の長い徒歩移動を避け、冬は日没が早いので屋外写真スポットを前半に寄せてください。
 
 <figure class="content-photo">
-  <img src="/images/kto/korea-season-travel-calendar-content.jpg" alt="韓国旅行写真：진해 벚꽃 풍경" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
+  <img src="/images/kto/daegu-modern-street-content.jpg" alt="韓国旅行写真：대구 계산예가" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
 ## 季節別の注意点

@@ -220,8 +220,8 @@ draft: false
 残りは食事と休憩に切り替えます。夏は昼の長い徒歩移動を避け、冬は日没が早いので屋外写真スポットを前半に寄せてください。
 
 <figure class="content-photo">
-  <img src="/images/kto/busan-gwangan-bridge.jpg" alt="韓国旅行写真：부산 광안대교 야경" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
+  <img src="/images/kto/gyeongju-family-content.jpg" alt="韓国旅行写真：경주 대릉원" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-IR 스튜디오</figcaption>
 </figure>
 
 ## 季節別の注意点

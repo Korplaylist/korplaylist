@@ -220,8 +220,8 @@ On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and 
 Use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, move outdoor photo stops earlier because sunset comes quickly.
 
 <figure class="content-photo">
-  <img src="/images/kto/korea-season-travel-calendar-content.jpg" alt="Korea travel photo: 진해 벚꽃 풍경" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
+  <img src="/images/kto/busan-haeundae-view.jpg" alt="Korea travel photo: 부산 해운대와 도심 전경" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-김미숙</figcaption>
 </figure>
 
 ## Seasonal Notes

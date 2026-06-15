@@ -203,7 +203,7 @@ draft: false
 </section>
 
 <figure class="content-photo">
-  <img src="/images/kto/gyeongju-history-two-day-content.jpg" alt="韓国旅行写真：경주 불국사" width="1200" height="800" loading="lazy" decoding="async" />
+  <img src="/images/kto/yeosu-night-sea-content.jpg" alt="韓国旅行写真：여수 밤바다 야경" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
 </figure>
 
@@ -220,7 +220,7 @@ draft: false
 残りは食事と休憩に切り替えます。夏は昼の長い徒歩移動を避け、冬は日没が早いので屋外写真スポットを前半に寄せてください。
 
 <figure class="content-photo">
-  <img src="/images/kto/korea-season-travel-calendar-content.jpg" alt="韓国旅行写真：진해 벚꽃 풍경" width="1200" height="800" loading="lazy" decoding="async" />
+  <img src="/images/kto/busan-gwangan-bridge.jpg" alt="韓国旅行写真：부산 광안대교 야경" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
 </figure>
 

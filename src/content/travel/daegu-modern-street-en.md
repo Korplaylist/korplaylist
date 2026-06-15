@@ -160,7 +160,7 @@ The most important question is not only whether the route is possible. It is whe
 This route separates arrival, photo time, food breaks, and the final stop so you can adjust it without rebuilding the whole plan.
 
 <figure class="content-photo">
-  <img src="/images/kto/incheon-open-port-content.jpg" alt="Korea travel photo: 인천 차이나타운" width="1200" height="800" loading="lazy" decoding="async" />
+  <img src="/images/kto/gyeongju-history-two-day-content.jpg" alt="Korea travel photo: 경주 불국사" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
 </figure>
 
@@ -173,8 +173,8 @@ If the route includes night views, markets, or the coast, place them near the en
 If you are comparing similar routes, read [Incheon Day Trip: Open Port Area, Chinatown and Wolmido From Seoul](/en/travel/incheon/incheon-open-port/) first. For food, transport, or seasonal decisions, [Gyeongju 2-Day History Itinerary: Daereungwon, Cheomseongdae and Bulguksa](/en/travel/gyeongbuk/gyeongju-history-two-day/) can help refine the plan without adding unnecessary stops.
 
 <figure class="content-photo">
-  <img src="/images/kto/gyeongju-history-two-day-content.jpg" alt="Korea travel photo: 경주 불국사" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <img src="/images/kto/gyeongju-family-content.jpg" alt="Korea travel photo: 경주 대릉원" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-IR 스튜디오</figcaption>
 </figure>
 
 ## Public Transport, Taxi, or Rental Car
@@ -220,8 +220,8 @@ On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and 
 Use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, move outdoor photo stops earlier because sunset comes quickly.
 
 <figure class="content-photo">
-  <img src="/images/kto/korea-season-travel-calendar-content.jpg" alt="Korea travel photo: 진해 벚꽃 풍경" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
+  <img src="/images/kto/daegu-modern-street-content.jpg" alt="Korea travel photo: 대구 계산예가" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
 ## Seasonal Notes

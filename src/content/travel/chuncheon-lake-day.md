@@ -160,7 +160,7 @@ draft: false
 마지막 장소에서 다시 숙소나 역으로 돌아오는 시간도 중요합니다. 그래서 이 코스는 시작 지점, 사진을 찍는 구간, 식사나 휴식 구간, 귀가 전 마지막 구간을 분리해 잡는 방식이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/kto/sokcho-without-car-content.jpg" alt="속초 관광수산시장" width="1200" height="800" loading="lazy" decoding="async" />
+  <img src="/images/kto/gangneung-sea-coffee-content.jpg" alt="강릉 안목해변" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
@@ -173,8 +173,8 @@ draft: false
 동선이 비슷한 고민이라면 [속초 여행 코스: 설악산 짧은 산책과 중앙시장 먹거리 하루 일정](/travel/gangwon/sokcho-seoraksan-market/)을 먼저 비교하고, 식비나 교통처럼 세부 조건이 중요할 때는 [서울 한강 야경 코스: 여의도·반포 저녁 산책과 준비물](/travel/seoul/seoul-hangang-evening/)도 함께 확인하면 계획이 더 현실적입니다.
 
 <figure class="content-photo">
-  <img src="/images/kto/seoul-hangang-evening-content.jpg" alt="서울 반포대교" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <img src="/images/kto/gangneung-two-day-content.jpg" alt="강릉 영진해변" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-강원지사</figcaption>
 </figure>
 
 ## 대중교통, 택시, 렌터카 선택 기준
@@ -203,8 +203,8 @@ draft: false
 </section>
 
 <figure class="content-photo">
-  <img src="/images/kto/gangneung-sea-coffee-content.jpg" alt="강릉 안목해변" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <img src="/images/kto/sokcho-seoraksan-market-content.jpg" alt="설악산국립공원" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-박은경</figcaption>
 </figure>
 
 ## 숙소 위치와 식사 타이밍
@@ -220,8 +220,8 @@ draft: false
 나머지는 식사와 실내 휴식으로 바꾸면 일정이 덜 흔들립니다. 여름에는 한낮 이동을 줄이고, 겨울에는 해가 짧으니 야외 사진 장소를 오전과 이른 오후로 당기세요.
 
 <figure class="content-photo">
-  <img src="/images/kto/korea-season-travel-calendar-content.jpg" alt="진해 벚꽃 풍경" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
+  <img src="/images/kto/sokcho-without-car-content.jpg" alt="속초 관광수산시장" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
 ## 계절별 주의사항

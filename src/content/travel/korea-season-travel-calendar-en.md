@@ -220,8 +220,8 @@ On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and 
 Use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, move outdoor photo stops earlier because sunset comes quickly.
 
 <figure class="content-photo">
-  <img src="/images/kto/busan-gwangan-bridge.jpg" alt="Korea travel photo: 부산 광안대교 야경" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
+  <img src="/images/kto/gyeongju-family-content.jpg" alt="Korea travel photo: 경주 대릉원" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-IR 스튜디오</figcaption>
 </figure>
 
 ## Seasonal Notes

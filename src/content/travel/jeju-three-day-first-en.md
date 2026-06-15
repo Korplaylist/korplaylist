@@ -192,7 +192,7 @@ If the route includes night views, markets, or the coast, place them near the en
 If you are comparing similar routes, read [Can You Travel Jeju Without a Rental Car? Bus, Taxi and Tour Planning Guide](/en/travel/jeju/jeju-without-car/) first. For food, transport, or seasonal decisions, [When to Travel Korea in 2026: Seasonal Destinations and Planning Tips](/en/travel/seoul/korea-season-travel-calendar/) can help refine the plan without adding unnecessary stops.
 
 <figure class="content-photo">
-  <img src="/images/kto/yeosu-island-day-content.jpg" alt="Korea travel photo: 여수 해상케이블카" width="1200" height="800" loading="lazy" decoding="async" />
+  <img src="/images/kto/jeju-three-day-first-content.jpg" alt="Korea travel photo: 제주 올레길" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
@@ -222,8 +222,8 @@ For accommodation, choose an area near the last evening stop or the next morning
 </section>
 
 <figure class="content-photo">
-  <img src="/images/kto/korea-season-travel-calendar-content.jpg" alt="Korea travel photo: 진해 벚꽃 풍경" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
+  <img src="/images/kto/jeju-without-car-content.jpg" alt="Korea travel photo: 제주 도보 여행길" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
 ## Stay Area and Food Timing
@@ -239,8 +239,8 @@ On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and 
 Use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, move outdoor photo stops earlier because sunset comes quickly.
 
 <figure class="content-photo">
-  <img src="/images/kto/seoul-hangang-evening-content.jpg" alt="Korea travel photo: 서울 반포대교" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <img src="/images/kto/jeju-three-day-first-content.jpg" alt="Korea travel photo: 제주 올레길" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
 ## Seasonal Notes

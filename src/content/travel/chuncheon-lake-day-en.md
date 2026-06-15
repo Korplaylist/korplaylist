@@ -160,7 +160,7 @@ The most important question is not only whether the route is possible. It is whe
 This route separates arrival, photo time, food breaks, and the final stop so you can adjust it without rebuilding the whole plan.
 
 <figure class="content-photo">
-  <img src="/images/kto/sokcho-without-car-content.jpg" alt="Korea travel photo: 속초 관광수산시장" width="1200" height="800" loading="lazy" decoding="async" />
+  <img src="/images/kto/gangneung-sea-coffee-content.jpg" alt="Korea travel photo: 강릉 안목해변" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
@@ -173,8 +173,8 @@ If the route includes night views, markets, or the coast, place them near the en
 If you are comparing similar routes, read [Sokcho Travel Route: Short Seoraksan Walk and Jungang Market Food in One Day](/en/travel/gangwon/sokcho-seoraksan-market/) first. For food, transport, or seasonal decisions, [Seoul Han River Night View Course: Yeouido, Banpo and Evening Walk Tips](/en/travel/seoul/seoul-hangang-evening/) can help refine the plan without adding unnecessary stops.
 
 <figure class="content-photo">
-  <img src="/images/kto/seoul-hangang-evening-content.jpg" alt="Korea travel photo: 서울 반포대교" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <img src="/images/kto/gangneung-two-day-content.jpg" alt="Korea travel photo: 강릉 영진해변" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-강원지사</figcaption>
 </figure>
 
 ## Public Transport, Taxi, or Rental Car
@@ -203,8 +203,8 @@ For accommodation, choose an area near the last evening stop or the next morning
 </section>
 
 <figure class="content-photo">
-  <img src="/images/kto/gangneung-sea-coffee-content.jpg" alt="Korea travel photo: 강릉 안목해변" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <img src="/images/kto/sokcho-seoraksan-market-content.jpg" alt="Korea travel photo: 설악산국립공원" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-박은경</figcaption>
 </figure>
 
 ## Stay Area and Food Timing
@@ -220,8 +220,8 @@ On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and 
 Use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, move outdoor photo stops earlier because sunset comes quickly.
 
 <figure class="content-photo">
-  <img src="/images/kto/korea-season-travel-calendar-content.jpg" alt="Korea travel photo: 진해 벚꽃 풍경" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
+  <img src="/images/kto/sokcho-without-car-content.jpg" alt="Korea travel photo: 속초 관광수산시장" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
 ## Seasonal Notes

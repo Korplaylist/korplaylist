@@ -192,7 +192,7 @@ draft: false
 동선이 비슷한 고민이라면 [렌터카 없이 제주 여행 가능할까? 버스·택시·투어 조합 가이드](/travel/jeju/jeju-without-car/)을 먼저 비교하고, 식비나 교통처럼 세부 조건이 중요할 때는 [국내여행 언제 갈까? 계절별 추천 여행지와 준비 포인트 2026](/travel/seoul/korea-season-travel-calendar/)도 함께 확인하면 계획이 더 현실적입니다.
 
 <figure class="content-photo">
-  <img src="/images/kto/yeosu-island-day-content.jpg" alt="여수 해상케이블카" width="1200" height="800" loading="lazy" decoding="async" />
+  <img src="/images/kto/jeju-three-day-first-content.jpg" alt="제주 올레길" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
@@ -222,8 +222,8 @@ draft: false
 </section>
 
 <figure class="content-photo">
-  <img src="/images/kto/korea-season-travel-calendar-content.jpg" alt="진해 벚꽃 풍경" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
+  <img src="/images/kto/jeju-without-car-content.jpg" alt="제주 도보 여행길" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
 ## 숙소 위치와 식사 타이밍
@@ -239,8 +239,8 @@ draft: false
 나머지는 식사와 실내 휴식으로 바꾸면 일정이 덜 흔들립니다. 여름에는 한낮 이동을 줄이고, 겨울에는 해가 짧으니 야외 사진 장소를 오전과 이른 오후로 당기세요.
 
 <figure class="content-photo">
-  <img src="/images/kto/seoul-hangang-evening-content.jpg" alt="서울 반포대교" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <img src="/images/kto/jeju-three-day-first-content.jpg" alt="제주 올레길" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
 ## 계절별 주의사항

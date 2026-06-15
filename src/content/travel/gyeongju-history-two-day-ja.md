@@ -192,8 +192,8 @@ draft: false
 似たルートで迷う場合は、まず[慶州家族旅行コース：子どもと行きやすい遺跡・博物館・散歩道](/ja/travel/gyeongbuk/gyeongju-family/)を比較してください。食事、交通、季節の条件を詰めたい時は[全州韓屋村日帰りコース：慶基殿・南部市場まで回る1日旅](/ja/travel/jeonbuk/jeonju-hanok-day/)も参考になります。
 
 <figure class="content-photo">
-  <img src="/images/kto/jeonju-hanok-day-content.jpg" alt="韓国旅行写真：전주한옥마을" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <img src="/images/kto/gyeongju-history-two-day-content.jpg" alt="韓国旅行写真：경주 불국사" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
 </figure>
 
 ## 公共交通・タクシー・レンタカーの選び方
@@ -222,8 +222,8 @@ draft: false
 </section>
 
 <figure class="content-photo">
-  <img src="/images/kto/tongyeong-two-day-content.jpg" alt="韓国旅行写真：통영 제승당" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <img src="/images/kto/gyeongju-family-content.jpg" alt="韓国旅行写真：경주 대릉원" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-IR 스튜디오</figcaption>
 </figure>
 
 ## 宿泊エリアと食事のタイミング
@@ -239,8 +239,8 @@ draft: false
 残りは食事と休憩に切り替えます。夏は昼の長い徒歩移動を避け、冬は日没が早いので屋外写真スポットを前半に寄せてください。
 
 <figure class="content-photo">
-  <img src="/images/kto/korea-season-travel-calendar-content.jpg" alt="韓国旅行写真：진해 벚꽃 풍경" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
+  <img src="/images/kto/jeonju-hanok-day-content.jpg" alt="韓国旅行写真：전주한옥마을" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
 ## 季節別の注意点

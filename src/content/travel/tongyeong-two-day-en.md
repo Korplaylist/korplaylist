@@ -203,7 +203,7 @@ For accommodation, choose an area near the last evening stop or the next morning
 </section>
 
 <figure class="content-photo">
-  <img src="/images/kto/gyeongju-history-two-day-content.jpg" alt="Korea travel photo: 경주 불국사" width="1200" height="800" loading="lazy" decoding="async" />
+  <img src="/images/kto/yeosu-night-sea-content.jpg" alt="Korea travel photo: 여수 밤바다 야경" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
 </figure>
 
@@ -220,7 +220,7 @@ On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and 
 Use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, move outdoor photo stops earlier because sunset comes quickly.
 
 <figure class="content-photo">
-  <img src="/images/kto/korea-season-travel-calendar-content.jpg" alt="Korea travel photo: 진해 벚꽃 풍경" width="1200" height="800" loading="lazy" decoding="async" />
+  <img src="/images/kto/busan-gwangan-bridge.jpg" alt="Korea travel photo: 부산 광안대교 야경" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
 </figure>
 

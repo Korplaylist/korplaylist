@@ -173,8 +173,8 @@ draft: false
 似たルートで迷う場合は、まず[済州2泊3日モデルコース2026：初めてなら東側・西側をこう分ける](/ja/travel/jeju/jeju-three-day-first/)を比較してください。食事、交通、季節の条件を詰めたい時は[車なし束草旅行ガイド：バスだけで海・市場・雪岳山へ行く方法](/ja/travel/gangwon/sokcho-without-car/)も参考になります。
 
 <figure class="content-photo">
-  <img src="/images/kto/chuncheon-lake-day-content.jpg" alt="韓国旅行写真：춘천 호수 여행 풍경" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-이대순</figcaption>
+  <img src="/images/kto/jeju-without-car-content.jpg" alt="韓国旅行写真：제주 도보 여행길" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
 ## 公共交通・タクシー・レンタカーの選び方
@@ -203,7 +203,7 @@ draft: false
 </section>
 
 <figure class="content-photo">
-  <img src="/images/kto/sokcho-without-car-content.jpg" alt="韓国旅行写真：속초 관광수산시장" width="1200" height="800" loading="lazy" decoding="async" />
+  <img src="/images/kto/jeju-three-day-first-content.jpg" alt="韓国旅行写真：제주 올레길" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
@@ -220,8 +220,8 @@ draft: false
 残りは食事と休憩に切り替えます。夏は昼の長い徒歩移動を避け、冬は日没が早いので屋外写真スポットを前半に寄せてください。
 
 <figure class="content-photo">
-  <img src="/images/kto/korea-season-travel-calendar-content.jpg" alt="韓国旅行写真：진해 벚꽃 풍경" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
+  <img src="/images/kto/jeju-without-car-content.jpg" alt="韓国旅行写真：제주 도보 여행길" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
 ## 季節別の注意点

@@ -203,8 +203,8 @@ draft: false
 </section>
 
 <figure class="content-photo">
-  <img src="/images/kto/chuncheon-lake-day-content.jpg" alt="韓国旅行写真：춘천 호수 여행 풍경" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-이대순</figcaption>
+  <img src="/images/kto/gangneung-sea-coffee-content.jpg" alt="韓国旅行写真：강릉 안목해변" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
 ## 宿泊エリアと食事のタイミング
@@ -220,8 +220,8 @@ draft: false
 残りは食事と休憩に切り替えます。夏は昼の長い徒歩移動を避け、冬は日没が早いので屋外写真スポットを前半に寄せてください。
 
 <figure class="content-photo">
-  <img src="/images/kto/korea-season-travel-calendar-content.jpg" alt="韓国旅行写真：진해 벚꽃 풍경" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
+  <img src="/images/kto/chuncheon-lake-day-content.jpg" alt="韓国旅行写真：춘천 호수 여행 풍경" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-이대순</figcaption>
 </figure>
 
 ## 季節別の注意点

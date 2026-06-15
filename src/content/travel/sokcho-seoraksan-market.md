@@ -203,8 +203,8 @@ draft: false
 </section>
 
 <figure class="content-photo">
-  <img src="/images/kto/chuncheon-lake-day-content.jpg" alt="춘천 호수 여행 풍경" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-이대순</figcaption>
+  <img src="/images/kto/gangneung-two-day-content.jpg" alt="강릉 영진해변" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-강원지사</figcaption>
 </figure>
 
 ## 숙소 위치와 식사 타이밍
@@ -220,8 +220,8 @@ draft: false
 나머지는 식사와 실내 휴식으로 바꾸면 일정이 덜 흔들립니다. 여름에는 한낮 이동을 줄이고, 겨울에는 해가 짧으니 야외 사진 장소를 오전과 이른 오후로 당기세요.
 
 <figure class="content-photo">
-  <img src="/images/kto/korea-season-travel-calendar-content.jpg" alt="진해 벚꽃 풍경" width="1200" height="800" loading="lazy" decoding="async" />
-  <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
+  <img src="/images/kto/chuncheon-lake-day-content.jpg" alt="춘천 호수 여행 풍경" width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>ⓒ한국관광공사 포토코리아-이대순</figcaption>
 </figure>
 
 ## 계절별 주의사항
