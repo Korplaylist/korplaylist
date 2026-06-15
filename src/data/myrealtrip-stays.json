@@ -1,0 +1,239 @@
+{
+  "서울": [
+    {
+      "name": "롯데호텔 월드",
+      "price": "506,000원/박",
+      "rating": "⭐ 4.7 (2,088)",
+      "image": "/images/myrealtrip/seoul-1.jpg",
+      "imageAlt": "서울 추천 숙소 롯데호텔 월드",
+      "imageCredit": "ⓒmyrealtrip",
+      "url": "https://accommodation.myrealtrip.com/union/products/2680937?checkIn=2026-07-10&checkOut=2026-07-11",
+      "checkIn": "2026-07-10",
+      "checkOut": "2026-07-11"
+    },
+    {
+      "name": "더글라스 하우스",
+      "price": "627,000원/박",
+      "rating": "⭐ 4.7 (813)",
+      "image": "/images/myrealtrip/seoul-2.jpg",
+      "imageAlt": "서울 추천 숙소 더글라스 하우스",
+      "imageCredit": "ⓒmyrealtrip",
+      "url": "https://accommodation.myrealtrip.com/union/products/2680908?checkIn=2026-07-10&checkOut=2026-07-11",
+      "checkIn": "2026-07-10",
+      "checkOut": "2026-07-11"
+    },
+    {
+      "name": "안토",
+      "price": "335,455원/박",
+      "rating": "⭐ 4.4 (574)",
+      "image": "/images/myrealtrip/seoul-3.jpg",
+      "imageAlt": "서울 추천 숙소 안토",
+      "imageCredit": "ⓒmyrealtrip",
+      "url": "https://accommodation.myrealtrip.com/union/products/2680910?checkIn=2026-07-10&checkOut=2026-07-11",
+      "checkIn": "2026-07-10",
+      "checkOut": "2026-07-11"
+    },
+    {
+      "name": "서울신라호텔",
+      "price": "800,000원/박",
+      "rating": "⭐ 4.7 (1,189)",
+      "image": "/images/myrealtrip/seoul-4.jpg",
+      "imageAlt": "서울 추천 숙소 서울신라호텔",
+      "imageCredit": "ⓒmyrealtrip",
+      "url": "https://accommodation.myrealtrip.com/union/products/2680667?checkIn=2026-07-10&checkOut=2026-07-11",
+      "checkIn": "2026-07-10",
+      "checkOut": "2026-07-11"
+    }
+  ],
+  "부산": [
+    {
+      "name": "토요코인 부산역1",
+      "price": "81,872원/박",
+      "rating": "⭐ 4.4 (1,426)",
+      "image": "/images/myrealtrip/busan-1.jpg",
+      "imageAlt": "부산 추천 숙소 토요코인 부산역1",
+      "imageCredit": "ⓒmyrealtrip",
+      "url": "https://accommodation.myrealtrip.com/union/products/1189384?checkIn=2026-07-10&checkOut=2026-07-11",
+      "checkIn": "2026-07-10",
+      "checkOut": "2026-07-11"
+    },
+    {
+      "name": "그랜드 조선 부산",
+      "price": "630,000원/박",
+      "rating": "⭐ 4.7 (1,082)",
+      "image": "/images/myrealtrip/busan-2.png",
+      "imageAlt": "부산 추천 숙소 그랜드 조선 부산",
+      "imageCredit": "ⓒmyrealtrip",
+      "url": "https://accommodation.myrealtrip.com/union/products/2733210?checkIn=2026-07-10&checkOut=2026-07-11",
+      "checkIn": "2026-07-10",
+      "checkOut": "2026-07-11"
+    },
+    {
+      "name": "호텔 센트럴베이 광안리",
+      "price": "145,000원/박",
+      "rating": "⭐ 4.7 (48)",
+      "image": "/images/myrealtrip/busan-3.jpg",
+      "imageAlt": "부산 추천 숙소 호텔 센트럴베이 광안리",
+      "imageCredit": "ⓒmyrealtrip",
+      "url": "https://accommodation.myrealtrip.com/union/products/3158962?checkIn=2026-07-10&checkOut=2026-07-11",
+      "checkIn": "2026-07-10",
+      "checkOut": "2026-07-11"
+    },
+    {
+      "name": "윈덤 그랜드 부산",
+      "price": "300,000원/박",
+      "rating": "⭐ 4.8 (369)",
+      "image": "/images/myrealtrip/busan-4.jpg",
+      "imageAlt": "부산 추천 숙소 윈덤 그랜드 부산",
+      "imageCredit": "ⓒmyrealtrip",
+      "url": "https://accommodation.myrealtrip.com/union/products/2717291?checkIn=2026-07-10&checkOut=2026-07-11",
+      "checkIn": "2026-07-10",
+      "checkOut": "2026-07-11"
+    }
+  ],
+  "제주": [
+    {
+      "name": "제주 노블레스 관광 호텔",
+      "price": "63,040원/박",
+      "rating": "⭐ 4.1 (587)",
+      "image": "/images/myrealtrip/jeju-1.jpg",
+      "imageAlt": "제주 추천 숙소 제주 노블레스 관광 호텔",
+      "imageCredit": "ⓒmyrealtrip",
+      "url": "https://accommodation.myrealtrip.com/union/products/1316082?checkIn=2026-07-10&checkOut=2026-07-11",
+      "checkIn": "2026-07-10",
+      "checkOut": "2026-07-11"
+    },
+    {
+      "name": "제주 오리엔탈 호텔 앤 카지노",
+      "price": "79,091원/박",
+      "rating": "⭐ 4.1 (1,140)",
+      "image": "/images/myrealtrip/jeju-2.jpg",
+      "imageAlt": "제주 추천 숙소 제주 오리엔탈 호텔 앤 카지노",
+      "imageCredit": "ⓒmyrealtrip",
+      "url": "https://accommodation.myrealtrip.com/union/products/4040354?checkIn=2026-07-10&checkOut=2026-07-11",
+      "checkIn": "2026-07-10",
+      "checkOut": "2026-07-11"
+    },
+    {
+      "name": "제주팔레스관광호텔",
+      "price": "63,637원/박",
+      "rating": "⭐ 4 (373)",
+      "image": "/images/myrealtrip/jeju-3.jpg",
+      "imageAlt": "제주 추천 숙소 제주팔레스관광호텔",
+      "imageCredit": "ⓒmyrealtrip",
+      "url": "https://accommodation.myrealtrip.com/union/products/1235385?checkIn=2026-07-10&checkOut=2026-07-11",
+      "checkIn": "2026-07-10",
+      "checkOut": "2026-07-11"
+    },
+    {
+      "name": "제주 그라벨 호텔",
+      "price": "109,502원/박",
+      "rating": "⭐ 4.3 (1,079)",
+      "image": "/images/myrealtrip/jeju-4.jpg",
+      "imageAlt": "제주 추천 숙소 제주 그라벨 호텔",
+      "imageCredit": "ⓒmyrealtrip",
+      "url": "https://accommodation.myrealtrip.com/union/products/2680074?checkIn=2026-07-10&checkOut=2026-07-11",
+      "checkIn": "2026-07-10",
+      "checkOut": "2026-07-11"
+    }
+  ],
+  "강릉": [
+    {
+      "name": "강릉숙소 스테이 북앤타이프",
+      "price": "41,466원/박",
+      "rating": "",
+      "image": "/images/myrealtrip/gangneung-1.jpg",
+      "imageAlt": "강릉 추천 숙소 강릉숙소 스테이 북앤타이프",
+      "imageCredit": "ⓒmyrealtrip",
+      "url": "https://accommodation.myrealtrip.com/union/products/3549477?checkIn=2026-07-10&checkOut=2026-07-11",
+      "checkIn": "2026-07-10",
+      "checkOut": "2026-07-11"
+    },
+    {
+      "name": "신라모노그램 강릉 레지던스",
+      "price": "310,000원/박",
+      "rating": "⭐ 4.7 (357)",
+      "image": "/images/myrealtrip/gangneung-2.jpg",
+      "imageAlt": "강릉 추천 숙소 신라모노그램 강릉 레지던스",
+      "imageCredit": "ⓒmyrealtrip",
+      "url": "https://accommodation.myrealtrip.com/union/products/5569868?checkIn=2026-07-10&checkOut=2026-07-11",
+      "checkIn": "2026-07-10",
+      "checkOut": "2026-07-11"
+    },
+    {
+      "name": "세인트존스호텔",
+      "price": "165,206원/박",
+      "rating": "⭐ 4.3 (1,977)",
+      "image": "/images/myrealtrip/gangneung-3.jpg",
+      "imageAlt": "강릉 추천 숙소 세인트존스호텔",
+      "imageCredit": "ⓒmyrealtrip",
+      "url": "https://accommodation.myrealtrip.com/union/products/2705858?checkIn=2026-07-10&checkOut=2026-07-11",
+      "checkIn": "2026-07-10",
+      "checkOut": "2026-07-11"
+    },
+    {
+      "name": "신라모노그램 강릉 호텔",
+      "price": "340,000원/박",
+      "rating": "⭐ 4.6 (350)",
+      "image": "/images/myrealtrip/gangneung-4.jpg",
+      "imageAlt": "강릉 추천 숙소 신라모노그램 강릉 호텔",
+      "imageCredit": "ⓒmyrealtrip",
+      "url": "https://accommodation.myrealtrip.com/union/products/5602483?checkIn=2026-07-10&checkOut=2026-07-11",
+      "checkIn": "2026-07-10",
+      "checkOut": "2026-07-11"
+    }
+  ],
+  "전주": [
+    {
+      "name": "전주 금암동 하운드 전주터미널",
+      "price": "59,091원/박",
+      "rating": "⭐ 5 (4)",
+      "image": "/images/myrealtrip/jeonju-1.jpg",
+      "imageAlt": "전주 추천 숙소 전주 금암동 하운드 전주터미널",
+      "imageCredit": "ⓒmyrealtrip",
+      "url": "https://accommodation.myrealtrip.com/union/products/3484345?checkIn=2026-07-10&checkOut=2026-07-11",
+      "checkIn": "2026-07-10",
+      "checkOut": "2026-07-11"
+    },
+    {
+      "name": "글로스터호텔 전주",
+      "price": "87,120원/박",
+      "rating": "⭐ 4.4 (277)",
+      "image": "/images/myrealtrip/jeonju-2.jpg",
+      "imageAlt": "전주 추천 숙소 글로스터호텔 전주",
+      "imageCredit": "ⓒmyrealtrip",
+      "url": "https://accommodation.myrealtrip.com/union/products/5616364?checkIn=2026-07-10&checkOut=2026-07-11",
+      "checkIn": "2026-07-10",
+      "checkOut": "2026-07-11"
+    },
+    {
+      "name": "베스트 웨스턴 플러스 전주 호텔",
+      "price": "94,127원/박",
+      "rating": "⭐ 4.4 (660)",
+      "image": "/images/myrealtrip/jeonju-3.jpg",
+      "imageAlt": "전주 추천 숙소 베스트 웨스턴 플러스 전주 호텔",
+      "imageCredit": "ⓒmyrealtrip",
+      "url": "https://accommodation.myrealtrip.com/union/products/1562648?checkIn=2026-07-10&checkOut=2026-07-11",
+      "checkIn": "2026-07-10",
+      "checkOut": "2026-07-11"
+    },
+    {
+      "name": "라한호텔 전주",
+      "price": "127,273원/박",
+      "rating": "⭐ 4.5 (1,101)",
+      "image": "/images/myrealtrip/jeonju-4.jpg",
+      "imageAlt": "전주 추천 숙소 라한호텔 전주",
+      "imageCredit": "ⓒmyrealtrip",
+      "url": "https://accommodation.myrealtrip.com/union/products/2831404?checkIn=2026-07-10&checkOut=2026-07-11",
+      "checkIn": "2026-07-10",
+      "checkOut": "2026-07-11"
+    }
+  ],
+  "경주": [],
+  "여수": [],
+  "속초": [],
+  "통영": [],
+  "인천": [],
+  "대구": [],
+  "춘천": []
+}
