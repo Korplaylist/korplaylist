@@ -1,0 +1,31 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { siteConfig } from "../../site.config";
+---
+
+<BaseLayout
+  title="Privacy Policy"
+  description="Privacy Policy for Korea Playlist, including contact emails, analytics, cookies, advertising, and data deletion requests."
+  canonical="/en/privacy/"
+  locale="en"
+>
+  <section class="page-shell">
+    <p class="eyebrow">Privacy</p>
+    <h1>Privacy Policy</h1>
+    <div class="page-copy">
+      <p>Korea Playlist respects user privacy. The site currently does not provide membership, comments, or payment features, and it does not ask visitors to submit directly identifying information such as legal names, resident registration numbers, phone numbers, or payment details while reading travel guides.</p>
+      <h2>Information We May Receive</h2>
+      <p>If you contact us by email, we may receive your email address, name or nickname, and the message content. This information is used only to review the inquiry, respond when needed, correct content, and keep reasonable records.</p>
+      <h2>Automatically Processed Information</h2>
+      <p>For security, performance, analytics, and search visibility checks, non-identifying usage information may be processed. This can include visit time, browser type, device information, approximate region, pages viewed, referrer, and similar technical data.</p>
+      <h2>Cookies and Third-Party Services</h2>
+      <p>Korea Playlist may use services such as Cloudflare, Google Search Console, Google Analytics, and Google AdSense. These services may use cookies or similar technologies for security, performance, analytics, search optimization, and advertising. Their own privacy policies may also apply.</p>
+      <h2>Advertising</h2>
+      <p>Google AdSense or other advertising services may be added in the future. Advertising services may use cookies to provide relevant ads. Users can limit cookie usage through browser settings or advertising provider controls.</p>
+      <h2>Retention and Deletion</h2>
+      <p>Inquiry records may be retained for a reasonable period to respond, fix errors, and prevent disputes. If you request deletion, we will delete or anonymize relevant personal information within a reasonable scope, unless legal retention is required.</p>
+      <h2>Privacy Contact</h2>
+      <p>For privacy-related requests, contact <a href={`mailto:${siteConfig.contactEmail}`}>{siteConfig.contactEmail}</a>.</p>
+    </div>
+  </section>
+</BaseLayout>

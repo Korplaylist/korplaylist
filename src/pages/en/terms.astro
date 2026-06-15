@@ -1,0 +1,31 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { siteConfig } from "../../site.config";
+---
+
+<BaseLayout
+  title="Terms and Disclaimer"
+  description="Terms, disclaimer, copyright, external links, advertising, and correction request policy for Korea Playlist."
+  canonical="/en/terms/"
+  locale="en"
+>
+  <section class="page-shell">
+    <p class="eyebrow">Terms</p>
+    <h1>Terms and Disclaimer</h1>
+    <div class="page-copy">
+      <p>Korea Playlist provides general travel information to help users plan trips in Korea. By using this site, you are considered to have read and understood this notice.</p>
+      <h2>Nature of Information</h2>
+      <p>We aim to organize routes, transport, estimated costs, seasonal tips, and pre-visit checks objectively. However, opening hours, prices, holidays, booking conditions, transport schedules, and local rules can change at any time.</p>
+      <h2>Check Before Visiting</h2>
+      <p>Before finalizing an important itinerary, users should check official attraction websites, local government notices, transport operators, and reservation platforms. Korea Playlist is not responsible for schedule changes, costs, or losses caused by relying only on site content.</p>
+      <h2>Copyright</h2>
+      <p>Articles, structure, editing, images, and organized data on this site belong to Korea Playlist or their rightful owners. Unauthorized copying, redistribution, scraping, or commercial reuse is prohibited. If you quote the site, clearly provide the source and link.</p>
+      <h2>External Links</h2>
+      <p>We may link to external websites for user convenience. Policies, content, reservations, payments, and privacy practices on external websites are governed by those services.</p>
+      <h2>Advertising and Partnerships</h2>
+      <p>The site may include Google AdSense ads, affiliate links, or sponsored content in the future. We aim to keep editorial judgment independent and disclose advertising or partnership relationships when needed.</p>
+      <h2>Corrections</h2>
+      <p>For incorrect information, copyright concerns, or correction requests, contact <a href={`mailto:${siteConfig.contactEmail}`}>{siteConfig.contactEmail}</a>. We will review and update content when necessary.</p>
+    </div>
+  </section>
+</BaseLayout>

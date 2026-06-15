@@ -1,0 +1,26 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { siteConfig } from "../../site.config";
+---
+
+<BaseLayout
+  title="Contact"
+  description="Contact Korea Playlist for content corrections, update requests, copyright questions, partnerships, and site operation inquiries."
+  canonical="/en/contact/"
+  locale="en"
+>
+  <section class="page-shell">
+    <p class="eyebrow">Contact</p>
+    <h1>Contact Korea Playlist</h1>
+    <div class="page-copy">
+      <p>For travel content corrections, update requests, copyright questions, partnerships, advertising, or site operation inquiries, please contact us by email.</p>
+      <p><a href={`mailto:${siteConfig.contactEmail}`}>{siteConfig.contactEmail}</a></p>
+      <h2>What You Can Send</h2>
+      <p>You can report changed opening hours, updated prices, transport changes, closed businesses, incorrect wording, image rights concerns, advertising proposals, and partnership requests.</p>
+      <h2>Before Traveling</h2>
+      <p>Opening hours, prices, and transport information may change depending on local conditions. Please also check official attraction websites, local announcements, and transport operators before making final plans.</p>
+      <h2>Response Policy</h2>
+      <p>We review incoming messages and reply when needed. We may not respond to unrelated sales messages, spam, or repeated promotional emails.</p>
+    </div>
+  </section>
+</BaseLayout>

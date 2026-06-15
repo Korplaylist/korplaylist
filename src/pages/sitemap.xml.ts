@@ -4,7 +4,13 @@ import { categories, regions, siteConfig } from "../site.config";
 const staticPaths = [
   "/",
   "/en/",
+  "/en/contact/",
+  "/en/privacy/",
+  "/en/terms/",
   "/ja/",
+  "/ja/contact/",
+  "/ja/privacy/",
+  "/ja/terms/",
   "/travel/",
   "/regions/",
   "/categories/",

@@ -4,6 +4,7 @@ import { localeLabels, siteConfig } from "../site.config";
 const { locale = "ko" } = Astro.props;
 const labels = localeLabels[locale] ?? localeLabels.ko;
 const siteName = siteConfig.localizedSiteNames[locale] ?? siteConfig.siteName;
+const localizedPath = (path: string) => (locale === "ko" ? path : `/${locale}${path}`);
 ---
 
 <footer class="site-footer">
@@ -13,8 +14,8 @@ const siteName = siteConfig.localizedSiteNames[locale] ?? siteConfig.siteName;
   </div>
   <nav aria-label={labels.navLabel}>
     <a href={locale === "ko" ? "/about/" : `/${locale}/#about`}>{labels.about}</a>
-    <a href="/privacy/">{labels.privacy}</a>
-    <a href="/terms/">{labels.terms}</a>
-    <a href={locale === "ko" ? "/contact/" : `/${locale}/#contact`}>{labels.contact}</a>
+    <a href={localizedPath("/privacy/")}>{labels.privacy}</a>
+    <a href={localizedPath("/terms/")}>{labels.terms}</a>
+    <a href={localizedPath("/contact/")}>{labels.contact}</a>
   </nav>
 </footer>

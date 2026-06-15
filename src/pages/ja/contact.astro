@@ -1,0 +1,26 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { siteConfig } from "../../site.config";
+---
+
+<BaseLayout
+  title="お問い合わせ"
+  description="韓国プレイリストへの修正依頼、更新依頼、著作権、広告、提携、サイト運営に関するお問い合わせページです。"
+  canonical="/ja/contact/"
+  locale="ja"
+>
+  <section class="page-shell">
+    <p class="eyebrow">Contact</p>
+    <h1>お問い合わせ</h1>
+    <div class="page-copy">
+      <p>旅行情報の修正依頼、更新依頼、著作権に関するご連絡、広告や提携、サイト運営に関するお問い合わせは、下記メールアドレスまでお送りください。</p>
+      <p><a href={`mailto:${siteConfig.contactEmail}`}>{siteConfig.contactEmail}</a></p>
+      <h2>お問い合わせ内容</h2>
+      <p>営業時間の変更、料金の変更、交通情報の変更、閉業や休業情報、誤った表現、画像や著作権に関する依頼、広告や提携の提案を受け付けます。</p>
+      <h2>旅行前の確認</h2>
+      <p>観光地の営業時間、料金、交通情報は現地状況や公式案内によって変わることがあります。重要な日程は、訪問前に公式サイト、自治体の案内、交通機関の情報も確認してください。</p>
+      <h2>返信について</h2>
+      <p>受信したお問い合わせは内容を確認し、必要に応じて返信します。関連性の低い営業メール、スパム、繰り返しの宣伝メールには返信しない場合があります。</p>
+    </div>
+  </section>
+</BaseLayout>
