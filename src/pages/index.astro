@@ -13,21 +13,6 @@ const categoryList = [...new Set([...categories, ...posts.map((post) => post.dat
 ---
 
 <BaseLayout title={siteConfig.siteName} description={siteConfig.description}>
-  <section class="hero">
-    <div>
-      <p class="eyebrow">국내여행 준비를 위한 빠른 기준점</p>
-      <h1>한국여행 코스와 비용을 한눈에 정리합니다</h1>
-      <p>
-        한국플레이리스트는 국내 여행지, 여행 코스, 맛집, 숙소, 교통 준비, 계절 여행 정보를 객관적으로 정리하는 한국여행 가이드입니다.
-      </p>
-      <div class="hero-actions">
-        <a class="button" href="/regions/">지역별 보기</a>
-        <a class="button secondary" href="/categories/">테마별 보기</a>
-      </div>
-    </div>
-    <img src="/images/hero-korea-travel.png" alt="한국 여행지를 상징하는 지도와 도시 풍경 이미지" width="1200" height="760" loading="eager" />
-  </section>
-
   <PopularCarousel posts={popular} />
 
   <section class="section">
