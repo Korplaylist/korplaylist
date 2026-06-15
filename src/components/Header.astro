@@ -18,7 +18,7 @@ const languages = [
 
 <header class="site-header">
   <a class="brand" href={labels.homeHref} aria-label={labels.homeAria}>
-    <img class="brand-logo" src="/brand/korplaylist-logo.png" alt="" width="38" height="38" loading="eager" />
+    <img class="brand-logo" src="/brand/korplaylist-logo.png" alt="" width="38" height="38" loading="eager" decoding="async" />
     <span>{siteName}</span>
   </a>
   <nav class="nav" aria-label={labels.navLabel}>
@@ -38,7 +38,7 @@ const languages = [
     <nav class="language-switcher" aria-label={labels.languageLabel}>
       {languages.map((language) => (
         <a class="language-link" href={language.href} aria-label={`${language.label} 메인 페이지로 이동`} title={language.label}>
-          <img class="language-flag" src={language.flagImage} alt="" width="24" height="16" loading="lazy" />
+          <img class="language-flag" src={language.flagImage} alt="" width="24" height="16" loading="lazy" decoding="async" />
           <span class="language-label">{language.label}</span>
           <span class="language-code">{language.code}</span>
         </a>

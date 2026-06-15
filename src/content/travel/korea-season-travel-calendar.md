@@ -15,7 +15,7 @@ draft: false
 국내여행은 같은 지역이라도 계절에 따라 만족도가 크게 달라집니다. 봄은 벚꽃과 도심 산책, 여름은 바다와 계곡, 가을은 단풍과 역사 도시, 겨울은 온천과 실내 여행을 중심으로 계획하면 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/kto/korea-season-travel-calendar-content.jpg" alt="진해벚꽃" width="1200" height="800" loading="lazy" />
+  <img src="/images/kto/korea-season-travel-calendar-content.jpg" alt="진해벚꽃" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
 </figure>
 

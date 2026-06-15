@@ -15,7 +15,7 @@ draft: false
 경주는 역사 유적이 넓게 퍼져 있어 1박2일로 보는 편이 좋습니다. 첫날은 대릉원, 첨성대, 황리단길, 동궁과 월지를 묶고, 둘째 날은 불국사와 석굴암 방향으로 잡으면 동선이 안정적입니다. 아이와 함께라면 [경주 가족여행 코스](/travel/gyeongbuk/gyeongju-family/)도 같이 확인하세요.
 
 <figure class="content-photo">
-  <img src="/images/kto/gyeongju-history-two-day-content.jpg" alt="불국사" width="1200" height="800" loading="lazy" />
+  <img src="/images/kto/gyeongju-history-two-day-content.jpg" alt="불국사" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
 </figure>
 

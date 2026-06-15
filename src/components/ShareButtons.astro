@@ -26,7 +26,7 @@ const shareLinks = [
 
 <aside class="share-panel" aria-label="글 공유">
   <div class="share-preview">
-    {image && <img src={image} alt={`${title} 대표 이미지`} width="220" height="140" loading="lazy" />}
+    {image && <img src={image} alt={`${title} 대표 이미지`} width="220" height="140" loading="lazy" decoding="async" />}
     <div>
       <strong>이 글 공유하기</strong>
       <p>{title}</p>
@@ -35,16 +35,16 @@ const shareLinks = [
   </div>
   <div class="share-actions">
     <button type="button" class="share-button" data-native-share data-title={title} data-text={description} data-url={url} data-image={image}>
-      <img src="/icons/share-native-black.svg" alt="" width="18" height="18" loading="lazy" />
+      <img src="/icons/share-native-black.svg" alt="" width="18" height="18" loading="lazy" decoding="async" />
       <span>공유</span>
     </button>
     <button type="button" class="share-button secondary" data-copy-link data-url={url}>
-      <img src="/icons/share-link.svg" alt="" width="18" height="18" loading="lazy" />
+      <img src="/icons/share-link.svg" alt="" width="18" height="18" loading="lazy" decoding="async" />
       <span data-copy-label>링크 복사</span>
     </button>
     {shareLinks.map((link) => (
       <a class="share-button secondary" href={link.href} target="_blank" rel="noopener noreferrer">
-        <img src={link.icon} alt="" width="18" height="18" loading="lazy" />
+        <img src={link.icon} alt="" width="18" height="18" loading="lazy" decoding="async" />
         {link.name}
       </a>
     ))}

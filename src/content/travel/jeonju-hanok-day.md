@@ -15,7 +15,7 @@ draft: false
 전주 당일치기는 한옥마을을 중심으로 짜면 이동이 쉽습니다. 경기전, 전동성당 외관, 향교, 남부시장까지 도보로 연결할 수 있어 처음 방문하는 사람에게 적합합니다. 식비를 먼저 가늠하고 싶다면 [전주 먹거리 여행 예산](/travel/jeonbuk/jeonju-food-cost/)을 함께 보면 동선을 짜기 쉽습니다.
 
 <figure class="content-photo">
-  <img src="/images/kto/jeonju-hanok-day-content.jpg" alt="전주한옥마을" width="1200" height="800" loading="lazy" />
+  <img src="/images/kto/jeonju-hanok-day-content.jpg" alt="전주한옥마을" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 

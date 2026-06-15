@@ -15,7 +15,7 @@ draft: false
 통영 1박2일은 첫날 시내권, 둘째 날 섬 여행으로 나누면 좋습니다. 첫날은 동피랑, 중앙시장, 강구안, 케이블카를 보고, 둘째 날은 배편이 맞는 섬을 선택합니다. 시내 전망 중심으로 짧게 보려면 [통영 바다 전망 핵심 동선](/travel/gyeongnam/tongyeong-island-view/)을 참고하세요.
 
 <figure class="content-photo">
-  <img src="/images/kto/tongyeong-two-day-content.jpg" alt="제승당" width="1200" height="800" loading="lazy" />
+  <img src="/images/kto/tongyeong-two-day-content.jpg" alt="제승당" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
 </figure>
 

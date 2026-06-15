@@ -14,7 +14,7 @@ const { posts = [] } = Astro.props;
       </div>
     </div>
     <div class="popular-hero-rail" data-popular-rail>
-      {posts.map((post) => (
+      {posts.map((post, index) => (
         <article class="popular-slide">
           <div class="popular-slide-copy">
             <p class="eyebrow">{post.data.region} · {post.data.category} · {formatDate(post.data.updatedAt)}</p>
@@ -26,7 +26,15 @@ const { posts = [] } = Astro.props;
             </div>
           </div>
           <a class="popular-slide-image" href={getPostUrl(post)} aria-label={`${post.data.title} 읽기`}>
-            <img src={post.data.heroImage} alt={getImageAlt(post)} width="1200" height="760" loading="eager" />
+            <img
+              src={post.data.heroImage}
+              alt={getImageAlt(post)}
+              width="1200"
+              height="760"
+              loading={index === 0 ? "eager" : "lazy"}
+              decoding="async"
+              fetchpriority={index === 0 ? "high" : "auto"}
+            />
           </a>
         </article>
       ))}

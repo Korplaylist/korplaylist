@@ -106,7 +106,7 @@ const jsonLd = {
         <div><dt>태그</dt><dd>{post.data.tags.join(", ")}</dd></div>
       </dl>
       <figure class="article-hero-figure">
-        <img src={post.data.heroImage} alt={imageAlt} width="1200" height="630" loading="eager" />
+        <img src={post.data.heroImage} alt={imageAlt} width="1200" height="630" loading="eager" decoding="async" fetchpriority="high" />
         {post.data.imageCredit && <figcaption>{post.data.imageCredit}</figcaption>}
       </figure>
     </header>

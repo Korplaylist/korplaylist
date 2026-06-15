@@ -15,7 +15,7 @@ draft: false
 통영은 바다 전망과 항구 분위기를 함께 느끼기 좋은 도시입니다. 처음 방문한다면 동피랑 벽화마을, 강구안, 통영케이블카를 중심으로 일정을 잡으면 대표 지점을 무리 없이 볼 수 있습니다. 섬 여행까지 넣는다면 [통영 1박2일 섬 여행 코스](/travel/gyeongnam/tongyeong-two-day/)를 함께 보세요.
 
 <figure class="content-photo">
-  <img src="/images/kto/tongyeong-island-view-content.jpg" alt="동피랑마을" width="1200" height="800" loading="lazy" />
+  <img src="/images/kto/tongyeong-island-view-content.jpg" alt="동피랑마을" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
 </figure>
 

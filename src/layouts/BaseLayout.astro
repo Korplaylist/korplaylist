@@ -29,6 +29,13 @@ const htmlLangs: Record<string, string> = {
   en: "en",
   ja: "ja"
 };
+const homeAlternates = {
+  ko: new URL("/", siteConfig.domain).toString(),
+  en: new URL("/en/", siteConfig.domain).toString(),
+  ja: new URL("/ja/", siteConfig.domain).toString(),
+  "x-default": new URL("/", siteConfig.domain).toString()
+};
+const shouldRenderHomeAlternates = ["/", "/en/", "/ja/"].includes(new URL(absoluteUrl).pathname);
 ---
 
 <!doctype html>
@@ -38,6 +45,7 @@ const htmlLangs: Record<string, string> = {
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{pageTitle}</title>
     <meta name="description" content={description} />
+    <meta name="robots" content="index, follow, max-image-preview:large" />
     {keywords && <meta name="keywords" content={keywords} />}
     <link rel="icon" type="image/png" href="/favicon.png" />
     <link rel="apple-touch-icon" href="/brand/apple-touch-icon.png" />
@@ -49,18 +57,22 @@ const htmlLangs: Record<string, string> = {
     <meta property="og:description" content={description} />
     <meta property="og:url" content={absoluteUrl} />
     <meta property="og:image" content={absoluteImage} />
+    <meta property="og:image:alt" content={title} />
     <meta name="twitter:card" content="summary_large_image" />
-    <link rel="alternate" hreflang="ko" href={new URL("/", siteConfig.domain).toString()} />
-    <link rel="alternate" hreflang="en" href={new URL("/en/", siteConfig.domain).toString()} />
-    <link rel="alternate" hreflang="ja" href={new URL("/ja/", siteConfig.domain).toString()} />
-    <link rel="alternate" hreflang="x-default" href={new URL("/", siteConfig.domain).toString()} />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={absoluteImage} />
+    {shouldRenderHomeAlternates && Object.entries(homeAlternates).map(([hreflang, href]) => (
+      <link rel="alternate" hreflang={hreflang} href={href} />
+    ))}
     {siteConfig.googleSiteVerification && <meta name="google-site-verification" content={siteConfig.googleSiteVerification} />}
     {siteConfig.naverSiteVerification && <meta name="naver-site-verification" content={siteConfig.naverSiteVerification} />}
     <script type="application/ld+json" set:html={JSON.stringify({
       "@context": "https://schema.org",
       "@type": "Organization",
       name: localizedSiteName,
-      url: siteConfig.domain
+      url: siteConfig.domain,
+      logo: new URL("/brand/korplaylist-logo.png", siteConfig.domain).toString()
     })} />
     {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
   </head>

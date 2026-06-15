@@ -15,7 +15,7 @@ draft: false
 속초는 차 없이도 여행할 수 있지만 목적지를 줄이는 것이 핵심입니다. 터미널, 속초중앙시장, 속초해수욕장, 영금정은 비교적 연결이 쉽지만 설악산까지 넣으면 시간이 늘어납니다. 설악산과 시장을 함께 넣는 일정은 [속초 설악산·중앙시장 하루 코스](/travel/gangwon/sokcho-seoraksan-market/)에서 더 자세히 볼 수 있습니다.
 
 <figure class="content-photo">
-  <img src="/images/kto/sokcho-without-car-content.jpg" alt="속초 관광수산시장" width="1200" height="800" loading="lazy" />
+  <img src="/images/kto/sokcho-without-car-content.jpg" alt="속초 관광수산시장" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 

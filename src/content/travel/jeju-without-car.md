@@ -15,7 +15,7 @@ draft: false
 렌터카 없이 제주를 여행하려면 방문지를 줄이고 숙소 위치를 신중히 정해야 합니다. 버스 노선은 주요 관광지를 연결하지만 배차 간격과 환승 시간이 길어질 수 있습니다. 전체 일정의 큰 틀은 [제주 2박3일 첫 여행 코스](/travel/jeju/jeju-three-day-first/)를 기준으로 줄여가면 안정적입니다.
 
 <figure class="content-photo">
-  <img src="/images/kto/jeju-without-car-content.jpg" alt="올레길" width="1200" height="800" loading="lazy" />
+  <img src="/images/kto/jeju-without-car-content.jpg" alt="올레길" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 

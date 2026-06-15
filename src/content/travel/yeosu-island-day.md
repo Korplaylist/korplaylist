@@ -15,7 +15,7 @@ draft: false
 여수 섬 여행은 날씨와 배편 확인이 가장 중요합니다. 당일치기로 계획한다면 너무 먼 섬보다 이동 시간이 짧고 배편이 비교적 안정적인 곳을 우선 검토하는 것이 좋습니다. 저녁 야경까지 이어갈 계획이라면 [여수 밤바다 여행 코스](/travel/jeonnam/yeosu-night-sea/)를 함께 보세요.
 
 <figure class="content-photo">
-  <img src="/images/kto/yeosu-island-day-content.jpg" alt="여수 해상케이블카" width="1200" height="800" loading="lazy" />
+  <img src="/images/kto/yeosu-island-day-content.jpg" alt="여수 해상케이블카" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 

@@ -61,7 +61,7 @@ draft: false
 부산에 처음 간다면 해운대는 가장 이해하기 쉬운 시작점입니다. 지하철 2호선 해운대역에서 해변까지 걸어갈 수 있고, 바다를 본 뒤 동백섬 산책로까지 이어가기 좋습니다. 사진을 많이 찍고 카페까지 들른다면 해운대권에 최소 2시간 30분에서 3시간 정도를 잡는 편이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/kto/busan-haeundae-walk.jpg" alt="부산 해운대 달맞이길" width="1200" height="800" loading="lazy" />
+  <img src="/images/kto/busan-haeundae-walk.jpg" alt="부산 해운대 달맞이길" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ draft: false
 광안리는 부산 1박2일 코스에서 저녁 만족도가 높은 곳입니다. 해가 지기 전 도착해 바다 색이 바뀌는 시간을 보고, 이후 광안대교 조명이 켜진 뒤 산책하면 좋습니다. 식사는 광안리 해변가 식당을 이용해도 되지만, 주말에는 대기가 생길 수 있어 저녁 시간을 조금 당기거나 예약 가능한 식당을 고르는 것이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/kto/busan-gwangan-bridge.jpg" alt="부산 광안대교 야경" width="1200" height="800" loading="lazy" />
+  <img src="/images/kto/busan-gwangan-bridge.jpg" alt="부산 광안대교 야경" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ draft: false
 감천문화마을은 언덕길이 많아 오전에 가는 편이 낫습니다. 사진 명소만 빠르게 보면 1시간 30분 정도, 골목과 전망 포인트를 여유 있게 보면 2시간 이상이 필요합니다. 큰 캐리어를 들고 이동하기 불편하므로 체크아웃 후 짐 보관을 먼저 해결하는 것이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/kto/busan-gamcheon-village.jpg" alt="부산 감천문화마을 전경" width="1200" height="800" loading="lazy" />
+  <img src="/images/kto/busan-gamcheon-village.jpg" alt="부산 감천문화마을 전경" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-오한솔</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ draft: false
 감천문화마을 이후에는 [자갈치시장, 국제시장, 부평깡통시장](/travel/busan/busan-market-food/)을 묶으면 부산의 구도심 분위기를 보기 좋습니다. 먹거리 위주라면 부평깡통시장과 국제시장에 시간을 더 쓰고, 바다와 항구 분위기를 보고 싶다면 자갈치시장 주변 산책 시간을 늘리면 됩니다.
 
 <figure class="content-photo">
-  <img src="/images/kto/busan-jagalchi-market.jpg" alt="부산 자갈치시장" width="1200" height="800" loading="lazy" />
+  <img src="/images/kto/busan-jagalchi-market.jpg" alt="부산 자갈치시장" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
@@ -138,7 +138,7 @@ draft: false
 </div>
 
 <figure class="content-photo">
-  <img src="/images/kto/busan-station.jpg" alt="부산역 외관" width="1200" height="800" loading="lazy" />
+  <img src="/images/kto/busan-station.jpg" alt="부산역 외관" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
 </figure>
 

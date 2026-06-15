@@ -15,7 +15,7 @@ draft: false
 전주는 먹거리 중심 여행을 계획하기 좋은 도시입니다. 한옥마을 주변에는 식당과 간식 매장이 많고, 남부시장까지 함께 보면 선택지가 더 넓어집니다. 하루 코스가 필요하다면 [전주 한옥마을 당일치기 동선](/travel/jeonbuk/jeonju-hanok-day/)과 함께 보는 것이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/kto/jeonju-food-cost-content.jpg" alt="전주남부시장" width="1200" height="800" loading="lazy" />
+  <img src="/images/kto/jeonju-food-cost-content.jpg" alt="전주남부시장" width="1200" height="800" loading="lazy" decoding="async" />
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
