@@ -161,7 +161,7 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/seoul-hangang-evening-content-360.webp 360w, /images/optimized/kto/seoul-hangang-evening-content-480.webp 480w, /images/optimized/kto/seoul-hangang-evening-content-640.webp 640w, /images/optimized/kto/seoul-hangang-evening-content-768.webp 768w, /images/optimized/kto/seoul-hangang-evening-content-960.webp 960w, /images/optimized/kto/seoul-hangang-evening-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/kto/seoul-hangang-evening-content-320.webp 320w, /images/optimized/kto/seoul-hangang-evening-content-360.webp 360w, /images/optimized/kto/seoul-hangang-evening-content-480.webp 480w, /images/optimized/kto/seoul-hangang-evening-content-640.webp 640w, /images/optimized/kto/seoul-hangang-evening-content-680.webp 680w, /images/optimized/kto/seoul-hangang-evening-content-768.webp 768w, /images/optimized/kto/seoul-hangang-evening-content-960.webp 960w, /images/optimized/kto/seoul-hangang-evening-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
     <img src="/images/kto/seoul-hangang-evening-content.jpg" alt="韓国旅行写真：서울 반포대교" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
   </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
@@ -177,7 +177,7 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/incheon-open-port-content-360.webp 360w, /images/optimized/kto/incheon-open-port-content-480.webp 480w, /images/optimized/kto/incheon-open-port-content-640.webp 640w, /images/optimized/kto/incheon-open-port-content-768.webp 768w, /images/optimized/kto/incheon-open-port-content-960.webp 960w, /images/optimized/kto/incheon-open-port-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/kto/incheon-open-port-content-320.webp 320w, /images/optimized/kto/incheon-open-port-content-360.webp 360w, /images/optimized/kto/incheon-open-port-content-480.webp 480w, /images/optimized/kto/incheon-open-port-content-640.webp 640w, /images/optimized/kto/incheon-open-port-content-680.webp 680w, /images/optimized/kto/incheon-open-port-content-768.webp 768w, /images/optimized/kto/incheon-open-port-content-960.webp 960w, /images/optimized/kto/incheon-open-port-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
     <img src="/images/kto/incheon-open-port-content.jpg" alt="韓国旅行写真：인천 차이나타운" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
   </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
@@ -210,7 +210,7 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/myrealtrip/seoul-1-360.webp 360w, /images/optimized/myrealtrip/seoul-1-480.webp 480w, /images/optimized/myrealtrip/seoul-1-640.webp 640w, /images/optimized/myrealtrip/seoul-1-768.webp 768w, /images/optimized/myrealtrip/seoul-1-960.webp 960w, /images/optimized/myrealtrip/seoul-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/myrealtrip/seoul-1-320.webp 320w, /images/optimized/myrealtrip/seoul-1-360.webp 360w, /images/optimized/myrealtrip/seoul-1-480.webp 480w, /images/optimized/myrealtrip/seoul-1-640.webp 640w, /images/optimized/myrealtrip/seoul-1-680.webp 680w, /images/optimized/myrealtrip/seoul-1-768.webp 768w, /images/optimized/myrealtrip/seoul-1-960.webp 960w, /images/optimized/myrealtrip/seoul-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
     <img src="/images/myrealtrip/seoul-1.jpg" alt="韓国旅行写真：서울 여행 숙소 참고 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
   </picture>
   <figcaption>ⓒmyrealtrip</figcaption>
@@ -230,7 +230,7 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/myrealtrip/seoul-2-360.webp 360w, /images/optimized/myrealtrip/seoul-2-480.webp 480w, /images/optimized/myrealtrip/seoul-2-640.webp 640w, /images/optimized/myrealtrip/seoul-2-768.webp 768w, /images/optimized/myrealtrip/seoul-2-960.webp 960w, /images/optimized/myrealtrip/seoul-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/myrealtrip/seoul-2-320.webp 320w, /images/optimized/myrealtrip/seoul-2-360.webp 360w, /images/optimized/myrealtrip/seoul-2-480.webp 480w, /images/optimized/myrealtrip/seoul-2-640.webp 640w, /images/optimized/myrealtrip/seoul-2-680.webp 680w, /images/optimized/myrealtrip/seoul-2-768.webp 768w, /images/optimized/myrealtrip/seoul-2-960.webp 960w, /images/optimized/myrealtrip/seoul-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
     <img src="/images/myrealtrip/seoul-2.jpg" alt="韓国旅行写真：서울 도심 숙소 참고 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
   </picture>
   <figcaption>ⓒmyrealtrip</figcaption>

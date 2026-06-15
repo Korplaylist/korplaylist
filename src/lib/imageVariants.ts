@@ -1,4 +1,4 @@
-const DEFAULT_WIDTHS = [360, 480, 640, 768, 960, 1200];
+const DEFAULT_WIDTHS = [320, 360, 480, 640, 680, 768, 960, 1200];
 
 function getImageParts(src: string) {
   const match = src.match(/^\/images\/([^/]+)\/([^/.]+)\.(?:jpg|jpeg|png)$/i);

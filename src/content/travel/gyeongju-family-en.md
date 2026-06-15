@@ -161,7 +161,7 @@ This route separates arrival, photo time, food breaks, and the final stop so you
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/gyeongju-history-two-day-content-360.webp 360w, /images/optimized/kto/gyeongju-history-two-day-content-480.webp 480w, /images/optimized/kto/gyeongju-history-two-day-content-640.webp 640w, /images/optimized/kto/gyeongju-history-two-day-content-768.webp 768w, /images/optimized/kto/gyeongju-history-two-day-content-960.webp 960w, /images/optimized/kto/gyeongju-history-two-day-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/kto/gyeongju-history-two-day-content-320.webp 320w, /images/optimized/kto/gyeongju-history-two-day-content-360.webp 360w, /images/optimized/kto/gyeongju-history-two-day-content-480.webp 480w, /images/optimized/kto/gyeongju-history-two-day-content-640.webp 640w, /images/optimized/kto/gyeongju-history-two-day-content-680.webp 680w, /images/optimized/kto/gyeongju-history-two-day-content-768.webp 768w, /images/optimized/kto/gyeongju-history-two-day-content-960.webp 960w, /images/optimized/kto/gyeongju-history-two-day-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
     <img src="/images/kto/gyeongju-history-two-day-content.jpg" alt="Korea travel photo: 경주 불국사" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
   </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
@@ -177,7 +177,7 @@ If you are comparing similar routes, read [Gyeongju 2-Day History Itinerary: Dae
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/jeonju-food-cost-content-360.webp 360w, /images/optimized/kto/jeonju-food-cost-content-480.webp 480w, /images/optimized/kto/jeonju-food-cost-content-640.webp 640w, /images/optimized/kto/jeonju-food-cost-content-768.webp 768w, /images/optimized/kto/jeonju-food-cost-content-960.webp 960w, /images/optimized/kto/jeonju-food-cost-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/kto/jeonju-food-cost-content-320.webp 320w, /images/optimized/kto/jeonju-food-cost-content-360.webp 360w, /images/optimized/kto/jeonju-food-cost-content-480.webp 480w, /images/optimized/kto/jeonju-food-cost-content-640.webp 640w, /images/optimized/kto/jeonju-food-cost-content-680.webp 680w, /images/optimized/kto/jeonju-food-cost-content-768.webp 768w, /images/optimized/kto/jeonju-food-cost-content-960.webp 960w, /images/optimized/kto/jeonju-food-cost-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
     <img src="/images/kto/jeonju-food-cost-content.jpg" alt="Korea travel photo: 전주남부시장" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
   </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
@@ -210,7 +210,7 @@ For accommodation, choose an area near the last evening stop or the next morning
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/jeonju-hanok-day-content-360.webp 360w, /images/optimized/kto/jeonju-hanok-day-content-480.webp 480w, /images/optimized/kto/jeonju-hanok-day-content-640.webp 640w, /images/optimized/kto/jeonju-hanok-day-content-768.webp 768w, /images/optimized/kto/jeonju-hanok-day-content-960.webp 960w, /images/optimized/kto/jeonju-hanok-day-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/kto/jeonju-hanok-day-content-320.webp 320w, /images/optimized/kto/jeonju-hanok-day-content-360.webp 360w, /images/optimized/kto/jeonju-hanok-day-content-480.webp 480w, /images/optimized/kto/jeonju-hanok-day-content-640.webp 640w, /images/optimized/kto/jeonju-hanok-day-content-680.webp 680w, /images/optimized/kto/jeonju-hanok-day-content-768.webp 768w, /images/optimized/kto/jeonju-hanok-day-content-960.webp 960w, /images/optimized/kto/jeonju-hanok-day-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
     <img src="/images/kto/jeonju-hanok-day-content.jpg" alt="Korea travel photo: 전주한옥마을" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
   </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
@@ -230,7 +230,7 @@ Use the rest of the day for food and rest. In summer, avoid long midday walks. I
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/daegu-modern-street-content-360.webp 360w, /images/optimized/kto/daegu-modern-street-content-480.webp 480w, /images/optimized/kto/daegu-modern-street-content-640.webp 640w, /images/optimized/kto/daegu-modern-street-content-768.webp 768w, /images/optimized/kto/daegu-modern-street-content-960.webp 960w, /images/optimized/kto/daegu-modern-street-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/kto/daegu-modern-street-content-320.webp 320w, /images/optimized/kto/daegu-modern-street-content-360.webp 360w, /images/optimized/kto/daegu-modern-street-content-480.webp 480w, /images/optimized/kto/daegu-modern-street-content-640.webp 640w, /images/optimized/kto/daegu-modern-street-content-680.webp 680w, /images/optimized/kto/daegu-modern-street-content-768.webp 768w, /images/optimized/kto/daegu-modern-street-content-960.webp 960w, /images/optimized/kto/daegu-modern-street-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
     <img src="/images/kto/daegu-modern-street-content.jpg" alt="Korea travel photo: 대구 계산예가" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
   </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>

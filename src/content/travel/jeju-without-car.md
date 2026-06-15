@@ -161,7 +161,7 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/jeju-three-day-first-content-360.webp 360w, /images/optimized/kto/jeju-three-day-first-content-480.webp 480w, /images/optimized/kto/jeju-three-day-first-content-640.webp 640w, /images/optimized/kto/jeju-three-day-first-content-768.webp 768w, /images/optimized/kto/jeju-three-day-first-content-960.webp 960w, /images/optimized/kto/jeju-three-day-first-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/kto/jeju-three-day-first-content-320.webp 320w, /images/optimized/kto/jeju-three-day-first-content-360.webp 360w, /images/optimized/kto/jeju-three-day-first-content-480.webp 480w, /images/optimized/kto/jeju-three-day-first-content-640.webp 640w, /images/optimized/kto/jeju-three-day-first-content-680.webp 680w, /images/optimized/kto/jeju-three-day-first-content-768.webp 768w, /images/optimized/kto/jeju-three-day-first-content-960.webp 960w, /images/optimized/kto/jeju-three-day-first-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
     <img src="/images/kto/jeju-three-day-first-content.jpg" alt="제주 올레길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
   </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
@@ -177,7 +177,7 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/myrealtrip/jeju-1-360.webp 360w, /images/optimized/myrealtrip/jeju-1-480.webp 480w, /images/optimized/myrealtrip/jeju-1-640.webp 640w, /images/optimized/myrealtrip/jeju-1-768.webp 768w, /images/optimized/myrealtrip/jeju-1-960.webp 960w, /images/optimized/myrealtrip/jeju-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/myrealtrip/jeju-1-320.webp 320w, /images/optimized/myrealtrip/jeju-1-360.webp 360w, /images/optimized/myrealtrip/jeju-1-480.webp 480w, /images/optimized/myrealtrip/jeju-1-640.webp 640w, /images/optimized/myrealtrip/jeju-1-680.webp 680w, /images/optimized/myrealtrip/jeju-1-768.webp 768w, /images/optimized/myrealtrip/jeju-1-960.webp 960w, /images/optimized/myrealtrip/jeju-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
     <img src="/images/myrealtrip/jeju-1.jpg" alt="제주 여행 숙소 참고 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
   </picture>
   <figcaption>ⓒmyrealtrip</figcaption>
@@ -210,7 +210,7 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/myrealtrip/jeju-2-360.webp 360w, /images/optimized/myrealtrip/jeju-2-480.webp 480w, /images/optimized/myrealtrip/jeju-2-640.webp 640w, /images/optimized/myrealtrip/jeju-2-768.webp 768w, /images/optimized/myrealtrip/jeju-2-960.webp 960w, /images/optimized/myrealtrip/jeju-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/myrealtrip/jeju-2-320.webp 320w, /images/optimized/myrealtrip/jeju-2-360.webp 360w, /images/optimized/myrealtrip/jeju-2-480.webp 480w, /images/optimized/myrealtrip/jeju-2-640.webp 640w, /images/optimized/myrealtrip/jeju-2-680.webp 680w, /images/optimized/myrealtrip/jeju-2-768.webp 768w, /images/optimized/myrealtrip/jeju-2-960.webp 960w, /images/optimized/myrealtrip/jeju-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
     <img src="/images/myrealtrip/jeju-2.jpg" alt="제주 시내 숙소 참고 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
   </picture>
   <figcaption>ⓒmyrealtrip</figcaption>
@@ -230,7 +230,7 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/myrealtrip/jeju-3-360.webp 360w, /images/optimized/myrealtrip/jeju-3-480.webp 480w, /images/optimized/myrealtrip/jeju-3-640.webp 640w, /images/optimized/myrealtrip/jeju-3-768.webp 768w, /images/optimized/myrealtrip/jeju-3-960.webp 960w, /images/optimized/myrealtrip/jeju-3-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/myrealtrip/jeju-3-320.webp 320w, /images/optimized/myrealtrip/jeju-3-360.webp 360w, /images/optimized/myrealtrip/jeju-3-480.webp 480w, /images/optimized/myrealtrip/jeju-3-640.webp 640w, /images/optimized/myrealtrip/jeju-3-680.webp 680w, /images/optimized/myrealtrip/jeju-3-768.webp 768w, /images/optimized/myrealtrip/jeju-3-960.webp 960w, /images/optimized/myrealtrip/jeju-3-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
     <img src="/images/myrealtrip/jeju-3.jpg" alt="제주 일정 숙소 참고 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
   </picture>
   <figcaption>ⓒmyrealtrip</figcaption>

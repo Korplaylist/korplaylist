@@ -2,7 +2,7 @@
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import { siteConfig } from "../site.config";
-import "../styles/global.css";
+import globalStyles from "../styles/global.css?raw";
 
 const {
   title = siteConfig.siteName,
@@ -80,6 +80,7 @@ const alternateEntries = Object.entries(alternates);
       logo: new URL("/brand/korplaylist-logo.png", siteConfig.domain).toString()
     })} />
     {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
+    <style set:html={globalStyles} />
   </head>
   <body>
     <Header locale={locale} />

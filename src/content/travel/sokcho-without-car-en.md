@@ -161,7 +161,7 @@ This route separates arrival, photo time, food breaks, and the final stop so you
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/sokcho-seoraksan-market-content-360.webp 360w, /images/optimized/kto/sokcho-seoraksan-market-content-480.webp 480w, /images/optimized/kto/sokcho-seoraksan-market-content-640.webp 640w, /images/optimized/kto/sokcho-seoraksan-market-content-768.webp 768w, /images/optimized/kto/sokcho-seoraksan-market-content-960.webp 960w, /images/optimized/kto/sokcho-seoraksan-market-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/kto/sokcho-seoraksan-market-content-320.webp 320w, /images/optimized/kto/sokcho-seoraksan-market-content-360.webp 360w, /images/optimized/kto/sokcho-seoraksan-market-content-480.webp 480w, /images/optimized/kto/sokcho-seoraksan-market-content-640.webp 640w, /images/optimized/kto/sokcho-seoraksan-market-content-680.webp 680w, /images/optimized/kto/sokcho-seoraksan-market-content-768.webp 768w, /images/optimized/kto/sokcho-seoraksan-market-content-960.webp 960w, /images/optimized/kto/sokcho-seoraksan-market-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
     <img src="/images/kto/sokcho-seoraksan-market-content.jpg" alt="Korea travel photo: 설악산국립공원" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
   </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-박은경</figcaption>
@@ -177,7 +177,7 @@ If you are comparing similar routes, read [Sokcho Travel Route: Short Seoraksan 
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/gangneung-two-day-content-360.webp 360w, /images/optimized/kto/gangneung-two-day-content-480.webp 480w, /images/optimized/kto/gangneung-two-day-content-640.webp 640w, /images/optimized/kto/gangneung-two-day-content-768.webp 768w, /images/optimized/kto/gangneung-two-day-content-960.webp 960w, /images/optimized/kto/gangneung-two-day-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/kto/gangneung-two-day-content-320.webp 320w, /images/optimized/kto/gangneung-two-day-content-360.webp 360w, /images/optimized/kto/gangneung-two-day-content-480.webp 480w, /images/optimized/kto/gangneung-two-day-content-640.webp 640w, /images/optimized/kto/gangneung-two-day-content-680.webp 680w, /images/optimized/kto/gangneung-two-day-content-768.webp 768w, /images/optimized/kto/gangneung-two-day-content-960.webp 960w, /images/optimized/kto/gangneung-two-day-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
     <img src="/images/kto/gangneung-two-day-content.jpg" alt="Korea travel photo: 강릉 영진해변" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
   </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-강원지사</figcaption>
@@ -210,7 +210,7 @@ For accommodation, choose an area near the last evening stop or the next morning
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/gangneung-sea-coffee-content-360.webp 360w, /images/optimized/kto/gangneung-sea-coffee-content-480.webp 480w, /images/optimized/kto/gangneung-sea-coffee-content-640.webp 640w, /images/optimized/kto/gangneung-sea-coffee-content-768.webp 768w, /images/optimized/kto/gangneung-sea-coffee-content-960.webp 960w, /images/optimized/kto/gangneung-sea-coffee-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/kto/gangneung-sea-coffee-content-320.webp 320w, /images/optimized/kto/gangneung-sea-coffee-content-360.webp 360w, /images/optimized/kto/gangneung-sea-coffee-content-480.webp 480w, /images/optimized/kto/gangneung-sea-coffee-content-640.webp 640w, /images/optimized/kto/gangneung-sea-coffee-content-680.webp 680w, /images/optimized/kto/gangneung-sea-coffee-content-768.webp 768w, /images/optimized/kto/gangneung-sea-coffee-content-960.webp 960w, /images/optimized/kto/gangneung-sea-coffee-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
     <img src="/images/kto/gangneung-sea-coffee-content.jpg" alt="Korea travel photo: 강릉 안목해변" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
   </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
@@ -230,7 +230,7 @@ Use the rest of the day for food and rest. In summer, avoid long midday walks. I
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/chuncheon-lake-day-content-360.webp 360w, /images/optimized/kto/chuncheon-lake-day-content-480.webp 480w, /images/optimized/kto/chuncheon-lake-day-content-640.webp 640w, /images/optimized/kto/chuncheon-lake-day-content-768.webp 768w, /images/optimized/kto/chuncheon-lake-day-content-960.webp 960w, /images/optimized/kto/chuncheon-lake-day-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/kto/chuncheon-lake-day-content-320.webp 320w, /images/optimized/kto/chuncheon-lake-day-content-360.webp 360w, /images/optimized/kto/chuncheon-lake-day-content-480.webp 480w, /images/optimized/kto/chuncheon-lake-day-content-640.webp 640w, /images/optimized/kto/chuncheon-lake-day-content-680.webp 680w, /images/optimized/kto/chuncheon-lake-day-content-768.webp 768w, /images/optimized/kto/chuncheon-lake-day-content-960.webp 960w, /images/optimized/kto/chuncheon-lake-day-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
     <img src="/images/kto/chuncheon-lake-day-content.jpg" alt="Korea travel photo: 춘천 호수 여행 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
   </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-이대순</figcaption>

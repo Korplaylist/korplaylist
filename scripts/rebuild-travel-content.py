@@ -211,7 +211,7 @@ def route_url(stops):
 def stop_link(query):
     return f"https://www.google.com/maps/search/?api=1&query={quote_plus(query)}"
 
-def webp_srcset(src, widths=(360, 480, 640, 768, 960, 1200)):
+def webp_srcset(src, widths=(320, 360, 480, 640, 680, 768, 960, 1200)):
     parts = src.strip("/").split("/")
     if len(parts) != 3 or parts[0] != "images":
         return ""

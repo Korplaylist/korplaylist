@@ -9,7 +9,11 @@ SOURCE_DIRS = [
     ROOT / "public" / "images" / "myrealtrip",
 ]
 OUTPUT_ROOT = ROOT / "public" / "images" / "optimized"
-WIDTHS = (360, 480, 640, 768, 960, 1200)
+WIDTHS = (320, 360, 480, 640, 680, 768, 960, 1200)
+BRAND_IMAGES = [
+    (ROOT / "public" / "brand" / "korplaylist-logo.png", 76),
+    (ROOT / "public" / "brand" / "apple-touch-icon.png", 180),
+]
 
 
 def save_variant(source: Path, output_dir: Path, width: int) -> None:
@@ -19,7 +23,7 @@ def save_variant(source: Path, output_dir: Path, width: int) -> None:
         target_height = round(image.height * target_width / image.width)
         resized = image if target_width == image.width else image.resize((target_width, target_height), Image.Resampling.LANCZOS)
         output = output_dir / f"{source.stem}-{width}.webp"
-        resized.save(output, "WEBP", quality=78, method=6)
+        resized.save(output, "WEBP", quality=62, method=6)
 
 
 def main() -> None:
@@ -33,6 +37,14 @@ def main() -> None:
             for width in WIDTHS:
                 save_variant(source, output_dir, width)
                 total += 1
+    for source, size in BRAND_IMAGES:
+        if not source.exists():
+            continue
+        with Image.open(source) as image:
+            image = image.convert("RGBA")
+            if image.width != size or image.height != size:
+                image = image.resize((size, size), Image.Resampling.LANCZOS)
+            image.save(source, "PNG", optimize=True)
     print(f"generated {total} webp variants")
 
 

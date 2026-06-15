@@ -10,8 +10,8 @@ const readLabel = locale === "en" ? "Read" : locale === "ja" ? "読む" : "읽�
 <article class="post-card">
   <a href={getPostUrl(post)} class="post-image-link" aria-label={`${post.data.title} ${readLabel}`}>
     <picture>
-      <source type="image/webp" srcset={getWebpSrcSet(post.data.heroImage)} sizes="(max-width: 760px) calc(100vw - 36px), 33vw" />
-      <img src={post.data.heroImage} alt={getImageAlt(post)} width="640" height="420" loading="lazy" decoding="async" sizes="(max-width: 760px) calc(100vw - 36px), 33vw" />
+      <source type="image/webp" srcset={getWebpSrcSet(post.data.heroImage, [320, 360, 480, 640, 680])} sizes="(max-width: 760px) calc(100vw - 36px), 32vw" />
+      <img src={post.data.heroImage} alt={getImageAlt(post)} width="640" height="420" loading="lazy" decoding="async" sizes="(max-width: 760px) calc(100vw - 36px), 32vw" />
     </picture>
   </a>
   <div class="post-card-body">
