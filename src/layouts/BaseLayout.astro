@@ -11,6 +11,7 @@ const {
   image = "/images/hero-korea-travel.png",
   type = "website",
   locale = "ko",
+  keywords = "",
   jsonLd
 } = Astro.props;
 
@@ -37,6 +38,7 @@ const htmlLangs: Record<string, string> = {
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{pageTitle}</title>
     <meta name="description" content={description} />
+    {keywords && <meta name="keywords" content={keywords} />}
     <link rel="icon" type="image/png" href="/favicon.png" />
     <link rel="apple-touch-icon" href="/brand/apple-touch-icon.png" />
     <link rel="canonical" href={absoluteUrl} />

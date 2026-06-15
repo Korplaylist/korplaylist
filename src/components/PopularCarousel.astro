@@ -1,0 +1,38 @@
+---
+import PostCard from "./PostCard.astro";
+
+const { posts = [] } = Astro.props;
+---
+
+{posts.length > 0 && (
+  <section class="section popular-section" aria-labelledby="popular-title">
+    <div class="section-head">
+      <div>
+        <h2 id="popular-title">인기 여행 가이드</h2>
+        <p>1박2일, 당일치기, 비용, 교통처럼 검색 의도가 강한 글을 먼저 볼 수 있게 정리했습니다.</p>
+      </div>
+      <div class="carousel-controls" aria-label="인기글 이동">
+        <button type="button" data-carousel-prev aria-label="이전 인기글">‹</button>
+        <button type="button" data-carousel-next aria-label="다음 인기글">›</button>
+      </div>
+    </div>
+    <div class="popular-rail" data-popular-rail>
+      {posts.map((post) => <PostCard post={post} />)}
+    </div>
+  </section>
+)}
+
+<script>
+  const rail = document.querySelector("[data-popular-rail]");
+  const prev = document.querySelector("[data-carousel-prev]");
+  const next = document.querySelector("[data-carousel-next]");
+
+  function scrollPopular(direction) {
+    if (!rail) return;
+    const amount = Math.max(280, rail.clientWidth * 0.82);
+    rail.scrollBy({ left: direction * amount, behavior: "smooth" });
+  }
+
+  prev?.addEventListener("click", () => scrollPopular(-1));
+  next?.addEventListener("click", () => scrollPopular(1));
+</script>

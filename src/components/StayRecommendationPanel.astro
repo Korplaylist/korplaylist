@@ -1,0 +1,55 @@
+---
+import { getImageAlt } from "../lib/travel";
+
+const { post } = Astro.props;
+
+const stayAreas: Record<string, string[]> = {
+  서울: ["명동·을지로", "홍대·연남", "강남·잠실", "종로·북촌"],
+  부산: ["해운대", "광안리", "부산역", "남포동"],
+  제주: ["제주시", "서귀포", "함덕", "협재"],
+  강릉: ["강릉역", "경포", "안목해변", "주문진"],
+  전주: ["전주한옥마을", "객리단길", "전주역"],
+  경주: ["황리단길", "보문단지", "경주역"],
+  여수: ["여수엑스포역", "돌산", "종포해양공원"],
+  속초: ["속초해변", "중앙시장", "설악산 입구"],
+  통영: ["강구안", "동피랑", "통영항"],
+  인천: ["인천역", "송도", "월미도"],
+  대구: ["동성로", "근대골목", "수성못"],
+  춘천: ["남춘천역", "소양강", "강촌"]
+};
+
+const areas = stayAreas[post.data.region] ?? [post.data.region, ...post.data.tags.slice(0, 3)];
+const cards = areas.slice(0, 4).map((area) => {
+  const keyword = `${post.data.region} ${area} 숙소`;
+  return {
+    title: `${area} 숙소 확인`,
+    description: `${post.data.region} 여행 동선과 가까운 숙소를 비교해보세요.`,
+    href: `https://www.myrealtrip.com/search?keyword=${encodeURIComponent(keyword)}`
+  };
+});
+---
+
+<aside class="stay-panel" aria-labelledby="stay-recommend-title">
+  <div class="stay-panel-head">
+    <div>
+      <p class="eyebrow">숙소 추천</p>
+      <h2 id="stay-recommend-title">이 여행 코스와 가까운 숙소 보기</h2>
+      <p>숙소 위치는 여행 피로도와 총비용에 영향을 줍니다. 이동 전 실제 가격, 객실, 취소 조건을 함께 확인하세요.</p>
+    </div>
+  </div>
+  <div class="stay-grid">
+    {cards.map((card) => (
+      <a class="stay-card" href={card.href} target="_blank" rel="sponsored nofollow noopener noreferrer">
+        <img src={post.data.heroImage} alt={`${card.title} 참고 이미지 - ${getImageAlt(post)}`} width="420" height="260" loading="lazy" />
+        <div>
+          <strong>{card.title}</strong>
+          <p>{card.description}</p>
+          <span>마이리얼트립에서 보기</span>
+        </div>
+      </a>
+    ))}
+  </div>
+  <p class="affiliate-note">
+    이 영역에는 제휴 링크가 포함될 수 있습니다. 링크를 통해 예약이 발생하면 한국플레이리스트가 일정 수수료를 받을 수 있으며, 이용자에게 추가 비용이 부과되지는 않습니다.
+  </p>
+</aside>

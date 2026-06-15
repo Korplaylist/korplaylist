@@ -1,12 +1,12 @@
 ---
-import { getPostUrl, formatDate } from "../lib/travel";
+import { getImageAlt, getPostUrl, formatDate } from "../lib/travel";
 
 const { post } = Astro.props;
 ---
 
 <article class="post-card">
   <a href={getPostUrl(post)} class="post-image-link" aria-label={`${post.data.title} 읽기`}>
-    <img src={post.data.heroImage} alt={post.data.imageAlt ?? ""} width="640" height="420" loading="lazy" />
+    <img src={post.data.heroImage} alt={getImageAlt(post)} width="640" height="420" loading="lazy" />
   </a>
   <div class="post-card-body">
     <p class="meta">{post.data.region} · {post.data.category} · {formatDate(post.data.updatedAt)}</p>

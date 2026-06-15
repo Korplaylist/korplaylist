@@ -1,0 +1,25 @@
+---
+import { getImageAlt, getPostUrl } from "../lib/travel";
+
+const { posts = [] } = Astro.props;
+---
+
+{posts.length > 0 && (
+  <section class="related-panel" aria-labelledby="related-posts-title">
+    <div class="section-head compact">
+      <div>
+        <h2 id="related-posts-title">함께 보면 좋은 글</h2>
+        <p>현재 글과 지역, 테마, 태그가 가까운 여행 가이드를 함께 확인하세요.</p>
+      </div>
+    </div>
+    <div class="related-grid">
+      {posts.map((post) => (
+        <a class="related-card" href={getPostUrl(post)}>
+          <img src={post.data.heroImage} alt={getImageAlt(post)} width="360" height="220" loading="lazy" />
+          <span>{post.data.region} · {post.data.category}</span>
+          <strong>{post.data.title}</strong>
+        </a>
+      ))}
+    </div>
+  </section>
+)}
