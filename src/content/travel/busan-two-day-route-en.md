@@ -179,7 +179,10 @@ The most important question is not only whether the route is possible. It is whe
 This route separates arrival, photo time, food breaks, and the final stop so you can adjust it without rebuilding the whole plan.
 
 <figure class="content-photo">
-  <img src="/images/kto/busan-haeundae-walk.jpg" alt="Korea travel photo: 부산 해운대 달맞이길" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/busan-haeundae-walk-360.webp 360w, /images/optimized/kto/busan-haeundae-walk-480.webp 480w, /images/optimized/kto/busan-haeundae-walk-640.webp 640w, /images/optimized/kto/busan-haeundae-walk-768.webp 768w, /images/optimized/kto/busan-haeundae-walk-960.webp 960w, /images/optimized/kto/busan-haeundae-walk-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/busan-haeundae-walk.jpg" alt="Korea travel photo: 부산 해운대 달맞이길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
 </figure>
 
@@ -192,7 +195,10 @@ If the route includes night views, markets, or the coast, place them near the en
 If you are comparing similar routes, read [Busan Food Market Route 2026: Jagalchi, Gukje Market and Bupyeong Kkangtong](/en/travel/busan/busan-market-food/) first. For food, transport, or seasonal decisions, [Yeosu Night Sea Route 2026: Marine Cable Car, Romantic Pocha and Odongdo](/en/travel/jeonnam/yeosu-night-sea/) can help refine the plan without adding unnecessary stops.
 
 <figure class="content-photo">
-  <img src="/images/kto/busan-gwangan-bridge.jpg" alt="Korea travel photo: 부산 광안대교 야경" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/busan-gwangan-bridge-360.webp 360w, /images/optimized/kto/busan-gwangan-bridge-480.webp 480w, /images/optimized/kto/busan-gwangan-bridge-640.webp 640w, /images/optimized/kto/busan-gwangan-bridge-768.webp 768w, /images/optimized/kto/busan-gwangan-bridge-960.webp 960w, /images/optimized/kto/busan-gwangan-bridge-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/busan-gwangan-bridge.jpg" alt="Korea travel photo: 부산 광안대교 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
 </figure>
 
@@ -222,7 +228,10 @@ For accommodation, choose an area near the last evening stop or the next morning
 </section>
 
 <figure class="content-photo">
-  <img src="/images/kto/busan-gamcheon-village.jpg" alt="Korea travel photo: 부산 감천문화마을 전경" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/busan-gamcheon-village-360.webp 360w, /images/optimized/kto/busan-gamcheon-village-480.webp 480w, /images/optimized/kto/busan-gamcheon-village-640.webp 640w, /images/optimized/kto/busan-gamcheon-village-768.webp 768w, /images/optimized/kto/busan-gamcheon-village-960.webp 960w, /images/optimized/kto/busan-gamcheon-village-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/busan-gamcheon-village.jpg" alt="Korea travel photo: 부산 감천문화마을 전경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-오한솔</figcaption>
 </figure>
 
@@ -239,7 +248,10 @@ On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and 
 Use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, move outdoor photo stops earlier because sunset comes quickly.
 
 <figure class="content-photo">
-  <img src="/images/kto/busan-jagalchi-market.jpg" alt="Korea travel photo: 부산 자갈치시장" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/busan-jagalchi-market-360.webp 360w, /images/optimized/kto/busan-jagalchi-market-480.webp 480w, /images/optimized/kto/busan-jagalchi-market-640.webp 640w, /images/optimized/kto/busan-jagalchi-market-768.webp 768w, /images/optimized/kto/busan-jagalchi-market-960.webp 960w, /images/optimized/kto/busan-jagalchi-market-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/busan-jagalchi-market.jpg" alt="Korea travel photo: 부산 자갈치시장" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 

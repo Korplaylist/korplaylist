@@ -160,7 +160,10 @@ The most important question is not only whether the route is possible. It is whe
 This route separates arrival, photo time, food breaks, and the final stop so you can adjust it without rebuilding the whole plan.
 
 <figure class="content-photo">
-  <img src="/images/kto/seoul-one-day-palace-walk-content.jpg" alt="Korea travel photo: 서울 고궁 단청" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/seoul-one-day-palace-walk-content-360.webp 360w, /images/optimized/kto/seoul-one-day-palace-walk-content-480.webp 480w, /images/optimized/kto/seoul-one-day-palace-walk-content-640.webp 640w, /images/optimized/kto/seoul-one-day-palace-walk-content-768.webp 768w, /images/optimized/kto/seoul-one-day-palace-walk-content-960.webp 960w, /images/optimized/kto/seoul-one-day-palace-walk-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/seoul-one-day-palace-walk-content.jpg" alt="Korea travel photo: 서울 고궁 단청" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
@@ -173,7 +176,10 @@ If the route includes night views, markets, or the coast, place them near the en
 If you are comparing similar routes, read [Seoul One-Day Walking Route: Gyeongbokgung, Bukchon and Insadong](/en/travel/seoul/seoul-one-day-palace-walk/) first. For food, transport, or seasonal decisions, [When to Travel Korea in 2026: Seasonal Destinations and Planning Tips](/en/travel/seoul/korea-season-travel-calendar/) can help refine the plan without adding unnecessary stops.
 
 <figure class="content-photo">
-  <img src="/images/kto/incheon-open-port-content.jpg" alt="Korea travel photo: 인천 차이나타운" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/incheon-open-port-content-360.webp 360w, /images/optimized/kto/incheon-open-port-content-480.webp 480w, /images/optimized/kto/incheon-open-port-content-640.webp 640w, /images/optimized/kto/incheon-open-port-content-768.webp 768w, /images/optimized/kto/incheon-open-port-content-960.webp 960w, /images/optimized/kto/incheon-open-port-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/incheon-open-port-content.jpg" alt="Korea travel photo: 인천 차이나타운" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
 </figure>
 
@@ -203,7 +209,10 @@ For accommodation, choose an area near the last evening stop or the next morning
 </section>
 
 <figure class="content-photo">
-  <img src="/images/kto/seoul-hangang-evening-content.jpg" alt="Korea travel photo: 서울 반포대교" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/seoul-hangang-evening-content-360.webp 360w, /images/optimized/kto/seoul-hangang-evening-content-480.webp 480w, /images/optimized/kto/seoul-hangang-evening-content-640.webp 640w, /images/optimized/kto/seoul-hangang-evening-content-768.webp 768w, /images/optimized/kto/seoul-hangang-evening-content-960.webp 960w, /images/optimized/kto/seoul-hangang-evening-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/seoul-hangang-evening-content.jpg" alt="Korea travel photo: 서울 반포대교" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
 </figure>
 
@@ -220,7 +229,10 @@ On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and 
 Use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, move outdoor photo stops earlier because sunset comes quickly.
 
 <figure class="content-photo">
-  <img src="/images/kto/seoul-one-day-palace-walk-content.jpg" alt="Korea travel photo: 서울 고궁 단청" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/seoul-one-day-palace-walk-content-360.webp 360w, /images/optimized/kto/seoul-one-day-palace-walk-content-480.webp 480w, /images/optimized/kto/seoul-one-day-palace-walk-content-640.webp 640w, /images/optimized/kto/seoul-one-day-palace-walk-content-768.webp 768w, /images/optimized/kto/seoul-one-day-palace-walk-content-960.webp 960w, /images/optimized/kto/seoul-one-day-palace-walk-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/seoul-one-day-palace-walk-content.jpg" alt="Korea travel photo: 서울 고궁 단청" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 

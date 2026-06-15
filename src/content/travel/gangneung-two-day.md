@@ -160,7 +160,10 @@ draft: false
 마지막 장소에서 다시 숙소나 역으로 돌아오는 시간도 중요합니다. 그래서 이 코스는 시작 지점, 사진을 찍는 구간, 식사나 휴식 구간, 귀가 전 마지막 구간을 분리해 잡는 방식이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/kto/gangneung-sea-coffee-content.jpg" alt="강릉 안목해변" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/gangneung-sea-coffee-content-360.webp 360w, /images/optimized/kto/gangneung-sea-coffee-content-480.webp 480w, /images/optimized/kto/gangneung-sea-coffee-content-640.webp 640w, /images/optimized/kto/gangneung-sea-coffee-content-768.webp 768w, /images/optimized/kto/gangneung-sea-coffee-content-960.webp 960w, /images/optimized/kto/gangneung-sea-coffee-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/gangneung-sea-coffee-content.jpg" alt="강릉 안목해변" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
@@ -173,7 +176,10 @@ draft: false
 동선이 비슷한 고민이라면 [강릉 당일치기 여행 코스 2026: 바다·커피거리·경포호 핵심만 보기](/travel/gangwon/gangneung-sea-coffee/)을 먼저 비교하고, 식비나 교통처럼 세부 조건이 중요할 때는 [뚜벅이 속초 여행 가이드: 버스만으로 바다·시장·설악산 가는 법](/travel/gangwon/sokcho-without-car/)도 함께 확인하면 계획이 더 현실적입니다.
 
 <figure class="content-photo">
-  <img src="/images/kto/sokcho-seoraksan-market-content.jpg" alt="설악산국립공원" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/sokcho-seoraksan-market-content-360.webp 360w, /images/optimized/kto/sokcho-seoraksan-market-content-480.webp 480w, /images/optimized/kto/sokcho-seoraksan-market-content-640.webp 640w, /images/optimized/kto/sokcho-seoraksan-market-content-768.webp 768w, /images/optimized/kto/sokcho-seoraksan-market-content-960.webp 960w, /images/optimized/kto/sokcho-seoraksan-market-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/sokcho-seoraksan-market-content.jpg" alt="설악산국립공원" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-박은경</figcaption>
 </figure>
 
@@ -203,7 +209,10 @@ draft: false
 </section>
 
 <figure class="content-photo">
-  <img src="/images/kto/sokcho-without-car-content.jpg" alt="속초 관광수산시장" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/sokcho-without-car-content-360.webp 360w, /images/optimized/kto/sokcho-without-car-content-480.webp 480w, /images/optimized/kto/sokcho-without-car-content-640.webp 640w, /images/optimized/kto/sokcho-without-car-content-768.webp 768w, /images/optimized/kto/sokcho-without-car-content-960.webp 960w, /images/optimized/kto/sokcho-without-car-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/sokcho-without-car-content.jpg" alt="속초 관광수산시장" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
@@ -220,7 +229,10 @@ draft: false
 나머지는 식사와 실내 휴식으로 바꾸면 일정이 덜 흔들립니다. 여름에는 한낮 이동을 줄이고, 겨울에는 해가 짧으니 야외 사진 장소를 오전과 이른 오후로 당기세요.
 
 <figure class="content-photo">
-  <img src="/images/kto/chuncheon-lake-day-content.jpg" alt="춘천 호수 여행 풍경" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/chuncheon-lake-day-content-360.webp 360w, /images/optimized/kto/chuncheon-lake-day-content-480.webp 480w, /images/optimized/kto/chuncheon-lake-day-content-640.webp 640w, /images/optimized/kto/chuncheon-lake-day-content-768.webp 768w, /images/optimized/kto/chuncheon-lake-day-content-960.webp 960w, /images/optimized/kto/chuncheon-lake-day-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/chuncheon-lake-day-content.jpg" alt="춘천 호수 여행 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-이대순</figcaption>
 </figure>
 

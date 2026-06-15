@@ -5,6 +5,7 @@ import RelatedPosts from "../components/RelatedPosts.astro";
 import ShareButtons from "../components/ShareButtons.astro";
 import StayRecommendationPanel from "../components/StayRecommendationPanel.astro";
 import { authorProfiles, siteConfig } from "../site.config";
+import { getWebpSrcSet } from "../lib/imageVariants";
 import { formatDate, getImageAlt, getPostLocale, getPostRegion, getPostUrl, getRegionUrl } from "../lib/travel";
 
 const { post, headings = [], relatedPosts = [], faqItems = [], alternates = {} } = Astro.props;
@@ -149,7 +150,10 @@ const jsonLd = {
         <div><dt>{labels.tags}</dt><dd>{post.data.tags.join(", ")}</dd></div>
       </dl>
       <figure class="article-hero-figure">
-        <img src={post.data.heroImage} alt={imageAlt} width="1200" height="630" loading="eager" decoding="async" fetchpriority="high" />
+        <picture>
+          <source type="image/webp" srcset={getWebpSrcSet(post.data.heroImage)} sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+          <img src={post.data.heroImage} alt={imageAlt} width="1200" height="630" loading="eager" decoding="async" fetchpriority="high" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+        </picture>
         {post.data.imageCredit && <figcaption>{post.data.imageCredit}</figcaption>}
       </figure>
     </header>

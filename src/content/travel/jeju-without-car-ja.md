@@ -160,7 +160,10 @@ draft: false
 このルートでは、到着、写真、食事、最後の目的地を分けて考え、予定を調整しやすくしています。
 
 <figure class="content-photo">
-  <img src="/images/kto/jeju-three-day-first-content.jpg" alt="韓国旅行写真：제주 올레길" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/jeju-three-day-first-content-360.webp 360w, /images/optimized/kto/jeju-three-day-first-content-480.webp 480w, /images/optimized/kto/jeju-three-day-first-content-640.webp 640w, /images/optimized/kto/jeju-three-day-first-content-768.webp 768w, /images/optimized/kto/jeju-three-day-first-content-960.webp 960w, /images/optimized/kto/jeju-three-day-first-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/jeju-three-day-first-content.jpg" alt="韓国旅行写真：제주 올레길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
@@ -173,7 +176,10 @@ draft: false
 似たルートで迷う場合は、まず[済州2泊3日モデルコース2026：初めてなら東側・西側をこう分ける](/ja/travel/jeju/jeju-three-day-first/)を比較してください。食事、交通、季節の条件を詰めたい時は[車なし束草旅行ガイド：バスだけで海・市場・雪岳山へ行く方法](/ja/travel/gangwon/sokcho-without-car/)も参考になります。
 
 <figure class="content-photo">
-  <img src="/images/kto/jeju-without-car-content.jpg" alt="韓国旅行写真：제주 도보 여행길" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/jeju-without-car-content-360.webp 360w, /images/optimized/kto/jeju-without-car-content-480.webp 480w, /images/optimized/kto/jeju-without-car-content-640.webp 640w, /images/optimized/kto/jeju-without-car-content-768.webp 768w, /images/optimized/kto/jeju-without-car-content-960.webp 960w, /images/optimized/kto/jeju-without-car-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/jeju-without-car-content.jpg" alt="韓国旅行写真：제주 도보 여행길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
@@ -203,7 +209,10 @@ draft: false
 </section>
 
 <figure class="content-photo">
-  <img src="/images/kto/jeju-three-day-first-content.jpg" alt="韓国旅行写真：제주 올레길" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/jeju-three-day-first-content-360.webp 360w, /images/optimized/kto/jeju-three-day-first-content-480.webp 480w, /images/optimized/kto/jeju-three-day-first-content-640.webp 640w, /images/optimized/kto/jeju-three-day-first-content-768.webp 768w, /images/optimized/kto/jeju-three-day-first-content-960.webp 960w, /images/optimized/kto/jeju-three-day-first-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/jeju-three-day-first-content.jpg" alt="韓国旅行写真：제주 올레길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
@@ -220,7 +229,10 @@ draft: false
 残りは食事と休憩に切り替えます。夏は昼の長い徒歩移動を避け、冬は日没が早いので屋外写真スポットを前半に寄せてください。
 
 <figure class="content-photo">
-  <img src="/images/kto/jeju-without-car-content.jpg" alt="韓国旅行写真：제주 도보 여행길" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/jeju-without-car-content-360.webp 360w, /images/optimized/kto/jeju-without-car-content-480.webp 480w, /images/optimized/kto/jeju-without-car-content-640.webp 640w, /images/optimized/kto/jeju-without-car-content-768.webp 768w, /images/optimized/kto/jeju-without-car-content-960.webp 960w, /images/optimized/kto/jeju-without-car-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/jeju-without-car-content.jpg" alt="韓国旅行写真：제주 도보 여행길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 

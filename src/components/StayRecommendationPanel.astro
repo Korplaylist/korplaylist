@@ -1,5 +1,6 @@
 ---
 import staysByRegion from "../data/myrealtrip-stays.json";
+import { getWebpSrcSet } from "../lib/imageVariants";
 
 const { post, locale = "ko" } = Astro.props;
 const regionBySlug = {
@@ -233,7 +234,10 @@ const searchUrl = `https://www.myrealtrip.com/search?keyword=${encodeURIComponen
       {localizedStays.map((stay) => (
         <a class="stay-card" href={stay.url} target="_blank" rel="sponsored nofollow noopener noreferrer">
           <figure>
-            <img src={stay.image} alt={stay.imageAlt} width="420" height="260" loading="lazy" decoding="async" />
+            <picture>
+              <source type="image/webp" srcset={getWebpSrcSet(stay.image, [360, 480, 640])} sizes="132px" />
+              <img src={stay.image} alt={stay.imageAlt} width="420" height="260" loading="lazy" decoding="async" sizes="132px" />
+            </picture>
             <figcaption>{stay.imageCredit}</figcaption>
           </figure>
           <div>

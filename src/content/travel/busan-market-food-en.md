@@ -160,7 +160,10 @@ The most important question is not only whether the route is possible. It is whe
 This route separates arrival, photo time, food breaks, and the final stop so you can adjust it without rebuilding the whole plan.
 
 <figure class="content-photo">
-  <img src="/images/kto/busan-station.jpg" alt="Korea travel photo: 부산역 외관" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/busan-station-360.webp 360w, /images/optimized/kto/busan-station-480.webp 480w, /images/optimized/kto/busan-station-640.webp 640w, /images/optimized/kto/busan-station-768.webp 768w, /images/optimized/kto/busan-station-960.webp 960w, /images/optimized/kto/busan-station-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/busan-station.jpg" alt="Korea travel photo: 부산역 외관" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
 </figure>
 
@@ -173,7 +176,10 @@ If the route includes night views, markets, or the coast, place them near the en
 If you are comparing similar routes, read [Busan 2-Day Itinerary 2026: Haeundae, Gwangalli and Gamcheon Without Wasting Time](/en/travel/busan/busan-two-day-route/) first. For food, transport, or seasonal decisions, [Jeonju Food Budget Guide: Bibimbap, Kongnamul Gukbap and Market Snacks](/en/travel/jeonbuk/jeonju-food-cost/) can help refine the plan without adding unnecessary stops.
 
 <figure class="content-photo">
-  <img src="/images/kto/busan-gamcheon-village.jpg" alt="Korea travel photo: 부산 감천문화마을 전경" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/busan-gamcheon-village-360.webp 360w, /images/optimized/kto/busan-gamcheon-village-480.webp 480w, /images/optimized/kto/busan-gamcheon-village-640.webp 640w, /images/optimized/kto/busan-gamcheon-village-768.webp 768w, /images/optimized/kto/busan-gamcheon-village-960.webp 960w, /images/optimized/kto/busan-gamcheon-village-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/busan-gamcheon-village.jpg" alt="Korea travel photo: 부산 감천문화마을 전경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-오한솔</figcaption>
 </figure>
 
@@ -203,7 +209,10 @@ For accommodation, choose an area near the last evening stop or the next morning
 </section>
 
 <figure class="content-photo">
-  <img src="/images/kto/busan-gwangan-bridge.jpg" alt="Korea travel photo: 부산 광안대교 야경" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/busan-gwangan-bridge-360.webp 360w, /images/optimized/kto/busan-gwangan-bridge-480.webp 480w, /images/optimized/kto/busan-gwangan-bridge-640.webp 640w, /images/optimized/kto/busan-gwangan-bridge-768.webp 768w, /images/optimized/kto/busan-gwangan-bridge-960.webp 960w, /images/optimized/kto/busan-gwangan-bridge-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/busan-gwangan-bridge.jpg" alt="Korea travel photo: 부산 광안대교 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
 </figure>
 
@@ -220,7 +229,10 @@ On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and 
 Use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, move outdoor photo stops earlier because sunset comes quickly.
 
 <figure class="content-photo">
-  <img src="/images/kto/busan-haeundae-view.jpg" alt="Korea travel photo: 부산 해운대와 도심 전경" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/busan-haeundae-view-360.webp 360w, /images/optimized/kto/busan-haeundae-view-480.webp 480w, /images/optimized/kto/busan-haeundae-view-640.webp 640w, /images/optimized/kto/busan-haeundae-view-768.webp 768w, /images/optimized/kto/busan-haeundae-view-960.webp 960w, /images/optimized/kto/busan-haeundae-view-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/busan-haeundae-view.jpg" alt="Korea travel photo: 부산 해운대와 도심 전경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-김미숙</figcaption>
 </figure>
 

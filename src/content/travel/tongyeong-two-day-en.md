@@ -160,7 +160,10 @@ The most important question is not only whether the route is possible. It is whe
 This route separates arrival, photo time, food breaks, and the final stop so you can adjust it without rebuilding the whole plan.
 
 <figure class="content-photo">
-  <img src="/images/kto/tongyeong-island-view-content.jpg" alt="Korea travel photo: 통영 동피랑마을" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/tongyeong-island-view-content-360.webp 360w, /images/optimized/kto/tongyeong-island-view-content-480.webp 480w, /images/optimized/kto/tongyeong-island-view-content-640.webp 640w, /images/optimized/kto/tongyeong-island-view-content-768.webp 768w, /images/optimized/kto/tongyeong-island-view-content-960.webp 960w, /images/optimized/kto/tongyeong-island-view-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/tongyeong-island-view-content.jpg" alt="Korea travel photo: 통영 동피랑마을" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
 </figure>
 
@@ -173,7 +176,10 @@ If the route includes night views, markets, or the coast, place them near the en
 If you are comparing similar routes, read [Tongyeong Sea View Route: Dongpirang, Cable Car and Gangguan Port](/en/travel/gyeongnam/tongyeong-island-view/) first. For food, transport, or seasonal decisions, [Yeosu Island Day Trip: Ferry, Weather and Timetable Checks Before You Go](/en/travel/jeonnam/yeosu-island-day/) can help refine the plan without adding unnecessary stops.
 
 <figure class="content-photo">
-  <img src="/images/kto/yeosu-island-day-content.jpg" alt="Korea travel photo: 여수 해상케이블카" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/yeosu-island-day-content-360.webp 360w, /images/optimized/kto/yeosu-island-day-content-480.webp 480w, /images/optimized/kto/yeosu-island-day-content-640.webp 640w, /images/optimized/kto/yeosu-island-day-content-768.webp 768w, /images/optimized/kto/yeosu-island-day-content-960.webp 960w, /images/optimized/kto/yeosu-island-day-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/yeosu-island-day-content.jpg" alt="Korea travel photo: 여수 해상케이블카" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
@@ -203,7 +209,10 @@ For accommodation, choose an area near the last evening stop or the next morning
 </section>
 
 <figure class="content-photo">
-  <img src="/images/kto/yeosu-night-sea-content.jpg" alt="Korea travel photo: 여수 밤바다 야경" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/yeosu-night-sea-content-360.webp 360w, /images/optimized/kto/yeosu-night-sea-content-480.webp 480w, /images/optimized/kto/yeosu-night-sea-content-640.webp 640w, /images/optimized/kto/yeosu-night-sea-content-768.webp 768w, /images/optimized/kto/yeosu-night-sea-content-960.webp 960w, /images/optimized/kto/yeosu-night-sea-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/yeosu-night-sea-content.jpg" alt="Korea travel photo: 여수 밤바다 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
 </figure>
 
@@ -220,7 +229,10 @@ On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and 
 Use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, move outdoor photo stops earlier because sunset comes quickly.
 
 <figure class="content-photo">
-  <img src="/images/kto/busan-gwangan-bridge.jpg" alt="Korea travel photo: 부산 광안대교 야경" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/busan-gwangan-bridge-360.webp 360w, /images/optimized/kto/busan-gwangan-bridge-480.webp 480w, /images/optimized/kto/busan-gwangan-bridge-640.webp 640w, /images/optimized/kto/busan-gwangan-bridge-768.webp 768w, /images/optimized/kto/busan-gwangan-bridge-960.webp 960w, /images/optimized/kto/busan-gwangan-bridge-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/busan-gwangan-bridge.jpg" alt="Korea travel photo: 부산 광안대교 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
 </figure>
 

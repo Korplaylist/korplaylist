@@ -160,7 +160,10 @@ draft: false
 마지막 장소에서 다시 숙소나 역으로 돌아오는 시간도 중요합니다. 그래서 이 코스는 시작 지점, 사진을 찍는 구간, 식사나 휴식 구간, 귀가 전 마지막 구간을 분리해 잡는 방식이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/kto/gyeongju-history-two-day-content.jpg" alt="경주 불국사" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/gyeongju-history-two-day-content-360.webp 360w, /images/optimized/kto/gyeongju-history-two-day-content-480.webp 480w, /images/optimized/kto/gyeongju-history-two-day-content-640.webp 640w, /images/optimized/kto/gyeongju-history-two-day-content-768.webp 768w, /images/optimized/kto/gyeongju-history-two-day-content-960.webp 960w, /images/optimized/kto/gyeongju-history-two-day-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/gyeongju-history-two-day-content.jpg" alt="경주 불국사" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
 </figure>
 
@@ -173,7 +176,10 @@ draft: false
 동선이 비슷한 고민이라면 [인천 당일치기 코스: 개항장·차이나타운·월미도 수도권 여행](/travel/incheon/incheon-open-port/)을 먼저 비교하고, 식비나 교통처럼 세부 조건이 중요할 때는 [경주 1박2일 역사 여행 코스: 대릉원·첨성대·불국사까지 정리](/travel/gyeongbuk/gyeongju-history-two-day/)도 함께 확인하면 계획이 더 현실적입니다.
 
 <figure class="content-photo">
-  <img src="/images/kto/gyeongju-family-content.jpg" alt="경주 대릉원" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/gyeongju-family-content-360.webp 360w, /images/optimized/kto/gyeongju-family-content-480.webp 480w, /images/optimized/kto/gyeongju-family-content-640.webp 640w, /images/optimized/kto/gyeongju-family-content-768.webp 768w, /images/optimized/kto/gyeongju-family-content-960.webp 960w, /images/optimized/kto/gyeongju-family-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/gyeongju-family-content.jpg" alt="경주 대릉원" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-IR 스튜디오</figcaption>
 </figure>
 
@@ -203,7 +209,10 @@ draft: false
 </section>
 
 <figure class="content-photo">
-  <img src="/images/kto/jeonju-hanok-day-content.jpg" alt="전주한옥마을" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/jeonju-hanok-day-content-360.webp 360w, /images/optimized/kto/jeonju-hanok-day-content-480.webp 480w, /images/optimized/kto/jeonju-hanok-day-content-640.webp 640w, /images/optimized/kto/jeonju-hanok-day-content-768.webp 768w, /images/optimized/kto/jeonju-hanok-day-content-960.webp 960w, /images/optimized/kto/jeonju-hanok-day-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/jeonju-hanok-day-content.jpg" alt="전주한옥마을" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 
@@ -220,7 +229,10 @@ draft: false
 나머지는 식사와 실내 휴식으로 바꾸면 일정이 덜 흔들립니다. 여름에는 한낮 이동을 줄이고, 겨울에는 해가 짧으니 야외 사진 장소를 오전과 이른 오후로 당기세요.
 
 <figure class="content-photo">
-  <img src="/images/kto/daegu-modern-street-content.jpg" alt="대구 계산예가" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/daegu-modern-street-content-360.webp 360w, /images/optimized/kto/daegu-modern-street-content-480.webp 480w, /images/optimized/kto/daegu-modern-street-content-640.webp 640w, /images/optimized/kto/daegu-modern-street-content-768.webp 768w, /images/optimized/kto/daegu-modern-street-content-960.webp 960w, /images/optimized/kto/daegu-modern-street-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/daegu-modern-street-content.jpg" alt="대구 계산예가" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 

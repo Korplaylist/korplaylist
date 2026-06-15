@@ -179,7 +179,10 @@ The most important question is not only whether the route is possible. It is whe
 This route separates arrival, photo time, food breaks, and the final stop so you can adjust it without rebuilding the whole plan.
 
 <figure class="content-photo">
-  <img src="/images/kto/gyeongju-family-content.jpg" alt="Korea travel photo: 경주 대릉원" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/gyeongju-family-content-360.webp 360w, /images/optimized/kto/gyeongju-family-content-480.webp 480w, /images/optimized/kto/gyeongju-family-content-640.webp 640w, /images/optimized/kto/gyeongju-family-content-768.webp 768w, /images/optimized/kto/gyeongju-family-content-960.webp 960w, /images/optimized/kto/gyeongju-family-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/gyeongju-family-content.jpg" alt="Korea travel photo: 경주 대릉원" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-IR 스튜디오</figcaption>
 </figure>
 
@@ -192,7 +195,10 @@ If the route includes night views, markets, or the coast, place them near the en
 If you are comparing similar routes, read [Gyeongju Family Trip Guide: Historic Sites, Museums and Easy Walks With Kids](/en/travel/gyeongbuk/gyeongju-family/) first. For food, transport, or seasonal decisions, [Jeonju Hanok Village Day Trip: Gyeonggijeon, Nambu Market and One-Day Route](/en/travel/jeonbuk/jeonju-hanok-day/) can help refine the plan without adding unnecessary stops.
 
 <figure class="content-photo">
-  <img src="/images/kto/gyeongju-history-two-day-content.jpg" alt="Korea travel photo: 경주 불국사" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/gyeongju-history-two-day-content-360.webp 360w, /images/optimized/kto/gyeongju-history-two-day-content-480.webp 480w, /images/optimized/kto/gyeongju-history-two-day-content-640.webp 640w, /images/optimized/kto/gyeongju-history-two-day-content-768.webp 768w, /images/optimized/kto/gyeongju-history-two-day-content-960.webp 960w, /images/optimized/kto/gyeongju-history-two-day-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/gyeongju-history-two-day-content.jpg" alt="Korea travel photo: 경주 불국사" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
 </figure>
 
@@ -222,7 +228,10 @@ For accommodation, choose an area near the last evening stop or the next morning
 </section>
 
 <figure class="content-photo">
-  <img src="/images/kto/gyeongju-family-content.jpg" alt="Korea travel photo: 경주 대릉원" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/gyeongju-family-content-360.webp 360w, /images/optimized/kto/gyeongju-family-content-480.webp 480w, /images/optimized/kto/gyeongju-family-content-640.webp 640w, /images/optimized/kto/gyeongju-family-content-768.webp 768w, /images/optimized/kto/gyeongju-family-content-960.webp 960w, /images/optimized/kto/gyeongju-family-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/gyeongju-family-content.jpg" alt="Korea travel photo: 경주 대릉원" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-IR 스튜디오</figcaption>
 </figure>
 
@@ -239,7 +248,10 @@ On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and 
 Use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, move outdoor photo stops earlier because sunset comes quickly.
 
 <figure class="content-photo">
-  <img src="/images/kto/jeonju-hanok-day-content.jpg" alt="Korea travel photo: 전주한옥마을" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/jeonju-hanok-day-content-360.webp 360w, /images/optimized/kto/jeonju-hanok-day-content-480.webp 480w, /images/optimized/kto/jeonju-hanok-day-content-640.webp 640w, /images/optimized/kto/jeonju-hanok-day-content-768.webp 768w, /images/optimized/kto/jeonju-hanok-day-content-960.webp 960w, /images/optimized/kto/jeonju-hanok-day-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/jeonju-hanok-day-content.jpg" alt="Korea travel photo: 전주한옥마을" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
 

@@ -1,4 +1,5 @@
 ---
+import { getWebpSrcSet } from "../lib/imageVariants";
 import { formatDate, getImageAlt, getPostLocale, getPostUrl } from "../lib/travel";
 
 const { posts = [], locale = "ko" } = Astro.props;
@@ -67,15 +68,19 @@ const labels = {
             </div>
           </div>
           <a class="popular-slide-image" href={getPostUrl(post)} aria-label={`${post.data.title} ${labels.readAria}`}>
-            <img
-              src={post.data.heroImage}
-              alt={getImageAlt(post)}
-              width="1200"
-              height="760"
-              loading={index === 0 ? "eager" : "lazy"}
-              decoding="async"
-              fetchpriority={index === 0 ? "high" : "auto"}
-            />
+            <picture>
+              <source type="image/webp" srcset={getWebpSrcSet(post.data.heroImage)} sizes="(max-width: 760px) calc(100vw - 36px), 48vw" />
+              <img
+                src={post.data.heroImage}
+                alt={getImageAlt(post)}
+                width="1200"
+                height="760"
+                loading={index === 0 ? "eager" : "lazy"}
+                decoding="async"
+                fetchpriority={index === 0 ? "high" : "auto"}
+                sizes="(max-width: 760px) calc(100vw - 36px), 48vw"
+              />
+            </picture>
           </a>
         </article>
       ))}

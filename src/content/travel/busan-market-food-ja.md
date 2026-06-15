@@ -160,7 +160,10 @@ draft: false
 このルートでは、到着、写真、食事、最後の目的地を分けて考え、予定を調整しやすくしています。
 
 <figure class="content-photo">
-  <img src="/images/kto/busan-station.jpg" alt="韓国旅行写真：부산역 외관" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/busan-station-360.webp 360w, /images/optimized/kto/busan-station-480.webp 480w, /images/optimized/kto/busan-station-640.webp 640w, /images/optimized/kto/busan-station-768.webp 768w, /images/optimized/kto/busan-station-960.webp 960w, /images/optimized/kto/busan-station-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/busan-station.jpg" alt="韓国旅行写真：부산역 외관" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
 </figure>
 
@@ -173,7 +176,10 @@ draft: false
 似たルートで迷う場合は、まず[釜山1泊2日モデルコース2026：海雲台・広安里・甘川文化村の失敗しにくい動線](/ja/travel/busan/busan-two-day-route/)を比較してください。食事、交通、季節の条件を詰めたい時は[全州グルメ旅行予算：ビビンバ・豆もやしクッパ・市場おやつの費用整理](/ja/travel/jeonbuk/jeonju-food-cost/)も参考になります。
 
 <figure class="content-photo">
-  <img src="/images/kto/busan-gamcheon-village.jpg" alt="韓国旅行写真：부산 감천문화마을 전경" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/busan-gamcheon-village-360.webp 360w, /images/optimized/kto/busan-gamcheon-village-480.webp 480w, /images/optimized/kto/busan-gamcheon-village-640.webp 640w, /images/optimized/kto/busan-gamcheon-village-768.webp 768w, /images/optimized/kto/busan-gamcheon-village-960.webp 960w, /images/optimized/kto/busan-gamcheon-village-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/busan-gamcheon-village.jpg" alt="韓国旅行写真：부산 감천문화마을 전경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-오한솔</figcaption>
 </figure>
 
@@ -203,7 +209,10 @@ draft: false
 </section>
 
 <figure class="content-photo">
-  <img src="/images/kto/busan-gwangan-bridge.jpg" alt="韓国旅行写真：부산 광안대교 야경" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/busan-gwangan-bridge-360.webp 360w, /images/optimized/kto/busan-gwangan-bridge-480.webp 480w, /images/optimized/kto/busan-gwangan-bridge-640.webp 640w, /images/optimized/kto/busan-gwangan-bridge-768.webp 768w, /images/optimized/kto/busan-gwangan-bridge-960.webp 960w, /images/optimized/kto/busan-gwangan-bridge-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/busan-gwangan-bridge.jpg" alt="韓国旅行写真：부산 광안대교 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
 </figure>
 
@@ -220,7 +229,10 @@ draft: false
 残りは食事と休憩に切り替えます。夏は昼の長い徒歩移動を避け、冬は日没が早いので屋外写真スポットを前半に寄せてください。
 
 <figure class="content-photo">
-  <img src="/images/kto/busan-haeundae-view.jpg" alt="韓国旅行写真：부산 해운대와 도심 전경" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/busan-haeundae-view-360.webp 360w, /images/optimized/kto/busan-haeundae-view-480.webp 480w, /images/optimized/kto/busan-haeundae-view-640.webp 640w, /images/optimized/kto/busan-haeundae-view-768.webp 768w, /images/optimized/kto/busan-haeundae-view-960.webp 960w, /images/optimized/kto/busan-haeundae-view-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/kto/busan-haeundae-view.jpg" alt="韓国旅行写真：부산 해운대와 도심 전경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+  </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-김미숙</figcaption>
 </figure>
 
