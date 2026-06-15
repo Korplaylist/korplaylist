@@ -1,4 +1,5 @@
 ---
+import AuthorBio from "../components/AuthorBio.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 ---
 
@@ -15,6 +16,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
       <p>처음 방문하는 여행지도 일정의 우선순위를 쉽게 정할 수 있도록 여행 코스, 여행지, 맛집, 숙소, 교통 준비, 계절 축제 카테고리로 정보를 정리합니다. 검색으로 들어온 이용자가 필요한 정보를 빠르게 찾을 수 있도록 제목, 설명, 이미지, 표, 내부 링크 구조를 지속적으로 개선합니다.</p>
       <h2>운영 방향</h2>
       <p>한국플레이리스트는 먼저 한국어 콘텐츠를 작성한 뒤 영어와 일본어 콘텐츠를 순차적으로 확장합니다. 장소별 상세 글, 맛집 글, 숙소 위치 글을 먼저 쌓고, 이후 기획형 메인 글에서 내부 링크로 연결하는 방식으로 운영합니다.</p>
+      <AuthorBio locale="ko" compact />
     </div>
   </section>
 </BaseLayout>

@@ -14,6 +14,39 @@
   contactEmail: "korplaylist.hong@gmail.com"
 };
 
+export const authorProfiles = {
+  ko: {
+    name: "임채홍",
+    mark: "임",
+    role: "한국플레이리스트 운영자·여행 콘텐츠 편집자",
+    label: "작성자",
+    summary:
+      "국내 여행을 준비하는 사람이 일정, 이동, 비용, 숙소 위치를 빠르게 비교할 수 있도록 한국 여행 정보를 객관적인 기준으로 정리합니다.",
+    detail:
+      "공식 관광 정보, 교통 접근성, 실제 동선 흐름, 계절별 주의사항을 함께 확인해 과장된 후기보다 여행 준비에 바로 도움이 되는 가이드를 작성합니다."
+  },
+  en: {
+    name: "Chaehong Lim",
+    mark: "L",
+    role: "Editor and operator of Korea Playlist",
+    label: "Author",
+    summary:
+      "Chaehong Lim organizes Korea travel information so readers can compare itineraries, transport, costs, and stay locations quickly.",
+    detail:
+      "The guides focus on official tourism information, transport access, realistic route planning, seasonal cautions, and practical checks before visiting."
+  },
+  ja: {
+    name: "イム・チェホン",
+    mark: "イ",
+    role: "韓国プレイリスト運営者・旅行コンテンツ編集者",
+    label: "執筆者",
+    summary:
+      "韓国旅行を準備する人が、日程、移動、費用、宿泊エリアを比較しやすいように旅行情報を客観的に整理します。",
+    detail:
+      "公式観光情報、交通アクセス、現実的な移動ルート、季節ごとの注意点を確認し、旅行準備に役立つガイドを作成します。"
+  }
+};
+
 export const categories = ["여행 코스", "여행지", "맛집", "숙소", "교통 준비", "계절 축제"];
 
 export const categoryDescriptions: Record<string, string> = {

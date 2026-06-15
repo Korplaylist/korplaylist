@@ -387,6 +387,55 @@ h3 {
   font-weight: 800;
 }
 
+.author-bio {
+  display: grid;
+  grid-template-columns: 52px 1fr;
+  gap: 14px;
+  margin: 40px 0 0;
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: white;
+}
+
+.author-bio.compact {
+  margin: 22px 0;
+}
+
+.author-mark {
+  display: grid;
+  width: 52px;
+  height: 52px;
+  place-items: center;
+  border-radius: 8px;
+  color: white;
+  background: var(--accent);
+  font-weight: 900;
+}
+
+.author-bio p {
+  margin: 6px 0 0;
+  color: var(--muted);
+}
+
+.author-bio strong,
+.author-bio span {
+  display: block;
+}
+
+.author-bio span {
+  color: var(--accent-strong);
+  font-size: 0.92rem;
+  font-weight: 800;
+}
+
+.author-label {
+  margin: 0 0 4px !important;
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-weight: 800;
+}
+
 .article-facts dd {
   margin: 0;
   font-weight: 800;

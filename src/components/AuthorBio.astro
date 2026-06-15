@@ -1,0 +1,16 @@
+---
+import { authorProfiles } from "../site.config";
+
+const { locale = "ko", compact = false } = Astro.props;
+const author = authorProfiles[locale] ?? authorProfiles.ko;
+---
+
+<aside class:list={["author-bio", { compact }]} aria-label={author.label}>
+  <div class="author-mark" aria-hidden="true">{author.mark}</div>
+  <div>
+    <p class="author-label">{author.label}</p>
+    <strong>{author.name}</strong>
+    <span>{author.role}</span>
+    <p>{compact ? author.summary : `${author.summary} ${author.detail}`}</p>
+  </div>
+</aside>

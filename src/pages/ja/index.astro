@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import AuthorBio from "../../components/AuthorBio.astro";
 import { localizedCategories, localizedRegions } from "../../site.config";
 ---
 
@@ -47,6 +48,7 @@ import { localizedCategories, localizedRegions } from "../../site.config";
   <section id="about" class="section">
     <h2>紹介</h2>
     <p>韓国プレイリストは、ルート、移動時間、交通手段、費用、訪問前に確認したい情報を客観的に整理します。</p>
+    <AuthorBio locale="ja" compact />
   </section>
   <section id="contact" class="section">
     <h2>お問い合わせ</h2>

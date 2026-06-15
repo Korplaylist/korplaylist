@@ -1,12 +1,14 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
+import AuthorBio from "../components/AuthorBio.astro";
 import ShareButtons from "../components/ShareButtons.astro";
-import { siteConfig } from "../site.config";
+import { authorProfiles, siteConfig } from "../site.config";
 import { formatDate, getPostUrl } from "../lib/travel";
 
 const { post, headings = [] } = Astro.props;
 const postUrl = new URL(getPostUrl(post), siteConfig.domain).toString();
 const postImage = new URL(post.data.heroImage, siteConfig.domain).toString();
+const author = authorProfiles.ko;
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "Article",
@@ -16,8 +18,10 @@ const jsonLd = {
   datePublished: post.data.publishedAt.toISOString(),
   dateModified: post.data.updatedAt.toISOString(),
   author: {
-    "@type": "Organization",
-    name: siteConfig.siteName
+    "@type": "Person",
+    name: author.name,
+    description: `${author.summary} ${author.detail}`,
+    url: new URL("/about/", siteConfig.domain).toString()
   },
   publisher: {
     "@type": "Organization",
@@ -48,6 +52,7 @@ const jsonLd = {
       <h1>{post.data.title}</h1>
       <p>{post.data.description}</p>
       <dl class="article-facts">
+        <div><dt>작성자</dt><dd>{author.name}</dd></div>
         <div><dt>게시일</dt><dd>{formatDate(post.data.publishedAt)}</dd></div>
         <div><dt>업데이트</dt><dd>{formatDate(post.data.updatedAt)}</dd></div>
         <div><dt>태그</dt><dd>{post.data.tags.join(", ")}</dd></div>
@@ -70,6 +75,7 @@ const jsonLd = {
     <div class="article-content">
       <slot />
     </div>
+    <AuthorBio locale="ko" />
     <ShareButtons title={post.data.title} description={post.data.description} url={postUrl} image={postImage} />
   </article>
 </BaseLayout>
