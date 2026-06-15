@@ -376,6 +376,10 @@ h3 {
   font-size: 1.04rem;
 }
 
+.article-content p {
+  margin: 16px 0;
+}
+
 .article-content h2 {
   margin-top: 38px;
   font-size: 1.7rem;
@@ -408,6 +412,102 @@ h3 {
   color: var(--muted);
   font-size: 0.82rem;
   text-align: right;
+}
+
+.article-summary,
+.article-tip,
+.compare-table,
+.route-cards > div {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--soft);
+}
+
+.article-summary {
+  margin: 24px 0 30px;
+  padding: 18px;
+}
+
+.article-summary strong {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--accent-strong);
+}
+
+.article-summary ul {
+  margin: 0;
+  padding-left: 22px;
+}
+
+.article-summary li + li {
+  margin-top: 6px;
+}
+
+.route-cards {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin: 24px 0 30px;
+}
+
+.route-cards > div {
+  padding: 15px;
+  background: white;
+}
+
+.route-cards span {
+  display: block;
+  margin-bottom: 4px;
+  color: var(--accent-strong);
+  font-size: 0.82rem;
+  font-weight: 800;
+}
+
+.route-cards strong {
+  display: block;
+  font-size: 1.05rem;
+}
+
+.route-cards p {
+  margin: 7px 0 0;
+}
+
+.article-tip {
+  margin: 18px 0 28px;
+  padding: 13px 15px;
+  border-left: 4px solid var(--accent);
+  color: var(--ink);
+  font-weight: 700;
+}
+
+.compare-table {
+  display: grid;
+  margin: 24px 0 30px;
+  overflow: hidden;
+}
+
+.compare-table > div {
+  display: grid;
+  grid-template-columns: 0.8fr 1.3fr 1.3fr;
+}
+
+.compare-table > div:first-child {
+  background: #e8f5f2;
+}
+
+.compare-table span,
+.compare-table strong {
+  padding: 12px;
+  border-top: 1px solid var(--line);
+  color: var(--ink);
+}
+
+.compare-table > div:first-child strong {
+  border-top: 0;
+}
+
+.compare-table.compact > div {
+  grid-template-columns: 0.8fr 0.8fr 1.5fr;
 }
 
 .share-panel {
@@ -544,5 +644,26 @@ h3 {
   .share-preview {
     grid-template-columns: 96px 1fr;
     align-items: start;
+  }
+
+  .route-cards,
+  .compare-table > div,
+  .compare-table.compact > div {
+    grid-template-columns: 1fr;
+  }
+
+  .compare-table > div {
+    padding: 10px 0;
+    border-top: 1px solid var(--line);
+  }
+
+  .compare-table > div:first-child {
+    display: none;
+  }
+
+  .compare-table span,
+  .compare-table strong {
+    padding: 3px 12px;
+    border-top: 0;
   }
 }
