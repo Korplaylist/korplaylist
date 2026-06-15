@@ -69,7 +69,7 @@ const labels = {
           </div>
           <a class="popular-slide-image" href={getPostUrl(post)} aria-label={`${post.data.title} ${labels.readAria}`}>
             <picture>
-              <source type="image/webp" srcset={getWebpSrcSet(post.data.heroImage, [480, 640, 680, 768, 960])} sizes="(max-width: 760px) calc(100vw - 36px), 48vw" />
+              <source type="image/webp" srcset={getWebpSrcSet(post.data.heroImage, [480, 640, 680, 768])} sizes="(max-width: 760px) calc(100vw - 36px), 48vw" />
               <img
                 src={post.data.heroImage}
                 alt={getImageAlt(post)}
