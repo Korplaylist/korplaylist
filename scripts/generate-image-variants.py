@@ -7,6 +7,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SOURCE_DIRS = [
     ROOT / "public" / "images" / "kto",
     ROOT / "public" / "images" / "myrealtrip",
+    ROOT / "public" / "images" / "generated",
 ]
 OUTPUT_ROOT = ROOT / "public" / "images" / "optimized"
 WIDTHS = (160, 240, 320, 330, 360, 480, 520, 640, 680, 768, 960, 1200)
