@@ -52,7 +52,10 @@ const jsonLd = {
         <div><dt>업데이트</dt><dd>{formatDate(post.data.updatedAt)}</dd></div>
         <div><dt>태그</dt><dd>{post.data.tags.join(", ")}</dd></div>
       </dl>
-      <img src={post.data.heroImage} alt="" width="1200" height="630" loading="eager" />
+      <figure class="article-hero-figure">
+        <img src={post.data.heroImage} alt={post.data.imageAlt ?? ""} width="1200" height="630" loading="eager" />
+        {post.data.imageCredit && <figcaption>{post.data.imageCredit}</figcaption>}
+      </figure>
     </header>
     {headings.length > 0 && (
       <aside class="toc" aria-label="글 목차">

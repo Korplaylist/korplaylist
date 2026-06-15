@@ -11,6 +11,8 @@ const travel = defineCollection({
     publishedAt: z.coerce.date(),
     updatedAt: z.coerce.date(),
     heroImage: z.string(),
+    imageAlt: z.string().optional(),
+    imageCredit: z.string().optional(),
     draft: z.boolean().default(false)
   })
 });

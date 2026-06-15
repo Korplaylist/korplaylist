@@ -214,6 +214,17 @@ h3 {
   border: 1px solid var(--line);
 }
 
+.article-hero-figure {
+  margin: 0;
+}
+
+.article-hero-figure figcaption {
+  margin-top: 7px;
+  color: var(--muted);
+  font-size: 0.82rem;
+  text-align: right;
+}
+
 .section {
   max-width: var(--max);
   margin: 0 auto;
@@ -426,8 +437,8 @@ h3 {
   padding: 8px 12px;
   border: 1px solid var(--accent);
   border-radius: 8px;
-  color: white;
-  background: var(--accent);
+  color: var(--accent-strong);
+  background: white;
   font: inherit;
   font-size: 0.92rem;
   font-weight: 800;
@@ -443,6 +454,13 @@ h3 {
 .share-button.secondary {
   color: var(--accent-strong);
   background: white;
+}
+
+.share-button:hover,
+.share-button:focus-visible {
+  border-color: var(--accent-strong);
+  background: #e8f5f2;
+  outline: none;
 }
 
 .site-footer {
