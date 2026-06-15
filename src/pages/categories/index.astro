@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { categories, categoryDescriptions } from "../../site.config";
+import { getCategoryUrl } from "../../lib/travel";
 ---
 
 <BaseLayout title="테마별 한국여행" description="여행 코스, 여행지, 맛집, 숙소, 교통 준비, 계절 축제 정보를 테마별로 정리한 한국여행 가이드입니다." canonical="/categories/">
@@ -10,7 +11,7 @@ import { categories, categoryDescriptions } from "../../site.config";
     <p>여행을 준비하는 목적에 맞춰 코스, 여행지, 맛집, 숙소, 교통, 계절 정보를 나누어 정리합니다.</p>
     <div class="page-copy info-grid category-grid">
       {categories.map((category) => (
-        <a class="info-card" href={`/categories/${encodeURIComponent(category)}/`}>
+        <a class="info-card" href={getCategoryUrl(category)}>
           <h2>{category}</h2>
           <p>{categoryDescriptions[category]}</p>
         </a>

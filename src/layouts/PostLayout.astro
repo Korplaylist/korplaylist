@@ -1,17 +1,20 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
 import AuthorBio from "../components/AuthorBio.astro";
+import InternalLinkGuide from "../components/InternalLinkGuide.astro";
 import RelatedPosts from "../components/RelatedPosts.astro";
 import ShareButtons from "../components/ShareButtons.astro";
 import StayRecommendationPanel from "../components/StayRecommendationPanel.astro";
 import { authorProfiles, siteConfig } from "../site.config";
-import { formatDate, getImageAlt, getPostUrl } from "../lib/travel";
+import { formatDate, getImageAlt, getPostRegion, getPostUrl, getRegionUrl } from "../lib/travel";
 
 const { post, headings = [], relatedPosts = [], faqItems = [] } = Astro.props;
 const postUrl = new URL(getPostUrl(post), siteConfig.domain).toString();
 const postImage = new URL(post.data.heroImage, siteConfig.domain).toString();
 const author = authorProfiles.ko;
 const imageAlt = getImageAlt(post);
+const postRegion = getPostRegion(post);
+const regionUrl = getRegionUrl(postRegion);
 const articleSchema = {
   "@type": "Article",
   headline: post.data.title,
@@ -45,8 +48,8 @@ const breadcrumbSchema = {
     {
       "@type": "ListItem",
       position: 2,
-      name: post.data.region,
-      item: new URL(`/regions/${encodeURIComponent(post.data.region)}/`, siteConfig.domain).toString()
+      name: postRegion,
+      item: new URL(regionUrl, siteConfig.domain).toString()
     },
     {
       "@type": "ListItem",
@@ -88,7 +91,7 @@ const jsonLd = {
     <nav class="breadcrumb" aria-label="현재 위치">
       <a href="/">홈</a>
       <span>/</span>
-      <a href={`/regions/${encodeURIComponent(post.data.region)}/`}>{post.data.region}</a>
+      <a href={regionUrl}>{postRegion}</a>
       <span>/</span>
       <span>{post.data.title}</span>
     </nav>
@@ -120,6 +123,7 @@ const jsonLd = {
     <div class="article-content">
       <slot />
     </div>
+    <InternalLinkGuide currentPost={post} posts={relatedPosts} />
     <AuthorBio locale="ko" />
     <ShareButtons title={post.data.title} description={post.data.description} url={postUrl} image={postImage} />
     <StayRecommendationPanel post={post} />

@@ -1,12 +1,12 @@
 ---
 import { getCollection } from "astro:content";
 import PostLayout from "../../../layouts/PostLayout.astro";
-import { extractFaqItems, getRelatedPosts } from "../../../lib/travel";
+import { extractFaqItems, getPostRegion, getRegionSlug, getRelatedPosts } from "../../../lib/travel";
 
 export async function getStaticPaths() {
   const posts = await getCollection("travel", ({ data }) => !data.draft);
   return posts.map((post) => ({
-    params: { region: post.data.region, slug: post.slug },
+    params: { region: getRegionSlug(getPostRegion(post)), slug: post.slug },
     props: { post }
   }));
 }

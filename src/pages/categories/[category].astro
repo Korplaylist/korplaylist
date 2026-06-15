@@ -1,13 +1,13 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import PostCard from "../../components/PostCard.astro";
-import { getPublishedTravelPosts } from "../../lib/travel";
+import { getCategorySlug, getCategoryUrl, getPublishedTravelPosts } from "../../lib/travel";
 import { categories, categoryDescriptions } from "../../site.config";
 
 export async function getStaticPaths() {
   const posts = await getPublishedTravelPosts();
   const allCategories = [...new Set([...categories, ...posts.map((post) => post.data.category)])];
-  return allCategories.map((category) => ({ params: { category }, props: { category } }));
+  return allCategories.map((category) => ({ params: { category: getCategorySlug(category) }, props: { category } }));
 }
 
 const { category } = Astro.props;
@@ -15,7 +15,7 @@ const posts = (await getPublishedTravelPosts()).filter((post) => post.data.categ
 const description = categoryDescriptions[category] ?? `${category} 한국여행 정보를 모았습니다.`;
 ---
 
-<BaseLayout title={category} description={description} canonical={`/categories/${encodeURIComponent(category)}/`}>
+<BaseLayout title={category} description={description} canonical={getCategoryUrl(category)}>
   <section class="page-shell">
     <p class="eyebrow">Category</p>
     <h1>{category}</h1>

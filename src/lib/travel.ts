@@ -1,12 +1,34 @@
 import { getCollection } from "astro:content";
+import { categorySlugMap, postRegionMap, regionSlugMap } from "../site.config";
 
 export async function getPublishedTravelPosts() {
   const posts = await getCollection("travel", ({ data }) => !data.draft);
   return posts.sort((a, b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf());
 }
 
+export function getPostRegion(post: { data: { region: string } } | string) {
+  const region = typeof post === "string" ? post : post.data.region;
+  return postRegionMap[region] ?? region;
+}
+
+export function getRegionSlug(region: string) {
+  return regionSlugMap[region] ?? slugify(region);
+}
+
+export function getRegionUrl(region: string) {
+  return `/regions/${getRegionSlug(region)}/`;
+}
+
 export function getPostUrl(post: { slug: string; data: { region: string } }) {
-  return `/travel/${encodeURIComponent(post.data.region)}/${post.slug}/`;
+  return `/travel/${getRegionSlug(getPostRegion(post))}/${post.slug}/`;
+}
+
+export function getCategorySlug(category: string) {
+  return categorySlugMap[category] ?? slugify(category);
+}
+
+export function getCategoryUrl(category: string) {
+  return `/categories/${getCategorySlug(category)}/`;
 }
 
 export function getImageAlt(post: { data: { title: string; imageAlt?: string } }) {
@@ -18,7 +40,7 @@ export function getRelatedPosts(currentPost: any, posts: any[], limit = 5) {
     .filter((post) => post.slug !== currentPost.slug)
     .map((post) => {
       const sharedTags = post.data.tags.filter((tag: string) => currentPost.data.tags.includes(tag)).length;
-      const regionScore = post.data.region === currentPost.data.region ? 4 : 0;
+      const regionScore = getPostRegion(post) === getPostRegion(currentPost) ? 4 : 0;
       const categoryScore = post.data.category === currentPost.data.category ? 3 : 0;
 
       return {
@@ -41,8 +63,9 @@ export function getTopRegions(posts: any[], limit = 4) {
   const regionStats = new Map<string, { count: number; latest: number }>();
 
   posts.forEach((post) => {
-    const current = regionStats.get(post.data.region) ?? { count: 0, latest: 0 };
-    regionStats.set(post.data.region, {
+    const region = getPostRegion(post);
+    const current = regionStats.get(region) ?? { count: 0, latest: 0 };
+    regionStats.set(region, {
       count: current.count + 1,
       latest: Math.max(current.latest, post.data.updatedAt.valueOf())
     });
@@ -98,6 +121,15 @@ function stripMarkdown(value: string) {
     .replace(/[`*_>#-]/g, "")
     .replace(/\s+/g, " ")
     .trim();
+}
+
+function slugify(value: string) {
+  return value
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^\p{L}\p{N}]+/gu, "-")
+    .replace(/^-|-$/g, "")
+    .toLowerCase();
 }
 
 export function formatDate(date: Date) {

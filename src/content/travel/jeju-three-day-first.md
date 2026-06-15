@@ -12,7 +12,7 @@ draft: false
 
 ## 코스 개요
 
-제주 첫 여행은 욕심을 줄이고 동쪽 또는 서쪽 중심으로 잡는 것이 좋습니다. 2박3일 동안 섬 전체를 빠르게 도는 계획은 이동 시간이 길어져 피로도가 커질 수 있습니다.
+제주 첫 여행은 욕심을 줄이고 동쪽 또는 서쪽 중심으로 잡는 것이 좋습니다. 2박3일 동안 섬 전체를 빠르게 도는 계획은 이동 시간이 길어져 피로도가 커질 수 있습니다. 차 없이 이동할 계획이라면 [렌터카 없이 제주 여행하는 방법](/travel/jeju/jeju-without-car/)을 먼저 확인하세요.
 
 <figure class="content-photo">
   <img src="/images/kto/jeju-three-day-first-content.jpg" alt="올레길" width="1200" height="800" loading="lazy" />

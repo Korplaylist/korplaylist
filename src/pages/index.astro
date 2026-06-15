@@ -3,12 +3,12 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import PopularCarousel from "../components/PopularCarousel.astro";
 import PostCard from "../components/PostCard.astro";
 import { categories, categoryDescriptions, regions, siteConfig } from "../site.config";
-import { getPopularPosts, getPublishedTravelPosts } from "../lib/travel";
+import { getCategoryUrl, getPopularPosts, getPostRegion, getPublishedTravelPosts, getRegionUrl } from "../lib/travel";
 
 const posts = await getPublishedTravelPosts();
 const latest = posts.slice(0, 6);
 const popular = getPopularPosts(posts, 6);
-const regionList = [...new Set([...regions, ...posts.map((post) => post.data.region)])];
+const regionList = [...new Set([...regions, ...posts.map((post) => getPostRegion(post))])];
 const categoryList = [...new Set([...categories, ...posts.map((post) => post.data.category)])];
 ---
 
@@ -52,7 +52,7 @@ const categoryList = [...new Set([...categories, ...posts.map((post) => post.dat
         </div>
       </div>
       <div class="filter-grid">
-        {regionList.map((region) => <a href={`/regions/${encodeURIComponent(region)}/`}>{region}</a>)}
+        {regionList.map((region) => <a href={getRegionUrl(region)}>{region}</a>)}
       </div>
     </div>
   </section>
@@ -66,7 +66,7 @@ const categoryList = [...new Set([...categories, ...posts.map((post) => post.dat
     </div>
     <div class="info-grid">
       {categoryList.map((category) => (
-        <a class="info-card" href={`/categories/${encodeURIComponent(category)}/`}>
+        <a class="info-card" href={getCategoryUrl(category)}>
           <h3>{category}</h3>
           <p>{categoryDescriptions[category] ?? `${category} 관련 한국여행 정보를 모아 정리합니다.`}</p>
         </a>

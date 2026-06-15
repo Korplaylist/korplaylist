@@ -1,6 +1,6 @@
 ---
 import { localeLabels, localizedRegions, siteConfig } from "../site.config";
-import { getPublishedTravelPosts, getTopRegions } from "../lib/travel";
+import { getPublishedTravelPosts, getRegionUrl, getTopRegions } from "../lib/travel";
 
 const { locale = "ko" } = Astro.props;
 const labels = localeLabels[locale] ?? localeLabels.ko;
@@ -32,7 +32,7 @@ const languages = [
       {quickRegions.map((region) => {
         const regionIndex = localizedRegions.ko.indexOf(region);
         const label = regionNames[regionIndex] ?? region;
-        return <a href={locale === "ko" ? `/regions/${encodeURIComponent(region)}/` : `/${locale}/#regions`}>{label}</a>;
+        return <a href={locale === "ko" ? getRegionUrl(region) : `/${locale}/#regions`}>{label}</a>;
       })}
     </div>
     <nav class="language-switcher" aria-label={labels.languageLabel}>

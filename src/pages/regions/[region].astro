@@ -1,22 +1,20 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import PostCard from "../../components/PostCard.astro";
-import { getPublishedTravelPosts } from "../../lib/travel";
+import { getPostRegion, getPublishedTravelPosts, getRegionSlug, getRegionUrl } from "../../lib/travel";
+import { regions } from "../../site.config";
 
 const posts = await getPublishedTravelPosts();
-const uniqueRegions = [...new Set(posts.map((post) => post.data.region))];
 
 export async function getStaticPaths() {
-  const allPosts = await getPublishedTravelPosts();
-  const regions = [...new Set(allPosts.map((post) => post.data.region))];
-  return regions.map((region) => ({ params: { region }, props: { region } }));
+  return regions.map((region) => ({ params: { region: getRegionSlug(region) }, props: { region } }));
 }
 
 const { region } = Astro.props;
-const regionPosts = posts.filter((post) => post.data.region === region);
+const regionPosts = posts.filter((post) => getPostRegion(post) === region);
 ---
 
-<BaseLayout title={`${region} 여행`} description={`${region} 여행 코스, 교통, 비용, 방문 팁을 정리한 글입니다.`} canonical={`/regions/${encodeURIComponent(region)}/`}>
+<BaseLayout title={`${region} 여행`} description={`${region} 여행 코스, 교통, 비용, 방문 팁을 정리한 글입니다.`} canonical={getRegionUrl(region)}>
   <section class="page-shell">
     <p class="eyebrow">Region</p>
     <h1>{region} 여행</h1>

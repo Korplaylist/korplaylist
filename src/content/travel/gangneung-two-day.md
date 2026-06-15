@@ -12,7 +12,7 @@ draft: false
 
 ## 코스 개요
 
-강릉 1박2일은 바다만 보는 일정에서 조금 더 넓혀 역사와 시장, 북쪽 해안을 함께 넣기 좋습니다. 첫날은 경포와 안목해변, 둘째 날은 오죽헌과 주문진 방향으로 나누면 이동이 단순합니다.
+강릉 1박2일은 바다만 보는 일정에서 조금 더 넓혀 역사와 시장, 북쪽 해안을 함께 넣기 좋습니다. 첫날은 경포와 안목해변, 둘째 날은 오죽헌과 주문진 방향으로 나누면 이동이 단순합니다. 짧게 다녀올 계획이라면 [강릉 당일치기 바다·커피거리 코스](/travel/gangwon/gangneung-sea-coffee/)를 참고하세요.
 
 <figure class="content-photo">
   <img src="/images/kto/gangneung-two-day-content.jpg" alt="영진해변" width="1200" height="800" loading="lazy" />

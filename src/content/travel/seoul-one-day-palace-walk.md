@@ -12,7 +12,7 @@ draft: false
 
 ## 코스 개요
 
-서울에서 처음 국내여행 일정을 잡는다면 경복궁, 북촌, 인사동을 묶은 도보 코스가 안정적입니다. 지하철 접근성이 좋고 이동 거리가 짧아 하루 일정으로 부담이 적습니다.
+서울에서 처음 국내여행 일정을 잡는다면 경복궁, 북촌, 인사동을 묶은 도보 코스가 안정적입니다. 지하철 접근성이 좋고 이동 거리가 짧아 하루 일정으로 부담이 적습니다. 저녁까지 이어갈 계획이라면 [서울 한강 야경 코스](/travel/seoul/seoul-hangang-evening/)를 뒤에 붙이면 좋습니다.
 
 <figure class="content-photo">
   <img src="/images/kto/seoul-one-day-palace-walk-content.jpg" alt="단청" width="1200" height="800" loading="lazy" />

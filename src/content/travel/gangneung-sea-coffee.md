@@ -12,7 +12,7 @@ draft: false
 
 ## 코스 개요
 
-강릉은 KTX 접근성이 좋아 수도권 출발 당일치기 여행지로 많이 선택됩니다. 강릉역을 기준으로 안목해변, 경포호, 중앙시장 또는 초당동을 묶으면 하루 일정이 안정적입니다.
+강릉은 KTX 접근성이 좋아 수도권 출발 당일치기 여행지로 많이 선택됩니다. 강릉역을 기준으로 안목해변, 경포호, 중앙시장 또는 초당동을 묶으면 하루 일정이 안정적입니다. 하루보다 여유 있게 보려면 [강릉 1박2일 여행 코스](/travel/gangwon/gangneung-two-day/)를 함께 확인하세요.
 
 <figure class="content-photo">
   <img src="/images/kto/gangneung-sea-coffee-content.jpg" alt="안목해변" width="1200" height="800" loading="lazy" />

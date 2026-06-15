@@ -609,6 +609,47 @@ h3 {
   font-weight: 700;
 }
 
+.internal-link-guide {
+  margin: 34px 0 0;
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #f9fbfb;
+}
+
+.internal-link-guide h2 {
+  font-size: 1.32rem;
+}
+
+.internal-link-guide p:not(.eyebrow) {
+  margin: 8px 0 14px;
+  color: var(--muted);
+}
+
+.internal-link-guide > div {
+  display: grid;
+  gap: 10px;
+}
+
+.internal-link-guide a {
+  display: grid;
+  gap: 3px;
+  padding: 13px 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: white;
+}
+
+.internal-link-guide a span {
+  color: var(--accent-strong);
+  font-size: 0.82rem;
+  font-weight: 800;
+}
+
+.internal-link-guide a strong {
+  line-height: 1.35;
+}
+
 .compare-table {
   display: grid;
   margin: 24px 0 30px;

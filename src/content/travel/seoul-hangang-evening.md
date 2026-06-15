@@ -12,7 +12,7 @@ draft: false
 
 ## 코스 개요
 
-한강은 서울 여행에서 비용 부담이 낮고 계절감이 뚜렷한 코스입니다. 낮보다 저녁 시간대가 걷기 편하고, 야경과 편의시설을 함께 이용할 수 있습니다.
+한강은 서울 여행에서 비용 부담이 낮고 계절감이 뚜렷한 코스입니다. 낮보다 저녁 시간대가 걷기 편하고, 야경과 편의시설을 함께 이용할 수 있습니다. 낮 일정이 필요하다면 [서울 경복궁·북촌·인사동 도보 코스](/travel/seoul/seoul-one-day-palace-walk/)와 연결해 보세요.
 
 <figure class="content-photo">
   <img src="/images/kto/seoul-hangang-evening-content.jpg" alt="반포대교" width="1200" height="800" loading="lazy" />

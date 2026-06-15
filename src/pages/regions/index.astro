@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { regionGroups } from "../../site.config";
+import { getRegionUrl } from "../../lib/travel";
 ---
 
 <BaseLayout title="지역별 한국여행" description="수도권, 강원, 영남, 호남, 제주 권역별 국내 여행 정보를 정리한 한국여행 가이드입니다." canonical="/regions/">
@@ -13,7 +14,7 @@ import { regionGroups } from "../../site.config";
         <section class="region-group">
           <h2>{group.name}</h2>
           <div class="filter-grid">
-            {group.regions.map((region) => <a href={`/regions/${encodeURIComponent(region)}/`}>{region}</a>)}
+            {group.regions.map((region) => <a href={getRegionUrl(region)}>{region}</a>)}
           </div>
         </section>
       ))}

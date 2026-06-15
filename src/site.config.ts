@@ -58,12 +58,56 @@ export const categoryDescriptions: Record<string, string> = {
   "계절 축제": "봄꽃, 여름 바다, 가을 단풍, 겨울 여행과 축제 정보를 계절별로 정리합니다."
 };
 
-export const regions = ["서울", "부산", "제주", "강릉", "전주", "경주", "여수", "속초", "통영", "인천", "대구", "춘천"];
+export const regions = ["서울", "부산", "대구", "인천", "광주", "대전", "울산", "세종", "경기", "강원", "충북", "충남", "경북", "경남", "전북", "전남", "제주"];
+
+export const regionSlugMap: Record<string, string> = {
+  서울: "seoul",
+  부산: "busan",
+  대구: "daegu",
+  인천: "incheon",
+  광주: "gwangju",
+  대전: "daejeon",
+  울산: "ulsan",
+  세종: "sejong",
+  경기: "gyeonggi",
+  강원: "gangwon",
+  충북: "chungbuk",
+  충남: "chungnam",
+  경북: "gyeongbuk",
+  경남: "gyeongnam",
+  전북: "jeonbuk",
+  전남: "jeonnam",
+  제주: "jeju"
+};
+
+export const postRegionMap: Record<string, string> = {
+  서울: "서울",
+  부산: "부산",
+  대구: "대구",
+  인천: "인천",
+  제주: "제주",
+  강릉: "강원",
+  속초: "강원",
+  춘천: "강원",
+  경주: "경북",
+  통영: "경남",
+  전주: "전북",
+  여수: "전남"
+};
 
 export const localizedRegions: Record<string, string[]> = {
-  ko: ["서울", "부산", "제주", "강릉", "전주", "경주", "여수", "속초", "통영", "인천", "대구", "춘천"],
-  en: ["Seoul", "Busan", "Jeju", "Gangneung", "Jeonju", "Gyeongju", "Yeosu", "Sokcho", "Tongyeong", "Incheon", "Daegu", "Chuncheon"],
-  ja: ["ソウル", "釜山", "済州", "江陵", "全州", "慶州", "麗水", "束草", "統営", "仁川", "大邱", "春川"]
+  ko: ["서울", "부산", "대구", "인천", "광주", "대전", "울산", "세종", "경기", "강원", "충북", "충남", "경북", "경남", "전북", "전남", "제주"],
+  en: ["Seoul", "Busan", "Daegu", "Incheon", "Gwangju", "Daejeon", "Ulsan", "Sejong", "Gyeonggi", "Gangwon", "Chungbuk", "Chungnam", "Gyeongbuk", "Gyeongnam", "Jeonbuk", "Jeonnam", "Jeju"],
+  ja: ["ソウル", "釜山", "大邱", "仁川", "光州", "大田", "蔚山", "世宗", "京畿", "江原", "忠北", "忠南", "慶北", "慶南", "全北", "全南", "済州"]
+};
+
+export const categorySlugMap: Record<string, string> = {
+  "여행 코스": "itineraries",
+  "여행지": "destinations",
+  "맛집": "food",
+  "숙소": "stays",
+  "교통 준비": "transport",
+  "계절 축제": "seasonal-trips"
 };
 
 export const localizedCategories: Record<string, string[]> = {
@@ -119,23 +163,23 @@ export const localeLabels = {
 
 export const regionGroups = [
   {
-    name: "수도권",
-    regions: ["서울", "인천"]
+    name: "특별·광역시",
+    regions: ["서울", "부산", "대구", "인천", "광주", "대전", "울산", "세종"]
   },
   {
-    name: "강원",
-    regions: ["강릉", "속초", "춘천"]
+    name: "수도권·강원",
+    regions: ["경기", "강원"]
+  },
+  {
+    name: "충청",
+    regions: ["충북", "충남"]
   },
   {
     name: "영남",
-    regions: ["부산", "경주", "대구", "통영"]
+    regions: ["경북", "경남"]
   },
   {
-    name: "호남",
-    regions: ["전주", "여수"]
-  },
-  {
-    name: "제주",
-    regions: ["제주"]
+    name: "호남·제주",
+    regions: ["전북", "전남", "제주"]
   }
 ];

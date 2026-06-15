@@ -12,7 +12,7 @@ draft: false
 
 ## 코스 개요
 
-경주 가족 여행은 걷는 거리와 휴식 지점을 함께 고려해야 합니다. 대릉원, 첨성대, 국립경주박물관은 교육적 요소와 산책 요소를 함께 갖춘 코스로 활용하기 좋습니다.
+경주 가족 여행은 걷는 거리와 휴식 지점을 함께 고려해야 합니다. 대릉원, 첨성대, 국립경주박물관은 교육적 요소와 산책 요소를 함께 갖춘 코스로 활용하기 좋습니다. 불국사와 석굴암까지 넓게 보려면 [경주 역사 여행 1박2일 코스](/travel/gyeongbuk/gyeongju-history-two-day/)를 함께 확인하세요.
 
 <figure class="content-photo">
   <img src="/images/kto/gyeongju-family-content.jpg" alt="대릉원(천마총)" width="1200" height="800" loading="lazy" />

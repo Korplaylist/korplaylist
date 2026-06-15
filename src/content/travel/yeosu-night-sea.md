@@ -12,7 +12,7 @@ draft: false
 
 ## 코스 개요
 
-여수는 바다 전망과 야경을 중심으로 여행 계획을 세우기 좋은 도시입니다. 낮에는 오동도와 돌산공원 주변을 보고, 저녁에는 해상케이블카와 낭만포차거리 방향으로 이동하는 일정이 많이 쓰입니다.
+여수는 바다 전망과 야경을 중심으로 여행 계획을 세우기 좋은 도시입니다. 낮에는 오동도와 돌산공원 주변을 보고, 저녁에는 해상케이블카와 낭만포차거리 방향으로 이동하는 일정이 많이 쓰입니다. 낮 섬 여행을 함께 넣고 싶다면 [여수 섬 여행 당일치기 코스](/travel/jeonnam/yeosu-island-day/)를 참고하세요.
 
 <figure class="content-photo">
   <img src="/images/kto/yeosu-night-sea-content.jpg" alt="여수국가산업단지" width="1200" height="800" loading="lazy" />
