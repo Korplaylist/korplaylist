@@ -2,26 +2,35 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import PostCard from "../../components/PostCard.astro";
 import { getPublishedTravelPosts } from "../../lib/travel";
+import { categories, categoryDescriptions } from "../../site.config";
 
 export async function getStaticPaths() {
   const posts = await getPublishedTravelPosts();
-  const categories = [...new Set(posts.map((post) => post.data.category))];
-  return categories.map((category) => ({ params: { category }, props: { category } }));
+  const allCategories = [...new Set([...categories, ...posts.map((post) => post.data.category)])];
+  return allCategories.map((category) => ({ params: { category }, props: { category } }));
 }
 
 const { category } = Astro.props;
 const posts = (await getPublishedTravelPosts()).filter((post) => post.data.category === category);
+const description = categoryDescriptions[category] ?? `${category} 한국여행 정보를 모았습니다.`;
 ---
 
-<BaseLayout title={category} description={`${category} 국내여행 정보를 모았습니다.`} canonical={`/categories/${encodeURIComponent(category)}/`}>
+<BaseLayout title={category} description={description} canonical={`/categories/${encodeURIComponent(category)}/`}>
   <section class="page-shell">
     <p class="eyebrow">Category</p>
     <h1>{category}</h1>
-    <p>{category}에 맞는 국내여행 글입니다.</p>
+    <p>{description}</p>
   </section>
   <section class="section">
-    <div class="post-grid">
-      {posts.map((post) => <PostCard post={post} />)}
-    </div>
+    {posts.length > 0 ? (
+      <div class="post-grid">
+        {posts.map((post) => <PostCard post={post} />)}
+      </div>
+    ) : (
+      <div class="empty-state">
+        <strong>준비 중인 테마입니다</strong>
+        <p>이 분류는 향후 숙소, 외국인 여행 가이드처럼 별도 콘텐츠를 확장할 때 우선 채워갈 예정입니다.</p>
+      </div>
+    )}
   </section>
 </BaseLayout>

@@ -1,7 +1,7 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import PostCard from "../components/PostCard.astro";
-import { categories, regions, siteConfig } from "../site.config";
+import { categories, categoryDescriptions, regions, siteConfig } from "../site.config";
 import { getPublishedTravelPosts } from "../lib/travel";
 
 const posts = await getPublishedTravelPosts();
@@ -14,7 +14,7 @@ const latest = posts.slice(0, 6);
       <p class="eyebrow">국내여행 준비를 위한 빠른 기준점</p>
       <h1>한국여행 코스와 비용을 한눈에 정리합니다</h1>
       <p>
-        한국플레이리스트는 지역별 핵심 여행지, 당일치기 동선, 1박2일 일정, 교통과 예산 정보를 객관적으로 정리하는 한국여행 가이드입니다.
+        한국플레이리스트는 국내 여행지, 여행 코스, 맛집, 숙소, 교통 준비, 계절 여행 정보를 객관적으로 정리하는 한국여행 가이드입니다.
       </p>
       <div class="hero-actions">
         <a class="button" href="/regions/">지역별 보기</a>
@@ -41,8 +41,8 @@ const latest = posts.slice(0, 6);
     <div class="section">
       <div class="section-head">
         <div>
-          <h2>지역별 여행</h2>
-          <p>처음 방문하는 사람도 동선을 빠르게 잡을 수 있도록 지역별 글을 묶었습니다.</p>
+          <h2>지역별 한국여행</h2>
+          <p>처음 방문하는 사람도 동선을 빠르게 잡을 수 있도록 권역과 도시별 글을 묶었습니다.</p>
         </div>
       </div>
       <div class="filter-grid">
@@ -54,15 +54,15 @@ const latest = posts.slice(0, 6);
   <section class="section">
     <div class="section-head">
       <div>
-        <h2>테마별 보기</h2>
-        <p>당일치기, 1박2일, 비용, 계절 여행처럼 검색 의도에 맞춰 탐색할 수 있습니다.</p>
+        <h2>테마별 한국여행</h2>
+        <p>코스, 여행지, 맛집, 숙소, 교통 준비, 계절 축제처럼 검색 의도에 맞춰 탐색할 수 있습니다.</p>
       </div>
     </div>
     <div class="info-grid">
       {categories.map((category) => (
         <a class="info-card" href={`/categories/${encodeURIComponent(category)}/`}>
           <h3>{category}</h3>
-          <p>{category}에 맞는 국내여행 정보를 모아봅니다.</p>
+          <p>{categoryDescriptions[category]}</p>
         </a>
       ))}
     </div>

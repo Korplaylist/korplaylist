@@ -305,6 +305,36 @@ h3 {
   gap: 16px;
 }
 
+.category-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.category-grid h2 {
+  font-size: 1.1rem;
+}
+
+.region-group-list {
+  display: grid;
+  gap: 22px;
+}
+
+.region-group h2 {
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+}
+
+.empty-state {
+  padding: 22px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--soft);
+}
+
+.empty-state p {
+  margin: 6px 0 0;
+  color: var(--muted);
+}
+
 .page-shell,
 .article-shell {
   max-width: 880px;
@@ -618,14 +648,16 @@ h3 {
   }
 
   .post-grid,
-  .info-grid {
+  .info-grid,
+  .category-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
 @media (max-width: 620px) {
   .post-grid,
-  .info-grid {
+  .info-grid,
+  .category-grid {
     grid-template-columns: 1fr;
   }
 

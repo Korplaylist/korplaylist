@@ -1,5 +1,5 @@
 import { getPublishedTravelPosts, getPostUrl } from "../lib/travel";
-import { siteConfig } from "../site.config";
+import { categories, regions, siteConfig } from "../site.config";
 
 const staticPaths = [
   "/",
@@ -16,7 +16,9 @@ const staticPaths = [
 
 export async function GET() {
   const posts = await getPublishedTravelPosts();
-  const urls = [...staticPaths, ...posts.map((post) => getPostUrl(post))];
+  const categoryUrls = categories.map((category) => `/categories/${encodeURIComponent(category)}/`);
+  const regionUrls = regions.map((region) => `/regions/${encodeURIComponent(region)}/`);
+  const urls = [...staticPaths, ...categoryUrls, ...regionUrls, ...posts.map((post) => getPostUrl(post))];
   const body = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls
