@@ -259,6 +259,7 @@ h3 {
 }
 
 .post-card img {
+  display: block;
   aspect-ratio: 16 / 10;
   width: 100%;
   object-fit: cover;
@@ -325,7 +326,11 @@ h3 {
 
 .popular-slide-image picture,
 .post-image-link picture,
-.content-photo picture,
+.content-photo picture {
+  display: block;
+  width: 100%;
+}
+
 .stay-card picture,
 .related-card picture {
   display: block;
