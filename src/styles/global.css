@@ -532,10 +532,11 @@ h3 {
 
 .article-content {
   font-size: 1.04rem;
+  line-height: 1.85;
 }
 
 .article-content p {
-  margin: 16px 0;
+  margin: 18px 0;
 }
 
 .article-content h2 {

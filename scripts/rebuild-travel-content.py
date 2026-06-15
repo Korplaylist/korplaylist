@@ -476,20 +476,32 @@ def transport_block(key, locale):
     if locale == "ko":
         return f'''## 대중교통, 택시, 렌터카 선택 기준
 
-{names[0]}에서 {names[-1]}까지 한 번에 이어 보면 지도상 거리는 짧아 보여도 실제 이동은 환승, 배차 간격, 짐 이동 때문에 달라질 수 있습니다. 도심형 코스는 대중교통과 짧은 택시 조합이 가장 안정적이고, 해변·산·섬·외곽 전망대가 들어가면 렌터카나 택시 비중을 높이는 편이 좋습니다.
+{names[0]}에서 {names[-1]}까지 한 번에 이어 보면 지도상 거리는 짧아 보여도 실제 이동은 환승, 배차 간격, 짐 이동 때문에 달라질 수 있습니다.
 
-대중교통을 쓴다면 첫 목적지까지의 이동 시간보다 마지막 장소에서 숙소로 돌아오는 시간을 더 중요하게 보세요. 여행 만족도는 마지막 1시간에 크게 갈립니다. 렌터카를 쓰는 경우에는 주차장 위치, 야간 운전, 음주 가능성, 성수기 정체를 함께 고려해야 합니다. 택시는 2~3명이 함께 움직이면 효율적이지만, 축제·해변·막차 시간대에는 호출이 늦어질 수 있습니다.'''
+도심형 코스는 대중교통과 짧은 택시 조합이 가장 안정적입니다. 해변·산·섬·외곽 전망대가 들어가면 렌터카나 택시 비중을 높이는 편이 좋습니다.
+
+대중교통을 쓴다면 첫 목적지까지의 이동 시간보다 마지막 장소에서 숙소로 돌아오는 시간을 더 중요하게 보세요. 여행 만족도는 마지막 1시간에 크게 갈립니다.
+
+렌터카를 쓰는 경우에는 주차장 위치, 야간 운전, 음주 가능성, 성수기 정체를 함께 고려해야 합니다. 택시는 2~3명이 함께 움직이면 효율적이지만, 축제·해변·막차 시간대에는 호출이 늦어질 수 있습니다.'''
     if locale == "en":
         return f'''## Public Transport, Taxi, or Rental Car
 
-The route from {names[0]} to {names[-1]} may look simple on a map, but transfers, bus intervals, luggage, and the final return can change the real difficulty. For city routes, public transport plus short taxi rides is usually the most balanced option. For beaches, mountains, islands, or outer viewpoints, a rental car or extra taxi budget may be more realistic.
+The route from {names[0]} to {names[-1]} may look simple on a map, but transfers, bus intervals, luggage, and the final return can change the real difficulty.
 
-If you use public transport, do not only check the first ride of the day. Check how you return from the final stop to your stay area. If you rent a car, check parking, night driving, possible congestion, and whether the evening plan includes alcohol. Taxis work well for two or three people, but waits can be longer near beaches, festivals, and late-night transport hubs.'''
+For city routes, public transport plus short taxi rides is usually the most balanced option. For beaches, mountains, islands, or outer viewpoints, a rental car or extra taxi budget may be more realistic.
+
+If you use public transport, do not only check the first ride of the day. Check how you return from the final stop to your stay area.
+
+If you rent a car, check parking, night driving, possible congestion, and whether the evening plan includes alcohol. Taxis work well for two or three people, but waits can be longer near beaches, festivals, and late-night transport hubs.'''
     return f'''## 公共交通・タクシー・レンタカーの選び方
 
-{names[0]}から{names[-1]}まで地図上では簡単に見えても、乗り換え、バスの本数、荷物、最後の帰り道で実際の負担は変わります。都市型のコースは公共交通と短距離タクシーの組み合わせが安定し、海辺、山、島、郊外の展望スポットを入れる場合はレンタカーやタクシー予算を多めに見ると安心です。
+{names[0]}から{names[-1]}まで地図上では簡単に見えても、乗り換え、バスの本数、荷物、最後の帰り道で実際の負担は変わります。
 
-公共交通を使うなら、最初の移動より最後の場所から宿泊エリアへ戻る時間を重視してください。レンタカーの場合は駐車場、夜間運転、渋滞、夕食時の飲酒予定も確認します。タクシーは2〜3人なら効率的ですが、海辺、祭り、終電前後は呼び出しに時間がかかることがあります。'''
+都市型のコースは公共交通と短距離タクシーの組み合わせが安定します。海辺、山、島、郊外の展望スポットを入れる場合はレンタカーやタクシー予算を多めに見ると安心です。
+
+公共交通を使うなら、最初の移動より最後の場所から宿泊エリアへ戻る時間を重視してください。
+
+レンタカーの場合は駐車場、夜間運転、渋滞、夕食時の飲酒予定も確認します。タクシーは2〜3人なら効率的ですが、海辺、祭り、終電前後は呼び出しに時間がかかることがあります。'''
 
 def stay_food_weather_block(key, locale):
     names = stop_names(key, locale)
@@ -502,7 +514,9 @@ def stay_food_weather_block(key, locale):
 
 ## 비 오는 날과 더운 날 대체 운영
 
-비가 오면 야외 체류 시간을 줄이고 실내 전시, 시장, 카페, 짧은 택시 이동을 섞어야 합니다. 특히 사진 목적의 장소는 만족도가 떨어질 수 있으므로 낮 시간의 핵심 장소 1~2개만 남기고 나머지는 식사와 실내 휴식으로 바꾸는 편이 좋습니다. 여름에는 한낮 이동을 줄이고, 겨울에는 해가 짧으니 야외 사진 장소를 오전과 이른 오후로 당기세요.'''
+비가 오면 야외 체류 시간을 줄이고 실내 전시, 시장, 카페, 짧은 택시 이동을 섞어야 합니다. 특히 사진 목적의 장소는 만족도가 떨어질 수 있으므로 낮 시간의 핵심 장소 1~2개만 남기는 편이 좋습니다.
+
+나머지는 식사와 실내 휴식으로 바꾸면 일정이 덜 흔들립니다. 여름에는 한낮 이동을 줄이고, 겨울에는 해가 짧으니 야외 사진 장소를 오전과 이른 오후로 당기세요.'''
     if locale == "en":
         return f'''## Stay Area and Food Timing
 
@@ -512,7 +526,9 @@ For food, place one longer meal after {names[1] if len(names) > 1 else names[0]}
 
 ## Rainy-Day and Hot-Weather Adjustments
 
-On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and short taxi rides. Photo-focused stops may lose value, so keep only one or two essential daylight stops and use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, move outdoor photo stops earlier because sunset comes quickly.'''
+On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and short taxi rides. Photo-focused stops may lose value, so keep only one or two essential daylight stops.
+
+Use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, move outdoor photo stops earlier because sunset comes quickly.'''
     return f'''## 宿泊エリアと食事のタイミング
 
 宿泊エリアは安さだけでなく、最後の予定後に戻りやすい場所を選ぶのが大切です。{names[-1]}周辺で夕食や夜景を入れるなら、宿が遠すぎると翌朝まで疲れが残ります。翌朝の移動が早い場合は、駅、ターミナル、空港へのアクセスを優先してください。
@@ -521,7 +537,9 @@ On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and 
 
 ## 雨の日・暑い日の代替案
 
-雨の日は屋外の滞在時間を減らし、屋内展示、市場、カフェ、短距離タクシーを組み合わせます。写真目的の場所は満足度が下がることがあるため、日中の重要スポットを1〜2か所だけ残し、残りは食事と休憩に切り替えると安心です。夏は昼の長い徒歩移動を避け、冬は日没が早いので屋外写真スポットを前半に寄せてください。'''
+雨の日は屋外の滞在時間を減らし、屋内展示、市場、カフェ、短距離タクシーを組み合わせます。写真目的の場所は満足度が下がることがあるため、日中の重要スポットを1〜2か所だけ残すと安心です。
+
+残りは食事と休憩に切り替えます。夏は昼の長い徒歩移動を避け、冬は日没が早いので屋外写真スポットを前半に寄せてください。'''
 
 def mistakes_block(key, locale):
     names = stop_names(key, locale)
@@ -530,30 +548,44 @@ def mistakes_block(key, locale):
 
 가장 흔한 실수는 {join_names(names, locale)} 같은 장소를 모두 같은 무게로 보는 것입니다. 실제 일정에서는 반드시 오래 머무를 장소와 짧게 확인할 장소를 나눠야 합니다. 모든 장소에서 사진, 식사, 카페를 다 넣으면 이동 시간보다 체류 시간이 길어져 마지막 일정이 밀립니다.
 
-두 번째 실수는 숙소를 먼저 정하고 코스를 끼워 맞추는 것입니다. 숙소는 가격보다 마지막 일정, 다음 날 출발지, 짐 보관 가능성을 함께 봐야 합니다. 세 번째는 지도상 이동 시간만 믿는 것입니다. 주말, 성수기, 비 오는 날에는 대기와 호출 시간이 늘어나므로 최소 20~30분의 여유를 남겨두세요.
+두 번째 실수는 숙소를 먼저 정하고 코스를 끼워 맞추는 것입니다. 숙소는 가격보다 마지막 일정, 다음 날 출발지, 짐 보관 가능성을 함께 봐야 합니다.
+
+세 번째는 지도상 이동 시간만 믿는 것입니다. 주말, 성수기, 비 오는 날에는 대기와 호출 시간이 늘어나므로 최소 20~30분의 여유를 남겨두세요.
 
 ## 사진 찍기 좋은 시간과 저장해둘 것
 
-바다와 전망은 오전 또는 해 질 무렵이 좋고, 시장과 야경은 저녁에 분위기가 살아납니다. 단, 겨울에는 해가 빨리 지므로 야외 사진 장소를 너무 늦게 두지 마세요. 출발 전에는 Google Maps에 각 장소를 저장하고, 대체 식당, 근처 카페, 숙소 복귀 경로까지 같이 저장해두면 현장에서 흔들리지 않습니다.'''
+바다와 전망은 오전 또는 해 질 무렵이 좋고, 시장과 야경은 저녁에 분위기가 살아납니다. 단, 겨울에는 해가 빨리 지므로 야외 사진 장소를 너무 늦게 두지 마세요.
+
+출발 전에는 Google Maps에 각 장소를 저장하고, 대체 식당, 근처 카페, 숙소 복귀 경로까지 같이 저장해두면 현장에서 흔들리지 않습니다.'''
     if locale == "en":
         return f'''## Common Mistakes First-Time Visitors Make
 
-The biggest mistake is treating {join_names(names, locale)} as equally important. In a real itinerary, you need to decide which stops deserve long stays and which stops are quick checks. If every place includes photos, food, and cafe time, the final part of the day will usually fall behind.
+The biggest mistake is treating {join_names(names, locale)} as equally important.
 
-The second mistake is booking accommodation first and forcing the route around it. Check the final stop, next-day departure, and luggage storage before choosing the stay area. The third mistake is trusting map travel time too literally. On weekends, during peak season, or in rain, queues and ride-hailing time can add 20-30 minutes or more.
+In a real itinerary, you need to decide which stops deserve long stays and which stops are quick checks. If every place includes photos, food, and cafe time, the final part of the day will usually fall behind.
+
+The second mistake is booking accommodation first and forcing the route around it. Check the final stop, next-day departure, and luggage storage before choosing the stay area.
+
+The third mistake is trusting map travel time too literally. On weekends, during peak season, or in rain, queues and ride-hailing time can add 20-30 minutes or more.
 
 ## Best Photo Timing and What to Save
 
-Coasts and viewpoints are usually better in the morning or near sunset, while markets and night-view areas work better in the evening. In winter, avoid placing outdoor photo stops too late. Before leaving, save every stop in Google Maps along with backup restaurants, nearby cafes, and the return route to your stay area.'''
+Coasts and viewpoints are usually better in the morning or near sunset, while markets and night-view areas work better in the evening. In winter, avoid placing outdoor photo stops too late.
+
+Before leaving, save every stop in Google Maps along with backup restaurants, nearby cafes, and the return route to your stay area.'''
     return f'''## 初めての人がしやすい失敗
 
 よくある失敗は、{join_names(names, locale)}をすべて同じ重要度で見ることです。実際の旅程では、長く滞在する場所と短く確認する場所を分ける必要があります。すべての場所で写真、食事、カフェを入れると、最後の予定が遅れやすくなります。
 
-2つ目は、宿泊先を先に決めてから無理にコースを合わせることです。宿泊エリアは料金だけでなく、最後の予定、翌日の出発地、荷物預かりを一緒に見てください。3つ目は地図上の移動時間だけを信じることです。週末、繁忙期、雨の日は待ち時間が増えるため、20〜30分の余裕を残すと安心です。
+2つ目は、宿泊先を先に決めてから無理にコースを合わせることです。宿泊エリアは料金だけでなく、最後の予定、翌日の出発地、荷物預かりを一緒に見てください。
+
+3つ目は地図上の移動時間だけを信じることです。週末、繁忙期、雨の日は待ち時間が増えるため、20〜30分の余裕を残すと安心です。
 
 ## 写真に向く時間帯と保存しておくもの
 
-海や展望は午前または夕方、市場や夜景は夜の雰囲気が出やすいです。ただし冬は日没が早いため、屋外写真スポットを遅い時間に置きすぎないでください。出発前にGoogleマップで各スポット、代替の食事候補、近くのカフェ、宿泊先への帰り道を保存しておくと現地で迷いにくくなります。'''
+海や展望は午前または夕方、市場や夜景は夜の雰囲気が出やすいです。ただし冬は日没が早いため、屋外写真スポットを遅い時間に置きすぎないでください。
+
+出発前にGoogleマップで各スポット、代替の食事候補、近くのカフェ、宿泊先への帰り道を保存しておくと現地で迷いにくくなります。'''
 
 def budget_sentence(meta, locale):
     title = meta["title"]
@@ -620,13 +652,17 @@ def body(key, locale):
 
 ## 사람들이 가장 궁금해하는 포인트
 
-가장 먼저 확인할 것은 “하루에 가능한가”가 아니라 “어느 구간에서 시간이 새는가”입니다. 역이나 터미널에서 첫 목적지까지 멀고, 중간에 식사 대기가 생기고, 마지막 장소에서 다시 숙소나 역으로 돌아오는 시간이 길면 일정 만족도가 떨어집니다. 그래서 이 코스는 시작 지점, 사진을 찍는 구간, 식사나 휴식 구간, 귀가 전 마지막 구간을 분리해 잡는 방식이 좋습니다.
+가장 먼저 확인할 것은 “하루에 가능한가”가 아니라 “어느 구간에서 시간이 새는가”입니다. 역이나 터미널에서 첫 목적지까지 멀고, 중간에 식사 대기가 생기면 일정 만족도가 떨어집니다.
+
+마지막 장소에서 다시 숙소나 역으로 돌아오는 시간도 중요합니다. 그래서 이 코스는 시작 지점, 사진을 찍는 구간, 식사나 휴식 구간, 귀가 전 마지막 구간을 분리해 잡는 방식이 좋습니다.
 
 {photo_figure(p[1], locale)}
 
 ## 시간대별로 짜는 방법
 
-오전에는 이동이 길거나 사람이 몰리기 쉬운 장소를 먼저 넣는 편이 좋습니다. 점심 이후에는 걷기 좋은 구간과 실내 대체지를 함께 생각해두면 날씨 변화에 대응하기 쉽습니다. 저녁 일정이 있다면 야경이나 시장처럼 체류 시간이 자연스럽게 길어지는 장소를 마지막에 두는 것이 안정적입니다.
+오전에는 이동이 길거나 사람이 몰리기 쉬운 장소를 먼저 넣는 편이 좋습니다. 점심 이후에는 걷기 좋은 구간과 실내 대체지를 함께 생각해두면 날씨 변화에 대응하기 쉽습니다.
+
+저녁 일정이 있다면 야경이나 시장처럼 체류 시간이 자연스럽게 길어지는 장소를 마지막에 두는 것이 안정적입니다.
 
 {link_text}
 
@@ -636,7 +672,9 @@ def body(key, locale):
 
 ## 교통, 숙소 위치, 예상 비용
 
-뚜벅이 여행이라면 역과 터미널에서 첫 목적지까지의 시간을 먼저 확인하세요. 버스로 한 번에 이동할 수 있어도 배차 간격이 길면 실제 체감 시간은 크게 늘어납니다. 숙소는 가장 늦게 끝나는 일정 근처에 잡거나, 다음 날 출발지로 돌아가기 쉬운 곳을 고르는 편이 좋습니다. {budget}
+뚜벅이 여행이라면 역과 터미널에서 첫 목적지까지의 시간을 먼저 확인하세요. 버스로 한 번에 이동할 수 있어도 배차 간격이 길면 실제 체감 시간은 크게 늘어납니다.
+
+숙소는 가장 늦게 끝나는 일정 근처에 잡거나, 다음 날 출발지로 돌아가기 쉬운 곳을 고르는 편이 좋습니다. {budget}
 
 {cost}
 
@@ -648,7 +686,9 @@ def body(key, locale):
 
 ## 계절별 주의사항
 
-여름에는 해변과 야외 이동 시간이 길어져 체력 소모가 큽니다. 우산보다 가벼운 우비와 여분 양말이 더 유용할 때가 많습니다. 겨울에는 해가 짧아 사진을 찍을 수 있는 시간이 줄어드니 야외 명소를 앞쪽에 두세요. 연휴와 주말에는 식당 대기, 주차, 택시 호출 시간이 길어질 수 있으므로 Google Maps에서 장소별 위치를 미리 저장해두는 것을 추천합니다.
+여름에는 해변과 야외 이동 시간이 길어져 체력 소모가 큽니다. 우산보다 가벼운 우비와 여분 양말이 더 유용할 때가 많습니다.
+
+겨울에는 해가 짧아 사진을 찍을 수 있는 시간이 줄어드니 야외 명소를 앞쪽에 두세요. 연휴와 주말에는 식당 대기, 주차, 택시 호출 시간이 길어질 수 있으므로 Google Maps에서 장소별 위치를 미리 저장해두는 것을 추천합니다.
 
 {mistakes}
 
@@ -694,13 +734,17 @@ This guide is written around the questions travelers usually search before booki
 
 ## What Travelers Usually Want to Know
 
-The most important question is not only whether the route is possible. It is where time gets lost. Long station transfers, meal queues, luggage storage, and the return trip often decide whether the itinerary feels smooth or exhausting. This route separates arrival, photo time, food breaks, and the final stop so you can adjust it without rebuilding the whole plan.
+The most important question is not only whether the route is possible. It is where time gets lost. Long station transfers, meal queues, luggage storage, and the return trip often decide whether the itinerary feels smooth or exhausting.
+
+This route separates arrival, photo time, food breaks, and the final stop so you can adjust it without rebuilding the whole plan.
 
 {photo_figure(p[1], locale)}
 
 ## How to Plan the Day
 
-Put the longest or most crowded stop early in the day. Keep flexible time after lunch for cafes, indoor alternatives, or a slower walk. If the route includes night views, markets, or the coast, place them near the end so you are not forced to cross the city after dark.
+Put the longest or most crowded stop early in the day. Keep flexible time after lunch for cafes, indoor alternatives, or a slower walk.
+
+If the route includes night views, markets, or the coast, place them near the end so you are not forced to cross the city after dark.
 
 {link_text}
 
@@ -710,7 +754,9 @@ Put the longest or most crowded stop early in the day. Keep flexible time after 
 
 ## Transport, Stay Area, and Budget
 
-For travelers without a car, check the time from the station or terminal to the first stop before anything else. A route may look close on the map but feel slow when buses are infrequent. For accommodation, choose an area near the last evening stop or the next morning departure point. {budget}
+For travelers without a car, check the time from the station or terminal to the first stop before anything else. A route may look close on the map but feel slow when buses are infrequent.
+
+For accommodation, choose an area near the last evening stop or the next morning departure point. {budget}
 
 {cost}
 
@@ -722,7 +768,9 @@ For travelers without a car, check the time from the station or terminal to the 
 
 ## Seasonal Notes
 
-In summer, outdoor routes feel longer because of heat and crowds. In winter, sunset comes early, so outdoor photo stops should be placed earlier. On weekends and holidays, restaurant queues and taxi waits can change the route. Save each stop in Google Maps before leaving so you can adjust quickly.
+In summer, outdoor routes feel longer because of heat and crowds. In winter, sunset comes early, so outdoor photo stops should be placed earlier.
+
+On weekends and holidays, restaurant queues and taxi waits can change the route. Save each stop in Google Maps before leaving so you can adjust quickly.
 
 {mistakes}
 
@@ -767,13 +815,17 @@ Reduce photo-heavy outdoor stops and keep only the most important places. Add ma
 
 ## 旅行者が知りたいポイント
 
-大切なのは「行けるかどうか」だけではありません。駅から最初の目的地までの移動、食事の待ち時間、荷物預かり、最後に戻る時間で満足度が変わります。このルートでは、到着、写真、食事、最後の目的地を分けて考え、予定を調整しやすくしています。
+大切なのは「行けるかどうか」だけではありません。駅から最初の目的地までの移動、食事の待ち時間、荷物預かり、最後に戻る時間で満足度が変わります。
+
+このルートでは、到着、写真、食事、最後の目的地を分けて考え、予定を調整しやすくしています。
 
 {photo_figure(p[1], locale)}
 
 ## 時間帯ごとの考え方
 
-午前中は移動が長い場所や混みやすい場所を先に入れると楽です。昼食後はカフェ、屋内スポット、短い散歩を組み合わせると天気に対応しやすくなります。夜景や市場を入れる場合は、最後に置くと移動が単純になります。
+午前中は移動が長い場所や混みやすい場所を先に入れると楽です。昼食後はカフェ、屋内スポット、短い散歩を組み合わせると天気に対応しやすくなります。
+
+夜景や市場を入れる場合は、最後に置くと移動が単純になります。
 
 {link_text}
 
@@ -783,7 +835,9 @@ Reduce photo-heavy outdoor stops and keep only the most important places. Add ma
 
 ## 交通・宿泊エリア・予算
 
-車なしで動く場合は、駅やターミナルから最初の目的地までの時間を先に確認してください。地図上で近く見えても、バスの本数が少ないと体感時間は長くなります。宿泊は夜の予定に近い場所、または翌朝出発しやすい場所がおすすめです。{budget}
+車なしで動く場合は、駅やターミナルから最初の目的地までの時間を先に確認してください。地図上で近く見えても、バスの本数が少ないと体感時間は長くなります。
+
+宿泊は夜の予定に近い場所、または翌朝出発しやすい場所がおすすめです。{budget}
 
 {cost}
 
@@ -795,7 +849,9 @@ Reduce photo-heavy outdoor stops and keep only the most important places. Add ma
 
 ## 季節別の注意点
 
-夏は暑さと混雑で屋外移動が長く感じます。冬は日没が早いので、写真を撮りたい屋外スポットを前半に置くのがおすすめです。週末や連休は食事の待ち時間、タクシー待ち、交通渋滞が増えるため、Googleマップで各スポットを保存しておくと変更しやすくなります。
+夏は暑さと混雑で屋外移動が長く感じます。冬は日没が早いので、写真を撮りたい屋外スポットを前半に置くのがおすすめです。
+
+週末や連休は食事の待ち時間、タクシー待ち、交通渋滞が増えるため、Googleマップで各スポットを保存しておくと変更しやすくなります。
 
 {mistakes}
 

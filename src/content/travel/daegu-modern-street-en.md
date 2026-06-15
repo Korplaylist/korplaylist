@@ -155,7 +155,9 @@ This guide is written around the questions travelers usually search before booki
 
 ## What Travelers Usually Want to Know
 
-The most important question is not only whether the route is possible. It is where time gets lost. Long station transfers, meal queues, luggage storage, and the return trip often decide whether the itinerary feels smooth or exhausting. This route separates arrival, photo time, food breaks, and the final stop so you can adjust it without rebuilding the whole plan.
+The most important question is not only whether the route is possible. It is where time gets lost. Long station transfers, meal queues, luggage storage, and the return trip often decide whether the itinerary feels smooth or exhausting.
+
+This route separates arrival, photo time, food breaks, and the final stop so you can adjust it without rebuilding the whole plan.
 
 <figure class="content-photo">
   <img src="/images/kto/incheon-open-port-content.jpg" alt="Korea travel photo: 인천 차이나타운" width="1200" height="800" loading="lazy" decoding="async" />
@@ -164,7 +166,9 @@ The most important question is not only whether the route is possible. It is whe
 
 ## How to Plan the Day
 
-Put the longest or most crowded stop early in the day. Keep flexible time after lunch for cafes, indoor alternatives, or a slower walk. If the route includes night views, markets, or the coast, place them near the end so you are not forced to cross the city after dark.
+Put the longest or most crowded stop early in the day. Keep flexible time after lunch for cafes, indoor alternatives, or a slower walk.
+
+If the route includes night views, markets, or the coast, place them near the end so you are not forced to cross the city after dark.
 
 If you are comparing similar routes, read [Incheon Day Trip: Open Port Area, Chinatown and Wolmido From Seoul](/en/travel/incheon/incheon-open-port/) first. For food, transport, or seasonal decisions, [Gyeongju 2-Day History Itinerary: Daereungwon, Cheomseongdae and Bulguksa](/en/travel/gyeongbuk/gyeongju-history-two-day/) can help refine the plan without adding unnecessary stops.
 
@@ -175,13 +179,19 @@ If you are comparing similar routes, read [Incheon Day Trip: Open Port Area, Chi
 
 ## Public Transport, Taxi, or Rental Car
 
-The route from Banwoldang Station to Kim Gwangseok Street may look simple on a map, but transfers, bus intervals, luggage, and the final return can change the real difficulty. For city routes, public transport plus short taxi rides is usually the most balanced option. For beaches, mountains, islands, or outer viewpoints, a rental car or extra taxi budget may be more realistic.
+The route from Banwoldang Station to Kim Gwangseok Street may look simple on a map, but transfers, bus intervals, luggage, and the final return can change the real difficulty.
 
-If you use public transport, do not only check the first ride of the day. Check how you return from the final stop to your stay area. If you rent a car, check parking, night driving, possible congestion, and whether the evening plan includes alcohol. Taxis work well for two or three people, but waits can be longer near beaches, festivals, and late-night transport hubs.
+For city routes, public transport plus short taxi rides is usually the most balanced option. For beaches, mountains, islands, or outer viewpoints, a rental car or extra taxi budget may be more realistic.
+
+If you use public transport, do not only check the first ride of the day. Check how you return from the final stop to your stay area.
+
+If you rent a car, check parking, night driving, possible congestion, and whether the evening plan includes alcohol. Taxis work well for two or three people, but waits can be longer near beaches, festivals, and late-night transport hubs.
 
 ## Transport, Stay Area, and Budget
 
-For travelers without a car, check the time from the station or terminal to the first stop before anything else. A route may look close on the map but feel slow when buses are infrequent. For accommodation, choose an area near the last evening stop or the next morning departure point. As a practical range, plan about KRW 50,000-90,000 per person for a day trip excluding long-distance transport.
+For travelers without a car, check the time from the station or terminal to the first stop before anything else. A route may look close on the map but feel slow when buses are infrequent.
+
+For accommodation, choose an area near the last evening stop or the next morning departure point. As a practical range, plan about KRW 50,000-90,000 per person for a day trip excluding long-distance transport.
 
 <section class="planning-table compact">
   <h2>Budget Range and Cost Planning</h2>
@@ -205,7 +215,9 @@ For food, place one longer meal after Gyesan Cathedral or keep dinner near Kim G
 
 ## Rainy-Day and Hot-Weather Adjustments
 
-On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and short taxi rides. Photo-focused stops may lose value, so keep only one or two essential daylight stops and use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, move outdoor photo stops earlier because sunset comes quickly.
+On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and short taxi rides. Photo-focused stops may lose value, so keep only one or two essential daylight stops.
+
+Use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, move outdoor photo stops earlier because sunset comes quickly.
 
 <figure class="content-photo">
   <img src="/images/kto/korea-season-travel-calendar-content.jpg" alt="Korea travel photo: 진해 벚꽃 풍경" width="1200" height="800" loading="lazy" decoding="async" />
@@ -214,17 +226,25 @@ On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and 
 
 ## Seasonal Notes
 
-In summer, outdoor routes feel longer because of heat and crowds. In winter, sunset comes early, so outdoor photo stops should be placed earlier. On weekends and holidays, restaurant queues and taxi waits can change the route. Save each stop in Google Maps before leaving so you can adjust quickly.
+In summer, outdoor routes feel longer because of heat and crowds. In winter, sunset comes early, so outdoor photo stops should be placed earlier.
+
+On weekends and holidays, restaurant queues and taxi waits can change the route. Save each stop in Google Maps before leaving so you can adjust quickly.
 
 ## Common Mistakes First-Time Visitors Make
 
-The biggest mistake is treating Banwoldang Station, Gyesan Cathedral, Modern Alley, and Kim Gwangseok Street as equally important. In a real itinerary, you need to decide which stops deserve long stays and which stops are quick checks. If every place includes photos, food, and cafe time, the final part of the day will usually fall behind.
+The biggest mistake is treating Banwoldang Station, Gyesan Cathedral, Modern Alley, and Kim Gwangseok Street as equally important.
 
-The second mistake is booking accommodation first and forcing the route around it. Check the final stop, next-day departure, and luggage storage before choosing the stay area. The third mistake is trusting map travel time too literally. On weekends, during peak season, or in rain, queues and ride-hailing time can add 20-30 minutes or more.
+In a real itinerary, you need to decide which stops deserve long stays and which stops are quick checks. If every place includes photos, food, and cafe time, the final part of the day will usually fall behind.
+
+The second mistake is booking accommodation first and forcing the route around it. Check the final stop, next-day departure, and luggage storage before choosing the stay area.
+
+The third mistake is trusting map travel time too literally. On weekends, during peak season, or in rain, queues and ride-hailing time can add 20-30 minutes or more.
 
 ## Best Photo Timing and What to Save
 
-Coasts and viewpoints are usually better in the morning or near sunset, while markets and night-view areas work better in the evening. In winter, avoid placing outdoor photo stops too late. Before leaving, save every stop in Google Maps along with backup restaurants, nearby cafes, and the return route to your stay area.
+Coasts and viewpoints are usually better in the morning or near sunset, while markets and night-view areas work better in the evening. In winter, avoid placing outdoor photo stops too late.
+
+Before leaving, save every stop in Google Maps along with backup restaurants, nearby cafes, and the return route to your stay area.
 
 ## FAQ
 
