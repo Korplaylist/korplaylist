@@ -14,6 +14,11 @@ draft: false
 
 속초는 산과 바다, 시장을 하루 또는 1박2일로 묶기 좋은 여행지입니다. 설악산은 등산이 부담스럽다면 케이블카나 짧은 산책 코스를 중심으로 보고, 오후에는 속초중앙시장으로 이동하면 됩니다.
 
+<figure class="content-photo">
+  <img src="/images/kto/sokcho-seoraksan-market-content.jpg" alt="설악산국립공원" width="1200" height="800" loading="lazy" />
+  <figcaption>ⓒ한국관광공사 포토코리아-박은경</figcaption>
+</figure>
+
 바다까지 넣고 싶다면 속초해수욕장이나 영금정 중 한 곳만 선택하는 것이 좋습니다. 하루에 모두 넣으면 이동과 대기 시간이 길어집니다.
 
 ## 이동 방법

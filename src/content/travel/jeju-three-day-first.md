@@ -14,6 +14,11 @@ draft: false
 
 제주 첫 여행은 욕심을 줄이고 동쪽 또는 서쪽 중심으로 잡는 것이 좋습니다. 2박3일 동안 섬 전체를 빠르게 도는 계획은 이동 시간이 길어져 피로도가 커질 수 있습니다.
 
+<figure class="content-photo">
+  <img src="/images/kto/jeju-three-day-first-content.jpg" alt="올레길" width="1200" height="800" loading="lazy" />
+  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+</figure>
+
 동쪽 코스는 성산일출봉, 섭지코지, 우도, 함덕 해변을 중심으로 구성할 수 있습니다. 서쪽 코스는 협재, 금능, 애월, 한림공원 주변을 묶기 좋습니다.
 
 ## 이동 방법

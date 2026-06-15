@@ -14,6 +14,11 @@ draft: false
 
 인천 개항장 일대는 수도권에서 당일치기로 다녀오기 쉬운 여행지입니다. 인천역을 기준으로 차이나타운, 개항장 거리, 자유공원, 월미도를 연결할 수 있습니다.
 
+<figure class="content-photo">
+  <img src="/images/kto/incheon-open-port-content.jpg" alt="인천 차이나타운" width="1200" height="800" loading="lazy" />
+  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+</figure>
+
 점심은 차이나타운 주변에서 해결하고, 오후에는 개항장 건축물과 전시 공간을 본 뒤, 시간이 남으면 월미도로 이동하는 흐름이 좋습니다.
 
 ## 이동 방법

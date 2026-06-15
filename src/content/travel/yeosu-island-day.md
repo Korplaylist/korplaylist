@@ -14,6 +14,11 @@ draft: false
 
 여수 섬 여행은 날씨와 배편 확인이 가장 중요합니다. 당일치기로 계획한다면 너무 먼 섬보다 이동 시간이 짧고 배편이 비교적 안정적인 곳을 우선 검토하는 것이 좋습니다.
 
+<figure class="content-photo">
+  <img src="/images/kto/yeosu-island-day-content.jpg" alt="여수 해상케이블카" width="1200" height="800" loading="lazy" />
+  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+</figure>
+
 섬 안에서 오래 걷는 일정은 체력 소모가 큽니다. 전망대, 해안 산책, 식사 지점을 중심으로 단순한 코스를 잡는 편이 안전합니다.
 
 ## 이동 방법

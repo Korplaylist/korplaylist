@@ -14,6 +14,11 @@ draft: false
 
 대구 도심 여행은 근대골목과 김광석 다시그리기길을 묶으면 이동이 비교적 쉽습니다. 계산성당, 청라언덕, 약령시 주변을 보고, 오후에 김광석길로 이동하는 방식이 무난합니다.
 
+<figure class="content-photo">
+  <img src="/images/kto/daegu-modern-street-content.jpg" alt="계산예가" width="1200" height="800" loading="lazy" />
+  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+</figure>
+
 대구는 여름 더위가 강한 지역이므로 한낮 도보 이동을 줄이고 실내 카페나 전시 공간을 중간에 넣는 것이 좋습니다.
 
 ## 이동 방법

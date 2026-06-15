@@ -14,6 +14,11 @@ draft: false
 
 전주는 먹거리 중심 여행을 계획하기 좋은 도시입니다. 한옥마을 주변에는 식당과 간식 매장이 많고, 남부시장까지 함께 보면 선택지가 더 넓어집니다.
 
+<figure class="content-photo">
+  <img src="/images/kto/jeonju-food-cost-content.jpg" alt="전주남부시장" width="1200" height="800" loading="lazy" />
+  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+</figure>
+
 대표 메뉴는 비빔밥, 콩나물국밥, 한정식, 길거리 간식입니다. 모든 메뉴를 한 번에 넣기보다 점심과 저녁, 간식 시간을 나눠 계획하는 것이 좋습니다.
 
 ## 이동 방법

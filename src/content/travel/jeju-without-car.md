@@ -14,6 +14,11 @@ draft: false
 
 렌터카 없이 제주를 여행하려면 방문지를 줄이고 숙소 위치를 신중히 정해야 합니다. 버스 노선은 주요 관광지를 연결하지만 배차 간격과 환승 시간이 길어질 수 있습니다.
 
+<figure class="content-photo">
+  <img src="/images/kto/jeju-without-car-content.jpg" alt="올레길" width="1200" height="800" loading="lazy" />
+  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+</figure>
+
 대중교통 여행은 제주시, 서귀포시, 함덕, 협재처럼 버스 접근성이 좋은 지역을 중심으로 잡는 것이 좋습니다. 오름이나 외곽 해변을 많이 넣으면 이동 효율이 떨어집니다.
 
 ## 이동 방법

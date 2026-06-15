@@ -14,6 +14,11 @@ draft: false
 
 경주 가족 여행은 걷는 거리와 휴식 지점을 함께 고려해야 합니다. 대릉원, 첨성대, 국립경주박물관은 교육적 요소와 산책 요소를 함께 갖춘 코스로 활용하기 좋습니다.
 
+<figure class="content-photo">
+  <img src="/images/kto/gyeongju-family-content.jpg" alt="대릉원(천마총)" width="1200" height="800" loading="lazy" />
+  <figcaption>ⓒ한국관광공사 포토코리아-IR 스튜디오</figcaption>
+</figure>
+
 아이와 함께라면 하루에 유적을 너무 많이 넣기보다 오전 한 곳, 오후 한 곳으로 나누는 편이 좋습니다. 황리단길은 식사와 카페 선택지는 많지만 혼잡할 수 있습니다.
 
 ## 이동 방법

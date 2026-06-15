@@ -123,7 +123,11 @@ img {
 }
 
 .language-flag {
-  font-size: 1.1rem;
+  width: 24px;
+  height: 16px;
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  object-fit: cover;
 }
 
 .language-code {
@@ -385,6 +389,25 @@ h3 {
   color: var(--blue);
   text-decoration: underline;
   text-underline-offset: 3px;
+}
+
+.content-photo {
+  margin: 28px 0;
+}
+
+.content-photo img {
+  width: 100%;
+  max-height: 520px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.content-photo figcaption {
+  margin-top: 7px;
+  color: var(--muted);
+  font-size: 0.82rem;
+  text-align: right;
 }
 
 .share-panel {

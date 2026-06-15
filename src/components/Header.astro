@@ -2,9 +2,9 @@
 import { regions, siteConfig } from "../site.config";
 
 const languages = [
-  { href: "/", flag: "🇰🇷", label: "한국어", code: "KO" },
-  { href: "/en/", flag: "🇺🇸", label: "English", code: "EN" },
-  { href: "/ja/", flag: "🇯🇵", label: "日本語", code: "JA" }
+  { href: "/", flagImage: "/icons/flag-ko.svg", label: "한국어", code: "KO" },
+  { href: "/en/", flagImage: "/icons/flag-en.svg", label: "English", code: "EN" },
+  { href: "/ja/", flagImage: "/icons/flag-ja.svg", label: "日本語", code: "JA" }
 ];
 ---
 
@@ -26,7 +26,7 @@ const languages = [
     <nav class="language-switcher" aria-label="언어 선택">
       {languages.map((language) => (
         <a class="language-link" href={language.href} aria-label={`${language.label} 메인 페이지로 이동`} title={language.label}>
-          <span class="language-flag" aria-hidden="true">{language.flag}</span>
+          <img class="language-flag" src={language.flagImage} alt="" width="24" height="16" loading="lazy" />
           <span class="language-label">{language.label}</span>
           <span class="language-code">{language.code}</span>
         </a>

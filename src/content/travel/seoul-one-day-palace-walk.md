@@ -14,6 +14,11 @@ draft: false
 
 서울에서 처음 국내여행 일정을 잡는다면 경복궁, 북촌, 인사동을 묶은 도보 코스가 안정적입니다. 지하철 접근성이 좋고 이동 거리가 짧아 하루 일정으로 부담이 적습니다.
 
+<figure class="content-photo">
+  <img src="/images/kto/seoul-one-day-palace-walk-content.jpg" alt="단청" width="1200" height="800" loading="lazy" />
+  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+</figure>
+
 추천 순서는 경복궁, 국립민속박물관 주변, 북촌 한옥마을, 인사동, 청계천입니다. 오전에는 궁궐을 먼저 보고, 점심 이후 골목길과 전통 상권을 천천히 걷는 방식이 좋습니다.
 
 ## 이동 방법

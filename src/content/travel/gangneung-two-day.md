@@ -14,6 +14,11 @@ draft: false
 
 강릉 1박2일은 바다만 보는 일정에서 조금 더 넓혀 역사와 시장, 북쪽 해안을 함께 넣기 좋습니다. 첫날은 경포와 안목해변, 둘째 날은 오죽헌과 주문진 방향으로 나누면 이동이 단순합니다.
 
+<figure class="content-photo">
+  <img src="/images/kto/gangneung-two-day-content.jpg" alt="영진해변" width="1200" height="800" loading="lazy" />
+  <figcaption>ⓒ한국관광공사 포토코리아-강원지사</figcaption>
+</figure>
+
 숙소는 경포, 안목, 강릉역 주변 중 하나를 고르면 됩니다. 바다 접근성을 중시하면 경포권, 이동 편의를 중시하면 강릉역 주변이 편합니다.
 
 ## 이동 방법

@@ -14,6 +14,11 @@ draft: false
 
 경주는 역사 유적이 넓게 퍼져 있어 1박2일로 보는 편이 좋습니다. 첫날은 대릉원, 첨성대, 황리단길, 동궁과 월지를 묶고, 둘째 날은 불국사와 석굴암 방향으로 잡으면 동선이 안정적입니다.
 
+<figure class="content-photo">
+  <img src="/images/kto/gyeongju-history-two-day-content.jpg" alt="불국사" width="1200" height="800" loading="lazy" />
+  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+</figure>
+
 야경을 원한다면 동궁과 월지는 첫날 저녁에 넣는 것이 좋습니다. 낮 일정이 길어지면 체력 부담이 있으므로 중간 휴식 시간을 확보해야 합니다.
 
 ## 이동 방법

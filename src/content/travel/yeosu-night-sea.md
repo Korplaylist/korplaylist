@@ -14,6 +14,11 @@ draft: false
 
 여수는 바다 전망과 야경을 중심으로 여행 계획을 세우기 좋은 도시입니다. 낮에는 오동도와 돌산공원 주변을 보고, 저녁에는 해상케이블카와 낭만포차거리 방향으로 이동하는 일정이 많이 쓰입니다.
 
+<figure class="content-photo">
+  <img src="/images/kto/yeosu-night-sea-content.jpg" alt="여수국가산업단지" width="1200" height="800" loading="lazy" />
+  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+</figure>
+
 밤바다를 제대로 보려면 숙소 위치가 중요합니다. 종포해양공원, 이순신광장, 돌산대교 주변은 야간 이동과 식사 선택이 비교적 편합니다.
 
 ## 이동 방법

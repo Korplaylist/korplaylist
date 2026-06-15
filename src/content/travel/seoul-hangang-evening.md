@@ -14,6 +14,11 @@ draft: false
 
 한강은 서울 여행에서 비용 부담이 낮고 계절감이 뚜렷한 코스입니다. 낮보다 저녁 시간대가 걷기 편하고, 야경과 편의시설을 함께 이용할 수 있습니다.
 
+<figure class="content-photo">
+  <img src="/images/kto/seoul-hangang-evening-content.jpg" alt="반포대교" width="1200" height="800" loading="lazy" />
+  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+</figure>
+
 처음 방문한다면 여의도 한강공원은 접근성이 좋고 편의점, 화장실, 대중교통 동선이 안정적입니다. 반포 한강공원은 달빛무지개분수 운영 시기에 맞추면 볼거리가 늘어납니다.
 
 ## 이동 방법

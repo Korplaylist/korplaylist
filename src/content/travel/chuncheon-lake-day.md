@@ -14,6 +14,11 @@ draft: false
 
 춘천은 수도권에서 전철이나 ITX로 접근하기 쉬운 당일치기 여행지입니다. 소양강 주변 산책, 명동 닭갈비 골목, 카페나 호수 전망지를 묶으면 부담 없는 일정이 됩니다.
 
+<figure class="content-photo">
+  <img src="/images/kto/chuncheon-lake-day-content.jpg" alt="상고대 속으로" width="1200" height="800" loading="lazy" />
+  <figcaption>ⓒ한국관광공사 포토코리아-이대순</figcaption>
+</figure>
+
 자전거, 레일바이크, 남이섬까지 모두 넣으면 하루 일정이 빡빡해질 수 있습니다. 처음에는 춘천 도심과 호수 주변에 집중하는 편이 좋습니다.
 
 ## 이동 방법

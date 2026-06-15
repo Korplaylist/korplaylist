@@ -14,6 +14,11 @@ draft: false
 
 부산 시장 여행은 남포동 일대에 주요 지점이 모여 있어 반나절 코스로 구성하기 좋습니다. 자갈치시장, 국제시장, 부평깡통시장을 차례로 보면 해산물, 생활 상권, 야시장 분위기를 함께 볼 수 있습니다.
 
+<figure class="content-photo">
+  <img src="/images/kto/busan-market-food-content.jpg" alt="자갈치시장" width="1200" height="800" loading="lazy" />
+  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+</figure>
+
 점심 시간에는 자갈치시장 주변을 먼저 보고, 오후에는 국제시장 골목을 걷고, 저녁에는 부평깡통시장 먹거리로 마무리하는 흐름이 자연스럽습니다.
 
 ## 이동 방법
