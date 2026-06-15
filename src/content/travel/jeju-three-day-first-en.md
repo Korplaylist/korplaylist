@@ -196,10 +196,10 @@ If you are comparing similar routes, read [Can You Travel Jeju Without a Rental 
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/jeju-three-day-first-content-360.webp 360w, /images/optimized/kto/jeju-three-day-first-content-480.webp 480w, /images/optimized/kto/jeju-three-day-first-content-640.webp 640w, /images/optimized/kto/jeju-three-day-first-content-768.webp 768w, /images/optimized/kto/jeju-three-day-first-content-960.webp 960w, /images/optimized/kto/jeju-three-day-first-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
-    <img src="/images/kto/jeju-three-day-first-content.jpg" alt="Korea travel photo: 제주 올레길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/myrealtrip/jeju-1-360.webp 360w, /images/optimized/myrealtrip/jeju-1-480.webp 480w, /images/optimized/myrealtrip/jeju-1-640.webp 640w, /images/optimized/myrealtrip/jeju-1-768.webp 768w, /images/optimized/myrealtrip/jeju-1-960.webp 960w, /images/optimized/myrealtrip/jeju-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/myrealtrip/jeju-1.jpg" alt="Korea travel photo: 제주 여행 숙소 참고 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒmyrealtrip</figcaption>
 </figure>
 
 ## Public Transport, Taxi, or Rental Car
@@ -229,10 +229,10 @@ For accommodation, choose an area near the last evening stop or the next morning
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/jeju-without-car-content-360.webp 360w, /images/optimized/kto/jeju-without-car-content-480.webp 480w, /images/optimized/kto/jeju-without-car-content-640.webp 640w, /images/optimized/kto/jeju-without-car-content-768.webp 768w, /images/optimized/kto/jeju-without-car-content-960.webp 960w, /images/optimized/kto/jeju-without-car-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
-    <img src="/images/kto/jeju-without-car-content.jpg" alt="Korea travel photo: 제주 도보 여행길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/myrealtrip/jeju-2-360.webp 360w, /images/optimized/myrealtrip/jeju-2-480.webp 480w, /images/optimized/myrealtrip/jeju-2-640.webp 640w, /images/optimized/myrealtrip/jeju-2-768.webp 768w, /images/optimized/myrealtrip/jeju-2-960.webp 960w, /images/optimized/myrealtrip/jeju-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/myrealtrip/jeju-2.jpg" alt="Korea travel photo: 제주 시내 숙소 참고 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒmyrealtrip</figcaption>
 </figure>
 
 ## Stay Area and Food Timing
@@ -249,10 +249,10 @@ Use the rest of the day for food and rest. In summer, avoid long midday walks. I
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/jeju-three-day-first-content-360.webp 360w, /images/optimized/kto/jeju-three-day-first-content-480.webp 480w, /images/optimized/kto/jeju-three-day-first-content-640.webp 640w, /images/optimized/kto/jeju-three-day-first-content-768.webp 768w, /images/optimized/kto/jeju-three-day-first-content-960.webp 960w, /images/optimized/kto/jeju-three-day-first-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
-    <img src="/images/kto/jeju-three-day-first-content.jpg" alt="Korea travel photo: 제주 올레길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/myrealtrip/jeju-3-360.webp 360w, /images/optimized/myrealtrip/jeju-3-480.webp 480w, /images/optimized/myrealtrip/jeju-3-640.webp 640w, /images/optimized/myrealtrip/jeju-3-768.webp 768w, /images/optimized/myrealtrip/jeju-3-960.webp 960w, /images/optimized/myrealtrip/jeju-3-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/myrealtrip/jeju-3.jpg" alt="Korea travel photo: 제주 일정 숙소 참고 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒmyrealtrip</figcaption>
 </figure>
 
 ## Seasonal Notes

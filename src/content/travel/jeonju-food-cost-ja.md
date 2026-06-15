@@ -177,10 +177,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/jeonju-food-cost-content-360.webp 360w, /images/optimized/kto/jeonju-food-cost-content-480.webp 480w, /images/optimized/kto/jeonju-food-cost-content-640.webp 640w, /images/optimized/kto/jeonju-food-cost-content-768.webp 768w, /images/optimized/kto/jeonju-food-cost-content-960.webp 960w, /images/optimized/kto/jeonju-food-cost-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
-    <img src="/images/kto/jeonju-food-cost-content.jpg" alt="韓国旅行写真：전주남부시장" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/myrealtrip/jeonju-1-360.webp 360w, /images/optimized/myrealtrip/jeonju-1-480.webp 480w, /images/optimized/myrealtrip/jeonju-1-640.webp 640w, /images/optimized/myrealtrip/jeonju-1-768.webp 768w, /images/optimized/myrealtrip/jeonju-1-960.webp 960w, /images/optimized/myrealtrip/jeonju-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/myrealtrip/jeonju-1.jpg" alt="韓国旅行写真：전주 여행 숙소 참고 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒmyrealtrip</figcaption>
 </figure>
 
 ## 公共交通・タクシー・レンタカーの選び方
@@ -210,10 +210,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/jeonju-hanok-day-content-360.webp 360w, /images/optimized/kto/jeonju-hanok-day-content-480.webp 480w, /images/optimized/kto/jeonju-hanok-day-content-640.webp 640w, /images/optimized/kto/jeonju-hanok-day-content-768.webp 768w, /images/optimized/kto/jeonju-hanok-day-content-960.webp 960w, /images/optimized/kto/jeonju-hanok-day-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
-    <img src="/images/kto/jeonju-hanok-day-content.jpg" alt="韓国旅行写真：전주한옥마을" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/myrealtrip/jeonju-2-360.webp 360w, /images/optimized/myrealtrip/jeonju-2-480.webp 480w, /images/optimized/myrealtrip/jeonju-2-640.webp 640w, /images/optimized/myrealtrip/jeonju-2-768.webp 768w, /images/optimized/myrealtrip/jeonju-2-960.webp 960w, /images/optimized/myrealtrip/jeonju-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <img src="/images/myrealtrip/jeonju-2.jpg" alt="韓国旅行写真：전주 도심 숙소 참고 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒmyrealtrip</figcaption>
 </figure>
 
 ## 宿泊エリアと食事のタイミング

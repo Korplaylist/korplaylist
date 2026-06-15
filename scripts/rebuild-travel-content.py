@@ -32,6 +32,14 @@ PHOTO = {
     "tongyeong-island": ("/images/kto/tongyeong-two-day-content.jpg", "통영 제승당", "ⓒ한국관광공사 포토코리아-이범수"),
     "incheon": ("/images/kto/incheon-open-port-content.jpg", "인천 차이나타운", "ⓒ한국관광공사 포토코리아-이범수"),
     "daegu": ("/images/kto/daegu-modern-street-content.jpg", "대구 계산예가", "ⓒ한국관광공사 포토코리아-김지호"),
+    "mtr-seoul-1": ("/images/myrealtrip/seoul-1.jpg", "서울 여행 숙소 참고 이미지", "ⓒmyrealtrip"),
+    "mtr-seoul-2": ("/images/myrealtrip/seoul-2.jpg", "서울 도심 숙소 참고 이미지", "ⓒmyrealtrip"),
+    "mtr-jeju-1": ("/images/myrealtrip/jeju-1.jpg", "제주 여행 숙소 참고 이미지", "ⓒmyrealtrip"),
+    "mtr-jeju-2": ("/images/myrealtrip/jeju-2.jpg", "제주 시내 숙소 참고 이미지", "ⓒmyrealtrip"),
+    "mtr-jeju-3": ("/images/myrealtrip/jeju-3.jpg", "제주 일정 숙소 참고 이미지", "ⓒmyrealtrip"),
+    "mtr-jeonju-1": ("/images/myrealtrip/jeonju-1.jpg", "전주 여행 숙소 참고 이미지", "ⓒmyrealtrip"),
+    "mtr-jeonju-2": ("/images/myrealtrip/jeonju-2.jpg", "전주 도심 숙소 참고 이미지", "ⓒmyrealtrip"),
+    "mtr-jeonju-3": ("/images/myrealtrip/jeonju-3.jpg", "전주 일정 숙소 참고 이미지", "ⓒmyrealtrip"),
 }
 
 DATA = {
@@ -41,12 +49,12 @@ DATA = {
         "links": ["busan-two-day-route", "jeju-three-day-first-trip", "gangneung-sea-coffee-day-trip"],
     },
     "seoul-one-day-palace-walk": {
-        "photos": ["seoul-palace", "seoul-hangang", "incheon", "seoul-palace", "seoul-hangang"],
+        "photos": ["seoul-palace", "seoul-hangang", "incheon", "mtr-seoul-1", "mtr-seoul-2"],
         "stops": [("경복궁", "Gyeongbokgung Palace", "景福宮", "경복궁"), ("북촌한옥마을", "Bukchon Hanok Village", "北村韓屋村", "북촌한옥마을"), ("인사동", "Insadong", "仁寺洞", "인사동"), ("청계천", "Cheonggyecheon Stream", "清渓川", "청계천")],
         "links": ["seoul-hangang-night-walk", "incheon-open-port-day-trip", "seasonal-korea-travel-calendar-2026"],
     },
     "seoul-hangang-night-walk": {
-        "photos": ["seoul-hangang", "seoul-palace", "incheon", "seoul-hangang", "seoul-palace"],
+        "photos": ["seoul-hangang", "seoul-palace", "incheon", "mtr-seoul-1", "mtr-seoul-2"],
         "stops": [("여의도한강공원", "Yeouido Hangang Park", "汝矣島漢江公園", "여의도한강공원"), ("반포한강공원", "Banpo Hangang Park", "盤浦漢江公園", "반포한강공원"), ("세빛섬", "Sebitseom", "セビッソム", "세빛섬"), ("고속터미널역", "Express Bus Terminal Station", "高速ターミナル駅", "고속터미널역")],
         "links": ["seoul-one-day-palace-walk", "seasonal-korea-travel-calendar-2026", "incheon-open-port-day-trip"],
     },
@@ -61,12 +69,12 @@ DATA = {
         "links": ["busan-two-day-route", "jeonju-food-budget-guide", "chuncheon-lake-day-trip"],
     },
     "jeju-three-day-first-trip": {
-        "photos": ["jeju-olle", "jeju-walk", "jeju-olle", "jeju-walk", "jeju-olle"],
+        "photos": ["jeju-olle", "jeju-walk", "mtr-jeju-1", "mtr-jeju-2", "mtr-jeju-3"],
         "stops": [("제주공항", "Jeju International Airport", "済州国際空港", "제주국제공항"), ("성산일출봉", "Seongsan Ilchulbong", "城山日出峰", "성산일출봉"), ("월정리해변", "Woljeongri Beach", "月汀里海辺", "월정리해변"), ("협재해수욕장", "Hyeopjae Beach", "挟才海水浴場", "협재해수욕장"), ("동문시장", "Dongmun Market", "東門市場", "제주 동문시장")],
         "links": ["jeju-without-car-guide", "seasonal-korea-travel-calendar-2026", "yeosu-island-day-trip"],
     },
     "jeju-without-car-guide": {
-        "photos": ["jeju-walk", "jeju-olle", "jeju-walk", "jeju-olle", "jeju-walk"],
+        "photos": ["jeju-walk", "jeju-olle", "mtr-jeju-1", "mtr-jeju-2", "mtr-jeju-3"],
         "stops": [("제주공항", "Jeju Airport", "済州空港", "제주국제공항"), ("제주시외버스터미널", "Jeju Bus Terminal", "済州市外バスターミナル", "제주시외버스터미널"), ("함덕해수욕장", "Hamdeok Beach", "咸徳海水浴場", "함덕해수욕장"), ("성산일출봉", "Seongsan Ilchulbong", "城山日出峰", "성산일출봉")],
         "links": ["jeju-three-day-first-trip", "sokcho-without-car-guide", "seasonal-korea-travel-calendar-2026"],
     },
@@ -91,22 +99,22 @@ DATA = {
         "links": ["sokcho-seoraksan-market-route", "jeju-without-car-guide", "gangneung-two-day-route"],
     },
     "jeonju-hanok-village-day-trip": {
-        "photos": ["jeonju-hanok", "jeonju-market", "jeonju-hanok", "jeonju-market", "gyeongju-daereung"],
+        "photos": ["jeonju-hanok", "jeonju-market", "mtr-jeonju-1", "mtr-jeonju-2", "gyeongju-daereung"],
         "stops": [("전주역", "Jeonju Station", "全州駅", "전주역"), ("전주한옥마을", "Jeonju Hanok Village", "全州韓屋村", "전주한옥마을"), ("경기전", "Gyeonggijeon Shrine", "慶基殿", "경기전"), ("전주남부시장", "Nambu Market", "南部市場", "전주남부시장")],
         "links": ["jeonju-food-budget-guide", "gyeongju-history-two-day-route", "seoul-one-day-palace-walk"],
     },
     "jeonju-food-budget-guide": {
-        "photos": ["jeonju-market", "jeonju-hanok", "jeonju-market", "jeonju-hanok", "gyeongju-daereung"],
+        "photos": ["jeonju-market", "jeonju-hanok", "mtr-jeonju-1", "mtr-jeonju-2", "gyeongju-daereung"],
         "stops": [("전주한옥마을", "Jeonju Hanok Village", "全州韓屋村", "전주한옥마을"), ("전주남부시장", "Nambu Market", "南部市場", "전주남부시장"), ("전주비빔밥거리", "Jeonju Bibimbap Street", "全州ビビンバ通り", "전주비빔밥거리"), ("객리단길", "Gaengnidan-gil", "客理団通り", "객리단길")],
         "links": ["jeonju-hanok-village-day-trip", "busan-market-food-route", "gyeongju-family-trip-guide"],
     },
     "gyeongju-history-two-day-route": {
-        "photos": ["gyeongju-bulguk", "gyeongju-daereung", "gyeongju-bulguk", "gyeongju-daereung", "jeonju-hanok"],
+        "photos": ["gyeongju-bulguk", "gyeongju-daereung", "jeonju-hanok", "jeonju-market", "daegu"],
         "stops": [("경주역", "Gyeongju Station", "慶州駅", "경주역"), ("대릉원", "Daereungwon", "大陵苑", "대릉원"), ("첨성대", "Cheomseongdae", "瞻星台", "첨성대"), ("동궁과 월지", "Donggung and Wolji", "東宮と月池", "동궁과 월지"), ("불국사", "Bulguksa Temple", "仏国寺", "불국사")],
         "links": ["gyeongju-family-trip-guide", "jeonju-hanok-village-day-trip", "tongyeong-two-day-island-route"],
     },
     "gyeongju-family-trip-guide": {
-        "photos": ["gyeongju-daereung", "gyeongju-bulguk", "gyeongju-daereung", "gyeongju-bulguk", "jeonju-market"],
+        "photos": ["gyeongju-daereung", "gyeongju-bulguk", "jeonju-market", "jeonju-hanok", "daegu"],
         "stops": [("대릉원", "Daereungwon", "大陵苑", "대릉원"), ("국립경주박물관", "Gyeongju National Museum", "国立慶州博物館", "국립경주박물관"), ("첨성대", "Cheomseongdae", "瞻星台", "첨성대"), ("동궁과 월지", "Donggung and Wolji", "東宮と月池", "동궁과 월지")],
         "links": ["gyeongju-history-two-day-route", "jeonju-food-budget-guide", "tongyeong-sea-view-route"],
     },
@@ -136,12 +144,12 @@ DATA = {
         "links": ["sokcho-seoraksan-market-route", "seoul-hangang-night-walk", "gangneung-sea-coffee-day-trip"],
     },
     "incheon-open-port-day-trip": {
-        "photos": ["incheon", "seoul-palace", "seoul-hangang", "incheon", "seoul-hangang"],
+        "photos": ["incheon", "seoul-palace", "seoul-hangang", "mtr-seoul-1", "mtr-seoul-2"],
         "stops": [("인천역", "Incheon Station", "仁川駅", "인천역"), ("인천 차이나타운", "Incheon Chinatown", "仁川チャイナタウン", "인천 차이나타운"), ("개항장거리", "Open Port Area", "開港場通り", "인천 개항장거리"), ("월미도", "Wolmido", "月尾島", "월미도")],
         "links": ["seoul-one-day-palace-walk", "seoul-hangang-night-walk", "daegu-modern-street-half-day"],
     },
     "daegu-modern-street-half-day": {
-        "photos": ["daegu", "gyeongju-bulguk", "gyeongju-daereung", "jeonju-hanok", "daegu"],
+        "photos": ["daegu", "gyeongju-bulguk", "gyeongju-daereung", "jeonju-hanok", "jeonju-market"],
         "stops": [("반월당역", "Banwoldang Station", "半月堂駅", "반월당역"), ("계산성당", "Gyesan Cathedral", "桂山聖堂", "계산성당"), ("근대골목", "Modern Alley", "近代路地", "대구 근대골목"), ("김광석 다시그리기길", "Kim Gwangseok Street", "金光石通り", "김광석 다시그리기길")],
         "links": ["incheon-open-port-day-trip", "gyeongju-history-two-day-route", "jeonju-hanok-village-day-trip"],
     },
