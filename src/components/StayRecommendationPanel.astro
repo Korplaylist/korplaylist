@@ -89,6 +89,83 @@ const regionLabels = {
   }
 };
 const recommendationRegionLabel = regionLabels[locale]?.[recommendationRegion] ?? recommendationRegion;
+const stayRegionLabel = regionLabels[locale]?.[stayRegion] ?? stayRegion;
+const localizedStayNames = {
+  en: {
+    "롯데호텔 월드": "Lotte Hotel World",
+    "더글라스 하우스": "Douglas House",
+    "안토": "Ahn To",
+    "서울신라호텔": "The Shilla Seoul",
+    "토요코인 부산역1": "Toyoko Inn Busan Station No.1",
+    "그랜드 조선 부산": "Grand Josun Busan",
+    "호텔 센트럴베이 광안리": "Hotel Central Bay Gwangalli",
+    "윈덤 그랜드 부산": "Wyndham Grand Busan",
+    "제주 노블레스 관광 호텔": "Jeju Noblesse Tourist Hotel",
+    "제주 오리엔탈 호텔 앤 카지노": "Jeju Oriental Hotel & Casino",
+    "제주팔레스관광호텔": "Jeju Palace Tourist Hotel",
+    "제주 그라벨 호텔": "Jeju Grabel Hotel",
+    "강릉숙소 스테이 북앤타이프": "Gangneung Stay Book & Type",
+    "신라모노그램 강릉 레지던스": "Shilla Monogram Gangneung Residence",
+    "세인트존스호텔": "St. John's Hotel",
+    "신라모노그램 강릉 호텔": "Shilla Monogram Gangneung Hotel",
+    "전주 금암동 하운드 전주터미널": "Hound Jeonju Terminal Geumam-dong",
+    "글로스터호텔 전주": "Gloucester Hotel Jeonju",
+    "베스트 웨스턴 플러스 전주 호텔": "Best Western Plus Jeonju Hotel",
+    "라한호텔 전주": "Lahan Hotel Jeonju"
+  },
+  ja: {
+    "롯데호텔 월드": "ロッテホテルワールド",
+    "더글라스 하우스": "ダグラスハウス",
+    "안토": "アント",
+    "서울신라호텔": "ソウル新羅ホテル",
+    "토요코인 부산역1": "東横イン釜山駅1",
+    "그랜드 조선 부산": "グランドジョスン釜山",
+    "호텔 센트럴베이 광안리": "ホテルセントラルベイ広安里",
+    "윈덤 그랜드 부산": "ウィンダムグランド釜山",
+    "제주 노블레스 관광 호텔": "済州ノブレス観光ホテル",
+    "제주 오리엔탈 호텔 앤 카지노": "済州オリエンタルホテル＆カジノ",
+    "제주팔레스관광호텔": "済州パレス観光ホテル",
+    "제주 그라벨 호텔": "済州グラベルホテル",
+    "강릉숙소 스테이 북앤타이프": "江陵ステイ ブック＆タイプ",
+    "신라모노그램 강릉 레지던스": "新羅モノグラム江陵レジデンス",
+    "세인트존스호텔": "セントジョンズホテル",
+    "신라모노그램 강릉 호텔": "新羅モノグラム江陵ホテル",
+    "전주 금암동 하운드 전주터미널": "全州金岩洞ハウンド全州ターミナル",
+    "글로스터호텔 전주": "グロスターホテル全州",
+    "베스트 웨스턴 플러스 전주 호텔": "ベストウェスタンプラス全州ホテル",
+    "라한호텔 전주": "ラハンホテル全州"
+  }
+};
+const localizePrice = (price) => {
+  if (!price || locale === "ko") return price;
+  const amount = price.replace("원/박", "").trim();
+  if (locale === "en") return `KRW ${amount} / night`;
+  if (locale === "ja") return `${amount}ウォン/泊`;
+  return price;
+};
+const localizeRating = (rating) => {
+  if (!rating || locale === "ko") return rating;
+  const normalized = rating.replace("⭐", "").trim();
+  if (locale === "en") return `Rating ${normalized}`;
+  if (locale === "ja") return `評価 ${normalized.replace("(", "（").replace(")", "）")}`;
+  return rating;
+};
+const localizeStay = (stay) => {
+  const name = localizedStayNames[locale]?.[stay.name] ?? stay.name;
+  return {
+    ...stay,
+    name,
+    price: localizePrice(stay.price),
+    rating: localizeRating(stay.rating),
+    imageAlt:
+      locale === "en"
+        ? `${recommendationRegionLabel} recommended stay: ${name}`
+        : locale === "ja"
+          ? `${recommendationRegionLabel}のおすすめ宿泊先：${name}`
+          : stay.imageAlt
+  };
+};
+const localizedStays = stays.map(localizeStay);
 const labels = {
   ko: {
     eyebrow: "숙소 추천",
@@ -106,10 +183,10 @@ const labels = {
     eyebrow: "Stay Recommendations",
     title: "Hotels and stays near this itinerary",
     description: "These cards use MyRealTrip stay listings with photos, prices, and ratings where available. Always confirm the final price, room type, and cancellation policy on the booking page before reserving.",
-    searchKeyword: `${stayRegion} hotel stay Korea`,
+    searchKeyword: `${stayRegionLabel} hotel stay Korea`,
     fallbackRating: "Check rating details",
     fallbackPrice: "Check price",
-    emptyTitle: `Search ${post.data.region} stays on MyRealTrip`,
+    emptyTitle: `Search ${stayRegionLabel} stays on MyRealTrip`,
     emptyText: "No automatic stay matches are available yet, so this link opens the search page.",
     fallbackNotice: `Direct stay data for ${post.data.region} is limited, so nearby ${recommendationRegionLabel} listings are shown as reference options.`,
     affiliate: "This section may include affiliate links. Korea Playlist may receive a commission if you book through these links, at no additional cost to you."
@@ -118,10 +195,10 @@ const labels = {
     eyebrow: "宿泊おすすめ",
     title: "この旅行ルートに近い宿泊先を見る",
     description: "マイリアルトリップの宿泊情報をもとに、写真、料金、評価を確認できるカードです。予約前に最終料金、客室条件、キャンセル規定を必ず予約ページで確認してください。",
-    searchKeyword: `${stayRegion} ホテル 韓国`,
+    searchKeyword: `${stayRegionLabel} ホテル 韓国`,
     fallbackRating: "評価を確認",
     fallbackPrice: "料金を確認",
-    emptyTitle: `${post.data.region}の宿泊先をMyRealTripで検索`,
+    emptyTitle: `${stayRegionLabel}の宿泊先をMyRealTripで検索`,
     emptyText: "現在、自動おすすめ結果がないため検索ページへ移動します。",
     fallbackNotice: `${post.data.region}の直接宿泊データが少ないため、近い${recommendationRegionLabel}エリアの宿泊先を参考として表示します。`,
     affiliate: "このエリアにはアフィリエイトリンクが含まれる場合があります。リンク経由で予約が発生すると韓国プレイリストが手数料を受け取ることがありますが、利用者に追加費用はかかりません。"
@@ -153,7 +230,7 @@ const searchUrl = `https://www.myrealtrip.com/search?keyword=${encodeURIComponen
     <>
     {usesFallbackRegion && <p class="stay-fallback-note">{labels.fallbackNotice}</p>}
     <div class="stay-grid">
-      {stays.map((stay) => (
+      {localizedStays.map((stay) => (
         <a class="stay-card" href={stay.url} target="_blank" rel="sponsored nofollow noopener noreferrer">
           <figure>
             <img src={stay.image} alt={stay.imageAlt} width="420" height="260" loading="lazy" decoding="async" />
