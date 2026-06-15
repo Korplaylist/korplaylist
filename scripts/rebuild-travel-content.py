@@ -215,6 +215,14 @@ def photo_figure(photo_key, locale):
   <figcaption>{credit}</figcaption>
 </figure>'''
 
+def closing_photo_key(photo_keys):
+    if len(photo_keys) >= 5:
+        return photo_keys[4]
+    for candidate in ["season", "seoul-hangang", "busan-bridge", "jeju-olle", "gangneung-sea", "gyeongju-daereung"]:
+        if candidate not in photo_keys:
+            return candidate
+    return photo_keys[0]
+
 def contextual_links(key, locale):
     links = DATA[key]["links"]
     parts = []
@@ -572,6 +580,7 @@ def body(key, locale):
     meta = META[key][locale]
     data = DATA[key]
     p = data["photos"]
+    closing_photo = closing_photo_key(p)
     map_html = map_block(key, locale)
     cards = route_cards(key, locale)
     checks = place_checklist(key, locale)
@@ -634,6 +643,8 @@ def body(key, locale):
 {photo_figure(p[3], locale)}
 
 {stay_food_weather}
+
+{photo_figure(closing_photo, locale)}
 
 ## 계절별 주의사항
 
@@ -707,6 +718,8 @@ For travelers without a car, check the time from the station or terminal to the 
 
 {stay_food_weather}
 
+{photo_figure(closing_photo, locale)}
+
 ## Seasonal Notes
 
 In summer, outdoor routes feel longer because of heat and crowds. In winter, sunset comes early, so outdoor photo stops should be placed earlier. On weekends and holidays, restaurant queues and taxi waits can change the route. Save each stop in Google Maps before leaving so you can adjust quickly.
@@ -777,6 +790,8 @@ Reduce photo-heavy outdoor stops and keep only the most important places. Add ma
 {photo_figure(p[3], locale)}
 
 {stay_food_weather}
+
+{photo_figure(closing_photo, locale)}
 
 ## 季節別の注意点
 

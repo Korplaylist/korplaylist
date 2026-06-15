@@ -168,7 +168,7 @@ const jsonLd = {
     </div>
     <AuthorBio locale={locale} />
     <ShareButtons title={post.data.title} description={post.data.description} url={postUrl} image={postImage} locale={locale} />
-    {locale === "ko" && <StayRecommendationPanel post={post} />}
+    <StayRecommendationPanel post={post} locale={locale} />
     <RelatedPosts posts={relatedPosts} locale={locale} />
   </article>
 </BaseLayout>

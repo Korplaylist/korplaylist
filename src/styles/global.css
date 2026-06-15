@@ -976,6 +976,16 @@ h3 {
   margin-top: 16px;
 }
 
+.stay-fallback-note {
+  margin: 14px 0 0;
+  padding: 10px 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  color: var(--muted);
+  background: white;
+  font-size: 0.9rem;
+}
+
 .stay-card,
 .related-card {
   overflow: hidden;
