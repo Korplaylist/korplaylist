@@ -1,11 +1,15 @@
-﻿---
+---
 title: "전주 한옥마을 당일치기 코스: 경기전·남부시장까지 하루 일정"
 description: "전주한옥마을, 경기전, 남부시장을 하루에 둘러보는 동선과 식사, 이동 시간을 처음 방문자 기준으로 정리했습니다."
 category: "여행 코스"
 region: "전주"
+locale: "ko"
+translationKey: "jeonju-hanok-village-day-trip"
+regionSlug: "jeonbuk"
+urlSlug: "jeonju-hanok-day"
 tags: ["전주", "한옥마을", "당일치기", "남부시장"]
-publishedAt: "2026-06-14"
-updatedAt: "2026-06-14"
+publishedAt: "2026-05-26"
+updatedAt: "2026-05-26"
 heroImage: "/images/jeonju-hanok.png"
 draft: false
 ---

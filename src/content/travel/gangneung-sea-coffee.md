@@ -1,11 +1,15 @@
-﻿---
+---
 title: "강릉 당일치기 여행 코스 2026: 바다·커피거리·경포호 핵심만 보기"
 description: "강릉역에서 안목해변, 커피거리, 경포호를 무리 없이 연결하는 당일치기 여행 동선과 이동 팁을 정리했습니다."
 category: "여행 코스"
 region: "강릉"
+locale: "ko"
+translationKey: "gangneung-sea-coffee-day-trip"
+regionSlug: "gangwon"
+urlSlug: "gangneung-sea-coffee"
 tags: ["강릉", "안목해변", "커피거리", "당일치기"]
-publishedAt: "2026-06-14"
-updatedAt: "2026-06-14"
+publishedAt: "2026-05-22"
+updatedAt: "2026-05-22"
 heroImage: "/images/gangneung-sea.png"
 draft: false
 ---

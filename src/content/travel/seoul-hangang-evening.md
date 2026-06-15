@@ -1,11 +1,15 @@
-﻿---
+---
 title: "서울 한강 야경 코스: 여의도·반포 저녁 산책과 준비물"
 description: "서울에서 저녁에 가기 좋은 한강 여행 코스로 여의도와 반포 한강공원의 이동 방법, 산책 시간, 준비물을 정리했습니다."
 category: "계절 축제"
 region: "서울"
+locale: "ko"
+translationKey: "seoul-hangang-night-walk"
+regionSlug: "seoul"
+urlSlug: "seoul-hangang-evening"
 tags: ["서울", "한강", "야경", "산책"]
-publishedAt: "2026-06-14"
-updatedAt: "2026-06-14"
+publishedAt: "2026-05-17"
+updatedAt: "2026-05-17"
 heroImage: "/images/seoul-hangang.png"
 draft: false
 ---

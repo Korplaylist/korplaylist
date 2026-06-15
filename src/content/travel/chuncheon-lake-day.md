@@ -1,11 +1,15 @@
-﻿---
+---
 title: "춘천 당일치기 여행 코스: ITX 타고 호수와 닭갈비까지 즐기는 일정"
 description: "춘천역, 소양강, 명동 닭갈비 골목을 하루에 둘러보는 당일치기 동선과 교통, 식사 시간 배분을 정리했습니다."
 category: "여행 코스"
 region: "춘천"
+locale: "ko"
+translationKey: "chuncheon-lake-day-trip"
+regionSlug: "gangwon"
+urlSlug: "chuncheon-lake-day"
 tags: ["춘천", "당일치기", "닭갈비", "소양강"]
-publishedAt: "2026-06-14"
-updatedAt: "2026-06-14"
+publishedAt: "2026-06-03"
+updatedAt: "2026-06-03"
 heroImage: "/images/chuncheon-lake.png"
 draft: false
 ---

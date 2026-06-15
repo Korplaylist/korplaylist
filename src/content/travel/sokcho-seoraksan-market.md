@@ -1,11 +1,15 @@
-﻿---
+---
 title: "속초 여행 코스: 설악산 짧은 산책과 중앙시장 먹거리 하루 일정"
 description: "설악산을 가볍게 보고 속초중앙시장까지 연결하는 하루 여행 계획과 이동 시간, 식사 동선을 정리했습니다."
 category: "여행지"
 region: "속초"
+locale: "ko"
+translationKey: "sokcho-seoraksan-market-route"
+regionSlug: "gangwon"
+urlSlug: "sokcho-seoraksan-market"
 tags: ["속초", "설악산", "중앙시장", "강원도"]
-publishedAt: "2026-06-14"
-updatedAt: "2026-06-14"
+publishedAt: "2026-05-24"
+updatedAt: "2026-05-24"
 heroImage: "/images/sokcho-mountain.png"
 draft: false
 ---

@@ -1,11 +1,15 @@
-﻿---
+---
 title: "렌터카 없이 제주 여행 가능할까? 버스·택시·투어 조합 가이드"
 description: "제주에서 렌터카 없이 여행할 때 버스, 택시, 투어를 어떻게 조합하면 좋은지 장단점과 일정 짜는 기준을 정리했습니다."
 category: "교통 준비"
 region: "제주"
+locale: "ko"
+translationKey: "jeju-without-car-guide"
+regionSlug: "jeju"
+urlSlug: "jeju-without-car"
 tags: ["제주", "대중교통", "버스", "여행팁"]
-publishedAt: "2026-06-14"
-updatedAt: "2026-06-14"
+publishedAt: "2026-05-21"
+updatedAt: "2026-05-21"
 heroImage: "/images/jeju-bus.png"
 draft: false
 ---

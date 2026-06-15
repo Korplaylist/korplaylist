@@ -1,11 +1,15 @@
-﻿---
+---
 title: "전주 먹거리 여행 예산: 비빔밥·콩나물국밥·시장 간식 비용 정리"
 description: "전주 먹거리 여행을 계획할 때 비빔밥, 콩나물국밥, 시장 간식에 어느 정도 비용을 잡으면 좋은지 예산 기준을 정리했습니다."
 category: "맛집"
 region: "전주"
+locale: "ko"
+translationKey: "jeonju-food-budget-guide"
+regionSlug: "jeonbuk"
+urlSlug: "jeonju-food-cost"
 tags: ["전주", "먹거리", "비용", "국내여행"]
-publishedAt: "2026-06-14"
-updatedAt: "2026-06-14"
+publishedAt: "2026-05-27"
+updatedAt: "2026-05-27"
 heroImage: "/images/jeonju-food.png"
 draft: false
 ---

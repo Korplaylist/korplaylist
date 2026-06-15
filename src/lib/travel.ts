@@ -1,9 +1,13 @@
 import { getCollection } from "astro:content";
 import { categorySlugMap, postRegionMap, regionSlugMap } from "../site.config";
 
-export async function getPublishedTravelPosts() {
-  const posts = await getCollection("travel", ({ data }) => !data.draft);
+export async function getPublishedTravelPosts(locale = "ko") {
+  const posts = await getCollection("travel", ({ data }) => !data.draft && (data.locale ?? "ko") === locale);
   return posts.sort((a, b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf());
+}
+
+export function getPostLocale(post: { data: { locale?: string } }) {
+  return post.data.locale ?? "ko";
 }
 
 export function getPostRegion(post: { data: { region: string } } | string) {
@@ -15,12 +19,22 @@ export function getRegionSlug(region: string) {
   return regionSlugMap[region] ?? slugify(region);
 }
 
+export function getPostRegionSlug(post: { data: { region: string; regionSlug?: string } }) {
+  return post.data.regionSlug ?? getRegionSlug(getPostRegion(post));
+}
+
+export function getPostSlug(post: { slug: string; data: { urlSlug?: string } }) {
+  return post.data.urlSlug ?? post.slug;
+}
+
 export function getRegionUrl(region: string) {
   return `/regions/${getRegionSlug(region)}/`;
 }
 
-export function getPostUrl(post: { slug: string; data: { region: string } }) {
-  return `/travel/${getRegionSlug(getPostRegion(post))}/${post.slug}/`;
+export function getPostUrl(post: { slug: string; data: { region: string; locale?: string; regionSlug?: string; urlSlug?: string } }) {
+  const locale = getPostLocale(post);
+  const prefix = locale === "ko" ? "" : `/${locale}`;
+  return `${prefix}/travel/${getPostRegionSlug(post)}/${getPostSlug(post)}/`;
 }
 
 export function getCategorySlug(category: string) {
@@ -37,10 +51,10 @@ export function getImageAlt(post: { data: { title: string; imageAlt?: string } }
 
 export function getRelatedPosts(currentPost: any, posts: any[], limit = 5) {
   return posts
-    .filter((post) => post.slug !== currentPost.slug)
+    .filter((post) => post.slug !== currentPost.slug && getPostLocale(post) === getPostLocale(currentPost))
     .map((post) => {
       const sharedTags = post.data.tags.filter((tag: string) => currentPost.data.tags.includes(tag)).length;
-      const regionScore = getPostRegion(post) === getPostRegion(currentPost) ? 4 : 0;
+      const regionScore = getPostRegionSlug(post) === getPostRegionSlug(currentPost) ? 4 : 0;
       const categoryScore = post.data.category === currentPost.data.category ? 3 : 0;
 
       return {
@@ -86,7 +100,7 @@ export function getPopularPosts(posts: any[], limit = 6) {
 }
 
 export function extractFaqItems(markdown: string) {
-  const faqSection = markdown.match(/(?:^|\n)##\s+자주 묻는 질문\s*\n([\s\S]*?)(?=\n##\s+|$)/);
+  const faqSection = markdown.match(/(?:^|\n)##\s+(?:자주 묻는 질문|FAQ|よくある質問)\s*\n([\s\S]*?)(?=\n##\s+|$)/);
 
   if (!faqSection) {
     return [];
@@ -132,8 +146,9 @@ function slugify(value: string) {
     .toLowerCase();
 }
 
-export function formatDate(date: Date) {
-  return new Intl.DateTimeFormat("ko-KR", {
+export function formatDate(date: Date, locale = "ko") {
+  const dateLocale = locale === "en" ? "en-US" : locale === "ja" ? "ja-JP" : "ko-KR";
+  return new Intl.DateTimeFormat(dateLocale, {
     year: "numeric",
     month: "long",
     day: "numeric"

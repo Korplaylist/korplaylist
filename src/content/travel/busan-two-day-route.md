@@ -1,11 +1,15 @@
-﻿---
+---
 title: "부산 1박2일 여행 코스 2026: 처음 가도 실패 적은 핵심 동선"
 description: "부산 첫 여행자가 해운대, 광안리, 감천문화마을, 남포동을 무리 없이 보는 1박2일 일정과 숙소 위치, 교통, 예산을 정리했습니다."
 category: "여행 코스"
 region: "부산"
+locale: "ko"
+translationKey: "busan-two-day-route"
+regionSlug: "busan"
+urlSlug: "busan-two-day-route"
 tags: ["부산", "1박2일", "해운대", "광안리", "감천문화마을"]
-publishedAt: "2026-06-14"
-updatedAt: "2026-06-15"
+publishedAt: "2026-05-18"
+updatedAt: "2026-05-18"
 heroImage: "/images/kto/busan-haeundae-view.jpg"
 imageAlt: "부산 해운대와 도심 전경"
 imageCredit: "ⓒ한국관광공사 포토코리아-김미숙"

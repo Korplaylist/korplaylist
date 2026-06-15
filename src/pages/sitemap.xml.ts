@@ -21,7 +21,11 @@ const staticPaths = [
 ];
 
 export async function GET() {
-  const posts = await getPublishedTravelPosts();
+  const posts = [
+    ...(await getPublishedTravelPosts("ko")),
+    ...(await getPublishedTravelPosts("en")),
+    ...(await getPublishedTravelPosts("ja"))
+  ];
   const categoryUrls = categories.map((category) => getCategoryUrl(category));
   const regionUrls = regions.map((region) => getRegionUrl(region));
   const urls = [...staticPaths, ...categoryUrls, ...regionUrls, ...posts.map((post) => getPostUrl(post))];

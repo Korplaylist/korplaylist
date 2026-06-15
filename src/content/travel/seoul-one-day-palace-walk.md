@@ -1,11 +1,15 @@
-﻿---
+---
 title: "서울 당일치기 도보 여행: 경복궁·북촌·인사동 하루 코스"
 description: "서울을 처음 걷는 여행자를 위해 경복궁, 북촌, 인사동을 하루에 둘러보는 도보 코스와 지하철 이동 팁을 정리했습니다."
 category: "여행 코스"
 region: "서울"
+locale: "ko"
+translationKey: "seoul-one-day-palace-walk"
+regionSlug: "seoul"
+urlSlug: "seoul-one-day-palace-walk"
 tags: ["서울", "경복궁", "북촌", "당일치기"]
-publishedAt: "2026-06-14"
-updatedAt: "2026-06-14"
+publishedAt: "2026-05-16"
+updatedAt: "2026-05-16"
 heroImage: "/images/seoul-palace.png"
 draft: false
 ---

@@ -1,11 +1,15 @@
-﻿---
+---
 title: "여수 밤바다 여행 코스 2026: 해상케이블카·낭만포차·오동도 동선"
 description: "여수 밤바다를 처음 보러 가는 사람을 위해 해상케이블카, 낭만포차거리, 오동도를 연결하는 저녁 여행 동선을 정리했습니다."
 category: "계절 축제"
 region: "여수"
+locale: "ko"
+translationKey: "yeosu-night-sea-route"
+regionSlug: "jeonnam"
+urlSlug: "yeosu-night-sea"
 tags: ["여수", "밤바다", "케이블카", "오동도"]
-publishedAt: "2026-06-14"
-updatedAt: "2026-06-14"
+publishedAt: "2026-05-30"
+updatedAt: "2026-05-30"
 heroImage: "/images/yeosu-night.png"
 draft: false
 ---

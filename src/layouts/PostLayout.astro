@@ -6,15 +6,57 @@ import RelatedPosts from "../components/RelatedPosts.astro";
 import ShareButtons from "../components/ShareButtons.astro";
 import StayRecommendationPanel from "../components/StayRecommendationPanel.astro";
 import { authorProfiles, siteConfig } from "../site.config";
-import { formatDate, getImageAlt, getPostRegion, getPostUrl, getRegionUrl } from "../lib/travel";
+import { formatDate, getImageAlt, getPostLocale, getPostRegion, getPostUrl, getRegionUrl } from "../lib/travel";
 
-const { post, headings = [], relatedPosts = [], faqItems = [] } = Astro.props;
+const { post, headings = [], relatedPosts = [], faqItems = [], alternates = {} } = Astro.props;
 const postUrl = new URL(getPostUrl(post), siteConfig.domain).toString();
 const postImage = new URL(post.data.heroImage, siteConfig.domain).toString();
-const author = authorProfiles.ko;
+const locale = getPostLocale(post);
+const author = authorProfiles[locale] ?? authorProfiles.ko;
 const imageAlt = getImageAlt(post);
 const postRegion = getPostRegion(post);
-const regionUrl = getRegionUrl(postRegion);
+const regionUrl = locale === "ko" ? getRegionUrl(postRegion) : `/${locale}/#regions`;
+const labels = {
+  ko: {
+    home: "홈",
+    homeUrl: "/",
+    breadcrumb: "현재 위치",
+    author: "작성자",
+    published: "게시일",
+    updated: "업데이트",
+    tags: "태그",
+    toc: "목차"
+  },
+  en: {
+    home: "Home",
+    homeUrl: "/en/",
+    breadcrumb: "Breadcrumb",
+    author: "Author",
+    published: "Published",
+    updated: "Updated",
+    tags: "Tags",
+    toc: "Contents"
+  },
+  ja: {
+    home: "ホーム",
+    homeUrl: "/ja/",
+    breadcrumb: "現在位置",
+    author: "執筆者",
+    published: "公開日",
+    updated: "更新日",
+    tags: "タグ",
+    toc: "目次"
+  }
+}[locale] ?? {
+  home: "홈",
+  homeUrl: "/",
+  breadcrumb: "현재 위치",
+  author: "작성자",
+  published: "게시일",
+  updated: "업데이트",
+  tags: "태그",
+  toc: "목차"
+};
 const articleSchema = {
   "@type": "Article",
   headline: post.data.title,
@@ -27,7 +69,7 @@ const articleSchema = {
     "@type": "Person",
     name: author.name,
     description: `${author.summary} ${author.detail}`,
-    url: new URL("/about/", siteConfig.domain).toString()
+    url: new URL(locale === "ko" ? "/about/" : `/${locale}/#about`, siteConfig.domain).toString()
   },
   publisher: {
     "@type": "Organization",
@@ -42,8 +84,8 @@ const breadcrumbSchema = {
     {
       "@type": "ListItem",
       position: 1,
-      name: "홈",
-      item: siteConfig.domain
+      name: labels.home,
+      item: new URL(labels.homeUrl, siteConfig.domain).toString()
     },
     {
       "@type": "ListItem",
@@ -85,11 +127,13 @@ const jsonLd = {
   image={post.data.heroImage}
   type="article"
   keywords={post.data.tags.join(", ")}
+  locale={locale}
+  alternates={alternates}
   jsonLd={jsonLd}
 >
   <article class="article-shell">
-    <nav class="breadcrumb" aria-label="현재 위치">
-      <a href="/">홈</a>
+    <nav class="breadcrumb" aria-label={labels.breadcrumb}>
+      <a href={labels.homeUrl}>{labels.home}</a>
       <span>/</span>
       <a href={regionUrl}>{postRegion}</a>
       <span>/</span>
@@ -100,10 +144,10 @@ const jsonLd = {
       <h1>{post.data.title}</h1>
       <p>{post.data.description}</p>
       <dl class="article-facts">
-        <div><dt>작성자</dt><dd>{author.name}</dd></div>
-        <div><dt>게시일</dt><dd>{formatDate(post.data.publishedAt)}</dd></div>
-        <div><dt>업데이트</dt><dd>{formatDate(post.data.updatedAt)}</dd></div>
-        <div><dt>태그</dt><dd>{post.data.tags.join(", ")}</dd></div>
+        <div><dt>{labels.author}</dt><dd>{author.name}</dd></div>
+        <div><dt>{labels.published}</dt><dd>{formatDate(post.data.publishedAt, locale)}</dd></div>
+        <div><dt>{labels.updated}</dt><dd>{formatDate(post.data.updatedAt, locale)}</dd></div>
+        <div><dt>{labels.tags}</dt><dd>{post.data.tags.join(", ")}</dd></div>
       </dl>
       <figure class="article-hero-figure">
         <img src={post.data.heroImage} alt={imageAlt} width="1200" height="630" loading="eager" decoding="async" fetchpriority="high" />
@@ -111,8 +155,8 @@ const jsonLd = {
       </figure>
     </header>
     {headings.length > 0 && (
-      <aside class="toc" aria-label="글 목차">
-        <strong>목차</strong>
+      <aside class="toc" aria-label={labels.toc}>
+        <strong>{labels.toc}</strong>
         <ol>
           {headings.filter((heading) => heading.depth === 2).map((heading) => (
             <li><a href={`#${heading.slug}`}>{heading.text}</a></li>
@@ -123,10 +167,10 @@ const jsonLd = {
     <div class="article-content">
       <slot />
     </div>
-    <InternalLinkGuide currentPost={post} posts={relatedPosts} />
-    <AuthorBio locale="ko" />
+    <InternalLinkGuide currentPost={post} posts={relatedPosts} locale={locale} />
+    <AuthorBio locale={locale} />
     <ShareButtons title={post.data.title} description={post.data.description} url={postUrl} image={postImage} />
-    <StayRecommendationPanel post={post} />
-    <RelatedPosts posts={relatedPosts} />
+    {locale === "ko" && <StayRecommendationPanel post={post} />}
+    <RelatedPosts posts={relatedPosts} locale={locale} />
   </article>
 </BaseLayout>

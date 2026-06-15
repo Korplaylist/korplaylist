@@ -1,11 +1,15 @@
-﻿---
+---
 title: "통영 바다 전망 여행 코스: 동피랑·케이블카·강구안 핵심 동선"
 description: "통영에서 바다 전망을 중심으로 여행할 때 동피랑, 통영케이블카, 강구안을 어떻게 연결하면 좋은지 정리했습니다."
 category: "여행지"
 region: "통영"
+locale: "ko"
+translationKey: "tongyeong-sea-view-route"
+regionSlug: "gyeongnam"
+urlSlug: "tongyeong-island-view"
 tags: ["통영", "동피랑", "케이블카", "바다"]
-publishedAt: "2026-06-14"
-updatedAt: "2026-06-14"
+publishedAt: "2026-06-02"
+updatedAt: "2026-06-02"
 heroImage: "/images/tongyeong-sea.png"
 draft: false
 ---

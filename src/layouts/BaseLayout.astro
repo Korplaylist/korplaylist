@@ -12,6 +12,7 @@ const {
   type = "website",
   locale = "ko",
   keywords = "",
+  alternates = {},
   jsonLd
 } = Astro.props;
 
@@ -36,6 +37,7 @@ const homeAlternates = {
   "x-default": new URL("/", siteConfig.domain).toString()
 };
 const shouldRenderHomeAlternates = ["/", "/en/", "/ja/"].includes(new URL(absoluteUrl).pathname);
+const alternateEntries = Object.entries(alternates);
 ---
 
 <!doctype html>
@@ -64,6 +66,9 @@ const shouldRenderHomeAlternates = ["/", "/en/", "/ja/"].includes(new URL(absolu
     <meta name="twitter:image" content={absoluteImage} />
     {shouldRenderHomeAlternates && Object.entries(homeAlternates).map(([hreflang, href]) => (
       <link rel="alternate" hreflang={hreflang} href={href} />
+    ))}
+    {!shouldRenderHomeAlternates && alternateEntries.map(([hreflang, href]) => (
+      <link rel="alternate" hreflang={hreflang} href={href as string} />
     ))}
     {siteConfig.googleSiteVerification && <meta name="google-site-verification" content={siteConfig.googleSiteVerification} />}
     {siteConfig.naverSiteVerification && <meta name="naver-site-verification" content={siteConfig.naverSiteVerification} />}

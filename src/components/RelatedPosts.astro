@@ -1,15 +1,32 @@
 ---
 import { getImageAlt, getPostUrl } from "../lib/travel";
 
-const { posts = [] } = Astro.props;
+const { posts = [], locale = "ko" } = Astro.props;
+const labels = {
+  ko: {
+    title: "함께 보면 좋은 글",
+    description: "현재 글과 지역, 테마, 태그가 가까운 여행 가이드를 함께 확인하세요."
+  },
+  en: {
+    title: "Related Korea travel guides",
+    description: "Continue with guides that match this region, theme, or search intent."
+  },
+  ja: {
+    title: "あわせて読みたい記事",
+    description: "地域、テーマ、検索意図が近い韓国旅行ガイドを続けて確認できます。"
+  }
+}[locale] ?? {
+  title: "함께 보면 좋은 글",
+  description: "현재 글과 지역, 테마, 태그가 가까운 여행 가이드를 함께 확인하세요."
+};
 ---
 
 {posts.length > 0 && (
   <section class="related-panel" aria-labelledby="related-posts-title">
     <div class="section-head compact">
       <div>
-        <h2 id="related-posts-title">함께 보면 좋은 글</h2>
-        <p>현재 글과 지역, 테마, 태그가 가까운 여행 가이드를 함께 확인하세요.</p>
+        <h2 id="related-posts-title">{labels.title}</h2>
+        <p>{labels.description}</p>
       </div>
     </div>
     <div class="related-grid">

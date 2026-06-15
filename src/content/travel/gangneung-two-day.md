@@ -1,11 +1,15 @@
-﻿---
+---
 title: "강릉 1박2일 여행 코스: 바다·오죽헌·주문진을 여유 있게 보는 방법"
 description: "강릉 바다와 오죽헌, 주문진을 하루에 몰아보지 않고 1박2일로 나누는 현실적인 일정과 숙소 위치 기준을 정리했습니다."
 category: "여행 코스"
 region: "강릉"
+locale: "ko"
+translationKey: "gangneung-two-day-route"
+regionSlug: "gangwon"
+urlSlug: "gangneung-two-day"
 tags: ["강릉", "1박2일", "주문진", "오죽헌"]
-publishedAt: "2026-06-14"
-updatedAt: "2026-06-14"
+publishedAt: "2026-05-23"
+updatedAt: "2026-05-23"
 heroImage: "/images/gangneung-two-day.png"
 draft: false
 ---

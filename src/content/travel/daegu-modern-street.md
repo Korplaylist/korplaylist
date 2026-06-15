@@ -1,11 +1,15 @@
-﻿---
+---
 title: "대구 도심 여행 코스: 근대골목·계산성당·김광석길 반나절 동선"
 description: "대구 근대골목과 김광석 다시그리기길을 짧은 시간에 연결하는 도심 여행 코스와 걷기 좋은 순서를 정리했습니다."
 category: "여행지"
 region: "대구"
+locale: "ko"
+translationKey: "daegu-modern-street-half-day"
+regionSlug: "daegu"
+urlSlug: "daegu-modern-street"
 tags: ["대구", "근대골목", "김광석길", "도심여행"]
-publishedAt: "2026-06-14"
-updatedAt: "2026-06-14"
+publishedAt: "2026-06-05"
+updatedAt: "2026-06-05"
 heroImage: "/images/daegu-street.png"
 draft: false
 ---

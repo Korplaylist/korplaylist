@@ -1,7 +1,11 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import AuthorBio from "../../components/AuthorBio.astro";
+import PostCard from "../../components/PostCard.astro";
+import { getPublishedTravelPosts } from "../../lib/travel";
 import { localizedCategories, localizedRegions } from "../../site.config";
+
+const posts = await getPublishedTravelPosts("en");
 ---
 
 <BaseLayout
@@ -21,6 +25,17 @@ import { localizedCategories, localizedRegions } from "../../site.config";
       <p>
         We publish Korean guides first, then expand English pages with localized search intent and internal links.
       </p>
+    </div>
+  </section>
+  <section class="section">
+    <div class="section-head">
+      <div>
+        <h2>Latest Korea Travel Guides</h2>
+        <p>English guides are published after the Korean planning article, with localized search intent and internal links.</p>
+      </div>
+    </div>
+    <div class="post-grid">
+      {posts.slice(0, 6).map((post) => <PostCard post={post} />)}
     </div>
   </section>
   <section id="regions" class="section">

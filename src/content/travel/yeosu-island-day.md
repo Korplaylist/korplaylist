@@ -1,11 +1,15 @@
-﻿---
+---
 title: "여수 섬 여행 당일치기: 배편·날씨·시간표 체크 포인트"
 description: "여수에서 섬 여행을 당일치기로 준비할 때 배편, 날씨, 이동 여유 시간을 먼저 확인해야 하는 이유와 일정 기준을 정리했습니다."
 category: "여행 코스"
 region: "여수"
+locale: "ko"
+translationKey: "yeosu-island-day-trip"
+regionSlug: "jeonnam"
+urlSlug: "yeosu-island-day"
 tags: ["여수", "섬여행", "배편", "당일치기"]
-publishedAt: "2026-06-14"
-updatedAt: "2026-06-14"
+publishedAt: "2026-05-31"
+updatedAt: "2026-05-31"
 heroImage: "/images/yeosu-island.png"
 draft: false
 ---

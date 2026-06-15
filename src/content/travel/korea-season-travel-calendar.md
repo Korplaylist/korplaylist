@@ -1,11 +1,15 @@
-﻿---
+---
 title: "국내여행 언제 갈까? 계절별 추천 여행지와 준비 포인트 2026"
 description: "봄, 여름, 가을, 겨울에 맞는 국내 여행지 선택 기준과 성수기, 날씨, 준비물을 한눈에 비교할 수 있게 정리했습니다."
 category: "계절 축제"
 region: "서울"
+locale: "ko"
+translationKey: "seasonal-korea-travel-calendar-2026"
+regionSlug: "seoul"
+urlSlug: "korea-season-travel-calendar"
 tags: ["국내여행", "계절여행", "여행시기", "준비팁"]
-publishedAt: "2026-06-14"
-updatedAt: "2026-06-14"
+publishedAt: "2026-05-15"
+updatedAt: "2026-05-15"
 heroImage: "/images/korea-season.png"
 draft: false
 ---

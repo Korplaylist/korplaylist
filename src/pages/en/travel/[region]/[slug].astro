@@ -1,0 +1,28 @@
+---
+import { getCollection } from "astro:content";
+import PostLayout from "../../../../layouts/PostLayout.astro";
+import { extractFaqItems, getPostRegionSlug, getPostSlug, getPostUrl, getRelatedPosts } from "../../../../lib/travel";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("travel", ({ data }) => !data.draft && data.locale === "en");
+  return posts.map((post) => ({
+    params: { region: getPostRegionSlug(post), slug: getPostSlug(post) },
+    props: { post }
+  }));
+}
+
+const { post } = Astro.props;
+const allPosts = await getCollection("travel", ({ data }) => !data.draft);
+const { Content, headings } = await post.render();
+const relatedPosts = getRelatedPosts(post, allPosts, 5);
+const faqItems = extractFaqItems(post.body);
+const translations = allPosts.filter((item) => item.data.translationKey && item.data.translationKey === post.data.translationKey);
+const alternates = Object.fromEntries([
+  ...translations.map((item) => [item.data.locale ?? "ko", new URL(getPostUrl(item), "https://korplaylist.com").toString()]),
+  ["x-default", new URL(getPostUrl(translations.find((item) => (item.data.locale ?? "ko") === "ko") ?? post), "https://korplaylist.com").toString()]
+]);
+---
+
+<PostLayout post={post} headings={headings} relatedPosts={relatedPosts} faqItems={faqItems} alternates={alternates}>
+  <Content />
+</PostLayout>

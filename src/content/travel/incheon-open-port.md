@@ -1,11 +1,15 @@
-﻿---
+---
 title: "인천 당일치기 코스: 개항장·차이나타운·월미도 수도권 여행"
 description: "서울 근교 당일치기 여행으로 인천역 주변 개항장, 차이나타운, 월미도를 묶어 보는 이동 순서와 체류 시간을 정리했습니다."
 category: "여행 코스"
 region: "인천"
+locale: "ko"
+translationKey: "incheon-open-port-day-trip"
+regionSlug: "incheon"
+urlSlug: "incheon-open-port"
 tags: ["인천", "차이나타운", "개항장", "월미도"]
-publishedAt: "2026-06-14"
-updatedAt: "2026-06-14"
+publishedAt: "2026-06-04"
+updatedAt: "2026-06-04"
 heroImage: "/images/incheon-port.png"
 draft: false
 ---

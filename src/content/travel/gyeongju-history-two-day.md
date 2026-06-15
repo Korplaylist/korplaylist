@@ -1,11 +1,15 @@
-﻿---
+---
 title: "경주 1박2일 역사 여행 코스: 대릉원·첨성대·불국사까지 정리"
 description: "경주 역사 여행을 처음 계획하는 사람을 위해 대릉원, 첨성대, 동궁과 월지, 불국사를 나누어 보는 1박2일 일정을 정리했습니다."
 category: "여행 코스"
 region: "경주"
+locale: "ko"
+translationKey: "gyeongju-history-two-day-route"
+regionSlug: "gyeongbuk"
+urlSlug: "gyeongju-history-two-day"
 tags: ["경주", "역사여행", "1박2일", "불국사"]
-publishedAt: "2026-06-14"
-updatedAt: "2026-06-14"
+publishedAt: "2026-05-28"
+updatedAt: "2026-05-28"
 heroImage: "/images/gyeongju-history.png"
 draft: false
 ---

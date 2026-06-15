@@ -1,11 +1,15 @@
-﻿---
+---
 title: "통영 1박2일 여행 코스: 섬 여행과 시내 명소를 함께 보는 일정"
 description: "통영 시내 명소와 가까운 섬 여행을 1박2일 안에 함께 넣을 때 필요한 동선, 배편 여유, 숙소 위치 기준을 정리했습니다."
 category: "여행 코스"
 region: "통영"
+locale: "ko"
+translationKey: "tongyeong-two-day-island-route"
+regionSlug: "gyeongnam"
+urlSlug: "tongyeong-two-day"
 tags: ["통영", "1박2일", "섬여행", "남해"]
-publishedAt: "2026-06-14"
-updatedAt: "2026-06-14"
+publishedAt: "2026-06-01"
+updatedAt: "2026-06-01"
 heroImage: "/images/tongyeong-island.png"
 draft: false
 ---

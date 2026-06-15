@@ -1,11 +1,15 @@
-﻿---
+---
 title: "부산 먹거리 여행 코스 2026: 자갈치시장부터 국제시장까지 하루 동선"
 description: "부산 시장 먹거리 여행을 처음 준비하는 사람을 위해 자갈치시장, 국제시장, 부평깡통시장의 이동 순서와 예산 포인트를 정리했습니다."
 category: "맛집"
 region: "부산"
+locale: "ko"
+translationKey: "busan-market-food-route"
+regionSlug: "busan"
+urlSlug: "busan-market-food"
 tags: ["부산", "시장", "먹거리", "남포동"]
-publishedAt: "2026-06-14"
-updatedAt: "2026-06-14"
+publishedAt: "2026-05-19"
+updatedAt: "2026-05-19"
 heroImage: "/images/busan-market.png"
 draft: false
 ---

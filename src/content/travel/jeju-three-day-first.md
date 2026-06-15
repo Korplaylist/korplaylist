@@ -1,11 +1,15 @@
-﻿---
+---
 title: "제주 2박3일 여행 코스 2026: 첫 제주라면 동쪽·서쪽 이렇게 나누세요"
 description: "제주 첫 여행자가 렌터카 동선을 덜 꼬이게 잡을 수 있도록 동쪽과 서쪽을 나누는 2박3일 기본 일정을 정리했습니다."
 category: "여행 코스"
 region: "제주"
+locale: "ko"
+translationKey: "jeju-three-day-first-trip"
+regionSlug: "jeju"
+urlSlug: "jeju-three-day-first"
 tags: ["제주", "2박3일", "렌터카", "국내여행"]
-publishedAt: "2026-06-14"
-updatedAt: "2026-06-14"
+publishedAt: "2026-05-20"
+updatedAt: "2026-05-20"
 heroImage: "/images/jeju-coast.png"
 draft: false
 ---

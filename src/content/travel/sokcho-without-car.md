@@ -1,11 +1,15 @@
-﻿---
+---
 title: "뚜벅이 속초 여행 가이드: 버스만으로 바다·시장·설악산 가는 법"
 description: "차 없이 속초를 여행하는 사람을 위해 버스터미널, 속초중앙시장, 바다, 설악산을 연결하는 대중교통 기준을 정리했습니다."
 category: "교통 준비"
 region: "속초"
+locale: "ko"
+translationKey: "sokcho-without-car-guide"
+regionSlug: "gangwon"
+urlSlug: "sokcho-without-car"
 tags: ["속초", "뚜벅이", "교통", "버스"]
-publishedAt: "2026-06-14"
-updatedAt: "2026-06-14"
+publishedAt: "2026-05-25"
+updatedAt: "2026-05-25"
 heroImage: "/images/sokcho-bus.png"
 draft: false
 ---

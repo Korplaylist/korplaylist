@@ -1,17 +1,36 @@
 ---
 import { getPostUrl } from "../lib/travel";
 
-const { currentPost, posts = [] } = Astro.props;
+const { currentPost, posts = [], locale = "ko" } = Astro.props;
 const links = posts.slice(0, 3);
+const labels = {
+  ko: {
+    eyebrow: "내부 링크",
+    title: `${currentPost.data.region} 여행을 더 구체적으로 준비하려면`,
+    body: "이 글을 본 뒤에는 아래 가이드를 함께 확인하면 동선, 비용, 교통, 먹거리 정보를 한 번에 이어서 정리할 수 있습니다."
+  },
+  en: {
+    eyebrow: "Internal links",
+    title: `Plan ${currentPost.data.region} in more detail`,
+    body: "Read these related guides next to connect routes, costs, transport, food, and stay decisions in one planning flow."
+  },
+  ja: {
+    eyebrow: "内部リンク",
+    title: `${currentPost.data.region}旅行をさらに具体的に準備するには`,
+    body: "次の記事も合わせて確認すると、ルート、費用、交通、グルメ、宿泊エリアを一続きで整理できます。"
+  }
+}[locale] ?? {
+  eyebrow: "내부 링크",
+  title: `${currentPost.data.region} 여행을 더 구체적으로 준비하려면`,
+  body: "이 글을 본 뒤에는 아래 가이드를 함께 확인하면 동선, 비용, 교통, 먹거리 정보를 한 번에 이어서 정리할 수 있습니다."
+};
 ---
 
 {links.length > 0 && (
   <aside class="internal-link-guide" aria-labelledby="internal-links-title">
-    <p class="eyebrow">내부 링크</p>
-    <h2 id="internal-links-title">{currentPost.data.region} 여행을 더 구체적으로 준비하려면</h2>
-    <p>
-      이 글을 본 뒤에는 아래 가이드를 함께 확인하면 동선, 비용, 교통, 먹거리 정보를 한 번에 이어서 정리할 수 있습니다.
-    </p>
+    <p class="eyebrow">{labels.eyebrow}</p>
+    <h2 id="internal-links-title">{labels.title}</h2>
+    <p>{labels.body}</p>
     <div>
       {links.map((post) => (
         <a href={getPostUrl(post)}>
