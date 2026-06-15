@@ -1,5 +1,10 @@
 ﻿export const siteConfig = {
   siteName: "한국플레이리스트",
+  localizedSiteNames: {
+    ko: "한국플레이리스트",
+    en: "Korea Playlist",
+    ja: "韓国プレイリスト"
+  },
   domain: "https://korplaylist.com",
   defaultLocale: "ko-KR",
   description:
@@ -21,6 +26,63 @@ export const categoryDescriptions: Record<string, string> = {
 };
 
 export const regions = ["서울", "부산", "제주", "강릉", "전주", "경주", "여수", "속초", "통영", "인천", "대구", "춘천"];
+
+export const localizedRegions: Record<string, string[]> = {
+  ko: ["서울", "부산", "제주", "강릉", "전주", "경주", "여수", "속초", "통영", "인천", "대구", "춘천"],
+  en: ["Seoul", "Busan", "Jeju", "Gangneung", "Jeonju", "Gyeongju", "Yeosu", "Sokcho", "Tongyeong", "Incheon", "Daegu", "Chuncheon"],
+  ja: ["ソウル", "釜山", "済州", "江陵", "全州", "慶州", "麗水", "束草", "統営", "仁川", "大邱", "春川"]
+};
+
+export const localizedCategories: Record<string, string[]> = {
+  ko: ["여행 코스", "여행지", "맛집", "숙소", "교통 준비", "계절 축제"],
+  en: ["Itineraries", "Destinations", "Food", "Stays", "Transport", "Seasonal Trips"],
+  ja: ["モデルコース", "観光地", "グルメ", "宿泊", "交通準備", "季節旅行"]
+};
+
+export const localeLabels = {
+  ko: {
+    homeHref: "/",
+    navLabel: "주요 메뉴",
+    regionLabel: "빠른 지역",
+    languageLabel: "언어 선택",
+    homeAria: "한국플레이리스트 홈",
+    regions: "지역",
+    categories: "테마",
+    about: "소개",
+    contact: "문의",
+    footerText: "한국 여행을 준비하는 사람을 위한 객관적인 가이드입니다.",
+    privacy: "개인정보처리방침",
+    terms: "이용약관"
+  },
+  en: {
+    homeHref: "/en/",
+    navLabel: "Main navigation",
+    regionLabel: "Quick regions",
+    languageLabel: "Language selection",
+    homeAria: "Korea Playlist home",
+    regions: "Regions",
+    categories: "Themes",
+    about: "About",
+    contact: "Contact",
+    footerText: "An objective guide for planning travel in Korea.",
+    privacy: "Privacy Policy",
+    terms: "Terms"
+  },
+  ja: {
+    homeHref: "/ja/",
+    navLabel: "メインメニュー",
+    regionLabel: "地域へのショートカット",
+    languageLabel: "言語選択",
+    homeAria: "韓国プレイリスト ホーム",
+    regions: "地域",
+    categories: "テーマ",
+    about: "紹介",
+    contact: "お問い合わせ",
+    footerText: "韓国旅行を準備する人のための客観的なガイドです。",
+    privacy: "プライバシーポリシー",
+    terms: "利用規約"
+  }
+};
 
 export const regionGroups = [
   {

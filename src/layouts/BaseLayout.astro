@@ -16,7 +16,8 @@ const {
 
 const absoluteUrl = new URL(canonical, siteConfig.domain).toString();
 const absoluteImage = new URL(image, siteConfig.domain).toString();
-const pageTitle = title === siteConfig.siteName ? title : `${title} | ${siteConfig.siteName}`;
+const localizedSiteName = siteConfig.localizedSiteNames[locale] ?? siteConfig.siteName;
+const pageTitle = title === localizedSiteName || title === siteConfig.siteName ? title : `${title} | ${localizedSiteName}`;
 const ogLocales: Record<string, string> = {
   ko: "ko_KR",
   en: "en_US",
@@ -41,7 +42,7 @@ const htmlLangs: Record<string, string> = {
     <link rel="canonical" href={absoluteUrl} />
     <meta property="og:locale" content={ogLocales[locale] ?? "ko_KR"} />
     <meta property="og:type" content={type} />
-    <meta property="og:site_name" content={siteConfig.siteName} />
+    <meta property="og:site_name" content={localizedSiteName} />
     <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={absoluteUrl} />
@@ -56,16 +57,16 @@ const htmlLangs: Record<string, string> = {
     <script type="application/ld+json" set:html={JSON.stringify({
       "@context": "https://schema.org",
       "@type": "Organization",
-      name: siteConfig.siteName,
+      name: localizedSiteName,
       url: siteConfig.domain
     })} />
     {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
   </head>
   <body>
-    <Header />
+    <Header locale={locale} />
     <main>
       <slot />
     </main>
-    <Footer />
+    <Footer locale={locale} />
   </body>
 </html>

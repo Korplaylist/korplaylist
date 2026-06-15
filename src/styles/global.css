@@ -297,6 +297,11 @@ h3 {
   border-block: 1px solid var(--line);
 }
 
+.feature-band-inner {
+  background: var(--soft);
+  border-block: 1px solid var(--line);
+}
+
 .info-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));

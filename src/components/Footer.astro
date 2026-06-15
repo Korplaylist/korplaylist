@@ -1,16 +1,20 @@
 ---
-import { siteConfig } from "../site.config";
+import { localeLabels, siteConfig } from "../site.config";
+
+const { locale = "ko" } = Astro.props;
+const labels = localeLabels[locale] ?? localeLabels.ko;
+const siteName = siteConfig.localizedSiteNames[locale] ?? siteConfig.siteName;
 ---
 
 <footer class="site-footer">
   <div>
-    <strong>{siteConfig.siteName}</strong>
-    <p>한국 여행을 준비하는 사람을 위한 객관적인 가이드입니다.</p>
+    <strong>{siteName}</strong>
+    <p>{labels.footerText}</p>
   </div>
-  <nav aria-label="하단 메뉴">
-    <a href="/about/">소개</a>
-    <a href="/privacy/">개인정보처리방침</a>
-    <a href="/terms/">이용약관</a>
-    <a href="/contact/">문의</a>
+  <nav aria-label={labels.navLabel}>
+    <a href={locale === "ko" ? "/about/" : `/${locale}/#about`}>{labels.about}</a>
+    <a href="/privacy/">{labels.privacy}</a>
+    <a href="/terms/">{labels.terms}</a>
+    <a href={locale === "ko" ? "/contact/" : `/${locale}/#contact`}>{labels.contact}</a>
   </nav>
 </footer>

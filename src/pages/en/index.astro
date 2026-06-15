@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import { localizedCategories, localizedRegions } from "../../site.config";
 ---
 
 <BaseLayout
@@ -13,13 +14,42 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
     <h1>Korea Travel Guide</h1>
     <div class="page-copy">
       <p>
-        한국플레이리스트 will expand English guides for travelers planning Korea trips, including destinations, itineraries,
-        transport, food, accommodation, and seasonal travel ideas.
+        Korea Playlist is an objective travel guide for people planning trips in Korea. English guides will cover
+        destinations, itineraries, transport, food, stays, and seasonal travel ideas.
       </p>
       <p>
-        Korean content will be published first, then English versions will be added with matching internal links and
-        localized search intent.
+        We publish Korean guides first, then expand English pages with localized search intent and internal links.
       </p>
     </div>
+  </section>
+  <section id="regions" class="section">
+    <div class="section-head">
+      <div>
+        <h2>Regions</h2>
+        <p>Start with major Korean travel regions and choose the city that fits your route.</p>
+      </div>
+    </div>
+    <div class="filter-grid">
+      {localizedRegions.en.map((region) => <a href="/en/#regions">{region}</a>)}
+    </div>
+  </section>
+  <section id="themes" class="section feature-band-inner">
+    <div class="section-head">
+      <div>
+        <h2>Themes</h2>
+        <p>Browse Korea travel information by itinerary, destination, food, stays, transport, and season.</p>
+      </div>
+    </div>
+    <div class="filter-grid">
+      {localizedCategories.en.map((category) => <a href="/en/#themes">{category}</a>)}
+    </div>
+  </section>
+  <section id="about" class="section">
+    <h2>About</h2>
+    <p>Korea Playlist focuses on practical planning: routes, timing, transport choices, costs, and things to check before visiting.</p>
+  </section>
+  <section id="contact" class="section">
+    <h2>Contact</h2>
+    <p>For corrections or partnership inquiries, contact us at korplaylist.hong@gmail.com.</p>
   </section>
 </BaseLayout>

@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import { localizedCategories, localizedRegions } from "../../site.config";
 ---
 
 <BaseLayout
@@ -13,12 +14,42 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
     <h1>韓国旅行ガイド</h1>
     <div class="page-copy">
       <p>
-        한국플레이리스트では、韓国旅行を準備する旅行者向けに、観光地、モデルコース、交通、グルメ、
+        韓国プレイリストでは、韓国旅行を準備する旅行者向けに、観光地、モデルコース、交通、グルメ、
         宿泊、季節別の旅行情報を順次整理していきます。
       </p>
       <p>
         まず韓国語の記事を作成し、その後に英語版と日本語版を追加して、関連する記事同士を内部リンクでつなげます。
       </p>
     </div>
+  </section>
+  <section id="regions" class="section">
+    <div class="section-head">
+      <div>
+        <h2>地域</h2>
+        <p>韓国の主要旅行地域から、旅程に合う都市を探せます。</p>
+      </div>
+    </div>
+    <div class="filter-grid">
+      {localizedRegions.ja.map((region) => <a href="/ja/#regions">{region}</a>)}
+    </div>
+  </section>
+  <section id="themes" class="section feature-band-inner">
+    <div class="section-head">
+      <div>
+        <h2>テーマ</h2>
+        <p>モデルコース、観光地、グルメ、宿泊、交通準備、季節旅行に分けて確認できます。</p>
+      </div>
+    </div>
+    <div class="filter-grid">
+      {localizedCategories.ja.map((category) => <a href="/ja/#themes">{category}</a>)}
+    </div>
+  </section>
+  <section id="about" class="section">
+    <h2>紹介</h2>
+    <p>韓国プレイリストは、ルート、移動時間、交通手段、費用、訪問前に確認したい情報を客観的に整理します。</p>
+  </section>
+  <section id="contact" class="section">
+    <h2>お問い合わせ</h2>
+    <p>修正依頼やお問い合わせは korplaylist.hong@gmail.com までお送りください。</p>
   </section>
 </BaseLayout>

@@ -1,5 +1,10 @@
 ---
-import { regions, siteConfig } from "../site.config";
+import { localeLabels, localizedRegions, siteConfig } from "../site.config";
+
+const { locale = "ko" } = Astro.props;
+const labels = localeLabels[locale] ?? localeLabels.ko;
+const regionNames = localizedRegions[locale] ?? localizedRegions.ko;
+const siteName = siteConfig.localizedSiteNames[locale] ?? siteConfig.siteName;
 
 const languages = [
   { href: "/", flagImage: "/icons/flag-ko.svg", label: "한국어", code: "KO" },
@@ -9,21 +14,23 @@ const languages = [
 ---
 
 <header class="site-header">
-  <a class="brand" href="/" aria-label="한국플레이리스트 홈">
+  <a class="brand" href={labels.homeHref} aria-label={labels.homeAria}>
     <img class="brand-logo" src="/brand/korplaylist-logo.png" alt="" width="38" height="38" loading="eager" />
-    <span>{siteConfig.siteName}</span>
+    <span>{siteName}</span>
   </a>
-  <nav class="nav" aria-label="주요 메뉴">
-    <a href="/regions/">지역</a>
-    <a href="/categories/">테마</a>
-    <a href="/about/">소개</a>
-    <a href="/contact/">문의</a>
+  <nav class="nav" aria-label={labels.navLabel}>
+    <a href={locale === "ko" ? "/regions/" : `/${locale}/#regions`}>{labels.regions}</a>
+    <a href={locale === "ko" ? "/categories/" : `/${locale}/#themes`}>{labels.categories}</a>
+    <a href={locale === "ko" ? "/about/" : `/${locale}/#about`}>{labels.about}</a>
+    <a href={locale === "ko" ? "/contact/" : `/${locale}/#contact`}>{labels.contact}</a>
   </nav>
   <div class="header-actions">
-    <div class="quick-links" aria-label="빠른 지역">
-      {regions.slice(0, 4).map((region) => <a href={`/regions/${encodeURIComponent(region)}/`}>{region}</a>)}
+    <div class="quick-links" aria-label={labels.regionLabel}>
+      {regionNames.slice(0, 4).map((region, index) => (
+        <a href={locale === "ko" ? `/regions/${encodeURIComponent(localizedRegions.ko[index])}/` : `/${locale}/#regions`}>{region}</a>
+      ))}
     </div>
-    <nav class="language-switcher" aria-label="언어 선택">
+    <nav class="language-switcher" aria-label={labels.languageLabel}>
       {languages.map((language) => (
         <a class="language-link" href={language.href} aria-label={`${language.label} 메인 페이지로 이동`} title={language.label}>
           <img class="language-flag" src={language.flagImage} alt="" width="24" height="16" loading="lazy" />
