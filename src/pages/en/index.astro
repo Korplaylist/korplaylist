@@ -1,11 +1,30 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import AuthorBio from "../../components/AuthorBio.astro";
+import PopularCarousel from "../../components/PopularCarousel.astro";
 import PostCard from "../../components/PostCard.astro";
-import { getPublishedTravelPosts } from "../../lib/travel";
-import { localizedCategories, localizedRegions } from "../../site.config";
+import { getPopularPosts, getPostUrl, getPublishedTravelPosts } from "../../lib/travel";
+import { localizedCategories, localizedRegions, regionSlugMap } from "../../site.config";
 
 const posts = await getPublishedTravelPosts("en");
+const latest = posts.slice(0, 6);
+const popular = getPopularPosts(posts, 6);
+const categoryDescriptions = {
+  Itineraries: "Day trips, two-day routes, and three-day Korea travel plans arranged by realistic movement.",
+  Destinations: "Major Korean cities, coastal areas, historic sites, markets, and places worth adding to a route.",
+  Food: "Market routes, local dishes, meal budgets, and food stops that fit naturally into travel days.",
+  Stays: "Where to stay by city, station access, beach areas, quiet neighborhoods, and itinerary style.",
+  Transport: "Public transport, car-free travel, KTX access, rental car checks, and route planning basics.",
+  "Seasonal Trips": "Spring flowers, summer beaches, autumn foliage, winter trips, and seasonal Korea travel ideas."
+};
+const regionItems = localizedRegions.en.map((label, index) => {
+  const koRegion = localizedRegions.ko[index];
+  const post = posts.find((item) => item.data.regionSlug === regionSlugMap[koRegion]);
+  return { label, href: post ? getPostUrl(post) : "/en/#regions" };
+});
+const categoryItems = localizedCategories.en.map((label, index) => {
+  const post = posts.find((item) => item.data.category === label);
+  return { label, href: post ? getPostUrl(post) : "/en/#themes", description: categoryDescriptions[label] };
+});
 ---
 
 <BaseLayout
@@ -14,59 +33,49 @@ const posts = await getPublishedTravelPosts("en");
   canonical="/en/"
   locale="en"
 >
-  <section class="page-shell">
-    <p class="eyebrow">English</p>
-    <h1>Korea Travel Guide</h1>
-    <div class="page-copy">
-      <p>
-        Korea Playlist is an objective travel guide for people planning trips in Korea. English guides will cover
-        destinations, itineraries, transport, food, stays, and seasonal travel ideas.
-      </p>
-      <p>
-        We publish Korean guides first, then expand English pages with localized search intent and internal links.
-      </p>
-    </div>
-  </section>
+  <PopularCarousel posts={popular} locale="en" />
+
   <section class="section">
     <div class="section-head">
       <div>
         <h2>Latest Korea Travel Guides</h2>
-        <p>English guides are published after the Korean planning article, with localized search intent and internal links.</p>
+        <p>Practical Korea travel articles written around routes, costs, transport, stays, and search intent.</p>
       </div>
+      <a class="button secondary" href="/en/travel/">All guides</a>
     </div>
     <div class="post-grid">
-      {posts.slice(0, 6).map((post) => <PostCard post={post} />)}
+      {latest.map((post) => <PostCard post={post} />)}
     </div>
   </section>
-  <section id="regions" class="section">
-    <div class="section-head">
-      <div>
-        <h2>Regions</h2>
-        <p>Start with major Korean travel regions and choose the city that fits your route.</p>
+
+  <section id="regions" class="feature-band">
+    <div class="section">
+      <div class="section-head">
+        <div>
+          <h2>Korea Travel by Region</h2>
+          <p>Start from the province or city that best matches your trip and jump into a relevant guide.</p>
+        </div>
+      </div>
+      <div class="filter-grid">
+        {regionItems.map((region) => <a href={region.href}>{region.label}</a>)}
       </div>
     </div>
-    <div class="filter-grid">
-      {localizedRegions.en.map((region) => <a href="/en/#regions">{region}</a>)}
-    </div>
   </section>
-  <section id="themes" class="section feature-band-inner">
+
+  <section id="themes" class="section">
     <div class="section-head">
       <div>
-        <h2>Themes</h2>
-        <p>Browse Korea travel information by itinerary, destination, food, stays, transport, and season.</p>
+        <h2>Korea Travel by Theme</h2>
+        <p>Choose guides by itinerary, destination, food, stay location, transport, and seasonal timing.</p>
       </div>
     </div>
-    <div class="filter-grid">
-      {localizedCategories.en.map((category) => <a href="/en/#themes">{category}</a>)}
+    <div class="info-grid">
+      {categoryItems.map((category) => (
+        <a class="info-card" href={category.href}>
+          <h3>{category.label}</h3>
+          <p>{category.description}</p>
+        </a>
+      ))}
     </div>
-  </section>
-  <section id="about" class="section">
-    <h2>About</h2>
-    <p>Korea Playlist focuses on practical planning: routes, timing, transport choices, costs, and things to check before visiting.</p>
-    <AuthorBio locale="en" compact />
-  </section>
-  <section id="contact" class="section">
-    <h2>Contact</h2>
-    <p>For corrections or partnership inquiries, contact us at korplaylist.hong@gmail.com.</p>
   </section>
 </BaseLayout>

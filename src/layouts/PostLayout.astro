@@ -1,7 +1,6 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
 import AuthorBio from "../components/AuthorBio.astro";
-import InternalLinkGuide from "../components/InternalLinkGuide.astro";
 import RelatedPosts from "../components/RelatedPosts.astro";
 import ShareButtons from "../components/ShareButtons.astro";
 import StayRecommendationPanel from "../components/StayRecommendationPanel.astro";
@@ -167,9 +166,8 @@ const jsonLd = {
     <div class="article-content">
       <slot />
     </div>
-    <InternalLinkGuide currentPost={post} posts={relatedPosts} locale={locale} />
     <AuthorBio locale={locale} />
-    <ShareButtons title={post.data.title} description={post.data.description} url={postUrl} image={postImage} />
+    <ShareButtons title={post.data.title} description={post.data.description} url={postUrl} image={postImage} locale={locale} />
     {locale === "ko" && <StayRecommendationPanel post={post} />}
     <RelatedPosts posts={relatedPosts} locale={locale} />
   </article>

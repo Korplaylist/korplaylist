@@ -1,72 +1,81 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import AuthorBio from "../../components/AuthorBio.astro";
+import PopularCarousel from "../../components/PopularCarousel.astro";
 import PostCard from "../../components/PostCard.astro";
-import { getPublishedTravelPosts } from "../../lib/travel";
-import { localizedCategories, localizedRegions } from "../../site.config";
+import { getPopularPosts, getPostUrl, getPublishedTravelPosts } from "../../lib/travel";
+import { localizedCategories, localizedRegions, regionSlugMap } from "../../site.config";
 
 const posts = await getPublishedTravelPosts("ja");
+const latest = posts.slice(0, 6);
+const popular = getPopularPosts(posts, 6);
+const categoryDescriptions = {
+  "モデルコース": "日帰り、1泊2日、2泊3日など、実際の移動を想定した韓国旅行ルートを整理します。",
+  "観光地": "都市、海、歴史スポット、市場、散策コースなど、旅程に入れやすい場所を紹介します。",
+  "グルメ": "市場グルメ、地域料理、食費の目安、観光動線に合わせやすい食事スポットをまとめます。",
+  "宿泊": "駅近、海沿い、静かなエリアなど、目的別に宿泊エリアを比較します。",
+  "交通準備": "公共交通、車なし旅行、KTX、レンタカー、移動時間の考え方を確認できます。",
+  "季節旅行": "春の花、夏の海、秋の紅葉、冬旅行など、季節ごとの韓国旅行を整理します。"
+};
+const regionItems = localizedRegions.ja.map((label, index) => {
+  const koRegion = localizedRegions.ko[index];
+  const post = posts.find((item) => item.data.regionSlug === regionSlugMap[koRegion]);
+  return { label, href: post ? getPostUrl(post) : "/ja/#regions" };
+});
+const categoryItems = localizedCategories.ja.map((label, index) => {
+  const post = posts.find((item) => item.data.category === label);
+  return { label, href: post ? getPostUrl(post) : "/ja/#themes", description: categoryDescriptions[label] };
+});
 ---
 
 <BaseLayout
   title="韓国旅行ガイド"
-  description="韓国旅行を準備する人のために、観光地、モデルコース、交通、グルメ、宿泊、季節旅行情報を客観的に整理するガイドです。"
+  description="韓国旅行のコース、観光地、交通、グルメ、宿泊、季節情報を客観的に整理する旅行ガイドです。"
   canonical="/ja/"
   locale="ja"
 >
-  <section class="page-shell">
-    <p class="eyebrow">日本語</p>
-    <h1>韓国旅行ガイド</h1>
-    <div class="page-copy">
-      <p>
-        韓国プレイリストでは、韓国旅行を準備する旅行者向けに、観光地、モデルコース、交通、グルメ、
-        宿泊、季節別の旅行情報を順次整理していきます。
-      </p>
-      <p>
-        まず韓国語の記事を作成し、その後に英語版と日本語版を追加して、関連する記事同士を内部リンクでつなげます。
-      </p>
-    </div>
-  </section>
+  <PopularCarousel posts={popular} locale="ja" />
+
   <section class="section">
     <div class="section-head">
       <div>
         <h2>最新の韓国旅行ガイド</h2>
-        <p>韓国語の企画記事を基準に、検索意図と内部リンクを調整した日本語記事を順次公開します。</p>
+        <p>ルート、費用、交通、宿泊、検索意図に合わせて韓国旅行を準備しやすく整理します。</p>
       </div>
+      <a class="button secondary" href="/ja/travel/">すべての記事</a>
     </div>
     <div class="post-grid">
-      {posts.slice(0, 6).map((post) => <PostCard post={post} />)}
+      {latest.map((post) => <PostCard post={post} />)}
     </div>
   </section>
-  <section id="regions" class="section">
-    <div class="section-head">
-      <div>
-        <h2>地域</h2>
-        <p>韓国の主要旅行地域から、旅程に合う都市を探せます。</p>
+
+  <section id="regions" class="feature-band">
+    <div class="section">
+      <div class="section-head">
+        <div>
+          <h2>地域別の韓国旅行</h2>
+          <p>旅行したい都市や道・広域市から、関連するガイドへすぐ移動できます。</p>
+        </div>
+      </div>
+      <div class="filter-grid">
+        {regionItems.map((region) => <a href={region.href}>{region.label}</a>)}
       </div>
     </div>
-    <div class="filter-grid">
-      {localizedRegions.ja.map((region) => <a href="/ja/#regions">{region}</a>)}
-    </div>
   </section>
-  <section id="themes" class="section feature-band-inner">
+
+  <section id="themes" class="section">
     <div class="section-head">
       <div>
-        <h2>テーマ</h2>
-        <p>モデルコース、観光地、グルメ、宿泊、交通準備、季節旅行に分けて確認できます。</p>
+        <h2>テーマ別の韓国旅行</h2>
+        <p>モデルコース、観光地、グルメ、宿泊、交通、季節旅行から探せます。</p>
       </div>
     </div>
-    <div class="filter-grid">
-      {localizedCategories.ja.map((category) => <a href="/ja/#themes">{category}</a>)}
+    <div class="info-grid">
+      {categoryItems.map((category) => (
+        <a class="info-card" href={category.href}>
+          <h3>{category.label}</h3>
+          <p>{category.description}</p>
+        </a>
+      ))}
     </div>
-  </section>
-  <section id="about" class="section">
-    <h2>紹介</h2>
-    <p>韓国プレイリストは、ルート、移動時間、交通手段、費用、訪問前に確認したい情報を客観的に整理します。</p>
-    <AuthorBio locale="ja" compact />
-  </section>
-  <section id="contact" class="section">
-    <h2>お問い合わせ</h2>
-    <p>修正依頼やお問い合わせは korplaylist.hong@gmail.com までお送りください。</p>
   </section>
 </BaseLayout>

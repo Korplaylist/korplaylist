@@ -1,0 +1,25 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import PostCard from "../../../components/PostCard.astro";
+import { getPublishedTravelPosts } from "../../../lib/travel";
+
+const posts = await getPublishedTravelPosts("en");
+---
+
+<BaseLayout
+  title="All Korea Travel Guides"
+  description="All English Korea Playlist travel guides for itineraries, destinations, food, stays, transport, and seasonal trips."
+  canonical="/en/travel/"
+  locale="en"
+>
+  <section class="page-shell">
+    <p class="eyebrow">Travel Guides</p>
+    <h1>All Korea Travel Guides</h1>
+    <p>Browse Korea travel articles by route, region, cost, transport, stay area, and season.</p>
+  </section>
+  <section class="section">
+    <div class="post-grid">
+      {posts.map((post) => <PostCard post={post} />)}
+    </div>
+  </section>
+</BaseLayout>

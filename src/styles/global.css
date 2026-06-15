@@ -42,7 +42,7 @@ img {
   top: 0;
   z-index: 10;
   display: grid;
-  grid-template-columns: auto 1fr minmax(260px, auto);
+  grid-template-columns: auto 1fr auto;
   align-items: center;
   gap: 24px;
   padding: 14px clamp(18px, 4vw, 44px);
@@ -67,7 +67,6 @@ img {
 }
 
 .nav,
-.quick-links,
 .language-switcher,
 .share-actions,
 .site-footer nav {
@@ -83,21 +82,13 @@ img {
 }
 
 .nav a,
-.quick-links a,
 .site-footer a {
   padding: 6px 0;
 }
 
-.quick-links {
-  justify-content: end;
-  color: var(--muted);
-  font-size: 0.92rem;
-}
-
 .header-actions {
-  display: grid;
-  gap: 8px;
-  justify-items: end;
+  display: flex;
+  justify-content: end;
 }
 
 .language-switcher {
@@ -647,6 +638,93 @@ h3 {
   font-weight: 700;
 }
 
+.map-route {
+  margin: 24px 0 30px;
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: white;
+}
+
+.map-route-head {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 16px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.map-route-head strong {
+  font-size: 1.04rem;
+}
+
+.map-route-head a,
+.map-stop-list a {
+  color: var(--accent-strong);
+  font-weight: 800;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.map-stop-list {
+  display: grid;
+  gap: 10px;
+  margin: 16px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.map-stop-list li {
+  display: grid;
+  grid-template-columns: 34px 1fr auto;
+  gap: 10px;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--soft);
+}
+
+.map-stop-list span {
+  display: grid;
+  width: 30px;
+  height: 30px;
+  place-items: center;
+  border-radius: 999px;
+  background: var(--accent);
+  color: white;
+  font-size: 0.9rem;
+  font-weight: 900;
+}
+
+.place-checklist {
+  margin: 28px 0 34px;
+}
+
+.place-checklist ul {
+  display: grid;
+  gap: 10px;
+  margin: 14px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.place-checklist li {
+  padding: 14px 16px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: white;
+}
+
+.place-checklist strong {
+  display: block;
+  color: var(--accent-strong);
+}
+
+.place-checklist p {
+  margin: 6px 0 0;
+}
+
 .internal-link-guide {
   margin: 34px 0 0;
   padding: 18px;
@@ -977,7 +1055,6 @@ h3 {
   }
 
   .nav,
-  .quick-links,
   .language-switcher,
   .header-actions {
     justify-content: start;
@@ -1018,6 +1095,14 @@ h3 {
   .share-preview {
     grid-template-columns: 96px 1fr;
     align-items: start;
+  }
+
+  .map-stop-list li {
+    grid-template-columns: 34px 1fr;
+  }
+
+  .map-stop-list a {
+    grid-column: 2;
   }
 
   .popular-hero-head {

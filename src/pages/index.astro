@@ -13,7 +13,7 @@ const categoryList = [...new Set([...categories, ...posts.map((post) => post.dat
 ---
 
 <BaseLayout title={siteConfig.siteName} description={siteConfig.description}>
-  <PopularCarousel posts={popular} />
+  <PopularCarousel posts={popular} locale="ko" />
 
   <section class="section">
     <div class="section-head">

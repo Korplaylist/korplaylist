@@ -1,0 +1,25 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import PostCard from "../../../components/PostCard.astro";
+import { getPublishedTravelPosts } from "../../../lib/travel";
+
+const posts = await getPublishedTravelPosts("ja");
+---
+
+<BaseLayout
+  title="韓国旅行ガイド一覧"
+  description="韓国プレイリストの日本語旅行ガイド一覧です。モデルコース、観光地、グルメ、宿泊、交通、季節旅行を確認できます。"
+  canonical="/ja/travel/"
+  locale="ja"
+>
+  <section class="page-shell">
+    <p class="eyebrow">Travel Guides</p>
+    <h1>韓国旅行ガイド一覧</h1>
+    <p>ルート、地域、費用、交通、宿泊エリア、季節情報から韓国旅行の記事を探せます。</p>
+  </section>
+  <section class="section">
+    <div class="post-grid">
+      {posts.map((post) => <PostCard post={post} />)}
+    </div>
+  </section>
+</BaseLayout>

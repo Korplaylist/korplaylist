@@ -1,46 +1,100 @@
 ---
-const { title, url, description = "", image = "" } = Astro.props;
+const { title, url, description = "", image = "", locale = "ko" } = Astro.props;
+
+const labels = {
+  ko: {
+    aria: "글 공유",
+    heading: "이 글 공유하기",
+    imageAlt: "대표 이미지",
+    helper: "필요한 곳에 저장하거나 여행을 함께 준비하는 사람에게 보내세요.",
+    native: "공유",
+    copy: "링크 복사",
+    copied: "복사 완료",
+    prompt: "아래 링크를 복사하세요.",
+    naver: "네이버블로그",
+    facebook: "페이스북"
+  },
+  en: {
+    aria: "Share this article",
+    heading: "Share this article",
+    imageAlt: "main image",
+    helper: "Save it for later or send it to someone planning the trip with you.",
+    native: "Share",
+    copy: "Copy link",
+    copied: "Copied",
+    prompt: "Copy the link below.",
+    naver: "Naver Blog",
+    facebook: "Facebook"
+  },
+  ja: {
+    aria: "記事を共有",
+    heading: "この記事を共有",
+    imageAlt: "メイン画像",
+    helper: "あとで見返したり、一緒に旅行を準備する人に送ったりできます。",
+    native: "共有",
+    copy: "リンクをコピー",
+    copied: "コピー完了",
+    prompt: "下のリンクをコピーしてください。",
+    naver: "Naverブログ",
+    facebook: "Facebook"
+  }
+}[locale] ?? {
+  aria: "글 공유",
+  heading: "이 글 공유하기",
+  imageAlt: "대표 이미지",
+  helper: "필요한 곳에 저장하거나 여행을 함께 준비하는 사람에게 보내세요.",
+  native: "공유",
+  copy: "링크 복사",
+  copied: "복사 완료",
+  prompt: "아래 링크를 복사하세요.",
+  naver: "네이버블로그",
+  facebook: "페이스북"
+};
 
 const encodedUrl = encodeURIComponent(url);
 const encodedTitle = encodeURIComponent(title);
 const encodedText = encodeURIComponent(description ? `${title} - ${description}` : title);
 
 const shareLinks = [
-  {
-    name: "네이버블로그",
-    icon: "/icons/share-naver-blog.svg",
-    href: `https://share.naver.com/web/shareView?url=${encodedUrl}&title=${encodedTitle}`
-  },
+  ...(locale === "ko"
+    ? [
+        {
+          name: labels.naver,
+          icon: "/icons/share-naver-blog.svg",
+          href: `https://share.naver.com/web/shareView?url=${encodedUrl}&title=${encodedTitle}`
+        }
+      ]
+    : []),
   {
     name: "X",
     icon: "/icons/share-x.svg",
     href: `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedText}`
   },
   {
-    name: "페이스북",
+    name: labels.facebook,
     icon: "/icons/share-facebook.svg",
     href: `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`
   }
 ];
 ---
 
-<aside class="share-panel" aria-label="글 공유">
+<aside class="share-panel" aria-label={labels.aria}>
   <div class="share-preview">
-    {image && <img src={image} alt={`${title} 대표 이미지`} width="220" height="140" loading="lazy" decoding="async" />}
+    {image && <img src={image} alt={`${title} ${labels.imageAlt}`} width="220" height="140" loading="lazy" decoding="async" />}
     <div>
-      <strong>이 글 공유하기</strong>
+      <strong>{labels.heading}</strong>
       <p>{title}</p>
-      <span>필요한 곳에 저장하거나 여행을 함께 준비하는 사람에게 보내세요.</span>
+      <span>{labels.helper}</span>
     </div>
   </div>
   <div class="share-actions">
     <button type="button" class="share-button" data-native-share data-title={title} data-text={description} data-url={url} data-image={image}>
       <img src="/icons/share-native-black.svg" alt="" width="18" height="18" loading="lazy" decoding="async" />
-      <span>공유</span>
+      <span>{labels.native}</span>
     </button>
-    <button type="button" class="share-button secondary" data-copy-link data-url={url}>
+    <button type="button" class="share-button secondary" data-copy-link data-url={url} data-copy-prompt={labels.prompt}>
       <img src="/icons/share-link.svg" alt="" width="18" height="18" loading="lazy" decoding="async" />
-      <span data-copy-label>링크 복사</span>
+      <span data-copy-label data-copy-default={labels.copy} data-copy-done={labels.copied}>{labels.copy}</span>
     </button>
     {shareLinks.map((link) => (
       <a class="share-button secondary" href={link.href} target="_blank" rel="noopener noreferrer">
@@ -60,15 +114,15 @@ const shareLinks = [
         await navigator.clipboard.writeText(url);
         const label = button.querySelector("[data-copy-label]");
         if (label) {
-          label.textContent = "복사 완료";
+          label.textContent = label.getAttribute("data-copy-done") || "Copied";
         }
         window.setTimeout(() => {
           if (label) {
-            label.textContent = "링크 복사";
+            label.textContent = label.getAttribute("data-copy-default") || "Copy link";
           }
         }, 1800);
       } catch {
-        window.prompt("아래 링크를 복사하세요.", url);
+        window.prompt(button.getAttribute("data-copy-prompt") || "Copy the link below.", url);
       }
     });
   });
