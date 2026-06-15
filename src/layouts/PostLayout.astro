@@ -151,8 +151,8 @@ const jsonLd = {
       </dl>
       <figure class="article-hero-figure">
         <picture>
-          <source type="image/webp" srcset={getWebpSrcSet(post.data.heroImage)} sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
-          <img src={post.data.heroImage} alt={imageAlt} width="1200" height="630" loading="eager" decoding="async" fetchpriority="high" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+          <source type="image/webp" srcset={getWebpSrcSet(post.data.heroImage, [480, 520, 640, 680, 768, 960])} sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+          <img src={post.data.heroImage} alt={imageAlt} width="1200" height="630" loading="eager" decoding="async" fetchpriority="high" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
         </picture>
         {post.data.imageCredit && <figcaption>{post.data.imageCredit}</figcaption>}
       </figure>

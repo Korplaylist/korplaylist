@@ -18,6 +18,9 @@
 /brand/korplaylist-logo.png
   Cache-Control: public, max-age=31536000, immutable
 
+/brand/korplaylist-logo-38.png
+  Cache-Control: public, max-age=31536000, immutable
+
 /brand/apple-touch-icon.png
   Cache-Control: public, max-age=31536000, immutable
 

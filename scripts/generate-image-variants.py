@@ -9,8 +9,9 @@ SOURCE_DIRS = [
     ROOT / "public" / "images" / "myrealtrip",
 ]
 OUTPUT_ROOT = ROOT / "public" / "images" / "optimized"
-WIDTHS = (320, 360, 480, 640, 680, 768, 960, 1200)
+WIDTHS = (160, 240, 320, 330, 360, 480, 520, 640, 680, 768, 960, 1200)
 BRAND_IMAGES = [
+    (ROOT / "public" / "brand" / "korplaylist-logo-38.png", 38),
     (ROOT / "public" / "brand" / "korplaylist-logo.png", 76),
     (ROOT / "public" / "brand" / "apple-touch-icon.png", 180),
 ]
@@ -37,10 +38,12 @@ def main() -> None:
             for width in WIDTHS:
                 save_variant(source, output_dir, width)
                 total += 1
+    logo_source = ROOT / "public" / "brand" / "korplaylist-logo.png"
     for source, size in BRAND_IMAGES:
-        if not source.exists():
+        input_source = source if source.exists() else logo_source
+        if not input_source.exists():
             continue
-        with Image.open(source) as image:
+        with Image.open(input_source) as image:
             image = image.convert("RGBA")
             if image.width != size or image.height != size:
                 image = image.resize((size, size), Image.Resampling.LANCZOS)

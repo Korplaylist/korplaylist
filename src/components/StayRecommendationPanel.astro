@@ -235,7 +235,7 @@ const searchUrl = `https://www.myrealtrip.com/search?keyword=${encodeURIComponen
         <a class="stay-card" href={stay.url} target="_blank" rel="sponsored nofollow noopener noreferrer">
           <figure>
             <picture>
-              <source type="image/webp" srcset={getWebpSrcSet(stay.image, [360, 480, 640])} sizes="132px" />
+              <source type="image/webp" srcset={getWebpSrcSet(stay.image, [160, 240, 320])} sizes="132px" />
               <img src={stay.image} alt={stay.imageAlt} width="420" height="260" loading="lazy" decoding="async" sizes="132px" />
             </picture>
             <figcaption>{stay.imageCredit}</figcaption>

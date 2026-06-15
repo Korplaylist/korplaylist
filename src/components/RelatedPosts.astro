@@ -34,7 +34,7 @@ const labels = {
       {posts.map((post) => (
         <a class="related-card" href={getPostUrl(post)}>
           <picture>
-            <source type="image/webp" srcset={getWebpSrcSet(post.data.heroImage, [360, 480, 640])} sizes="(max-width: 760px) 96px, 174px" />
+            <source type="image/webp" srcset={getWebpSrcSet(post.data.heroImage, [160, 240, 320])} sizes="(max-width: 760px) 96px, 174px" />
             <img src={post.data.heroImage} alt={getImageAlt(post)} width="360" height="220" loading="lazy" decoding="async" sizes="(max-width: 760px) 96px, 174px" />
           </picture>
           <div>

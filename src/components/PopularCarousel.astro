@@ -63,8 +63,8 @@ const labels = {
             <h2><a href={getPostUrl(post)}>{post.data.title}</a></h2>
             <p>{post.data.description}</p>
             <div class="hero-actions">
-              <a class="button" href={getPostUrl(post)}>{labels.read}</a>
-              <a class="button secondary" href={labels.regionsHref}>{labels.regions}</a>
+              <a class="button" href={getPostUrl(post)}>{labels.read}<span class="visually-hidden">: {post.data.title}</span></a>
+              <a class="button secondary" href={labels.regionsHref}>{labels.regions}<span class="visually-hidden">: {post.data.region}</span></a>
             </div>
           </div>
           <a class="popular-slide-image" href={getPostUrl(post)} aria-label={`${post.data.title} ${labels.readAria}`}>

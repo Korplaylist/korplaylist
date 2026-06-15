@@ -211,7 +211,7 @@ def route_url(stops):
 def stop_link(query):
     return f"https://www.google.com/maps/search/?api=1&query={quote_plus(query)}"
 
-def webp_srcset(src, widths=(320, 360, 480, 640, 680, 768, 960, 1200)):
+def webp_srcset(src, widths=(320, 330, 360, 480, 520, 640, 680, 768)):
     parts = src.strip("/").split("/")
     if len(parts) != 3 or parts[0] != "images":
         return ""
@@ -228,8 +228,8 @@ def photo_figure(photo_key, locale):
     srcset = webp_srcset(src)
     return f'''<figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="{srcset}" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
-    <img src="{src}" alt="{quote(alt)}" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="{srcset}" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="{src}" alt="{quote(alt)}" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>{credit}</figcaption>
 </figure>'''

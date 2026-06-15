@@ -161,8 +161,8 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/yeosu-night-sea-content-320.webp 320w, /images/optimized/kto/yeosu-night-sea-content-360.webp 360w, /images/optimized/kto/yeosu-night-sea-content-480.webp 480w, /images/optimized/kto/yeosu-night-sea-content-640.webp 640w, /images/optimized/kto/yeosu-night-sea-content-680.webp 680w, /images/optimized/kto/yeosu-night-sea-content-768.webp 768w, /images/optimized/kto/yeosu-night-sea-content-960.webp 960w, /images/optimized/kto/yeosu-night-sea-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
-    <img src="/images/kto/yeosu-night-sea-content.jpg" alt="韓国旅行写真：여수 밤바다 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/kto/yeosu-night-sea-content-320.webp 320w, /images/optimized/kto/yeosu-night-sea-content-330.webp 330w, /images/optimized/kto/yeosu-night-sea-content-360.webp 360w, /images/optimized/kto/yeosu-night-sea-content-480.webp 480w, /images/optimized/kto/yeosu-night-sea-content-520.webp 520w, /images/optimized/kto/yeosu-night-sea-content-640.webp 640w, /images/optimized/kto/yeosu-night-sea-content-680.webp 680w, /images/optimized/kto/yeosu-night-sea-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/kto/yeosu-night-sea-content.jpg" alt="韓国旅行写真：여수 밤바다 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
 </figure>
@@ -177,8 +177,8 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/tongyeong-two-day-content-320.webp 320w, /images/optimized/kto/tongyeong-two-day-content-360.webp 360w, /images/optimized/kto/tongyeong-two-day-content-480.webp 480w, /images/optimized/kto/tongyeong-two-day-content-640.webp 640w, /images/optimized/kto/tongyeong-two-day-content-680.webp 680w, /images/optimized/kto/tongyeong-two-day-content-768.webp 768w, /images/optimized/kto/tongyeong-two-day-content-960.webp 960w, /images/optimized/kto/tongyeong-two-day-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
-    <img src="/images/kto/tongyeong-two-day-content.jpg" alt="韓国旅行写真：통영 제승당" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/kto/tongyeong-two-day-content-320.webp 320w, /images/optimized/kto/tongyeong-two-day-content-330.webp 330w, /images/optimized/kto/tongyeong-two-day-content-360.webp 360w, /images/optimized/kto/tongyeong-two-day-content-480.webp 480w, /images/optimized/kto/tongyeong-two-day-content-520.webp 520w, /images/optimized/kto/tongyeong-two-day-content-640.webp 640w, /images/optimized/kto/tongyeong-two-day-content-680.webp 680w, /images/optimized/kto/tongyeong-two-day-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/kto/tongyeong-two-day-content.jpg" alt="韓国旅行写真：통영 제승당" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
 </figure>
@@ -210,8 +210,8 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/tongyeong-island-view-content-320.webp 320w, /images/optimized/kto/tongyeong-island-view-content-360.webp 360w, /images/optimized/kto/tongyeong-island-view-content-480.webp 480w, /images/optimized/kto/tongyeong-island-view-content-640.webp 640w, /images/optimized/kto/tongyeong-island-view-content-680.webp 680w, /images/optimized/kto/tongyeong-island-view-content-768.webp 768w, /images/optimized/kto/tongyeong-island-view-content-960.webp 960w, /images/optimized/kto/tongyeong-island-view-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
-    <img src="/images/kto/tongyeong-island-view-content.jpg" alt="韓国旅行写真：통영 동피랑마을" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/kto/tongyeong-island-view-content-320.webp 320w, /images/optimized/kto/tongyeong-island-view-content-330.webp 330w, /images/optimized/kto/tongyeong-island-view-content-360.webp 360w, /images/optimized/kto/tongyeong-island-view-content-480.webp 480w, /images/optimized/kto/tongyeong-island-view-content-520.webp 520w, /images/optimized/kto/tongyeong-island-view-content-640.webp 640w, /images/optimized/kto/tongyeong-island-view-content-680.webp 680w, /images/optimized/kto/tongyeong-island-view-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/kto/tongyeong-island-view-content.jpg" alt="韓国旅行写真：통영 동피랑마을" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
 </figure>
@@ -230,8 +230,8 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/busan-gwangan-bridge-320.webp 320w, /images/optimized/kto/busan-gwangan-bridge-360.webp 360w, /images/optimized/kto/busan-gwangan-bridge-480.webp 480w, /images/optimized/kto/busan-gwangan-bridge-640.webp 640w, /images/optimized/kto/busan-gwangan-bridge-680.webp 680w, /images/optimized/kto/busan-gwangan-bridge-768.webp 768w, /images/optimized/kto/busan-gwangan-bridge-960.webp 960w, /images/optimized/kto/busan-gwangan-bridge-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
-    <img src="/images/kto/busan-gwangan-bridge.jpg" alt="韓国旅行写真：부산 광안대교 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/kto/busan-gwangan-bridge-320.webp 320w, /images/optimized/kto/busan-gwangan-bridge-330.webp 330w, /images/optimized/kto/busan-gwangan-bridge-360.webp 360w, /images/optimized/kto/busan-gwangan-bridge-480.webp 480w, /images/optimized/kto/busan-gwangan-bridge-520.webp 520w, /images/optimized/kto/busan-gwangan-bridge-640.webp 640w, /images/optimized/kto/busan-gwangan-bridge-680.webp 680w, /images/optimized/kto/busan-gwangan-bridge-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/kto/busan-gwangan-bridge.jpg" alt="韓国旅行写真：부산 광안대교 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
 </figure>

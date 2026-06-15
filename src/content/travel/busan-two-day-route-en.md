@@ -180,8 +180,8 @@ This route separates arrival, photo time, food breaks, and the final stop so you
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/busan-haeundae-walk-320.webp 320w, /images/optimized/kto/busan-haeundae-walk-360.webp 360w, /images/optimized/kto/busan-haeundae-walk-480.webp 480w, /images/optimized/kto/busan-haeundae-walk-640.webp 640w, /images/optimized/kto/busan-haeundae-walk-680.webp 680w, /images/optimized/kto/busan-haeundae-walk-768.webp 768w, /images/optimized/kto/busan-haeundae-walk-960.webp 960w, /images/optimized/kto/busan-haeundae-walk-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
-    <img src="/images/kto/busan-haeundae-walk.jpg" alt="Korea travel photo: 부산 해운대 달맞이길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/kto/busan-haeundae-walk-320.webp 320w, /images/optimized/kto/busan-haeundae-walk-330.webp 330w, /images/optimized/kto/busan-haeundae-walk-360.webp 360w, /images/optimized/kto/busan-haeundae-walk-480.webp 480w, /images/optimized/kto/busan-haeundae-walk-520.webp 520w, /images/optimized/kto/busan-haeundae-walk-640.webp 640w, /images/optimized/kto/busan-haeundae-walk-680.webp 680w, /images/optimized/kto/busan-haeundae-walk-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/kto/busan-haeundae-walk.jpg" alt="Korea travel photo: 부산 해운대 달맞이길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
 </figure>
@@ -196,8 +196,8 @@ If you are comparing similar routes, read [Busan Food Market Route 2026: Jagalch
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/busan-gwangan-bridge-320.webp 320w, /images/optimized/kto/busan-gwangan-bridge-360.webp 360w, /images/optimized/kto/busan-gwangan-bridge-480.webp 480w, /images/optimized/kto/busan-gwangan-bridge-640.webp 640w, /images/optimized/kto/busan-gwangan-bridge-680.webp 680w, /images/optimized/kto/busan-gwangan-bridge-768.webp 768w, /images/optimized/kto/busan-gwangan-bridge-960.webp 960w, /images/optimized/kto/busan-gwangan-bridge-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
-    <img src="/images/kto/busan-gwangan-bridge.jpg" alt="Korea travel photo: 부산 광안대교 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/kto/busan-gwangan-bridge-320.webp 320w, /images/optimized/kto/busan-gwangan-bridge-330.webp 330w, /images/optimized/kto/busan-gwangan-bridge-360.webp 360w, /images/optimized/kto/busan-gwangan-bridge-480.webp 480w, /images/optimized/kto/busan-gwangan-bridge-520.webp 520w, /images/optimized/kto/busan-gwangan-bridge-640.webp 640w, /images/optimized/kto/busan-gwangan-bridge-680.webp 680w, /images/optimized/kto/busan-gwangan-bridge-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/kto/busan-gwangan-bridge.jpg" alt="Korea travel photo: 부산 광안대교 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
 </figure>
@@ -229,8 +229,8 @@ For accommodation, choose an area near the last evening stop or the next morning
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/busan-gamcheon-village-320.webp 320w, /images/optimized/kto/busan-gamcheon-village-360.webp 360w, /images/optimized/kto/busan-gamcheon-village-480.webp 480w, /images/optimized/kto/busan-gamcheon-village-640.webp 640w, /images/optimized/kto/busan-gamcheon-village-680.webp 680w, /images/optimized/kto/busan-gamcheon-village-768.webp 768w, /images/optimized/kto/busan-gamcheon-village-960.webp 960w, /images/optimized/kto/busan-gamcheon-village-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
-    <img src="/images/kto/busan-gamcheon-village.jpg" alt="Korea travel photo: 부산 감천문화마을 전경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/kto/busan-gamcheon-village-320.webp 320w, /images/optimized/kto/busan-gamcheon-village-330.webp 330w, /images/optimized/kto/busan-gamcheon-village-360.webp 360w, /images/optimized/kto/busan-gamcheon-village-480.webp 480w, /images/optimized/kto/busan-gamcheon-village-520.webp 520w, /images/optimized/kto/busan-gamcheon-village-640.webp 640w, /images/optimized/kto/busan-gamcheon-village-680.webp 680w, /images/optimized/kto/busan-gamcheon-village-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/kto/busan-gamcheon-village.jpg" alt="Korea travel photo: 부산 감천문화마을 전경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-오한솔</figcaption>
 </figure>
@@ -249,8 +249,8 @@ Use the rest of the day for food and rest. In summer, avoid long midday walks. I
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/busan-jagalchi-market-320.webp 320w, /images/optimized/kto/busan-jagalchi-market-360.webp 360w, /images/optimized/kto/busan-jagalchi-market-480.webp 480w, /images/optimized/kto/busan-jagalchi-market-640.webp 640w, /images/optimized/kto/busan-jagalchi-market-680.webp 680w, /images/optimized/kto/busan-jagalchi-market-768.webp 768w, /images/optimized/kto/busan-jagalchi-market-960.webp 960w, /images/optimized/kto/busan-jagalchi-market-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
-    <img src="/images/kto/busan-jagalchi-market.jpg" alt="Korea travel photo: 부산 자갈치시장" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 840px" />
+    <source type="image/webp" srcset="/images/optimized/kto/busan-jagalchi-market-320.webp 320w, /images/optimized/kto/busan-jagalchi-market-330.webp 330w, /images/optimized/kto/busan-jagalchi-market-360.webp 360w, /images/optimized/kto/busan-jagalchi-market-480.webp 480w, /images/optimized/kto/busan-jagalchi-market-520.webp 520w, /images/optimized/kto/busan-jagalchi-market-640.webp 640w, /images/optimized/kto/busan-jagalchi-market-680.webp 680w, /images/optimized/kto/busan-jagalchi-market-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/kto/busan-jagalchi-market.jpg" alt="Korea travel photo: 부산 자갈치시장" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
 </figure>
