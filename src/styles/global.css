@@ -279,7 +279,8 @@ h3 {
 }
 
 .popular-hero h1 {
-  font-size: clamp(2.2rem, 5vw, 4.4rem);
+  font-size: clamp(1.95rem, 4.2vw, 3.55rem);
+  line-height: 1.08;
 }
 
 .popular-hero-rail {
@@ -303,7 +304,8 @@ h3 {
 
 .popular-slide-copy h2 {
   max-width: 780px;
-  font-size: clamp(2.1rem, 5vw, 4rem);
+  font-size: clamp(1.72rem, 3.7vw, 3rem);
+  line-height: 1.14;
 }
 
 .popular-slide-copy p:not(.eyebrow) {
