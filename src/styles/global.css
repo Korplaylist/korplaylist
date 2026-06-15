@@ -725,6 +725,75 @@ h3 {
   margin: 6px 0 0;
 }
 
+.decision-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  margin: 30px 0 34px;
+}
+
+.decision-grid > div,
+.planning-table {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: white;
+}
+
+.decision-grid > div {
+  padding: 18px;
+}
+
+.decision-grid h2,
+.planning-table h2 {
+  margin-top: 0;
+  font-size: 1.28rem;
+}
+
+.decision-grid ul {
+  margin: 12px 0 0;
+  padding-left: 20px;
+}
+
+.planning-table {
+  margin: 30px 0 34px;
+  overflow: hidden;
+}
+
+.planning-table h2 {
+  padding: 18px 18px 0;
+}
+
+.planning-table-head,
+.planning-table > div:not(.planning-table-head) {
+  display: grid;
+  grid-template-columns: 0.7fr 1fr 2fr;
+  gap: 12px;
+  align-items: start;
+  padding: 13px 18px;
+  border-top: 1px solid var(--line);
+}
+
+.planning-table.compact .planning-table-head,
+.planning-table.compact > div:not(.planning-table-head) {
+  grid-template-columns: 0.8fr 1fr 2fr;
+}
+
+.planning-table-head {
+  margin-top: 14px;
+  background: var(--soft);
+  color: var(--muted);
+  font-size: 0.86rem;
+  font-weight: 900;
+}
+
+.planning-table strong {
+  color: var(--accent-strong);
+}
+
+.planning-table p {
+  margin: 0;
+}
+
 .internal-link-guide {
   margin: 34px 0 0;
   padding: 18px;
@@ -1070,6 +1139,10 @@ h3 {
   .stay-grid {
     grid-template-columns: 1fr;
   }
+
+  .decision-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 @media (max-width: 620px) {
@@ -1103,6 +1176,16 @@ h3 {
 
   .map-stop-list a {
     grid-column: 2;
+  }
+
+  .planning-table-head {
+    display: none;
+  }
+
+  .planning-table > div:not(.planning-table-head),
+  .planning-table.compact > div:not(.planning-table-head) {
+    grid-template-columns: 1fr;
+    gap: 4px;
   }
 
   .popular-hero-head {
