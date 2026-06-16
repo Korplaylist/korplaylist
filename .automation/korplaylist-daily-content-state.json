@@ -1,14 +1,14 @@
 {
   "date": "2026-06-16",
   "timezone": "Asia/Seoul",
-  "lastCheckedAt": "2026-06-16T06:25:37.2686665+09:00",
-  "lastPublishedAt": "2026-06-16T06:25:37.2686665+09:00",
+  "lastCheckedAt": "2026-06-16T12:31:27.7132220+09:00",
+  "lastPublishedAt": "2026-06-16T12:31:27.7132220+09:00",
   "todayTarget": 3,
-  "todayPublished": 1,
+  "todayPublished": 2,
   "currentLanguageStage": "ko",
-  "planningBundle": "busan-summer-night",
-  "nextPublishAfter": "2026-06-16T12:06:37.2686665+09:00",
+  "planningBundle": "busan-arrival-flow",
+  "nextPublishAfter": "2026-06-16T16:18:27.7132220+09:00",
   "canPublishNow": false,
-  "blockedReason": "Waiting for the next randomized publish gap after the Korean Busan night-route post went live.",
+  "blockedReason": "Waiting until 2026-06-16T16:18:27.7132220+09:00 Asia/Seoul before publishing the next Korean post in the Busan arrival-flow bundle. Current check time is 2026-06-16T12:31:27.7132220+09:00.",
   "pendingDraft": ""
 }
