@@ -3,3 +3,5 @@ Allow: /
 
 Sitemap: https://korplaylist.com/sitemap-index.xml
 Sitemap: https://korplaylist.com/sitemap.xml
+
+#DaumWebMasterTool:45935624286607a34f0ff12f7875b18edeccb3c98bce3c8a45eb3d8bfe543c05:xjqb2u/x/f5z2ysjdW3s0Q==
