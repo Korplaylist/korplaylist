@@ -1,14 +1,14 @@
 {
   "date": "2026-06-16",
   "timezone": "Asia/Seoul",
-  "lastCheckedAt": "2026-06-16T12:31:27.7132220+09:00",
-  "lastPublishedAt": "2026-06-16T12:31:27.7132220+09:00",
+  "lastCheckedAt": "2026-06-16T16:37:59+09:00",
+  "lastPublishedAt": "2026-06-16T16:32:32.4248802+09:00",
   "todayTarget": 3,
-  "todayPublished": 2,
+  "todayPublished": 3,
   "currentLanguageStage": "ko",
   "planningBundle": "busan-arrival-flow",
-  "nextPublishAfter": "2026-06-16T16:18:27.7132220+09:00",
+  "nextPublishAfter": "2026-06-17T07:00:00+09:00",
   "canPublishNow": false,
-  "blockedReason": "Waiting until 2026-06-16T16:18:27.7132220+09:00 Asia/Seoul before publishing the next Korean post in the Busan arrival-flow bundle. Current check time is 2026-06-16T12:31:27.7132220+09:00.",
+  "blockedReason": "Today target reached in Asia/Seoul after publishing the third Korean post in the Busan arrival-flow bundle. Do not publish more posts on 2026-06-16.",
   "pendingDraft": ""
 }
