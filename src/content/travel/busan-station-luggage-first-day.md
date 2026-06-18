@@ -10,9 +10,9 @@ urlSlug: "busan-station-luggage-first-day"
 tags: ["부산", "부산역", "짐보관", "남포동", "해운대"]
 publishedAt: "2026-06-17"
 updatedAt: "2026-06-17"
-heroImage: "/images/kto/busan-station.jpg"
-imageAlt: "부산역 광장과 첫날 이동 출발 동선"
-imageCredit: "ⓒ한국관광공사 포토코리아-이범수"
+heroImage: "/images/generated/busan-station-luggage-generated.png"
+imageAlt: "부산역 도착 후 캐리어를 맡기기 위해 짐 보관함으로 이동하는 여행자"
+imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
 draft: false
 ---
 
