@@ -173,11 +173,7 @@ draft: false
 
 저녁 일정이 있다면 야경이나 시장처럼 체류 시간이 자연스럽게 길어지는 장소를 마지막에 두는 것이 안정적입니다.
 
-동선이 비슷한 고민이라면 [경주 1박2일 역사 여행 코스: 대릉원·첨성대·불국사까지 정리](/travel/gyeongbuk/gyeongju-history-two-day/)을 먼저 비교하고, 식비나 교통처럼 세부 조건이 중요할 때는 [전주 먹거리 여행 예산: 비빔밥·콩나물국밥·시장 간식 비용 정리](/travel/jeonbuk/jeonju-food-cost/)도 함께 확인하면 계획이 더 현실적입니다/images/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-family-trip-guide-1.jpg type="image/webp" srcset="/images/optimized/generated/gyeongju-daereungwon-walk-generated-320.webp 320w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-330.webp 330w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-360.webp 360w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-480.webp 480w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-520.webp 520w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-640.webp 640w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-680.webp 680w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-family-trip-guide-1.jpg" alt="경주 대릉원과 첨성대 역사 산책길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
-</figure>
+동선이 비슷한 고민이라면 [경주 1박2일 역사 여행 코스: 대릉원·첨성대·불국사까지 정리](/travel/gyeongbuk/gyeongju-history-two-day/)을 먼저 비교하고, 식비나 교통처럼 세부 조건이 중요할 때는 [전주 먹거리 여행 예산: 비빔밥·콩나물국밥·시장 간식 비용 정리](/travel/jeonbuk/jeonju-food-cost/)도 함께 확인하면 계획이 더 현실적입니다.
 
 ## 대중교통, 택시, 렌터카 선택 기준
 

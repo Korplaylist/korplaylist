@@ -173,7 +173,7 @@ draft: false
 
 저녁 일정이 있다면 야경이나 시장처럼 체류 시간이 자연스럽게 길어지는 장소를 마지막에 두는 것이 안정적입니다.
 
-동선이 비슷한 고민이라면 [인천 당일치기 코스: 개항장·차이나타운·월미도 수도권 여행](/tra고, 식비나 교통처럼 세부 조건이 중요할 때는 [경주 1박2일 역사 여행 코스: 대릉원·첨성대·불국사까지 정리](/travel/gyeongbuk/gyeongju-history-two-day/)도 함께 확인하면 계획이 더 현실적입니다.
+동선이 비슷한 고민이라면 [인천 당일치기 코스: 개항장·차이나타운·월미도 수도권 여행](/travel/incheon/incheon-open-port/)을 먼저 비교하고, 식비나 교통처럼 세부 조건이 중요할 때는 [경주 1박2일 역사 여행 코스: 대릉원·첨성대·불국사까지 정리](/travel/gyeongbuk/gyeongju-history-two-day/)도 함께 확인하면 계획이 더 현실적입니다.
 
 <figure class="content-photo">
   <picture>
