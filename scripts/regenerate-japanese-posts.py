@@ -1,7 +1,21 @@
 from pathlib import Path
+import shutil
+import subprocess
+import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 CONTENT_DIR = ROOT / "src" / "content" / "travel"
+SCRIPTS_DIR = ROOT / "scripts"
+NODE_CANDIDATE = Path.home() / ".cache" / "codex-runtimes" / "codex-primary-runtime" / "dependencies" / "node" / "bin" / "node.exe"
+
+IMAGE_POLICY = """
+Image policy for localized post regeneration:
+- Do not introduce duplicate images inside one article or across different articles.
+- Do not treat crop, flip, recolor, resize, or rename variants as a real fix.
+- If the source image family is already used elsewhere, create or select a truly different realistic travel image.
+- Use Image 2.0 aggressively when there is no relevant non-duplicative official image.
+- Caption Image 2.0 assets as: ⓒ한국플레이리스트 이미지 2.0
+"""
 
 PLAN = [
     ("korea-season-travel-calendar.md", "seasonal-korea-travel-calendar-2026", "seoul", "ソウル", "季節旅行"),
@@ -101,6 +115,21 @@ def quote(value: str) -> str:
     return value.replace('"', '\\"')
 
 
+def node_executable():
+    node = shutil.which("node")
+    if node:
+        return node
+    if NODE_CANDIDATE.exists():
+        return str(NODE_CANDIDATE)
+    return "node"
+
+
+def enforce_image_policy():
+    subprocess.run([sys.executable, str(SCRIPTS_DIR / "resolve-image-duplicates.py")], cwd=ROOT, check=True)
+    subprocess.run([node_executable(), str(SCRIPTS_DIR / "check-image-duplicates.mjs")], cwd=ROOT, check=True)
+    subprocess.run([node_executable(), str(SCRIPTS_DIR / "check-image-source-families.mjs")], cwd=ROOT, check=True)
+
+
 def link(key: str) -> str:
     target = META[key]
     title = TITLES[key][0]
@@ -175,3 +204,5 @@ for key, meta in META.items():
 
     output = f"---\n{chr(10).join(frontmatter)}\n---\n\n{body(key, description).strip()}\n"
     (CONTENT_DIR / f"{meta['url_slug']}-ja.md").write_text(output, encoding="utf-8")
+
+enforce_image_policy()

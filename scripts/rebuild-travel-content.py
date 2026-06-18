@@ -1,9 +1,24 @@
 from pathlib import Path
 from urllib.parse import quote_plus
+import shutil
+import subprocess
+import sys
 import re
 
 ROOT = Path(__file__).resolve().parents[1]
 CONTENT_DIR = ROOT / "src" / "content" / "travel"
+SCRIPTS_DIR = ROOT / "scripts"
+NODE_CANDIDATE = Path.home() / ".cache" / "codex-runtimes" / "codex-primary-runtime" / "dependencies" / "node" / "bin" / "node.exe"
+
+IMAGE_POLICY = """
+Image policy for any content rebuild:
+- Never publish duplicate images inside one article.
+- Never reuse the same image across different articles.
+- Do not treat crop, flip, recolor, resize, or rename variants as a real fix.
+- If a KTO or MyRealTrip image is already used, choose a truly different official image.
+- If no relevant non-duplicative official image exists, create a new photorealistic Image 2.0 travel image for the exact region, place, route, season, and search intent.
+- Caption Image 2.0 assets as: ⓒ한국플레이리스트 이미지 2.0
+"""
 
 PHOTO = {
     "busan-view": ("/images/kto/busan-haeundae-view.jpg", "부산 해운대와 도심 전경", "ⓒ한국관광공사 포토코리아-김미숙"),
@@ -933,6 +948,19 @@ def rebuild_file(path):
 def fchr(value):
     return f'"{quote(value)}"'
 
+def node_executable():
+    node = shutil.which("node")
+    if node:
+        return node
+    if NODE_CANDIDATE.exists():
+        return str(NODE_CANDIDATE)
+    return "node"
+
+def enforce_image_policy():
+    subprocess.run([sys.executable, str(SCRIPTS_DIR / "resolve-image-duplicates.py")], cwd=ROOT, check=True)
+    subprocess.run([node_executable(), str(SCRIPTS_DIR / "check-image-duplicates.mjs")], cwd=ROOT, check=True)
+    subprocess.run([node_executable(), str(SCRIPTS_DIR / "check-image-source-families.mjs")], cwd=ROOT, check=True)
+
 META = {key: {} for key in DATA}
 
 files = sorted(CONTENT_DIR.glob("*.md"))
@@ -949,3 +977,5 @@ for path in files:
 
 for path in files:
     rebuild_file(path)
+
+enforce_image_policy()
