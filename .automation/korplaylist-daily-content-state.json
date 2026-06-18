@@ -1,18 +1,18 @@
 {
   "date": "2026-06-18",
   "timezone": "Asia/Seoul",
-  "lastCheckedAt": "2026-06-18T07:30:24+09:00",
-  "lastPublishedAt": "2026-06-18T07:30:24+09:00",
+  "lastCheckedAt": "2026-06-18T13:46:34+09:00",
+  "lastPublishedAt": "2026-06-18T13:46:34+09:00",
   "todayTarget": 2,
-  "todayPublished": 1,
+  "todayPublished": 2,
   "targetPublishTimes": [
     "2026-06-18T07:23:00+09:00",
     "2026-06-18T10:23:00+09:00"
   ],
   "currentLanguageStage": "ko",
   "planningBundle": "busan-arrival-flow",
-  "nextPublishAfter": "2026-06-18T10:23:00+09:00",
+  "nextPublishAfter": "2026-06-19T07:23:00+09:00",
   "canPublishNow": false,
-  "blockedReason": "Waiting until 2026-06-18T10:23:00+09:00 Asia/Seoul for the next target publish slot.",
+  "blockedReason": "Daily publishing target complete for 2026-06-18 Asia/Seoul. Next work starts on 2026-06-19.",
   "pendingDraft": ""
 }
