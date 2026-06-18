@@ -10,9 +10,9 @@ urlSlug: "busan-haeundae-gwangalli-night"
 tags: ["부산", "해운대", "광안리", "야경", "여름"]
 publishedAt: "2026-06-16"
 updatedAt: "2026-06-16"
-heroImage: "/images/kto/busan-gwangan-bridge.jpg"
-imageAlt: "부산 광안대교와 해변 야경"
-imageCredit: "ⓒ한국관광공사 포토코리아-박성근"
+heroImage: "/images/generated/busan-night-coast-generated.jpg"
+imageAlt: "부산 해운대와 광안리를 잇는 저녁 해안 산책로"
+imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
 draft: false
 ---
 
@@ -132,10 +132,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/myrealtrip/busan-1-320.webp 320w, /images/optimized/myrealtrip/busan-1-330.webp 330w, /images/optimized/myrealtrip/busan-1-360.webp 360w, /images/optimized/myrealtrip/busan-1-480.webp 480w, /images/optimized/myrealtrip/busan-1-520.webp 520w, /images/optimized/myrealtrip/busan-1-640.webp 640w, /images/optimized/myrealtrip/busan-1-680.webp 680w, /images/optimized/myrealtrip/busan-1-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/myrealtrip/busan-1.jpg" alt="부산 해변 야경 산책 분위기" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/busan-gwangan-night-walk-generated-320.webp 320w, /images/optimized/generated/busan-gwangan-night-walk-generated-330.webp 330w, /images/optimized/generated/busan-gwangan-night-walk-generated-360.webp 360w, /images/optimized/generated/busan-gwangan-night-walk-generated-480.webp 480w, /images/optimized/generated/busan-gwangan-night-walk-generated-520.webp 520w, /images/optimized/generated/busan-gwangan-night-walk-generated-640.webp 640w, /images/optimized/generated/busan-gwangan-night-walk-generated-680.webp 680w, /images/optimized/generated/busan-gwangan-night-walk-generated-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/busan-gwangan-night-walk-generated.png" alt="부산 해운대와 광안리를 잇는 밤 해안 산책로에서 이동 경로를 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒmyrealtrip</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 숙소 위치, 비용, 체류 시간은 어떻게 잡아야 하나

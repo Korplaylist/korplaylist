@@ -10,9 +10,9 @@ urlSlug: "busan-seomyeon-stay-first-trip"
 tags: ["부산", "서면", "부산 숙소", "해운대", "부산역"]
 publishedAt: "2026-06-18"
 updatedAt: "2026-06-18"
-heroImage: "/images/kto/busan-gwangan-bridge.jpg"
-imageAlt: "부산 광안대교와 동쪽 바다 권역 전경"
-imageCredit: "ⓒ한국관광공사 포토코리아-김지호"
+heroImage: "/images/generated/busan-seomyeon-stay-base-generated.png"
+imageAlt: "부산 서면 도심에서 숙소 위치와 지하철 동선을 확인하는 여행자"
+imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
 draft: false
 ---
 

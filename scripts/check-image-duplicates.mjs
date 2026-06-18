@@ -3,7 +3,11 @@ import path from "node:path";
 
 const contentDir = path.join(process.cwd(), "src", "content", "travel");
 const files = fs.readdirSync(contentDir).filter((file) => file.endsWith(".md"));
-const imagePattern = /(?:heroImage:\s*["']?([^"'\n\r]+)|!\[[^\]]*\]\(([^)\s]+))/g;
+const imagePatterns = [
+  /heroImage:\s*["']?([^"'\n\r]+)/g,
+  /!\[[^\]]*\]\(([^)\s]+)\)/g,
+  /<img\b[^>]*\bsrc=["']([^"']+)["'][^>]*>/g
+];
 
 const records = [];
 
@@ -13,18 +17,23 @@ for (const file of files) {
   const frontmatter = text.match(/^---\r?\n([\s\S]*?)\r?\n---/)?.[1] ?? "";
   const locale = field(frontmatter, "locale") || localeFromFile(file);
   const regionSlug = field(frontmatter, "regionSlug") || "unknown";
+  const translationKey = field(frontmatter, "translationKey") || translationKeyFromFile(file);
   const title = field(frontmatter, "title") || file;
   const seenInArticle = new Map();
-  let match;
 
-  while ((match = imagePattern.exec(text)) !== null) {
-    const raw = (match[1] || match[2] || "").trim();
-    const image = normalizeImage(raw);
+  for (const pattern of imagePatterns) {
+    pattern.lastIndex = 0;
+    let match;
 
-    if (!image || image.startsWith("http")) continue;
+    while ((match = pattern.exec(text)) !== null) {
+      const raw = (match[1] || "").trim();
+      const image = normalizeImage(raw);
 
-    seenInArticle.set(image, (seenInArticle.get(image) || 0) + 1);
-    records.push({ image, file, title, locale, regionSlug });
+      if (!image || image.startsWith("http")) continue;
+
+      seenInArticle.set(image, (seenInArticle.get(image) || 0) + 1);
+      records.push({ image, file, title, locale, regionSlug, translationKey });
+    }
   }
 
   const duplicatesInArticle = [...seenInArticle.entries()].filter(([, count]) => count > 1);
@@ -35,6 +44,7 @@ for (const file of files) {
       title,
       locale,
       regionSlug,
+      translationKey,
       duplicateInSameArticle: count
     });
   }
@@ -62,6 +72,16 @@ for (const [groupKey, groupRecords] of groupBy(records, (record) => `${record.lo
   }
 }
 
+for (const [image, imageRecords] of groupBy(records, (record) => record.image)) {
+  const keysUsingImage = unique(imageRecords.map((record) => record.translationKey));
+  if (keysUsingImage.length > 1) {
+    const filesUsingImage = unique(imageRecords.map((record) => record.file));
+    problems.push(
+      `[different-posts] ${image} is reused by ${keysUsingImage.length} different posts: ${filesUsingImage.join(", ")}`
+    );
+  }
+}
+
 if (problems.length) {
   console.error("Image duplicate check failed.");
   console.error(problems.join("\n"));
@@ -79,6 +99,10 @@ function localeFromFile(file) {
   if (file.endsWith("-en.md")) return "en";
   if (file.endsWith("-ja.md")) return "ja";
   return "ko";
+}
+
+function translationKeyFromFile(file) {
+  return file.replace(/-(en|ja)\.md$/, "").replace(/\.md$/, "");
 }
 
 function normalizeImage(value) {
