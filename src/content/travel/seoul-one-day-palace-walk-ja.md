@@ -10,7 +10,7 @@ urlSlug: "seoul-one-day-palace-walk"
 tags: ["ソウル", "モデルコース", "韓国旅行", "seoul"]
 publishedAt: "2026-05-16"
 updatedAt: "2026-05-16"
-heroImage: "/images/kto/seoul-one-day-palace-walk-content.jpg"
+heroImage: "/images/generated/unique/seoul-one-day-palace-walk-content-seoul-one-day-palace-walk-1.jpg"
 imageAlt: "ソウル日帰り徒歩コース：景福宮・北村・仁寺洞を歩く1日旅 main image"
 imageCredit: "ⓒ한국관광공사 포토코리아-김지호"
 draft: false
@@ -161,10 +161,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/seoul-hangang-evening-content-320.webp 320w, /images/optimized/kto/seoul-hangang-evening-content-330.webp 330w, /images/optimized/kto/seoul-hangang-evening-content-360.webp 360w, /images/optimized/kto/seoul-hangang-evening-content-480.webp 480w, /images/optimized/kto/seoul-hangang-evening-content-520.webp 520w, /images/optimized/kto/seoul-hangang-evening-content-640.webp 640w, /images/optimized/kto/seoul-hangang-evening-content-680.webp 680w, /images/optimized/kto/seoul-hangang-evening-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/seoul-hangang-evening-content.jpg" alt="韓国旅行写真：서울 반포대교" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-hangang-evening-content-seoul-one-day-palace-walk-1-160.webp 160w, /images/optimized/generated/unique/seoul-hangang-evening-content-seoul-one-day-palace-walk-1-240.webp 240w, /images/optimized/generated/unique/seoul-hangang-evening-content-seoul-one-day-palace-walk-1-320.webp 320w, /images/optimized/generated/unique/seoul-hangang-evening-content-seoul-one-day-palace-walk-1-330.webp 330w, /images/optimized/generated/unique/seoul-hangang-evening-content-seoul-one-day-palace-walk-1-360.webp 360w, /images/optimized/generated/unique/seoul-hangang-evening-content-seoul-one-day-palace-walk-1-480.webp 480w, /images/optimized/generated/unique/seoul-hangang-evening-content-seoul-one-day-palace-walk-1-520.webp 520w, /images/optimized/generated/unique/seoul-hangang-evening-content-seoul-one-day-palace-walk-1-640.webp 640w, /images/optimized/generated/unique/seoul-hangang-evening-content-seoul-one-day-palace-walk-1-680.webp 680w, /images/optimized/generated/unique/seoul-hangang-evening-content-seoul-one-day-palace-walk-1-768.webp 768w, /images/optimized/generated/unique/seoul-hangang-evening-content-seoul-one-day-palace-walk-1-960.webp 960w, /images/optimized/generated/unique/seoul-hangang-evening-content-seoul-one-day-palace-walk-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-hangang-evening-content-seoul-one-day-palace-walk-1.jpg" alt="seoul one day palace walk travel guide image - seoul hangang evening content seoul one day palace walk 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 時間帯ごとの考え方
@@ -173,14 +173,12 @@ draft: false
 
 夜景や市場を入れる場合は、最後に置くと移動が単純になります。
 
-似たルートで迷う場合は、まず[ソウル漢江夜景コース：汝矣島・盤浦の夕方散歩と準備物](/ja/travel/seoul/seoul-hangang-evening/)を比較してください。食事、交通、季節の条件を詰めたい時は[仁川日帰りコース：開港場・チャイナタウン・月尾島を巡る首都圏旅行](/ja/travel/incheon/incheon-open-port/)も参考になります。
-
-<figure class="content-photo">
+似たルートで迷う場合は、まず[ソウル漢江夜景コース：汝矣島・盤浦の夕方散歩と準備物](/ja/travel/seoul/seoul-hangang-evening/)を比較してください。食事、交通、季節の条件を詰めたい時は[仁川日帰りコース：開港場・チャイナタウン・月尾島を巡る首都圏旅行](/ja/tre class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/incheon-open-port-content-320.webp 320w, /images/optimized/kto/incheon-open-port-content-330.webp 330w, /images/optimized/kto/incheon-open-port-content-360.webp 360w, /images/optimized/kto/incheon-open-port-content-480.webp 480w, /images/optimized/kto/incheon-open-port-content-520.webp 520w, /images/optimized/kto/incheon-open-port-content-640.webp 640w, /images/optimized/kto/incheon-open-port-content-680.webp 680w, /images/optimized/kto/incheon-open-port-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/incheon-open-port-content.jpg" alt="韓国旅行写真：인천 차이나타운" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-160.webp 160w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-240.webp 240w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-320.webp 320w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-330.webp 330w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-360.webp 360w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-480.webp 480w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-520.webp 520w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-640.webp 640w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-680.webp 680w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-768.webp 768w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-960.webp 960w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1.jpg" alt="ソウルの宮殿散策路と都市風景" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <figcaption>ⓒKorea Playlist Image 2.0</figcaption>
 </figure>
 
 ## 公共交通・タクシー・レンタカーの選び方
@@ -208,12 +206,10 @@ draft: false
   <div><span>予備費</span><strong>20,000〜40,000ウォン</strong><p>雨、終バス、荷物移動でタクシーが必要になる場合に備えます。</p></div>
 </section>
 
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/myrealtrip/seoul-1-320.webp 320w, /images/optimized/myrealtrip/seoul-1-330.webp 330w, /images/optimized/myrealtrip/seoul-1-360.webp 360w, /images/optimized/myrealtrip/seoul-1-480.webp 480w, /images/optimized/myrealtrip/seoul-1-520.webp 520w, /images/optimized/myrealtrip/seoul-1-640.webp 640w, /images/optimized/myrealtrip/seoul-1-680.webp 680w, /images/optimized/myrealtrip/seoul-1-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/myrealtrip/seoul-1.jpg" alt="韓国旅行写真：서울 여행 숙소 참고 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+<figure class/images/generated/unique/seoul-hangang-evening-generated-seoul-one-day-palace-walk-1.jpg/webp" srcset="/images/optimized/generated/seoul-hangang-evening-generated-320.webp 320w, /images/optimized/generated/seoul-hangang-evening-generated-330.webp 330w, /images/optimized/generated/seoul-hangang-evening-generated-360.webp 360w, /images/optimized/generated/seoul-hangang-evening-generated-480.webp 480w, /images/optimized/generated/seoul-hangang-evening-generated-520.webp 520w, /images/optimized/generated/seoul-hangang-evening-generated-640.webp 640w, //images/gener/images/generated/unique/seoul-hangang-evening-generated-seoul-one-day-palace-walk-1.jpg-hangang-evening-generated-680.webp 680w, /images/optimized/generated/seoul-hangang-evening-generated-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-hangang-evening-generated-seoul-one-day-palace-walk-1.jpg" alt="ソウル漢江の夕方散策路と都市夜景" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒmyrealtrip</figcaption>
+  <figcaption>ⓒKorea Playlist Image 2.0</figcaption>
 </figure>
 
 ## 宿泊エリアと食事のタイミング
@@ -230,10 +226,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/myrealtrip/seoul-2-320.webp 320w, /images/optimized/myrealtrip/seoul-2-330.webp 330w, /images/optimized/myrealtrip/seoul-2-360.webp 360w, /images/optimized/myrealtrip/seoul-2-480.webp 480w, /images/optimized/myrealtrip/seoul-2-520.webp 520w, /images/optimized/myrealtrip/seoul-2-640.webp 640w, /images/optimized/myrealtrip/seoul-2-680.webp 680w, /images/optimized/myrealtrip/seoul-2-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/myrealtrip/seoul-2.jpg" alt="韓国旅行写真：서울 도심 숙소 참고 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-2-seoul-one-day-palace-walk-1-160.webp 160w, /images/optimized/generated/unique/seoul-2-seoul-one-day-palace-walk-1-240.webp 240w, /images/optimized/generated/unique/seoul-2-seoul-one-day-palace-walk-1-320.webp 320w, /images/optimized/generated/unique/seoul-2-seoul-one-day-palace-walk-1-330.webp 330w, /images/optimized/generated/unique/seoul-2-seoul-one-day-palace-walk-1-360.webp 360w, /images/optimized/generated/unique/seoul-2-seoul-one-day-palace-walk-1-480.webp 480w, /images/optimized/generated/unique/seoul-2-seoul-one-day-palace-walk-1-520.webp 520w, /images/optimized/generated/unique/seoul-2-seoul-one-day-palace-walk-1-640.webp 640w, /images/optimized/generated/unique/seoul-2-seoul-one-day-palace-walk-1-680.webp 680w, /images/optimized/generated/unique/seoul-2-seoul-one-day-palace-walk-1-768.webp 768w, /images/optimized/generated/unique/seoul-2-seoul-one-day-palace-walk-1-960.webp 960w, /images/optimized/generated/unique/seoul-2-seoul-one-day-palace-walk-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-2-seoul-one-day-palace-walk-1.jpg" alt="seoul one day palace walk travel guide image - seoul 2 seoul one day palace walk 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒmyrealtrip</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 季節別の注意点

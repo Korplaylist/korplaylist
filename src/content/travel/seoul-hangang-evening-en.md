@@ -10,9 +10,9 @@ urlSlug: "seoul-hangang-evening"
 tags: ["Seoul", "Seasonal Trips", "Korea travel", "seoul hangang evening"]
 publishedAt: "2026-05-17"
 updatedAt: "2026-05-17"
-heroImage: "/images/kto/seoul-hangang-evening-content.jpg"
-imageAlt: "Seoul Han River Night View Course: Yeouido, Banpo and Evening Walk Tips main image"
-imageCredit: "ⓒ한국관광공사 포토코리아-이범수"
+heroImage: "/images/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-1.jpg"
+imageAlt: "Seoul Han River evening walk and city lights"
+imageCredit: "ⓒKorea Playlist Image 2.0"
 draft: false
 ---
 
@@ -161,10 +161,10 @@ This route separates arrival, photo time, food breaks, and the final stop so you
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/seoul-one-day-palace-walk-content-320.webp 320w, /images/optimized/kto/seoul-one-day-palace-walk-content-330.webp 330w, /images/optimized/kto/seoul-one-day-palace-walk-content-360.webp 360w, /images/optimized/kto/seoul-one-day-palace-walk-content-480.webp 480w, /images/optimized/kto/seoul-one-day-palace-walk-content-520.webp 520w, /images/optimized/kto/seoul-one-day-palace-walk-content-640.webp 640w, /images/optimized/kto/seoul-one-day-palace-walk-content-680.webp 680w, /images/optimized/kto/seoul-one-day-palace-walk-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/seoul-one-day-palace-walk-content.jpg" alt="Korea travel photo: 서울 고궁 단청" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-160.webp 160w, /images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-240.webp 240w, /images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-320.webp 320w, /images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-330.webp 330w, /images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-360.webp 360w, /images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-480.webp 480w, /images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-520.webp 520w, /images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-640.webp 640w, /images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-680.webp 680w, /images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-768.webp 768w, /images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-960.webp 960w, /images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1.jpg" alt="seoul hangang evening travel guide image - seoul one day palace walk content seoul hangang night walk 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## How to Plan the Day
@@ -173,14 +173,12 @@ Put the longest or most crowded stop early in the day. Keep flexible time after 
 
 If the route includes night views, markets, or the coast, place them near the end so you are not forced to cross the city after dark.
 
-If you are comparing similar routes, read [Seoul One-Day Walking Route: Gyeongbokgung, Bukchon and Insadong](/en/travel/seoul/seoul-one-day-palace-walk/) first. For food, transport, or seasonal decisions, [When to Travel Korea in 2026: Seasonal Destinations and Planning Tips](/en/travel/seoul/korea-season-travel-calendar/) can help refine the plan without adding unnecessary stops.
-
-<figure class="content-photo">
+If you are comparing similar routes, read [Seoul One-Day Walking Route: Gyeongbokgung, Bukchon and Insadong](/en/travel/seoul/seoul-one-day-palace-walk/) first. For food, transport, or seasonal decisions, [When to Travel Korea in 2026: Seasonal Destinations and Planning Tips](/en/travel/seoul/korea-season-travel-calendar/) can help refiigure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/incheon-open-port-content-320.webp 320w, /images/optimized/kto/incheon-open-port-content-330.webp 330w, /images/optimized/kto/incheon-open-port-content-360.webp 360w, /images/optimized/kto/incheon-open-port-content-480.webp 480w, /images/optimized/kto/incheon-open-port-content-520.webp 520w, /images/optimized/kto/incheon-open-port-content-640.webp 640w, /images/optimized/kto/incheon-open-port-content-680.webp 680w, /images/optimized/kto/incheon-open-port-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/incheon-open-port-content.jpg" alt="Korea travel photo: 인천 차이나타운" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-160.webp 160w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-240.webp 240w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-320.webp 320w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-330.webp 330w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-360.webp 360w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-480.webp 480w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-520.webp 520w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-640.webp 640w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-680.webp 680w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-768.webp 768w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-960.webp 960w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1.jpg" alt="Seoul palace walking route and city view" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <figcaption>ⓒKorea Playlist Image 2.0</figcaption>
 </figure>
 
 ## Public Transport, Taxi, or Rental Car
@@ -210,10 +208,10 @@ For accommodation, choose an area near the last evening stop or the next morning
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/myrealtrip/seoul-1-320.webp 320w, /images/optimized/myrealtrip/seoul-1-330.webp 330w, /images/optimized/myrealtrip/seoul-1-360.webp 360w, /images/optimized/myrealtrip/seoul-1-480.webp 480w, /images/optimized/myrealtrip/seoul-1-520.webp 520w, /images/optimized/myrealtrip/seoul-1-640.webp 640w, /images/optimized/myrealtrip/seoul-1-680.webp 680w, /images/optimized/myrealtrip/seoul-1-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/myrealtrip/seoul-1.jpg" alt="Korea travel photo: 서울 여행 숙소 참고 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-160.webp 160w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-240.webp 240w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-320.webp 320w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-330.webp 330w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-360.webp 360w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-480.webp 480w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-520.webp 520w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-640.webp 640w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-680.webp 680w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-768.webp 768w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-960.webp 960w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2.jpg" alt="seoul hangang evening travel guide image - seoul hangang evening generated seoul hangang night walk 2" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒmyrealtrip</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## Stay Area and Food Timing
@@ -226,12 +224,12 @@ For food, place one longer meal after Banpo Hangang Park or keep dinner near Exp
 
 On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and short taxi rides. Photo-focused stops may lose value, so keep only one or two essential daylight stops.
 
-Use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, move outdoor photo stops earlier because sunset comes quickly.
+Use the rest of the day forid long midday walks. In winter, move outdoor photo stops earlier because sunset comes quickly.
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/myrealtrip/seoul-2-320.webp 320w, /images/optimized/myrealtrip/seoul-2-330.webp 330w, /images/optimized/myrealtrip/seoul-2-360.webp 360w, /images/optimized/myrealtrip/seoul-2-480.webp 480w, /images/optimized/myrealtrip/seoul-2-520.webp 520w, /images/optimized/myrealtrip/seoul-2-640.webp 640w, /images/optimized/myrealtrip/seoul-2-680.webp 680w, /images/optimized/myrealtrip/seoul-2-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/myrealtrip/seoul-2.jpg" alt="Korea travel photo: 서울 도심 숙소 참고 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/myrealtrip/seoul-2-160.webp 160w, /images/optimized/myrealtrip/seoul-2-240.webp 240w, /images/optimized/myrealtrip/seoul-2-320.webp 320w, /images/optimized/myrealtrip/seoul-2-330.webp 330w, /images/optimized/myrealtrip/seoul-2-360.webp 360w, /images/optimized/myrealtrip/seoul-2-480.webp 480w, /images/optimized/myrealtrip/seoul-2-520.webp 520w, /images/optimized/myrealtrip/seoul-2-640.webp 640w, /images/optimized/myrealtrip/seoul-2-680.webp 680w, /images/optimized/myrealtrip/seoul-2-768.webp 768w, /images/optimized/myrealtrip/seoul-2-960.webp 960w, /images/optimized/myrealtrip/seoul-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/myrealtrip/seoul-2.jpg" alt="seoul hangang evening travel guide image - seoul 2" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>ⓒmyrealtrip</figcaption>
 </figure>

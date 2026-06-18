@@ -10,9 +10,9 @@ urlSlug: "sokcho-without-car"
 tags: ["속초", "뚜벅이", "교통", "버스"]
 publishedAt: "2026-05-25"
 updatedAt: "2026-05-25"
-heroImage: "/images/kto/sokcho-without-car-content.jpg"
-imageAlt: "속초 관광수산시장"
-imageCredit: "ⓒ한국관광공사 포토코리아-김지호"
+heroImage: "/images/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-1.jpg"
+imageAlt: "속초 시장 골목과 설악산 여행 동선"
+imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
 draft: false
 ---
 
@@ -161,10 +161,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/sokcho-seoraksan-market-content-320.webp 320w, /images/optimized/kto/sokcho-seoraksan-market-content-330.webp 330w, /images/optimized/kto/sokcho-seoraksan-market-content-360.webp 360w, /images/optimized/kto/sokcho-seoraksan-market-content-480.webp 480w, /images/optimized/kto/sokcho-seoraksan-market-content-520.webp 520w, /images/optimized/kto/sokcho-seoraksan-market-content-640.webp 640w, /images/optimized/kto/sokcho-seoraksan-market-content-680.webp 680w, /images/optimized/kto/sokcho-seoraksan-market-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/sokcho-seoraksan-market-content.jpg" alt="설악산국립공원" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-160.webp 160w, /images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-240.webp 240w, /images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-320.webp 320w, /images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-330.webp 330w, /images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-360.webp 360w, /images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-480.webp 480w, /images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-520.webp 520w, /images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-640.webp 640w, /images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-680.webp 680w, /images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-768.webp 768w, /images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-960.webp 960w, /images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1.jpg" alt="sokcho without car travel guide image - sokcho seoraksan market content sokcho without car guide 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-박은경</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 시간대별로 짜는 방법
@@ -173,14 +173,14 @@ draft: false
 
 저녁 일정이 있다면 야경이나 시장처럼 체류 시간이 자연스럽게 길어지는 장소를 마지막에 두는 것이 안정적입니다.
 
-동선이 비슷한 고민이라면 [속초 여행 코스: 설악산 짧은 산책과 중앙시장 먹거리 하루 일정](/travel/gangwon/sokcho-seoraksan-market/)을 먼저 비교하고, 식비나 교통처럼 세부 조건이 중요할 때는 [렌터카 없이 제주 여행 가능할까? 버스·택시·투어 조합 가이드](/travel/jeju/jeju-without-car/)도 함께 확인하면 계획이 더 현실적입니다.
+동선이 비슷한 고민이라면 [속초 여행 코스: 설악산 짧은 산책과 중앙시장 먹거리 하루 일정](/travel/gangwon/sokcho-seoraksan-market/)을 먼저 비교하고, 식비나 교통처럼 세부 조 가이드](/travel/jeju/jeju-without-car/)도 함께 확인하면 계획이 더 현실적입니다.
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/gangneung-two-day-content-320.webp 320w, /images/optimized/kto/gangneung-two-day-content-330.webp 330w, /images/optimized/kto/gangneung-two-day-content-360.webp 360w, /images/optimized/kto/gangneung-two-day-content-480.webp 480w, /images/optimized/kto/gangneung-two-day-content-520.webp 520w, /images/optimized/kto/gangneung-two-day-content-640.webp 640w, /images/optimized/kto/gangneung-two-day-content-680.webp 680w, /images/optimized/kto/gangneung-two-day-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/gangneung-two-day-content.jpg" alt="강릉 영진해변" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/kto/gangneung-two-day-content-160.webp 160w, /images/optimized/kto/gangneung-two-day-content-240.webp 240w, /images/optimized/kto/gangneung-two-day-content-320.webp 320w, /images/optimized/kto/gangneung-two-day-content-330.webp 330w, /images/optimized/kto/gangneung-two-day-content-360.webp 360w, /images/optimized/kto/gangneung-two-day-content-480.webp 480w, /images/optimized/kto/gangneung-two-day-content-520.webp 520w, /images/optimized/kto/gangneung-two-day-content-640.webp 640w, /images/optimized/kto/gangneung-two-day-content-680.webp 680w, /images/optimized/kto/gangneung-two-day-content-768.webp 768w, /images/optimized/kto/gangneung-two-day-content-960.webp 960w, /images/optimized/kto/gangneung-two-day-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/kto/gangneung-two-day-content.jpg" alt="sokcho without car travel guide image - gangneung two day content" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-강원지사</figcaption>
+  <figcaption>ⓒ한국관광공사 포토코리아</figcaption>
 </figure>
 
 ## 대중교통, 택시, 렌터카 선택 기준
@@ -210,10 +210,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/gangneung-sea-coffee-content-320.webp 320w, /images/optimized/kto/gangneung-sea-coffee-content-330.webp 330w, /images/optimized/kto/gangneung-sea-coffee-content-360.webp 360w, /images/optimized/kto/gangneung-sea-coffee-content-480.webp 480w, /images/optimized/kto/gangneung-sea-coffee-content-520.webp 520w, /images/optimized/kto/gangneung-sea-coffee-content-640.webp 640w, /images/optimized/kto/gangneung-sea-coffee-content-680.webp 680w, /images/optimized/kto/gangneung-sea-coffee-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/gangneung-sea-coffee-content.jpg" alt="강릉 안목해변" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-160.webp 160w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-240.webp 240w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-320.webp 320w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-330.webp 330w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-360.webp 360w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-480.webp 480w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-520.webp 520w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-640.webp 640w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-680.webp 680w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-768.webp 768w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-960.webp 960w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2.jpg" alt="sokcho without car travel guide image - sokcho market route generated sokcho without car guide 1 sokcho without car guide 2" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 숙소 위치와 식사 타이밍
@@ -230,10 +230,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/chuncheon-lake-day-content-320.webp 320w, /images/optimized/kto/chuncheon-lake-day-content-330.webp 330w, /images/optimized/kto/chuncheon-lake-day-content-360.webp 360w, /images/optimized/kto/chuncheon-lake-day-content-480.webp 480w, /images/optimized/kto/chuncheon-lake-day-content-520.webp 520w, /images/optimized/kto/chuncheon-lake-day-content-640.webp 640w, /images/optimized/kto/chuncheon-lake-day-content-680.webp 680w, /images/optimized/kto/chuncheon-lake-day-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/chuncheon-lake-day-content.jpg" alt="춘천 호수 여행 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-160.webp 160w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-240.webp 240w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-320.webp 320w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-330.webp 330w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-360.webp 360w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-480.webp 480w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-520.webp 520w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-640.webp 640w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-680.webp 680w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-768.webp 768w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-960.webp 960w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1.jpg" alt="sokcho without car travel guide image - sokcho market food generated sokcho without car guide 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-이대순</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 계절별 주의사항

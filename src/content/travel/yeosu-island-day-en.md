@@ -10,9 +10,9 @@ urlSlug: "yeosu-island-day"
 tags: ["Yeosu", "Itineraries", "Korea travel", "yeosu island day"]
 publishedAt: "2026-05-31"
 updatedAt: "2026-05-31"
-heroImage: "/images/kto/yeosu-island-day-content.jpg"
-imageAlt: "Yeosu Island Day Trip: Ferry, Weather and Timetable Checks Before You Go main image"
-imageCredit: "ⓒ한국관광공사 포토코리아-김지호"
+heroImage: "/images/generated/unique/yeosu-island-ferry-generated-yeosu-island-day-trip-1-yeosu-island-day-trip-1.jpg"
+imageAlt: "Yeosu island ferry pier and harbor travel route"
+imageCredit: "ⓒKorea Playlist Image 2.0"
 draft: false
 ---
 
@@ -161,10 +161,10 @@ This route separates arrival, photo time, food breaks, and the final stop so you
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/yeosu-night-sea-content-320.webp 320w, /images/optimized/kto/yeosu-night-sea-content-330.webp 330w, /images/optimized/kto/yeosu-night-sea-content-360.webp 360w, /images/optimized/kto/yeosu-night-sea-content-480.webp 480w, /images/optimized/kto/yeosu-night-sea-content-520.webp 520w, /images/optimized/kto/yeosu-night-sea-content-640.webp 640w, /images/optimized/kto/yeosu-night-sea-content-680.webp 680w, /images/optimized/kto/yeosu-night-sea-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/yeosu-night-sea-content.jpg" alt="Korea travel photo: 여수 밤바다 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/yeosu-night-sea-content-yeosu-island-day-trip-1-160.webp 160w, /images/optimized/generated/unique/yeosu-night-sea-content-yeosu-island-day-trip-1-240.webp 240w, /images/optimized/generated/unique/yeosu-night-sea-content-yeosu-island-day-trip-1-320.webp 320w, /images/optimized/generated/unique/yeosu-night-sea-content-yeosu-island-day-trip-1-330.webp 330w, /images/optimized/generated/unique/yeosu-night-sea-content-yeosu-island-day-trip-1-360.webp 360w, /images/optimized/generated/unique/yeosu-night-sea-content-yeosu-island-day-trip-1-480.webp 480w, /images/optimized/generated/unique/yeosu-night-sea-content-yeosu-island-day-trip-1-520.webp 520w, /images/optimized/generated/unique/yeosu-night-sea-content-yeosu-island-day-trip-1-640.webp 640w, /images/optimized/generated/unique/yeosu-night-sea-content-yeosu-island-day-trip-1-680.webp 680w, /images/optimized/generated/unique/yeosu-night-sea-content-yeosu-island-day-trip-1-768.webp 768w, /images/optimized/generated/unique/yeosu-night-sea-content-yeosu-island-day-trip-1-960.webp 960w, /images/optimized/generated/unique/yeosu-night-sea-content-yeosu-island-day-trip-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/yeosu-night-sea-content-yeosu-island-day-trip-1.jpg" alt="yeosu island day travel guide image - yeosu night sea content yeosu island day trip 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## How to Plan the Day
@@ -177,10 +177,10 @@ If you are comparing similar routes, read [Yeosu Night Sea Route 2026: Marine Ca
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/tongyeong-two-day-content-320.webp 320w, /images/optimized/kto/tongyeong-two-day-content-330.webp 330w, /images/optimized/kto/tongyeong-two-day-content-360.webp 360w, /images/optimized/kto/tongyeong-two-day-content-480.webp 480w, /images/optimized/kto/tongyeong-two-day-content-520.webp 520w, /images/optimized/kto/tongyeong-two-day-content-640.webp 640w, /images/optimized/kto/tongyeong-two-day-content-680.webp 680w, /images/optimized/kto/tongyeong-two-day-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/tongyeong-two-day-content.jpg" alt="Korea travel photo: 통영 제승당" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-island-day-trip-1-yeosu-island-day-trip-2-160.webp 160w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-island-day-trip-1-yeosu-island-day-trip-2-240.webp 240w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-island-day-trip-1-yeosu-island-day-trip-2-320.webp 320w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-island-day-trip-1-yeosu-island-day-trip-2-330.webp 330w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-island-day-trip-1-yeosu-island-day-trip-2-360.webp 360w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-island-day-trip-1-yeosu-island-day-trip-2-480.webp 480w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-island-day-trip-1-yeosu-island-day-trip-2-520.webp 520w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-island-day-trip-1-yeosu-island-day-trip-2-640.webp 640w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-island-day-trip-1-yeosu-island-day-trip-2-680.webp 680w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-island-day-trip-1-yeosu-island-day-trip-2-768.webp 768w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-island-day-trip-1-yeosu-island-day-trip-2-960.webp 960w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-island-day-trip-1-yeosu-island-day-trip-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/yeosu-island-ferry-generated-yeosu-island-day-trip-1-yeosu-island-day-trip-2.jpg" alt="yeosu island day travel guide image - yeosu island ferry generated yeosu island day trip 1 yeosu island day trip 2" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## Public Transport, Taxi, or Rental Car
@@ -205,15 +205,15 @@ For accommodation, choose an area near the last evening stop or the next morning
   <div><span>Local transport</span><strong>KRW 8,000-25,000</strong><p>Subway and bus routes stay low; several short taxis raise the total quickly.</p></div>
   <div><span>Meals and cafes</span><strong>KRW 35,000-70,000</strong><p>Markets and cafes improve the day but are usually where small costs stack up.</p></div>
   <div><span>Tickets and activities</span><strong>KRW 0-30,000</strong><p>The range depends on whether you choose free walks or paid viewpoints, museums, cable cars, or experiences.</p></div>
-  <div><span>Backup budget</span><strong>KRW 20,000-40,000</strong><p>Keep room for rain, missed buses, luggage movement, or a taxi at the end of the day.</p></div>
+  <div><span>Backup budget</span><strong>KRW 20,000-40,000</strong><p>Keep room for rain, missed buses, luggage mo/div>
 </section>
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/tongyeong-island-view-content-320.webp 320w, /images/optimized/kto/tongyeong-island-view-content-330.webp 330w, /images/optimized/kto/tongyeong-island-view-content-360.webp 360w, /images/optimized/kto/tongyeong-island-view-content-480.webp 480w, /images/optimized/kto/tongyeong-island-view-content-520.webp 520w, /images/optimized/kto/tongyeong-island-view-content-640.webp 640w, /images/optimized/kto/tongyeong-island-view-content-680.webp 680w, /images/optimized/kto/tongyeong-island-view-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/tongyeong-island-view-content.jpg" alt="Korea travel photo: 통영 동피랑마을" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/kto/tongyeong-island-view-content-160.webp 160w, /images/optimized/kto/tongyeong-island-view-content-240.webp 240w, /images/optimized/kto/tongyeong-island-view-content-320.webp 320w, /images/optimized/kto/tongyeong-island-view-content-330.webp 330w, /images/optimized/kto/tongyeong-island-view-content-360.webp 360w, /images/optimized/kto/tongyeong-island-view-content-480.webp 480w, /images/optimized/kto/tongyeong-island-view-content-520.webp 520w, /images/optimized/kto/tongyeong-island-view-content-640.webp 640w, /images/optimized/kto/tongyeong-island-view-content-680.webp 680w, /images/optimized/kto/tongyeong-island-view-content-768.webp 768w, /images/optimized/kto/tongyeong-island-view-content-960.webp 960w, /images/optimized/kto/tongyeong-island-view-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/kto/tongyeong-island-view-content.jpg" alt="yeosu island day travel guide image - tongyeong island view content" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <figcaption>ⓒ한국관광공사 포토코리아</figcaption>
 </figure>
 
 ## Stay Area and Food Timing
@@ -226,14 +226,14 @@ For food, place one longer meal after Odongdo Island or keep dinner near Yeosu C
 
 On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and short taxi rides. Photo-focused stops may lose value, so keep only one or two essential daylight stops.
 
-Use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, move outdoor photo stops earlier because sunset comes quickly.
+Use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, move s quickly.
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/busan-gwangan-bridge-320.webp 320w, /images/optimized/kto/busan-gwangan-bridge-330.webp 330w, /images/optimized/kto/busan-gwangan-bridge-360.webp 360w, /images/optimized/kto/busan-gwangan-bridge-480.webp 480w, /images/optimized/kto/busan-gwangan-bridge-520.webp 520w, /images/optimized/kto/busan-gwangan-bridge-640.webp 640w, /images/optimized/kto/busan-gwangan-bridge-680.webp 680w, /images/optimized/kto/busan-gwangan-bridge-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/busan-gwangan-bridge.jpg" alt="Korea travel photo: 부산 광안대교 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/yeosu-night-sea-generated-yeosu-island-day-trip-1-160.webp 160w, /images/optimized/generated/yeosu-night-sea-generated-yeosu-island-day-trip-1-240.webp 240w, /images/optimized/generated/yeosu-night-sea-generated-yeosu-island-day-trip-1-320.webp 320w, /images/optimized/generated/yeosu-night-sea-generated-yeosu-island-day-trip-1-330.webp 330w, /images/optimized/generated/yeosu-night-sea-generated-yeosu-island-day-trip-1-360.webp 360w, /images/optimized/generated/yeosu-night-sea-generated-yeosu-island-day-trip-1-480.webp 480w, /images/optimized/generated/yeosu-night-sea-generated-yeosu-island-day-trip-1-520.webp 520w, /images/optimized/generated/yeosu-night-sea-generated-yeosu-island-day-trip-1-640.webp 640w, /images/optimized/generated/yeosu-night-sea-generated-yeosu-island-day-trip-1-680.webp 680w, /images/optimized/generated/yeosu-night-sea-generated-yeosu-island-day-trip-1-768.webp 768w, /images/optimized/generated/yeosu-night-sea-generated-yeosu-island-day-trip-1-960.webp 960w, /images/optimized/generated/yeosu-night-sea-generated-yeosu-island-day-trip-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/gene/images/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1.jpg night sea promenade and harbor lights" alt="yeosu island day travel guide image - yeosu night sea generated yeosu island day trip 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## Seasonal Notes

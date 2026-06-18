@@ -10,7 +10,7 @@ urlSlug: "sokcho-seoraksan-market"
 tags: ["Sokcho", "Destinations", "Korea travel", "sokcho seoraksan market"]
 publishedAt: "2026-05-24"
 updatedAt: "2026-05-24"
-heroImage: "/images/kto/sokcho-seoraksan-market-content.jpg"
+heroImage: "/images/generated/unique/sokcho-seoraksan-market-content-sokcho-seoraksan-market-route-1.jpg"
 imageAlt: "Sokcho Travel Route: Short Seoraksan Walk and Jungang Market Food in One Day main image"
 imageCredit: "ⓒ한국관광공사 포토코리아-박은경"
 draft: false
@@ -161,10 +161,10 @@ This route separates arrival, photo time, food breaks, and the final stop so you
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/sokcho-without-car-content-320.webp 320w, /images/optimized/kto/sokcho-without-car-content-330.webp 330w, /images/optimized/kto/sokcho-without-car-content-360.webp 360w, /images/optimized/kto/sokcho-without-car-content-480.webp 480w, /images/optimized/kto/sokcho-without-car-content-520.webp 520w, /images/optimized/kto/sokcho-without-car-content-640.webp 640w, /images/optimized/kto/sokcho-without-car-content-680.webp 680w, /images/optimized/kto/sokcho-without-car-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/sokcho-without-car-content.jpg" alt="Korea travel photo: 속초 관광수산시장" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-without-car-content-sokcho-seoraksan-market-route-1-160.webp 160w, /images/optimized/generated/unique/sokcho-without-car-content-sokcho-seoraksan-market-route-1-240.webp 240w, /images/optimized/generated/unique/sokcho-without-car-content-sokcho-seoraksan-market-route-1-320.webp 320w, /images/optimized/generated/unique/sokcho-without-car-content-sokcho-seoraksan-market-route-1-330.webp 330w, /images/optimized/generated/unique/sokcho-without-car-content-sokcho-seoraksan-market-route-1-360.webp 360w, /images/optimized/generated/unique/sokcho-without-car-content-sokcho-seoraksan-market-route-1-480.webp 480w, /images/optimized/generated/unique/sokcho-without-car-content-sokcho-seoraksan-market-route-1-520.webp 520w, /images/optimized/generated/unique/sokcho-without-car-content-sokcho-seoraksan-market-route-1-640.webp 640w, /images/optimized/generated/unique/sokcho-without-car-content-sokcho-seoraksan-market-route-1-680.webp 680w, /images/optimized/generated/unique/sokcho-without-car-content-sokcho-seoraksan-market-route-1-768.webp 768w, /images/optimized/generated/unique/sokcho-without-car-content-sokcho-seoraksan-market-route-1-960.webp 960w, /images/optimized/generated/unique/sokcho-without-car-content-sokcho-seoraksan-market-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/sokcho-without-car-content-sokcho-seoraksan-market-route-1.jpg" alt="sokcho seoraksan market travel guide image - sokcho without car content sokcho seoraksan market route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## How to Plan the Day
@@ -173,14 +173,14 @@ Put the longest or most crowded stop early in the day. Keep flexible time after 
 
 If the route includes night views, markets, or the coast, place them near the end so you are not forced to cross the city after dark.
 
-If you are comparing similar routes, read [Sokcho Without a Car: Bus Guide for the Sea, Market and Seoraksan](/en/travel/gangwon/sokcho-without-car/) first. For food, transport, or seasonal decisions, [Gangneung Day Trip 2026: Sea, Coffee Street and Gyeongpo Lake in One Route](/en/travel/gangwon/gangneung-sea-coffee/) can help refine the plan without adding unnecessary stops.
+If you are comparing similar routes, read [Sokcho Without a Car: Bus Guide for the Sea, Market and Seoraksan](/en/travel/gangwon/sokcho-without-car/) first. For food, transport, or seasonal decisions, [Gangneung Day Trip 2026: Sea, Coffee Street and Gyeongpo Lake in One Route](/en/travel/gangwon/gangneung-sea-coffeeary stops.
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/gangneung-sea-coffee-content-320.webp 320w, /images/optimized/kto/gangneung-sea-coffee-content-330.webp 330w, /images/optimized/kto/gangneung-sea-coffee-content-360.webp 360w, /images/optimized/kto/gangneung-sea-coffee-content-480.webp 480w, /images/optimized/kto/gangneung-sea-coffee-content-520.webp 520w, /images/optimized/kto/gangneung-sea-coffee-content-640.webp 640w, /images/optimized/kto/gangneung-sea-coffee-content-680.webp 680w, /images/optimized/kto/gangneung-sea-coffee-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/gangneung-sea-coffee-content.jpg" alt="Korea travel photo: 강릉 안목해변" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-market-route-generated-sokcho-seoraksan-market-route-1-160.webp 160w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-seoraksan-market-route-1-240.webp 240w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-seoraksan-market-route-1-320.webp 320w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-seoraksan-market-route-1-330.webp 330w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-seoraksan-market-route-1-360.webp 360w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-seoraksan-market-route-1-480.webp 480w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-seoraksan-market-route-1-520.webp 520w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-seoraksan-market-route-1-640.webp 640w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-seoraksan-market-route-1-680.webp 680w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-seoraksan-market-route-1-768.webp 768w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-seoraksan-market-route-1-960.webp 960w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-seoraksan-market-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/sokcho-market-route-generated-sokcho-seoraksan-market-route-1.jpg" alt="sokcho seoraksan market travel guide image - sokcho market route generated sokcho seoraksan market route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## Public Transport, Taxi, or Rental Car
@@ -205,15 +205,15 @@ For accommodation, choose an area near the last evening stop or the next morning
   <div><span>Local transport</span><strong>KRW 8,000-25,000</strong><p>Subway and bus routes stay low; several short taxis raise the total quickly.</p></div>
   <div><span>Meals and cafes</span><strong>KRW 35,000-70,000</strong><p>Markets and cafes improve the day but are usually where small costs stack up.</p></div>
   <div><span>Tickets and activities</span><strong>KRW 0-30,000</strong><p>The range depends on whether you choose free walks or paid viewpoints, museums, cable cars, or experiences.</p></div>
-  <div><span>Backup budget</span><strong>KRW 20,000-40,000</strong><p>Keep room for rain, missed buses, luggage movement, or a taxi at the end of the day.</p></div>
+  <div><span>Backup budget</span><strong>KRW 20,000-40,000</strong><p>, or a taxi at the end of the day.</p></div>
 </section>
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/gangneung-two-day-content-320.webp 320w, /images/optimized/kto/gangneung-two-day-content-330.webp 330w, /images/optimized/kto/gangneung-two-day-content-360.webp 360w, /images/optimized/kto/gangneung-two-day-content-480.webp 480w, /images/optimized/kto/gangneung-two-day-content-520.webp 520w, /images/optimized/kto/gangneung-two-day-content-640.webp 640w, /images/optimized/kto/gangneung-two-day-content-680.webp 680w, /images/optimized/kto/gangneung-two-day-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/gangneung-two-day-content.jpg" alt="Korea travel photo: 강릉 영진해변" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-market-food-generated-sokcho-seoraksan-market-route-1-160.webp 160w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-seoraksan-market-route-1-240.webp 240w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-seoraksan-market-route-1-320.webp 320w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-seoraksan-market-route-1-330.webp 330w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-seoraksan-market-route-1-360.webp 360w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-seoraksan-market-route-1-480.webp 480w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-seoraksan-market-route-1-520.webp 520w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-seoraksan-market-route-1-640.webp 640w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-seoraksan-market-route-1-680.webp 680w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-seoraksan-market-route-1-768.webp 768w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-seoraksan-market-route-1-960.webp 960w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-seoraksan-market-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/sokcho-market-food-generated-sokcho-seoraksan-market-route-1.jpg" alt="sokcho seoraksan market travel guide image - sokcho market food generated sokcho seoraksan market route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-강원지사</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## Stay Area and Food Timing
@@ -230,10 +230,10 @@ Use the rest of the day for food and rest. In summer, avoid long midday walks. I
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/chuncheon-lake-day-content-320.webp 320w, /images/optimized/kto/chuncheon-lake-day-content-330.webp 330w, /images/optimized/kto/chuncheon-lake-day-content-360.webp 360w, /images/optimized/kto/chuncheon-lake-day-content-480.webp 480w, /images/optimized/kto/chuncheon-lake-day-content-520.webp 520w, /images/optimized/kto/chuncheon-lake-day-content-640.webp 640w, /images/optimized/kto/chuncheon-lake-day-content-680.webp 680w, /images/optimized/kto/chuncheon-lake-day-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/chuncheon-lake-day-content.jpg" alt="Korea travel photo: 춘천 호수 여행 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/kto/chuncheon-lake-day-content-160.webp 160w, /images/optimized/kto/chuncheon-lake-day-content-240.webp 240w, /images/optimized/kto/chuncheon-lake-day-content-320.webp 320w, /images/optimized/kto/chuncheon-lake-day-content-330.webp 330w, /images/optimized/kto/chuncheon-lake-day-content-360.webp 360w, /images/optimized/kto/chuncheon-lake-day-content-480.webp 480w, /images/optimized/kto/chuncheon-lake-day-content-520.webp 520w, /images/optimized/kto/chuncheon-lake-day-content-640.webp 640w, /images/optimized/kto/chuncheon-lake-day-content-680.webp 680w, /images/optimized/kto/chuncheon-lake-day-content-768.webp 768w, /images/optimized/kto/chuncheon-lake-day-content-960.webp 960w, /images/optimized/kto/chuncheon-lake-day-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/kto/chuncheon-lake-day-content.jpg" alt="sokcho seoraksan market travel guide image - chuncheon lake day content" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-이대순</figcaption>
+  <figcaption>ⓒ한국관광공사 포토코리아</figcaption>
 </figure>
 
 ## Seasonal Notes

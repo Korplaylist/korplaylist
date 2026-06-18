@@ -56,10 +56,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/busan-station-320.webp 320w, /images/optimized/kto/busan-station-330.webp 330w, /images/optimized/kto/busan-station-360.webp 360w, /images/optimized/kto/busan-station-480.webp 480w, /images/optimized/kto/busan-station-520.webp 520w, /images/optimized/kto/busan-station-640.webp 640w, /images/optimized/kto/busan-station-680.webp 680w, /images/optimized/kto/busan-station-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/busan-station.jpg" alt="부산역 광장과 도심 출발 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-station-busan-seomyeon-stay-first-trip-1-160.webp 160w, /images/optimized/generated/unique/busan-station-busan-seomyeon-stay-first-trip-1-240.webp 240w, /images/optimized/generated/unique/busan-station-busan-seomyeon-stay-first-trip-1-320.webp 320w, /images/optimized/generated/unique/busan-station-busan-seomyeon-stay-first-trip-1-330.webp 330w, /images/optimized/generated/unique/busan-station-busan-seomyeon-stay-first-trip-1-360.webp 360w, /images/optimized/generated/unique/busan-station-busan-seomyeon-stay-first-trip-1-480.webp 480w, /images/optimized/generated/unique/busan-station-busan-seomyeon-stay-first-trip-1-520.webp 520w, /images/optimized/generated/unique/busan-station-busan-seomyeon-stay-first-trip-1-640.webp 640w, /images/optimized/generated/unique/busan-station-busan-seomyeon-stay-first-trip-1-680.webp 680w, /images/optimized/generated/unique/busan-station-busan-seomyeon-stay-first-trip-1-768.webp 768w, /images/optimized/generated/unique/busan-station-busan-seomyeon-stay-first-trip-1-960.webp 960w, /images/optimized/generated/unique/busan-station-busan-seomyeon-stay-first-trip-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/busan-station-busan-seomyeon-stay-first-trip-1.jpg" alt="busan seomyeon stay first trip travel guide image - busan station busan seomyeon stay first trip 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 서면 숙소가 부산역보다 편한 순간, 해운대보다 편한 순간
@@ -107,16 +107,14 @@ draft: false
 
 ## 체크인 전 공백 시간과 늦은 귀가에서 서면이 주는 장점
 
-첫 여행에서는 생각보다 체크인 전 시간이 애매하게 비는 경우가 많습니다. 부산역은 출발은 쉽지만 머무는 선택지가 관광 동선과 직접 연결되지 않을 수 있고, 해운대는 해변 체류가 길어지는 대신 날씨 영향을 크게 받습니다. 서면은 카페, 식사, 쇼핑, 지하철 이동이 한 권역 안에서 비교적 쉽게 묶여 있어 "지금은 어디로 가야 하지?"라는 시간을 줄여 줍니다.
-
-또한 늦은 저녁에 한 권역에서 끝나더라도 서면은 복귀 후 다음 날 일정을 다시 시작하기 쉬운 편입니다. 첫날 남포동에서 끝나든, 둘째 날 광안리에서 끝나든 둘 다 지나치게 멀지 않다는 점이 실전에서는 꽤 큰 차이를 만듭니다.
+첫 여행에서는 생각보다 체크인 전 시간이 애매하게 비는 경우가 많습니다. 부산역은 출발은 쉽지만 머무는 선택지가 관광 동선과 직접 연결되지 않을 수 있고, 해운대는 해변 체류가 길어지는 대신 날씨 영향을 크게 받습니다. 서면은 카페, 식사, 쇼핑, 지하철 이동이 한 권역 안에서 비교적 쉽게 묶여 있어 "지금은 어디로 권역에서 끝나더라도 서면은 복귀 후 다음 날 일정을 다시 시작하기 쉬운 편입니다. 첫날 남포동에서 끝나든, 둘째 날 광안리에서 끝나든 둘 다 지나치게 멀지 않다는 점이 실전에서는 꽤 큰 차이를 만듭니다.
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/busan-haeundae-view-320.webp 320w, /images/optimized/kto/busan-haeundae-view-330.webp 330w, /images/optimized/kto/busan-haeundae-view-360.webp 360w, /images/optimized/kto/busan-haeundae-view-480.webp 480w, /images/optimized/kto/busan-haeundae-view-520.webp 520w, /images/optimized/kto/busan-haeundae-view-640.webp 640w, /images/optimized/kto/busan-haeundae-view-680.webp 680w, /images/optimized/kto/busan-haeundae-view-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/busan-haeundae-view.jpg" alt="부산 해운대와 동쪽 바다 권역 전경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-haeundae-view-busan-seomyeon-stay-first-trip-1-160.webp 160w, /images/optimized/generated/unique/busan-haeundae-view-busan-seomyeon-stay-first-trip-1-240.webp 240w, /images/optimized/generated/unique/busan-haeundae-view-busan-seomyeon-stay-first-trip-1-320.webp 320w, /images/optimized/generated/unique/busan-haeundae-view-busan-seomyeon-stay-first-trip-1-330.webp 330w, /images/optimized/generated/unique/busan-haeundae-view-busan-seomyeon-stay-first-trip-1-360.webp 360w, /images/optimized/generated/unique/busan-haeundae-view-busan-seomyeon-stay-first-trip-1-480.webp 480w, /images/optimized/generated/unique/busan-haeundae-view-busan-seomyeon-stay-first-trip-1-520.webp 520w, /images/optimized/generated/unique/busan-haeundae-view-busan-seomyeon-stay-first-trip-1-640.webp 640w, /images/optimized/generated/unique/busan-haeundae-view-busan-seomyeon-stay-first-trip-1-680.webp 680w, /images/optimized/generated/unique/busan-haeundae-view-busan-seomyeon-stay-first-trip-1-768.webp 768w, /images/optimized/generated/unique/busan-haeundae-view-busan-seomyeon-stay-first-trip-1-960.webp 960w, /images/optimized/generated/unique/busan-haeundae-view-busan-seomyeon-stay-first-trip-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/busan-haeundae-view-busan-seomyeon-stay-first-trip-1.jpg" alt="busan seomyeon stay first trip travel guide image - busan haeundae view busan seomyeon stay first trip 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김민수</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 교통, 숙박비, 실제 체감 비용은 어떻게 봐야 하나

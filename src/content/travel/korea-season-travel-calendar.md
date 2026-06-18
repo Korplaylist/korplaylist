@@ -161,10 +161,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/seoul-hangang-evening-content-320.webp 320w, /images/optimized/kto/seoul-hangang-evening-content-330.webp 330w, /images/optimized/kto/seoul-hangang-evening-content-360.webp 360w, /images/optimized/kto/seoul-hangang-evening-content-480.webp 480w, /images/optimized/kto/seoul-hangang-evening-content-520.webp 520w, /images/optimized/kto/seoul-hangang-evening-content-640.webp 640w, /images/optimized/kto/seoul-hangang-evening-content-680.webp 680w, /images/optimized/kto/seoul-hangang-evening-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/seoul-hangang-evening-content.jpg" alt="서울 반포대교" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-hangang-evening-content-seasonal-korea-travel-calendar-2026-1-160.webp 160w, /images/optimized/generated/unique/seoul-hangang-evening-content-seasonal-korea-travel-calendar-2026-1-240.webp 240w, /images/optimized/generated/unique/seoul-hangang-evening-content-seasonal-korea-travel-calendar-2026-1-320.webp 320w, /images/optimized/generated/unique/seoul-hangang-evening-content-seasonal-korea-travel-calendar-2026-1-330.webp 330w, /images/optimized/generated/unique/seoul-hangang-evening-content-seasonal-korea-travel-calendar-2026-1-360.webp 360w, /images/optimized/generated/unique/seoul-hangang-evening-content-seasonal-korea-travel-calendar-2026-1-480.webp 480w, /images/optimized/generated/unique/seoul-hangang-evening-content-seasonal-korea-travel-calendar-2026-1-520.webp 520w, /images/optimized/generated/unique/seoul-hangang-evening-content-seasonal-korea-travel-calendar-2026-1-640.webp 640w, /images/optimized/generated/unique/seoul-hangang-evening-content-seasonal-korea-travel-calendar-2026-1-680.webp 680w, /images/optimized/generated/unique/seoul-hangang-evening-content-seasonal-korea-travel-calendar-2026-1-768.webp 768w, /images/optimized/generated/unique/seoul-hangang-evening-content-seasonal-korea-travel-calendar-2026-1-960.webp 960w, /images/optimized/generated/unique/seoul-hangang-evening-content-seasonal-korea-travel-calendar-2026-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-hangang-evening-content-seasonal-korea-travel-calendar-2026-1.jpg" alt="korea season travel calendar travel guide image - seoul hangang evening content seasonal korea travel calendar 2026 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 시간대별로 짜는 방법
@@ -173,14 +173,14 @@ draft: false
 
 저녁 일정이 있다면 야경이나 시장처럼 체류 시간이 자연스럽게 길어지는 장소를 마지막에 두는 것이 안정적입니다.
 
-동선이 비슷한 고민이라면 [부산 1박2일 여행 코스 2026: 처음 가도 실패 적은 핵심 동선](/travel/busan/busan-two-day-route/)을 먼저 비교하고, 식비나 교통처럼 세부 조건이 중요할 때는 [제주 2박3일 여행 코스 2026: 첫 제주라면 동쪽·서쪽 이렇게 나누세요](/travel/jeju/jeju-three-day-first/)도 함께 확인하면 계획이 더 현실적입니다.
+동선이 비슷한 고민이라면 [부산 1박2일 여busan-two-day-route/)을 먼저 비교하고, 식비나 교통처럼 세부 조건이 중요할 때는 [제주 2박3일 여행 코스 2026: 첫 제주라면 동쪽·서쪽 이렇게 나누세요](/travel/jeju/jeju-three-day-first/)도 함께 확인하면 계획이 더 현실적입니다.
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/jeju-three-day-first-content-320.webp 320w, /images/optimized/kto/jeju-three-day-first-content-330.webp 330w, /images/optimized/kto/jeju-three-day-first-content-360.webp 360w, /images/optimized/kto/jeju-three-day-first-content-480.webp 480w, /images/optimized/kto/jeju-three-day-first-content-520.webp 520w, /images/optimized/kto/jeju-three-day-first-content-640.webp 640w, /images/optimized/kto/jeju-three-day-first-content-680.webp 680w, /images/optimized/kto/jeju-three-day-first-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/jeju-three-day-first-content.jpg" alt="제주 올레길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/kto/jeju-three-day-first-content-160.webp 160w, /images/optimized/kto/jeju-three-day-first-content-240.webp 240w, /images/optimized/kto/jeju-three-day-first-content-320.webp 320w, /images/optimized/kto/jeju-three-day-first-content-330.webp 330w, /images/optimized/kto/jeju-three-day-first-content-360.webp 360w, /images/optimized/kto/jeju-three-day-first-content-480.webp 480w, /images/optimized/kto/jeju-three-day-first-content-520.webp 520w, /images/optimized/kto/jeju-three-day-first-content-640.webp 640w, /images/optimized/kto/jeju-three-day-first-content-680.webp 680w, /images/optimized/kto/jeju-three-day-first-content-768.webp 768w, /images/optimized/kto/jeju-three-day-first-content-960.webp 960w, /images/optimized/kto/jeju-three-day-first-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/kto/jeju-three-day-first-content.jpg" alt="korea season travel calendar travel guide image - jeju three day first content" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒ한국관광공사 포토코리아</figcaption>
 </figure>
 
 ## 대중교통, 택시, 렌터카 선택 기준
@@ -204,16 +204,16 @@ draft: false
   <div class="planning-table-head"><span>항목</span><span>1인 기준</span><span>체크 포인트</span></div>
   <div><span>지역 내 교통</span><strong>8,000~25,000원</strong><p>지하철·버스 중심이면 낮고, 짧은 택시를 2회 이상 넣으면 올라갑니다.</p></div>
   <div><span>식사·카페</span><strong>35,000~70,000원</strong><p>시장 간식과 카페를 넣으면 만족도는 높지만 지출이 쉽게 늘어납니다.</p></div>
-  <div><span>입장·체험</span><strong>0~30,000원</strong><p>무료 산책지 중심인지, 전망대·케이블카·박물관을 넣는지에 따라 달라집니다.</p></div>
+  <div><span>입장·체험</span><strong>물관을 넣는지에 따라 달라집니다.</p></div>
   <div><span>비상 예산</span><strong>20,000~40,000원</strong><p>우천, 막차, 짐 이동 때문에 택시를 타야 할 상황을 대비합니다.</p></div>
 </section>
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/gangneung-sea-coffee-content-320.webp 320w, /images/optimized/kto/gangneung-sea-coffee-content-330.webp 330w, /images/optimized/kto/gangneung-sea-coffee-content-360.webp 360w, /images/optimized/kto/gangneung-sea-coffee-content-480.webp 480w, /images/optimized/kto/gangneung-sea-coffee-content-520.webp 520w, /images/optimized/kto/gangneung-sea-coffee-content-640.webp 640w, /images/optimized/kto/gangneung-sea-coffee-content-680.webp 680w, /images/optimized/kto/gangneung-sea-coffee-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/gangneung-sea-coffee-content.jpg" alt="강릉 안목해변" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/kto/gangneung-sea-coffee-content-160.webp 160w, /images/optimized/kto/gangneung-sea-coffee-content-240.webp 240w, /images/optimized/kto/gangneung-sea-coffee-content-320.webp 320w, /images/optimized/kto/gangneung-sea-coffee-content-330.webp 330w, /images/optimized/kto/gangneung-sea-coffee-content-360.webp 360w, /images/optimized/kto/gangneung-sea-coffee-content-480.webp 480w, /images/optimized/kto/gangneung-sea-coffee-content-520.webp 520w, /images/optimized/kto/gangneung-sea-coffee-content-640.webp 640w, /images/optimized/kto/gangneung-sea-coffee-content-680.webp 680w, /images/optimized/kto/gangneung-sea-coffee-content-768.webp 768w, /images/optimized/kto/gangneung-sea-coffee-content-960.webp 960w, /images/optimized/kto/gangneung-sea-coffee-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/kto/gangneung-sea-coffee-content.jpg" alt="korea season travel calendar travel guide image - gangneung sea coffee content" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒ한국관광공사 포토코리아</figcaption>
 </figure>
 
 ## 숙소 위치와 식사 타이밍
@@ -230,10 +230,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/gyeongju-family-content-320.webp 320w, /images/optimized/kto/gyeongju-family-content-330.webp 330w, /images/optimized/kto/gyeongju-family-content-360.webp 360w, /images/optimized/kto/gyeongju-family-content-480.webp 480w, /images/optimized/kto/gyeongju-family-content-520.webp 520w, /images/optimized/kto/gyeongju-family-content-640.webp 640w, /images/optimized/kto/gyeongju-family-content-680.webp 680w, /images/optimized/kto/gyeongju-family-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/gyeongju-family-content.jpg" alt="경주 대릉원" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/gyeongju-family-content-seasonal-korea-travel-calendar-2026-1-160.webp 160w, /images/optimized/generated/unique/gyeongju-family-content-seasonal-korea-travel-calendar-2026-1-240.webp 240w, /images/optimized/generated/unique/gyeongju-family-content-seasonal-korea-travel-calendar-2026-1-320.webp 320w, /images/optimized/generated/unique/gyeongju-family-content-seasonal-korea-travel-calendar-2026-1-330.webp 330w, /images/optimized/generated/unique/gyeongju-family-content-seasonal-korea-travel-calendar-2026-1-360.webp 360w, /images/optimized/generated/unique/gyeongju-family-content-seasonal-korea-travel-calendar-2026-1-480.webp 480w, /images/optimized/generated/unique/gyeongju-family-content-seasonal-korea-travel-calendar-2026-1-520.webp 520w, /images/optimized/generated/unique/gyeongju-family-content-seasonal-korea-travel-calendar-2026-1-640.webp 640w, /images/optimized/generated/unique/gyeongju-family-content-seasonal-korea-travel-calendar-2026-1-680.webp 680w, /images/optimized/generated/unique/gyeongju-family-content-seasonal-korea-travel-calendar-2026-1-768.webp 768w, /images/optimized/generated/unique/gyeongju-family-content-seasonal-korea-travel-calendar-2026-1-960.webp 960w, /images/optimized/generated/unique/gyeongju-family-content-seasonal-korea-travel-calendar-2026-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/gyeongju-family-content-seasonal-korea-travel-calendar-2026-1.jpg" alt="korea season travel calendar travel guide image - gyeongju family content seasonal korea travel calendar 2026 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-IR 스튜디오</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 계절별 주의사항

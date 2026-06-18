@@ -161,10 +161,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/gyeongju-history-two-day-content-320.webp 320w, /images/optimized/kto/gyeongju-history-two-day-content-330.webp 330w, /images/optimized/kto/gyeongju-history-two-day-content-360.webp 360w, /images/optimized/kto/gyeongju-history-two-day-content-480.webp 480w, /images/optimized/kto/gyeongju-history-two-day-content-520.webp 520w, /images/optimized/kto/gyeongju-history-two-day-content-640.webp 640w, /images/optimized/kto/gyeongju-history-two-day-content-680.webp 680w, /images/optimized/kto/gyeongju-history-two-day-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/gyeongju-history-two-day-content.jpg" alt="경주 불국사" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/gyeongju-history-two-day-content-daegu-modern-street-half-day-1-160.webp 160w, /images/optimized/generated/unique/gyeongju-history-two-day-content-daegu-modern-street-half-day-1-240.webp 240w, /images/optimized/generated/unique/gyeongju-history-two-day-content-daegu-modern-street-half-day-1-320.webp 320w, /images/optimized/generated/unique/gyeongju-history-two-day-content-daegu-modern-street-half-day-1-330.webp 330w, /images/optimized/generated/unique/gyeongju-history-two-day-content-daegu-modern-street-half-day-1-360.webp 360w, /images/optimized/generated/unique/gyeongju-history-two-day-content-daegu-modern-street-half-day-1-480.webp 480w, /images/optimized/generated/unique/gyeongju-history-two-day-content-daegu-modern-street-half-day-1-520.webp 520w, /images/optimized/generated/unique/gyeongju-history-two-day-content-daegu-modern-street-half-day-1-640.webp 640w, /images/optimized/generated/unique/gyeongju-history-two-day-content-daegu-modern-street-half-day-1-680.webp 680w, /images/optimized/generated/unique/gyeongju-history-two-day-content-daegu-modern-street-half-day-1-768.webp 768w, /images/optimized/generated/unique/gyeongju-history-two-day-content-daegu-modern-street-half-day-1-960.webp 960w, /images/optimized/generated/unique/gyeongju-history-two-day-content-daegu-modern-street-half-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/gyeongju-history-two-day-content-daegu-modern-street-half-day-1.jpg" alt="daegu modern street travel guide image - gyeongju history two day content daegu modern street half day 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 시간대별로 짜는 방법
@@ -173,14 +173,14 @@ draft: false
 
 저녁 일정이 있다면 야경이나 시장처럼 체류 시간이 자연스럽게 길어지는 장소를 마지막에 두는 것이 안정적입니다.
 
-동선이 비슷한 고민이라면 [인천 당일치기 코스: 개항장·차이나타운·월미도 수도권 여행](/travel/incheon/incheon-open-port/)을 먼저 비교하고, 식비나 교통처럼 세부 조건이 중요할 때는 [경주 1박2일 역사 여행 코스: 대릉원·첨성대·불국사까지 정리](/travel/gyeongbuk/gyeongju-history-two-day/)도 함께 확인하면 계획이 더 현실적입니다.
+동선이 비슷한 고민이라면 [인천 당일치기 코스: 개항장·차이나타운·월미도 수도권 여행](/tra고, 식비나 교통처럼 세부 조건이 중요할 때는 [경주 1박2일 역사 여행 코스: 대릉원·첨성대·불국사까지 정리](/travel/gyeongbuk/gyeongju-history-two-day/)도 함께 확인하면 계획이 더 현실적입니다.
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/gyeongju-family-content-320.webp 320w, /images/optimized/kto/gyeongju-family-content-330.webp 330w, /images/optimized/kto/gyeongju-family-content-360.webp 360w, /images/optimized/kto/gyeongju-family-content-480.webp 480w, /images/optimized/kto/gyeongju-family-content-520.webp 520w, /images/optimized/kto/gyeongju-family-content-640.webp 640w, /images/optimized/kto/gyeongju-family-content-680.webp 680w, /images/optimized/kto/gyeongju-family-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/gyeongju-family-content.jpg" alt="경주 대릉원" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/gyeongju-family-content-daegu-modern-street-half-day-1-160.webp 160w, /images/optimized/generated/unique/gyeongju-family-content-daegu-modern-street-half-day-1-240.webp 240w, /images/optimized/generated/unique/gyeongju-family-content-daegu-modern-street-half-day-1-320.webp 320w, /images/optimized/generated/unique/gyeongju-family-content-daegu-modern-street-half-day-1-330.webp 330w, /images/optimized/generated/unique/gyeongju-family-content-daegu-modern-street-half-day-1-360.webp 360w, /images/optimized/generated/unique/gyeongju-family-content-daegu-modern-street-half-day-1-480.webp 480w, /images/optimized/generated/unique/gyeongju-family-content-daegu-modern-street-half-day-1-520.webp 520w, /images/optimized/generated/unique/gyeongju-family-content-daegu-modern-street-half-day-1-640.webp 640w, /images/optimized/generated/unique/gyeongju-family-content-daegu-modern-street-half-day-1-680.webp 680w, /images/optimized/generated/unique/gyeongju-family-content-daegu-modern-street-half-day-1-768.webp 768w, /images/optimized/generated/unique/gyeongju-family-content-daegu-modern-street-half-day-1-960.webp 960w, /images/optimized/generated/unique/gyeongju-family-content-daegu-modern-street-half-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/gyeongju-family-content-daegu-modern-street-half-day-1.jpg" alt="daegu modern street travel guide image - gyeongju family content daegu modern street half day 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-IR 스튜디오</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 대중교통, 택시, 렌터카 선택 기준
@@ -210,10 +210,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/jeonju-hanok-day-content-320.webp 320w, /images/optimized/kto/jeonju-hanok-day-content-330.webp 330w, /images/optimized/kto/jeonju-hanok-day-content-360.webp 360w, /images/optimized/kto/jeonju-hanok-day-content-480.webp 480w, /images/optimized/kto/jeonju-hanok-day-content-520.webp 520w, /images/optimized/kto/jeonju-hanok-day-content-640.webp 640w, /images/optimized/kto/jeonju-hanok-day-content-680.webp 680w, /images/optimized/kto/jeonju-hanok-day-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/jeonju-hanok-day-content.jpg" alt="전주한옥마을" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/daegu-modern-street-generated-daegu-modern-street-half-day-2-160.webp 160w, /images/optimized/generated/daegu-modern-street-generated-daegu-modern-street-half-day-2-240.webp 240w, /images/optimized/generated/daegu-modern-street-generated-daegu-modern-street-half-day-2-320.webp 320w, /images/optimized/generated/daegu-modern-street-generated-daegu-modern-street-half-day-2-330.webp 330w, /images/optimized/generated/daegu-modern-street-generated-daegu-modern-street-half-day-2-360.webp 360w, /images/optimized/generated/daegu-modern-street-generated-daegu-modern-street-half-day-2-480.webp 480w, /images/optimized/generated/daegu-modern-street-generated-daegu-modern-street-half-day-2-520.webp 520w, /images/optimized/generated/daegu-modern-street-generated-daegu-modern-street-half-day-2-640.webp 640w, /images/optimized/generated/daegu-modern-street-generated-daegu-modern-street-half-day-2-680.webp 680w, /images/optimized/generated/daegu-modern-street-generated-daegu-modern-street-half-day-2-768.webp 768w, /images/optimized/generated/daegu-modern-street-generated-daegu-modern-street-half-day-2-960.webp 960w, /images/optimized/generated/daegu-modern-street-generated-daegu-modern-street-half-day-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/da/images/generated/unique/daegu-modern-street-generated-daegu-modern-street-half-day-2.jpgwidth=" alt="daegu modern street travel guide image - daegu modern street generated daegu modern street half day 2" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 숙소 위치와 식사 타이밍
@@ -230,10 +230,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/jeonju-food-cost-content-320.webp 320w, /images/optimized/kto/jeonju-food-cost-content-330.webp 330w, /images/optimized/kto/jeonju-food-cost-content-360.webp 360w, /images/optimized/kto/jeonju-food-cost-content-480.webp 480w, /images/optimized/kto/jeonju-food-cost-content-520.webp 520w, /images/optimized/kto/jeonju-food-cost-content-640.webp 640w, /images/optimized/kto/jeonju-food-cost-content-680.webp 680w, /images/optimized/kto/jeonju-food-cost-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/jeonju-food-cost-content.jpg" alt="전주남부시장" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/daegu-modern-street-generated-160.webp 160w, /images/optimized/generated/daegu-modern-street-generated-240.webp 240w, /images/optimized/generated/daegu-modern-street-generated-320.webp 320w, /images/optimized/generated/daegu-modern-street-generated-330.webp 330w, /images/optimized/generated/daegu-modern-street-generated-360.webp 360w, /images/optimized/generated/daegu-modern-street-generated-480.webp 480w, /images/optimized/generated/daegu-modern-street-generated-520.webp 520w, /images/optimized/generated/daegu-modern-street-generated-640.webp 640w, /images/optimized/generated/daegu-modern-street-generated-680.webp 680w, /images/optimized/generated/daegu-modern-street-generated-768.webp 768w, /images/optimized/generated/daegu-modern-street-generated-960.webp 960w, /images/optimized/generated/daegu-modern-street-generated-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/daegu-modern-street-generated.jpg" alt="daegu modern street travel guide image - daegu modern street generated" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 계절별 주의사항

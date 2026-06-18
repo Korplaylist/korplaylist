@@ -10,7 +10,7 @@ urlSlug: "yeosu-night-sea"
 tags: ["麗水", "季節旅行", "韓国旅行", "yeosu"]
 publishedAt: "2026-05-30"
 updatedAt: "2026-05-30"
-heroImage: "/images/kto/yeosu-night-sea-content.jpg"
+heroImage: "/images/generated/unique/yeosu-night-sea-content-yeosu-night-sea-route-1.jpg"
 imageAlt: "麗水夜の海旅行コース2026：海上ケーブルカー・浪漫屋台・梧桐島の動線 main image"
 imageCredit: "ⓒ한국관광공사 포토코리아-이범수"
 draft: false
@@ -161,10 +161,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/yeosu-island-day-content-320.webp 320w, /images/optimized/kto/yeosu-island-day-content-330.webp 330w, /images/optimized/kto/yeosu-island-day-content-360.webp 360w, /images/optimized/kto/yeosu-island-day-content-480.webp 480w, /images/optimized/kto/yeosu-island-day-content-520.webp 520w, /images/optimized/kto/yeosu-island-day-content-640.webp 640w, /images/optimized/kto/yeosu-island-day-content-680.webp 680w, /images/optimized/kto/yeosu-island-day-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/yeosu-island-day-content.jpg" alt="韓国旅行写真：여수 해상케이블카" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-160.webp 160w, /images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-240.webp 240w, /images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-320.webp 320w, /images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-330.webp 330w, /images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-360.webp 360w, /images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-480.webp 480w, /images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-520.webp 520w, /images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-640.webp 640w, /images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-680.webp 680w, /images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-768.webp 768w, /images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-960.webp 960w, /images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1.jpg" alt="yeosu night sea travel guide image - yeosu island day content yeosu night sea route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 時間帯ごとの考え方
@@ -177,10 +177,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/tongyeong-island-view-content-320.webp 320w, /images/optimized/kto/tongyeong-island-view-content-330.webp 330w, /images/optimized/kto/tongyeong-island-view-content-360.webp 360w, /images/optimized/kto/tongyeong-island-view-content-480.webp 480w, /images/optimized/kto/tongyeong-island-view-content-520.webp 520w, /images/optimized/kto/tongyeong-island-view-content-640.webp 640w, /images/optimized/kto/tongyeong-island-view-content-680.webp 680w, /images/optimized/kto/tongyeong-island-view-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/tongyeong-island-view-content.jpg" alt="韓国旅行写真：통영 동피랑마을" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-160.webp 160w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-240.webp 240w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-320.webp 320w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-330.webp 330w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-360.webp 360w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-480.webp 480w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-520.webp 520w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-640.webp 640w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-680.webp 680w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-768.webp 768w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-960.webp 960w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1.jpg" alt="yeosu night sea travel guide image - yeosu island ferry generated yeosu night sea route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 公共交通・タクシー・レンタカーの選び方
@@ -205,15 +205,15 @@ draft: false
   <div><span>地域内交通</span><strong>8,000〜25,000ウォン</strong><p>地下鉄やバス中心なら低め、短距離タクシーを複数回使うと上がります。</p></div>
   <div><span>食事・カフェ</span><strong>35,000〜70,000ウォン</strong><p>市場グルメやカフェを入れると満足度は上がりますが、小さな出費が増えます。</p></div>
   <div><span>入場・体験</span><strong>0〜30,000ウォン</strong><p>無料散策中心か、展望台、博物館、ケーブルカーを入れるかで変わります。</p></div>
-  <div><span>予備費</span><strong>20,000〜40,000ウォン</strong><p>雨、終バス、荷物移動でタクシーが必要になる場合に備えます。</p></div>
+  <div><span>予備費</span><荷物移動でタクシーが必要になる場合に備えます。</p></div>
 </section>
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/tongyeong-two-day-content-320.webp 320w, /images/optimized/kto/tongyeong-two-day-content-330.webp 330w, /images/optimized/kto/tongyeong-two-day-content-360.webp 360w, /images/optimized/kto/tongyeong-two-day-content-480.webp 480w, /images/optimized/kto/tongyeong-two-day-content-520.webp 520w, /images/optimized/kto/tongyeong-two-day-content-640.webp 640w, /images/optimized/kto/tongyeong-two-day-content-680.webp 680w, /images/optimized/kto/tongyeong-two-day-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/tongyeong-two-day-content.jpg" alt="韓国旅行写真：통영 제승당" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/kto/tongyeong-two-day-content-160.webp 160w, /images/optimized/kto/tongyeong-two-day-content-240.webp 240w, /images/optimized/kto/tongyeong-two-day-content-320.webp 320w, /images/optimized/kto/tongyeong-two-day-content-330.webp 330w, /images/optimized/kto/tongyeong-two-day-content-360.webp 360w, /images/optimized/kto/tongyeong-two-day-content-480.webp 480w, /images/optimized/kto/tongyeong-two-day-content-520.webp 520w, /images/optimized/kto/tongyeong-two-day-content-640.webp 640w, /images/optimized/kto/tongyeong-two-day-content-680.webp 680w, /images/optimized/kto/tongyeong-two-day-content-768.webp 768w, /images/optimized/kto/tongyeong-two-day-content-960.webp 960w, /images/optimized/kto/tongyeong-two-day-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/kto/tongyeong-two-day-content.jpg" alt="yeosu night sea travel guide image - tongyeong two day content" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <figcaption>ⓒ한국관광공사 포토코리아</figcaption>
 </figure>
 
 ## 宿泊エリアと食事のタイミング
@@ -226,14 +226,14 @@ draft: false
 
 雨の日は屋外の滞在時間を減らし、屋内展示、市場、カフェ、短距離タクシーを組み合わせます。写真目的の場所は満足度が下がることがあるため、日中の重要スポットを1〜2か所だけ残すと安心です。
 
-残りは食事と休憩に切り替えます。夏は昼の長い徒歩移動を避け、冬は日没が早いので屋外写真スポットを前半に寄せてください。
+残りは食事と休憩に切り替えます。夏は昼の長い徒歩移動を避け、冬は日没が早いので屋外写真スポットを前半に寄せてください
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/busan-gwangan-bridge-320.webp 320w, /images/optimized/kto/busan-gwangan-bridge-330.webp 330w, /images/optimized/kto/busan-gwangan-bridge-360.webp 360w, /images/optimized/kto/busan-gwangan-bridge-480.webp 480w, /images/optimized/kto/busan-gwangan-bridge-520.webp 520w, /images/optimized/kto/busan-gwangan-bridge-640.webp 640w, /images/optimized/kto/busan-gwangan-bridge-680.webp 680w, /images/optimized/kto/busan-gwangan-bridge-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/busan-gwangan-bridge.jpg" alt="韓国旅行写真：부산 광안대교 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-160.webp 160w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-240.webp 240w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-320.webp 320w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-330.webp 330w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-360.webp 360w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-480.webp 480w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-520.webp 520w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-640.webp 640w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-680.webp 680w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-768.webp 768w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-960.webp 960w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1.jpg" alt="???????????????" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
+  <figcaption>????????? ??? 2.0</figcaption>
 </figure>
 
 ## 季節別の注意点

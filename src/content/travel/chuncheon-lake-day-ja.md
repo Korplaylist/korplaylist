@@ -10,9 +10,9 @@ urlSlug: "chuncheon-lake-day"
 tags: ["春川", "モデルコース", "韓国旅行", "chuncheon"]
 publishedAt: "2026-06-03"
 updatedAt: "2026-06-03"
-heroImage: "/images/kto/chuncheon-lake-day-content.jpg"
-imageAlt: "春川日帰り旅行コース：ITXで湖とタッカルビを楽しむ1日旅 main image"
-imageCredit: "ⓒ한국관광공사 포토코리아-이대순"
+heroImage: "/images/generated/unique/chuncheon-lake-day-generated-chuncheon-lake-day-trip-1.jpg"
+imageAlt: "春川の湖畔散策路と日帰り旅行風景"
+imageCredit: "ⓒKorea Playlist Image 2.0"
 draft: false
 ---
 
@@ -161,10 +161,10 @@ ITXで行く春川の日帰り旅行として、湖畔散歩、タッカルビ�
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/gangneung-sea-coffee-content-320.webp 320w, /images/optimized/kto/gangneung-sea-coffee-content-330.webp 330w, /images/optimized/kto/gangneung-sea-coffee-content-360.webp 360w, /images/optimized/kto/gangneung-sea-coffee-content-480.webp 480w, /images/optimized/kto/gangneung-sea-coffee-content-520.webp 520w, /images/optimized/kto/gangneung-sea-coffee-content-640.webp 640w, /images/optimized/kto/gangneung-sea-coffee-content-680.webp 680w, /images/optimized/kto/gangneung-sea-coffee-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/gangneung-sea-coffee-content.jpg" alt="韓国旅行写真：강릉 안목해변" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/chuncheon-lake-day-generated-chuncheon-lake-day-trip-2-160.webp 160w, /images/optimized/generated/unique/chuncheon-lake-day-generated-chuncheon-lake-day-trip-2-240.webp 240w, /images/optimized/generated/unique/chuncheon-lake-day-generated-chuncheon-lake-day-trip-2-320.webp 320w, /images/optimized/generated/unique/chuncheon-lake-day-generated-chuncheon-lake-day-trip-2-330.webp 330w, /images/optimized/generated/unique/chuncheon-lake-day-generated-chuncheon-lake-day-trip-2-360.webp 360w, /images/optimized/generated/unique/chuncheon-lake-day-generated-chuncheon-lake-day-trip-2-480.webp 480w, /images/optimized/generated/unique/chuncheon-lake-day-generated-chuncheon-lake-day-trip-2-520.webp 520w, /images/optimized/generated/unique/chuncheon-lake-day-generated-chuncheon-lake-day-trip-2-640.webp 640w, /images/optimized/generated/unique/chuncheon-lake-day-generated-chuncheon-lake-day-trip-2-680.webp 680w, /images/optimized/generated/unique/chuncheon-lake-day-generated-chuncheon-lake-day-trip-2-768.webp 768w, /images/optimized/generated/unique/chuncheon-lake-day-generated-chuncheon-lake-day-trip-2-960.webp 960w, /images/optimized/generated/unique/chuncheon-lake-day-generated-chuncheon-lake-day-trip-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/chuncheon-lake-day-generated-chuncheon-lake-day-trip-2.jpg" alt="chuncheon lake day travel guide image - chuncheon lake day generated chuncheon lake day trip 2" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 時間帯ごとの考え方
@@ -177,10 +177,10 @@ ITXで行く春川の日帰り旅行として、湖畔散歩、タッカルビ�
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/gangneung-two-day-content-320.webp 320w, /images/optimized/kto/gangneung-two-day-content-330.webp 330w, /images/optimized/kto/gangneung-two-day-content-360.webp 360w, /images/optimized/kto/gangneung-two-day-content-480.webp 480w, /images/optimized/kto/gangneung-two-day-content-520.webp 520w, /images/optimized/kto/gangneung-two-day-content-640.webp 640w, /images/optimized/kto/gangneung-two-day-content-680.webp 680w, /images/optimized/kto/gangneung-two-day-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/gangneung-two-day-content.jpg" alt="韓国旅行写真：강릉 영진해변" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/chuncheon-dakgalbi-street-generated-160.webp 160w, /images/optimized/generated/chuncheon-dakgalbi-street-generated-240.webp 240w, /images/optimized/generated/chuncheon-dakgalbi-street-generated-320.webp 320w, /images/optimized/generated/chuncheon-dakgalbi-street-generated-330.webp 330w, /images/optimized/generated/chuncheon-dakgalbi-street-generated-360.webp 360w, /images/optimized/generated/chuncheon-dakgalbi-street-generated-480.webp 480w, /images/optimized/generated/chuncheon-dakgalbi-street-generated-520.webp 520w, /images/optimized/generated/chuncheon-dakgalbi-street-generated-640.webp 640w, /images/optimized/generated/chuncheon-dakgalbi-street-generated-680.webp 680w, /images/optimized/generated/chuncheon-dakgalbi-street-generated-768.webp 768w, /images/optimized/generated/chuncheon-dakgalbi-street-generated-960.webp 960w, /images/optimized/generated/chuncheon-dakgalbi-street-generated-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/chuncheon-dakgalbi-street-generated.jpg" alt="chuncheon lake day travel guide image - chuncheon dakgalbi street generated" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-강원지사</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 公共交通・タクシー・レンタカーの選び方
@@ -208,10 +208,8 @@ ITXで行く春川の日帰り旅行として、湖畔散歩、タッカルビ�
   <div><span>予備費</span><strong>20,000〜40,000ウォン</strong><p>雨、終バス、荷物移動でタクシーが必要になる場合に備えます。</p></div>
 </section>
 
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/sokcho-seoraksan-market-content-320.webp 320w, /images/optimized/kto/sokcho-seoraksan-market-content-330.webp 330w, /images/optimized/kto/sokcho-seoraksan-market-content-360.webp 360w, /images/optimized/kto/sokcho-seoraksan-market-content-480.webp 480w, /images/optimized/kto/sokcho-seoraksan-market-content-520.webp 520w, /images/optimized/kto/sokcho-seoraksan-market-content-640.webp 640w, /images/optimized/kto/sokcho-seoraksan-market-content-680.webp 680w, /images/optimized/kto/sokcho-seoraksan-market-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/sokcho-seoraksan-market-content.jpg" alt="韓国旅行写真：설악산국립공원" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+<figure class="co/images/generated/unique/sokcho-seoraksan-market-content-chuncheon-lake-day-trip-1.jpgge/webp" srcset="/images/optimized/kto/sokcho-seoraksan-market-content-320.webp 320w, /images/optimized/kto/sokcho-seoraksan-market-content-330.webp 330w, /images/optimized/kto/sokcho-seoraksan-market-content-360.webp 360w, /images/optimized/kto/sokcho-seoraksan-market-content-480.webp 480w, /images/optimized/kto/sokcho-seoraksan-market-content-520.webp 520w, /images/optimized/kto/sokcho-seoraksan-market-content-640.webp 640w, /images/optimized/kto/sokcho-seoraksan-market-content-680.webp 680w, /images/optimized/kto/sokcho-seoraksan-market-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/image/images/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1.jpg alt="韓国旅行写真：설악산국립공원" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-박은경</figcaption>
 </figure>
@@ -230,10 +228,10 @@ ITXで行く春川の日帰り旅行として、湖畔散歩、タッカルビ�
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/sokcho-without-car-content-320.webp 320w, /images/optimized/kto/sokcho-without-car-content-330.webp 330w, /images/optimized/kto/sokcho-without-car-content-360.webp 360w, /images/optimized/kto/sokcho-without-car-content-480.webp 480w, /images/optimized/kto/sokcho-without-car-content-520.webp 520w, /images/optimized/kto/sokcho-without-car-content-640.webp 640w, /images/optimized/kto/sokcho-without-car-content-680.webp 680w, /images/optimized/kto/sokcho-without-car-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/sokcho-without-car-content.jpg" alt="韓国旅行写真：속초 관광수산시장" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1-160.webp 160w, /images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1-240.webp 240w, /images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1-320.webp 320w, /images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1-330.webp 330w, /images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1-360.webp 360w, /images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1-480.webp 480w, /images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1-520.webp 520w, /images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1-640.webp 640w, /images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1-680.webp 680w, /images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1-768.webp 768w, /images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1-960.webp 960w, /images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1.jpg" alt="chuncheon lake day travel guide image - sokcho without car content chuncheon lake day trip 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 季節別の注意点

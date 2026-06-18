@@ -161,10 +161,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/seoul-one-day-palace-walk-content-320.webp 320w, /images/optimized/kto/seoul-one-day-palace-walk-content-330.webp 330w, /images/optimized/kto/seoul-one-day-palace-walk-content-360.webp 360w, /images/optimized/kto/seoul-one-day-palace-walk-content-480.webp 480w, /images/optimized/kto/seoul-one-day-palace-walk-content-520.webp 520w, /images/optimized/kto/seoul-one-day-palace-walk-content-640.webp 640w, /images/optimized/kto/seoul-one-day-palace-walk-content-680.webp 680w, /images/optimized/kto/seoul-one-day-palace-walk-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/seoul-one-day-palace-walk-content.jpg" alt="서울 고궁 단청" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-160.webp 160w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-240.webp 240w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-320.webp 320w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-330.webp 330w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-360.webp 360w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-480.webp 480w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-520.webp 520w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-640.webp 640w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-680.webp 680w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-768.webp 768w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-960.webp 960w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1.jpg" alt="incheon open port travel guide image - incheon open port generated incheon open port day trip 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 시간대별로 짜는 방법
@@ -173,11 +173,9 @@ draft: false
 
 저녁 일정이 있다면 야경이나 시장처럼 체류 시간이 자연스럽게 길어지는 장소를 마지막에 두는 것이 안정적입니다.
 
-동선이 비슷한 고민이라면 [서울 당일치기 도보 여행: 경복궁·북촌·인사동 하루 코스](/travel/seoul/seoul-one-day-palace-walk/)을 먼저 비교하고, 식비나 교통처럼 세부 조건이 중요할 때는 [서울 한강 야경 코스: 여의도·반포 저녁 산책과 준비물](/travel/seoul/seoul-hangang-evening/)도 함께 확인하면 계획이 더 현실적입니다.
-
-<figure class="content-photo">
+동선이 비슷한 고민이라면 [서울 당일치기 도보 여행: 경복궁·북촌·인사동 하루 코스](/travel/seoul/seoul-one-day-palace-walk/)을 먼저 비교하고, 식비나 교통처럼 세부 조건이 중요할 때는 [서울 한강 야경 코스: 여의도·반포 저녁 산책과 준비물](/travel/seoul/seoul-hangang-eve"content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/seoul-hangang-evening-content-320.webp 320w, /images/optimized/kto/seoul-hangang-evening-content-330.webp 330w, /images/optimized/kto/seoul-hangang-evening-content-360.webp 360w, /images/optimized/kto/seoul-hangang-evening-content-480.webp 480w, /images/optimized/kto/seoul-hangang-evening-content-520.webp 520w, /images/optimized/kto/seoul-hangang-evening-content-640.webp 640w, /images/optimized/kto/seoul-hangang-evening-content-680.webp 680w, /images/optimized/kto/seoul-hangang-evening-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-160.webp 160w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-240.webp 240w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-320.webp 320w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-330.webp 330w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-360.webp 360w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-480.webp 480w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-520.webp 520w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-640.webp 640w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-680.webp 680w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-768.webp 768w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-960.webp 960w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/kto/seoul-hangang-evening-content.jpg" alt="서울 반포대교" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
@@ -205,15 +203,12 @@ draft: false
   <div><span>지역 내 교통</span><strong>8,000~25,000원</strong><p>지하철·버스 중심이면 낮고, 짧은 택시를 2회 이상 넣으면 올라갑니다.</p></div>
   <div><span>식사·카페</span><strong>35,000~70,000원</strong><p>시장 간식과 카페를 넣으면 만족도는 높지만 지출이 쉽게 늘어납니다.</p></div>
   <div><span>입장·체험</span><strong>0~30,000원</strong><p>무료 산책지 중심인지, 전망대·케이블카·박물관을 넣는지에 따라 달라집니다.</p></div>
-  <div><span>비상 예산</span><strong>20,000~40,000원</strong><p>우천, 막차, 짐 이동 때문에 택시를 타야 할 상황을 대비합니다.</p></div>
-</section>
-
-<figure class="content-photo">
+  <div><span>비상 예산</span><strong>20,000~40,000원</strong><p>우천, 막차, 짐 이동 때문에 택시를 타야 할 상황을 대비합니다.to">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/myrealtrip/seoul-1-320.webp 320w, /images/optimized/myrealtrip/seoul-1-330.webp 330w, /images/optimized/myrealtrip/seoul-1-360.webp 360w, /images/optimized/myrealtrip/seoul-1-480.webp 480w, /images/optimized/myrealtrip/seoul-1-520.webp 520w, /images/optimized/myrealtrip/seoul-1-640.webp 640w, /images/optimized/myrealtrip/seoul-1-680.webp 680w, /images/optimized/myrealtrip/seoul-1-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/myrealtrip/seoul-1.jpg" alt="서울 여행 숙소 참고 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-160.webp 160w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-240.webp 240w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-320.webp 320w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-330.webp 330w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-360.webp 360w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-480.webp 480w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-520.webp 520w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-640.webp 640w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-680.webp 680w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-768.webp 768w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-960.webp 960w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-1200.webp 1200w"(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/incheon-open-port-generated.jpg" alt="인천 개항장 거리와 차이나타운 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒmyrealtrip</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 숙소 위치와 식사 타이밍
@@ -230,10 +225,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/myrealtrip/seoul-2-320.webp 320w, /images/optimized/myrealtrip/seoul-2-330.webp 330w, /images/optimized/myrealtrip/seoul-2-360.webp 360w, /images/optimized/myrealtrip/seoul-2-480.webp 480w, /images/optimized/myrealtrip/seoul-2-520.webp 520w, /images/optimized/myrealtrip/seoul-2-640.webp 640w, /images/optimized/myrealtrip/seoul-2-680.webp 680w, /images/optimized/myrealtrip/seoul-2-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/myrealtrip/seoul-2.jpg" alt="서울 도심 숙소 참고 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-160.webp 160w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-240.webp 240w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-320.webp 320w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-330.webp 330w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-360.webp 360w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-480.webp 480w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-520.webp 520w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-640.webp 640w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-680.webp 680w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-768.webp 768w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-960.webp 960w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-2-incheon-open-port-day-trip-1.jpg" alt="incheon open port travel guide image - seoul 2 incheon open port day trip 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒmyrealtrip</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 계절별 주의사항

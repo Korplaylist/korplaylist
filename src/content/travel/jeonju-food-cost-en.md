@@ -10,9 +10,9 @@ urlSlug: "jeonju-food-cost"
 tags: ["Jeonju", "Food", "Korea travel", "jeonju food cost"]
 publishedAt: "2026-05-27"
 updatedAt: "2026-05-27"
-heroImage: "/images/kto/jeonju-food-cost-content.jpg"
-imageAlt: "Jeonju Food Budget Guide: Bibimbap, Kongnamul Gukbap and Market Snacks main image"
-imageCredit: "ⓒ한국관광공사 포토코리아-김지호"
+heroImage: "/images/generated/unique/jeonju-hanok-food-generated-jeonju-food-budget-guide-1.jpg"
+imageAlt: "Jeonju Hanok Village alley and food trip"
+imageCredit: "ⓒKorea Playlist Image 2.0"
 draft: false
 ---
 
@@ -161,10 +161,10 @@ This route separates arrival, photo time, food breaks, and the final stop so you
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/jeonju-hanok-day-content-320.webp 320w, /images/optimized/kto/jeonju-hanok-day-content-330.webp 330w, /images/optimized/kto/jeonju-hanok-day-content-360.webp 360w, /images/optimized/kto/jeonju-hanok-day-content-480.webp 480w, /images/optimized/kto/jeonju-hanok-day-content-520.webp 520w, /images/optimized/kto/jeonju-hanok-day-content-640.webp 640w, /images/optimized/kto/jeonju-hanok-day-content-680.webp 680w, /images/optimized/kto/jeonju-hanok-day-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/jeonju-hanok-day-content.jpg" alt="Korea travel photo: 전주한옥마을" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-160.webp 160w, /images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-240.webp 240w, /images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-320.webp 320w, /images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-330.webp 330w, /images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-360.webp 360w, /images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-480.webp 480w, /images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-520.webp 520w, /images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-640.webp 640w, /images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-680.webp 680w, /images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-768.webp 768w, /images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-960.webp 960w, /images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1.jpg" alt="jeonju food cost travel guide image - jeonju hanok day content jeonju food budget guide 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## How to Plan the Day
@@ -177,10 +177,10 @@ If you are comparing similar routes, read [Jeonju Hanok Village Day Trip: Gyeong
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/myrealtrip/jeonju-1-320.webp 320w, /images/optimized/myrealtrip/jeonju-1-330.webp 330w, /images/optimized/myrealtrip/jeonju-1-360.webp 360w, /images/optimized/myrealtrip/jeonju-1-480.webp 480w, /images/optimized/myrealtrip/jeonju-1-520.webp 520w, /images/optimized/myrealtrip/jeonju-1-640.webp 640w, /images/optimized/myrealtrip/jeonju-1-680.webp 680w, /images/optimized/myrealtrip/jeonju-1-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/myrealtrip/jeonju-1.jpg" alt="Korea travel photo: 전주 여행 숙소 참고 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-160.webp 160w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-240.webp 240w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-320.webp 320w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-330.webp 330w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-360.webp 360w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-480.webp 480w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-520.webp 520w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-640.webp 640w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-680.webp 680w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-768.webp 768w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-960.webp 960w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1.jpg" alt="jeonju food cost travel guide image - jeonju hanok food alley generated jeonju food budget guide 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒmyrealtrip</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## Public Transport, Taxi, or Rental Car
@@ -204,16 +204,16 @@ For accommodation, choose an area near the last evening stop or the next morning
   <div class="planning-table-head"><span>Item</span><span>Per Person</span><span>Planning Note</span></div>
   <div><span>Local transport</span><strong>KRW 8,000-25,000</strong><p>Subway and bus routes stay low; several short taxis raise the total quickly.</p></div>
   <div><span>Meals and cafes</span><strong>KRW 35,000-70,000</strong><p>Markets and cafes improve the day but are usually where small costs stack up.</p></div>
-  <div><span>Tickets and activities</span><strong>KRW 0-30,000</strong><p>The range depends on whether you choose free walks or paid viewpoints, museums, cable cars, or experiences.</p></div>
+  <div><span>Tickets and activities</span><strong>KRW 0-30,000</strong><p>The range depends on whether youpoints, museums, cable cars, or experiences.</p></div>
   <div><span>Backup budget</span><strong>KRW 20,000-40,000</strong><p>Keep room for rain, missed buses, luggage movement, or a taxi at the end of the day.</p></div>
 </section>
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/myrealtrip/jeonju-2-320.webp 320w, /images/optimized/myrealtrip/jeonju-2-330.webp 330w, /images/optimized/myrealtrip/jeonju-2-360.webp 360w, /images/optimized/myrealtrip/jeonju-2-480.webp 480w, /images/optimized/myrealtrip/jeonju-2-520.webp 520w, /images/optimized/myrealtrip/jeonju-2-640.webp 640w, /images/optimized/myrealtrip/jeonju-2-680.webp 680w, /images/optimized/myrealtrip/jeonju-2-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/myrealtrip/jeonju-2.jpg" alt="Korea travel photo: 전주 도심 숙소 참고 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-160.webp 160w, /images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-240.webp 240w, /images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-320.webp 320w, /images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-330.webp 330w, /images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-360.webp 360w, /images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-480.webp 480w, /images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-520.webp 520w, /images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-640.webp 640w, /images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-680.webp 680w, /images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-768.webp 768w, /images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-960.webp 960w, /images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeonju-2-jeonju-food-budget-guide-1.jpg" alt="jeonju food cost travel guide image - jeonju 2 jeonju food budget guide 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒmyrealtrip</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## Stay Area and Food Timing
@@ -230,10 +230,10 @@ Use the rest of the day for food and rest. In summer, avoid long midday walks. I
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/gyeongju-family-content-320.webp 320w, /images/optimized/kto/gyeongju-family-content-330.webp 330w, /images/optimized/kto/gyeongju-family-content-360.webp 360w, /images/optimized/kto/gyeongju-family-content-480.webp 480w, /images/optimized/kto/gyeongju-family-content-520.webp 520w, /images/optimized/kto/gyeongju-family-content-640.webp 640w, /images/optimized/kto/gyeongju-family-content-680.webp 680w, /images/optimized/kto/gyeongju-family-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/gyeongju-family-content.jpg" alt="Korea travel photo: 경주 대릉원" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/jeonju-hanok-food-generated-160.webp 160w, /images/optimized/generated/jeonju-hanok-food-generated-240.webp 240w, /images/optimized/generated/jeonju-hanok-food-generated-320.webp 320w, /images/optimized/generated/jeonju-hanok-food-generated-330.webp 330w, /images/optimized/generated/jeonju-hanok-food-generated-360.webp 360w, /images/optimized/generated/jeonju-hanok-food-generated-480.webp 480w, /images/optimized/generated/jeonju-hanok-food-generated-520.webp 520w, /images/optimized/generated/jeonju-hanok-food-generated-640.webp 640w, /images/optimized/generated/jeonju-hanok-food-generated-680.webp 680w, /images/optimized/generated/jeonju-hanok-food-generated-768.webp 768w, /images/optimized/generated/jeonju-hanok-food-generated-960.webp 960w, /images/optimized/generated/jeonju-hanok-food-generated-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/jeonju-hanok-food-generated.jpg" alt="jeonju food cost travel guide image - jeonju hanok food generated" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-IR 스튜디오</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## Seasonal Notes

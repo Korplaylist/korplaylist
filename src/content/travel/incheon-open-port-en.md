@@ -161,10 +161,10 @@ This route separates arrival, photo time, food breaks, and the final stop so you
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/seoul-one-day-palace-walk-content-320.webp 320w, /images/optimized/kto/seoul-one-day-palace-walk-content-330.webp 330w, /images/optimized/kto/seoul-one-day-palace-walk-content-360.webp 360w, /images/optimized/kto/seoul-one-day-palace-walk-content-480.webp 480w, /images/optimized/kto/seoul-one-day-palace-walk-content-520.webp 520w, /images/optimized/kto/seoul-one-day-palace-walk-content-640.webp 640w, /images/optimized/kto/seoul-one-day-palace-walk-content-680.webp 680w, /images/optimized/kto/seoul-one-day-palace-walk-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/seoul-one-day-palace-walk-content.jpg" alt="Korea travel photo: 서울 고궁 단청" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-160.webp 160w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-240.webp 240w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-320.webp 320w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-330.webp 330w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-360.webp 360w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-480.webp 480w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-520.webp 520w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-640.webp 640w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-680.webp 680w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-768.webp 768w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-960.webp 960w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-1.jpg" alt="incheon open port travel guide image - incheon open port generated incheon open port day trip 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## How to Plan the Day
@@ -173,11 +173,9 @@ Put the longest or most crowded stop early in the day. Keep flexible time after 
 
 If the route includes night views, markets, or the coast, place them near the end so you are not forced to cross the city after dark.
 
-If you are comparing similar routes, read [Seoul One-Day Walking Route: Gyeongbokgung, Bukchon and Insadong](/en/travel/seoul/seoul-one-day-palace-walk/) first. For food, transport, or seasonal decisions, [Seoul Han River Night View Course: Yeouido, Banpo and Evening Walk Tips](/en/travel/seoul/seoul-hangang-evening/) can help refine the plan without adding unnecessary stops.
-
-<figure class="content-photo">
+If you are comparing similar routes, read [Seoul One-Day Walking Route: Gyeongbokgung, Bukchon and Insadong](/en/travel/seoul/seoul-one-day-palace-walk/) first. For food, transport, or seasonal decisions, [Seoul Han River Night View Course: Yeouido, Banpo and Evening Walk Tips](/en/travel/seoul/seoul-hangang-evening/) can help refine the plan with"content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/seoul-hangang-evening-content-320.webp 320w, /images/optimized/kto/seoul-hangang-evening-content-330.webp 330w, /images/optimized/kto/seoul-hangang-evening-content-360.webp 360w, /images/optimized/kto/seoul-hangang-evening-content-480.webp 480w, /images/optimized/kto/seoul-hangang-evening-content-520.webp 520w, /images/optimized/kto/seoul-hangang-evening-content-640.webp 640w, /images/optimized/kto/seoul-hangang-evening-content-680.webp 680w, /images/optimized/kto/seoul-hangang-evening-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-160.webp 160w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-240.webp 240w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-320.webp 320w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-330.webp 330w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-360.webp 360w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-480.webp 480w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-520.webp 520w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-640.webp 640w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-680.webp 680w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-768.webp 768w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-960.webp 960w, /images/optimized/generated/unique/incheon-open-port-generated-incheon-open-port-day-trip-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/kto/seoul-hangang-evening-content.jpg" alt="Korea travel photo: 서울 반포대교" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
@@ -205,20 +203,17 @@ For accommodation, choose an area near the last evening stop or the next morning
   <div><span>Local transport</span><strong>KRW 8,000-25,000</strong><p>Subway and bus routes stay low; several short taxis raise the total quickly.</p></div>
   <div><span>Meals and cafes</span><strong>KRW 35,000-70,000</strong><p>Markets and cafes improve the day but are usually where small costs stack up.</p></div>
   <div><span>Tickets and activities</span><strong>KRW 0-30,000</strong><p>The range depends on whether you choose free walks or paid viewpoints, museums, cable cars, or experiences.</p></div>
-  <div><span>Backup budget</span><strong>KRW 20,000-40,000</strong><p>Keep room for rain, missed buses, luggage movement, or a taxi at the end of the day.</p></div>
-</section>
-
-<figure class="content-photo">
+  <div><span>Backup budget</span><strong>KRW 20,000-40,000</strong><p>Keep room for rain, missed buses, luggage movement, or a taxi at the end of the day.to">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/myrealtrip/seoul-1-320.webp 320w, /images/optimized/myrealtrip/seoul-1-330.webp 330w, /images/optimized/myrealtrip/seoul-1-360.webp 360w, /images/optimized/myrealtrip/seoul-1-480.webp 480w, /images/optimized/myrealtrip/seoul-1-520.webp 520w, /images/optimized/myrealtrip/seoul-1-640.webp 640w, /images/optimized/myrealtrip/seoul-1-680.webp 680w, /images/optimized/myrealtrip/seoul-1-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/myrealtrip/seoul-1.jpg" alt="Korea travel photo: 서울 여행 숙소 참고 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-160.webp 160w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-240.webp 240w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-320.webp 320w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-330.webp 330w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-360.webp 360w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-480.webp 480w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-520.webp 520w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-640.webp 640w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-680.webp 680w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-768.webp 768w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-960.webp 960w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/incheon-open-port-generated.jpg" alt="Incheon Open Port street and Chinatown view" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒmyrealtrip</figcaption>
+  <figcaption>ⓒKorea Playlist Image 2.0</figcaption>
 </figure>
 
 ## Stay Area and Food Timing
 
-The best stay area is not always the cheapest one. Choose a place that is easy to return to after the final stop. If you plan dinner or night views near Wolmido, staying too far away can make the next morning harder. If you leave early the next day, prioritize access to a station, terminal, or airport.
+The best stay area is not always the cheapest one. Choturn to after the final stop. If you plan dinner or night views near Wolmido, staying too far away can make the next morning harder. If you leave early the next day, prioritize access to a station, terminal, or airport.
 
 For food, place one longer meal after Incheon Chinatown or keep dinner near Wolmido. Do not build the whole day around one popular restaurant. Save two or three options in the same area. If the queue is long, recover with a cafe or market snack first and move the main meal to the next zone.
 
@@ -230,10 +225,10 @@ Use the rest of the day for food and rest. In summer, avoid long midday walks. I
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/myrealtrip/seoul-2-320.webp 320w, /images/optimized/myrealtrip/seoul-2-330.webp 330w, /images/optimized/myrealtrip/seoul-2-360.webp 360w, /images/optimized/myrealtrip/seoul-2-480.webp 480w, /images/optimized/myrealtrip/seoul-2-520.webp 520w, /images/optimized/myrealtrip/seoul-2-640.webp 640w, /images/optimized/myrealtrip/seoul-2-680.webp 680w, /images/optimized/myrealtrip/seoul-2-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/myrealtrip/seoul-2.jpg" alt="Korea travel photo: 서울 도심 숙소 참고 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-160.webp 160w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-240.webp 240w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-320.webp 320w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-330.webp 330w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-360.webp 360w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-480.webp 480w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-520.webp 520w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-640.webp 640w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-680.webp 680w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-768.webp 768w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-960.webp 960w, /images/optimized/generated/unique/seoul-2-incheon-open-port-day-trip-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-2-incheon-open-port-day-trip-1.jpg" alt="incheon open port travel guide image - seoul 2 incheon open port day trip 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒmyrealtrip</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## Seasonal Notes

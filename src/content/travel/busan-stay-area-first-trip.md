@@ -10,9 +10,9 @@ urlSlug: "busan-stay-area-first-trip"
 tags: ["부산", "부산 숙소", "부산역", "해운대", "광안리"]
 publishedAt: "2026-06-16"
 updatedAt: "2026-06-16"
-heroImage: "/images/kto/busan-haeundae-view.jpg"
-imageAlt: "부산 해운대 해변과 도심 전경"
-imageCredit: "ⓒ한국관광공사 포토코리아-김미숙"
+heroImage: "/images/generated/busan-stay-area-generated.jpg"
+imageAlt: "부산 해변 숙소 권역과 도심 풍경"
+imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
 draft: false
 ---
 
@@ -58,10 +58,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/busan-station-320.webp 320w, /images/optimized/kto/busan-station-330.webp 330w, /images/optimized/kto/busan-station-360.webp 360w, /images/optimized/kto/busan-station-480.webp 480w, /images/optimized/kto/busan-station-520.webp 520w, /images/optimized/kto/busan-station-640.webp 640w, /images/optimized/kto/busan-station-680.webp 680w, /images/optimized/kto/busan-station-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/busan-station.jpg" alt="부산역 광장과 인근 도심 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-160.webp 160w, /images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-240.webp 240w, /images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-320.webp 320w, /images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-330.webp 330w, /images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-360.webp 360w, /images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-480.webp 480w, /images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-520.webp 520w, /images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-640.webp 640w, /images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-680.webp 680w, /images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-768.webp 768w, /images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-960.webp 960w, /images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/busan-station-busan-stay-area-first-trip-1.jpg" alt="busan stay area first trip travel guide image - busan station busan stay area first trip 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 부산역 권역이 맞는 경우
@@ -78,14 +78,14 @@ draft: false
 
 부산역보다 조금 더 여행지 한가운데에 들어온 느낌이 있고, 저녁 식사 후 도보로 움직일 수 있는 범위가 넓다는 장점이 있습니다. 영도 쪽 숙소는 야경 만족도가 높지만, 다음 날 해운대로 바로 넘어갈 계획이라면 이동 시간이 생각보다 길게 느껴질 수 있습니다.
 
-시장과 언덕길 비중이 높아 여름 장마철이나 무더위에는 도보 체력 부담이 커질 수 있습니다. 이 경우에는 숙소를 남포동 중심부에 두고 영도는 짧은 택시로 연결하는 방식이 더 현실적입니다.
+시장과 언덕길 비중이 높아 여름 에는 숙소를 남포동 중심부에 두고 영도는 짧은 택시로 연결하는 방식이 더 현실적입니다.
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/busan-jagalchi-market-320.webp 320w, /images/optimized/kto/busan-jagalchi-market-330.webp 330w, /images/optimized/kto/busan-jagalchi-market-360.webp 360w, /images/optimized/kto/busan-jagalchi-market-480.webp 480w, /images/optimized/kto/busan-jagalchi-market-520.webp 520w, /images/optimized/kto/busan-jagalchi-market-640.webp 640w, /images/optimized/kto/busan-jagalchi-market-680.webp 680w, /images/optimized/kto/busan-jagalchi-market-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/busan-jagalchi-market.jpg" alt="부산 자갈치시장 주변 거리와 시장 분위기" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-160.webp 160w, /images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-240.webp 240w, /images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-320.webp 320w, /images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-330.webp 330w, /images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-360.webp 360w, /images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-480.webp 480w, /images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-520.webp 520w, /images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-640.webp 640w, /images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-680.webp 680w, /images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-768.webp 768w, /images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-960.webp 960w, /images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1.jpg" alt="busan stay area first trip travel guide image - busan jagalchi market busan stay area first trip 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 해운대·광안리 권역이 맞는 경우
@@ -94,14 +94,14 @@ draft: false
 
 특히 첫날 늦은 오후에 도착해 저녁 한 번만 제대로 즐기고 싶은 일정이라면 [부산 해운대·동백섬·광안리 야경 코스 2026: 지하철로 잇는 여름 밤 산책 동선](/travel/busan/busan-haeundae-gwangalli-night/)과 자연스럽게 연결됩니다. 숙소가 해운대나 광안리 쪽이면 야경을 본 뒤 다시 긴 이동을 하지 않아도 된다는 점이 가장 큽니다.
 
-대신 부산역, 감천문화마을, 남포동처럼 서쪽 일정이 많은 날에는 이동 시간이 분명히 늘어납니다. 해변 뷰 숙소는 성수기 가격 상승 폭도 크므로, 바다를 보는 시간이 하루 1~2시간뿐이라면 실제 만족도 대비 비용이 과할 수 있습니다.
+대신 부산역, 감천문화마을, 남포동처럼 서쪽 일정이 많은 날에는 이동 시간이 분루 1~2시간뿐이라면 실제 만족도 대비 비용이 과할 수 있습니다.
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/busan-gwangan-bridge-320.webp 320w, /images/optimized/kto/busan-gwangan-bridge-330.webp 330w, /images/optimized/kto/busan-gwangan-bridge-360.webp 360w, /images/optimized/kto/busan-gwangan-bridge-480.webp 480w, /images/optimized/kto/busan-gwangan-bridge-520.webp 520w, /images/optimized/kto/busan-gwangan-bridge-640.webp 640w, /images/optimized/kto/busan-gwangan-bridge-680.webp 680w, /images/optimized/kto/busan-gwangan-bridge-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/busan-gwangan-bridge.jpg" alt="부산 광안대교 야경과 해변 분위기" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/busan-night-coast-generated-160.webp 160w, /images/optimized/generated/busan-night-coast-generated-240.webp 240w, /images/optimized/generated/busan-night-coast-generated-320.webp 320w, /images/optimized/generated/busan-night-coast-generated-330.webp 330w, /images/optimized/generated/busan-night-coast-generated-360.webp 360w, /images/optimized/generated/busan-night-coast-generated-480.webp 480w, /images/optimized/generated/busan-night-coast-generated-520.webp 520w, /images/optimized/generated/busan-night-coast-generated-640.webp 640w, /images/optimized/generated/busan-night-coast-generated-680.webp 680w, /images/optimized/generated/busan-night-coast-generated-768.webp 768w, /images/optimized/generated/busan-night-coast-generated-960.webp 960w, /images/optimized/generated/busan-night-coast-generated-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/busan-night-coast-generated.jpg" alt="busan stay area first trip travel guide image - busan night coast generated" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 일정별로 권역을 고르는 가장 쉬운 기준

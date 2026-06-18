@@ -56,10 +56,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/busan-station-320.webp 320w, /images/optimized/kto/busan-station-330.webp 330w, /images/optimized/kto/busan-station-360.webp 360w, /images/optimized/kto/busan-station-480.webp 480w, /images/optimized/kto/busan-station-520.webp 520w, /images/optimized/kto/busan-station-640.webp 640w, /images/optimized/kto/busan-station-680.webp 680w, /images/optimized/kto/busan-station-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/busan-station.jpg" alt="비 오는 날 이동 출발점으로 쓰기 좋은 부산역 광장 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-station-busan-rainy-day-first-trip-1-160.webp 160w, /images/optimized/generated/unique/busan-station-busan-rainy-day-first-trip-1-240.webp 240w, /images/optimized/generated/unique/busan-station-busan-rainy-day-first-trip-1-320.webp 320w, /images/optimized/generated/unique/busan-station-busan-rainy-day-first-trip-1-330.webp 330w, /images/optimized/generated/unique/busan-station-busan-rainy-day-first-trip-1-360.webp 360w, /images/optimized/generated/unique/busan-station-busan-rainy-day-first-trip-1-480.webp 480w, /images/optimized/generated/unique/busan-station-busan-rainy-day-first-trip-1-520.webp 520w, /images/optimized/generated/unique/busan-station-busan-rainy-day-first-trip-1-640.webp 640w, /images/optimized/generated/unique/busan-station-busan-rainy-day-first-trip-1-680.webp 680w, /images/optimized/generated/unique/busan-station-busan-rainy-day-first-trip-1-768.webp 768w, /images/optimized/generated/unique/busan-station-busan-rainy-day-first-trip-1-960.webp 960w, /images/optimized/generated/unique/busan-station-busan-rainy-day-first-trip-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/busan-station-busan-rainy-day-first-trip-1.jpg" alt="busan rainy day first trip travel guide image - busan station busan rainy day first trip 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 추천 동선 한눈에 보기
@@ -130,10 +130,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/busan-rainy-market-walk-generated-320.webp 320w, /images/optimized/generated/busan-rainy-market-walk-generated-330.webp 330w, /images/optimized/generated/busan-rainy-market-walk-generated-360.webp 360w, /images/optimized/generated/busan-rainy-market-walk-generated-480.webp 480w, /images/optimized/generated/busan-rainy-market-walk-generated-520.webp 520w, /images/optimized/generated/busan-rainy-market-walk-generated-640.webp 640w, /images/optimized/generated/busan-rainy-market-walk-generated-680.webp 680w, /images/optimized/generated/busan-rainy-market-walk-generated-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/busan-rainy-market-walk-generated.png" alt="비 오는 날 부산 실내시장 입구와 젖은 골목을 따라 이동하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/busan-rainy-market-walk-generated-160.webp 160w, /images/optimized/generated/busan-rainy-market-walk-generated-240.webp 240w, /images/optimized/generated/busan-rainy-market-walk-generated-320.webp 320w, /images/optimized/generated/busan-rainy-market-walk-generated-330.webp 330w, /images/optimized/generated/busan-rainy-market-walk-generated-360.webp 360w, /images/optimized/generated/busan-rainy-market-walk-generated-480.webp 480w, /images/optimized/generated/busan-rainy-market-walk-generated-520.webp 520w, /images/optimized/generated/busan-rainy-market-walk-generated-640.webp 640w, /images/optimized/generated/busan-rainy-market-walk-generated-680.webp 680w, /images/optimized/generated/busan-rainy-market-walk-generated-768.webp 768w, /images/optimized/generated/busan-rainy-market-walk-generated-960.webp 960w, /images/optimized/generated/busan-rainy-market-walk-generated-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/busan-rainy-market-walk-generated.png" alt="busan rainy day first trip travel guide image - busan rainy market walk generated" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 교통, 숙소, 비용은 어떻게 잡아야 하나

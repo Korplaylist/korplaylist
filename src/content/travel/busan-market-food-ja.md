@@ -10,7 +10,7 @@ urlSlug: "busan-market-food"
 tags: ["釜山", "グルメ", "韓国旅行", "busan"]
 publishedAt: "2026-05-19"
 updatedAt: "2026-05-19"
-heroImage: "/images/kto/busan-jagalchi-market.jpg"
+heroImage: "/images/generated/unique/busan-jagalchi-market-busan-market-food-route-1.jpg"
 imageAlt: "釜山グルメ市場コース2026：チャガルチ市場から国際市場までの1日動線 main image"
 imageCredit: "ⓒ한국관광공사 포토코리아-김지호"
 draft: false
@@ -161,10 +161,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/busan-station-320.webp 320w, /images/optimized/kto/busan-station-330.webp 330w, /images/optimized/kto/busan-station-360.webp 360w, /images/optimized/kto/busan-station-480.webp 480w, /images/optimized/kto/busan-station-520.webp 520w, /images/optimized/kto/busan-station-640.webp 640w, /images/optimized/kto/busan-station-680.webp 680w, /images/optimized/kto/busan-station-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/busan-station.jpg" alt="韓国旅行写真：부산역 외관" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-station-busan-market-food-route-1-160.webp 160w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-240.webp 240w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-320.webp 320w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-330.webp 330w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-360.webp 360w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-480.webp 480w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-520.webp 520w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-640.webp 640w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-680.webp 680w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-768.webp 768w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-960.webp 960w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/busan-station-busan-market-food-route-1.jpg" alt="busan market food travel guide image - busan station busan market food route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 時間帯ごとの考え方
@@ -177,10 +177,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/busan-gamcheon-village-320.webp 320w, /images/optimized/kto/busan-gamcheon-village-330.webp 330w, /images/optimized/kto/busan-gamcheon-village-360.webp 360w, /images/optimized/kto/busan-gamcheon-village-480.webp 480w, /images/optimized/kto/busan-gamcheon-village-520.webp 520w, /images/optimized/kto/busan-gamcheon-village-640.webp 640w, /images/optimized/kto/busan-gamcheon-village-680.webp 680w, /images/optimized/kto/busan-gamcheon-village-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/busan-gamcheon-village.jpg" alt="韓国旅行写真：부산 감천문화마을 전경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/kto/busan-gamcheon-village-160.webp 160w, /images/optimized/kto/busan-gamcheon-village-240.webp 240w, /images/optimized/kto/busan-gamcheon-village-320.webp 320w, /images/optimized/kto/busan-gamcheon-village-330.webp 330w, /images/optimized/kto/busan-gamcheon-village-360.webp 360w, /images/optimized/kto/busan-gamcheon-village-480.webp 480w, /images/optimized/kto/busan-gamcheon-village-520.webp 520w, /images/optimized/kto/busan-gamcheon-village-640.webp 640w, /images/optimized/kto/busan-gamcheon-village-680.webp 680w, /images/optimized/kto/busan-gamcheon-village-768.webp 768w, /images/optimized/kto/busan-gamcheon-village-960.webp 960w, /images/optimized/kto/busan-gamcheon-village-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/kto/busan-gamcheon-village.jpg" alt="busan market food travel guide image - busan gamcheon village" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-오한솔</figcaption>
+  <figcaption>ⓒ한국관광공사 포토코리아</figcaption>
 </figure>
 
 ## 公共交通・タクシー・レンタカーの選び方
@@ -210,10 +210,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/busan-gwangan-bridge-320.webp 320w, /images/optimized/kto/busan-gwangan-bridge-330.webp 330w, /images/optimized/kto/busan-gwangan-bridge-360.webp 360w, /images/optimized/kto/busan-gwangan-bridge-480.webp 480w, /images/optimized/kto/busan-gwangan-bridge-520.webp 520w, /images/optimized/kto/busan-gwangan-bridge-640.webp 640w, /images/optimized/kto/busan-gwangan-bridge-680.webp 680w, /images/optimized/kto/busan-gwangan-bridge-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/busan-gwangan-bridge.jpg" alt="韓国旅行写真：부산 광안대교 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-160.webp 160w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-240.webp 240w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-320.webp 320w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-330.webp 330w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-360.webp 360w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-480.webp 480w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-520.webp 520w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-640.webp 640w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-680.webp 680w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-768.webp 768w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-960.webp 960w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/busan-market-food-generated-busan-market-food-route-1.jpg" alt="busan market food travel guide image - busan market food generated busan market food route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 宿泊エリアと食事のタイミング
@@ -224,16 +224,14 @@ draft: false
 
 ## 雨の日・暑い日の代替案
 
-雨の日は屋外の滞在時間を減らし、屋内展示、市場、カフェ、短距離タクシーを組み合わせます。写真目的の場所は満足度が下がることがあるため、日中の重要スポットを1〜2か所だけ残すと安心です。
-
-残りは食事と休憩に切り替えます。夏は昼の長い徒歩移動を避け、冬は日没が早いので屋外写真スポットを前半に寄せてください。
+雨の日は屋外の滞在時間を減らし、屋内展示、市場、カフェ、短距離タクシーを組み合わせます。写真目的の場所は満足度が下がることがあるため、日中の重要スポットを1〜2か所だけ残すと安、冬は日没が早いので屋外写真スポットを前半に寄せてください。
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/busan-haeundae-view-320.webp 320w, /images/optimized/kto/busan-haeundae-view-330.webp 330w, /images/optimized/kto/busan-haeundae-view-360.webp 360w, /images/optimized/kto/busan-haeundae-view-480.webp 480w, /images/optimized/kto/busan-haeundae-view-520.webp 520w, /images/optimized/kto/busan-haeundae-view-640.webp 640w, /images/optimized/kto/busan-haeundae-view-680.webp 680w, /images/optimized/kto/busan-haeundae-view-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/busan-haeundae-view.jpg" alt="韓国旅行写真：부산 해운대와 도심 전경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-160.webp 160w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-240.webp 240w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-320.webp 320w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-330.webp 330w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-360.webp 360w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-480.webp 480w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-520.webp 520w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-640.webp 640w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-680.webp 680w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-768.webp 768w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-960.webp 960w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/busan-haeundae-view-busan-market-food-route-1.jpg" alt="busan market food travel guide image - busan haeundae view busan market food route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김미숙</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 季節別の注意点

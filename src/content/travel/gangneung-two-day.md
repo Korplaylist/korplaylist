@@ -10,7 +10,7 @@ urlSlug: "gangneung-two-day"
 tags: ["강릉", "1박2일", "주문진", "오죽헌"]
 publishedAt: "2026-05-23"
 updatedAt: "2026-05-23"
-heroImage: "/images/kto/gangneung-two-day-content.jpg"
+heroImage: "/images/generated/unique/gangneung-two-day-content-gangneung-two-day-route-1.jpg"
 imageAlt: "강릉 영진해변"
 imageCredit: "ⓒ한국관광공사 포토코리아-강원지사"
 draft: false
@@ -161,10 +161,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/gangneung-sea-coffee-content-320.webp 320w, /images/optimized/kto/gangneung-sea-coffee-content-330.webp 330w, /images/optimized/kto/gangneung-sea-coffee-content-360.webp 360w, /images/optimized/kto/gangneung-sea-coffee-content-480.webp 480w, /images/optimized/kto/gangneung-sea-coffee-content-520.webp 520w, /images/optimized/kto/gangneung-sea-coffee-content-640.webp 640w, /images/optimized/kto/gangneung-sea-coffee-content-680.webp 680w, /images/optimized/kto/gangneung-sea-coffee-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/gangneung-sea-coffee-content.jpg" alt="강릉 안목해변" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/gangneung-sea-coffee-content-gangneung-two-day-route-1-160.webp 160w, /images/optimized/generated/unique/gangneung-sea-coffee-content-gangneung-two-day-route-1-240.webp 240w, /images/optimized/generated/unique/gangneung-sea-coffee-content-gangneung-two-day-route-1-320.webp 320w, /images/optimized/generated/unique/gangneung-sea-coffee-content-gangneung-two-day-route-1-330.webp 330w, /images/optimized/generated/unique/gangneung-sea-coffee-content-gangneung-two-day-route-1-360.webp 360w, /images/optimized/generated/unique/gangneung-sea-coffee-content-gangneung-two-day-route-1-480.webp 480w, /images/optimized/generated/unique/gangneung-sea-coffee-content-gangneung-two-day-route-1-520.webp 520w, /images/optimized/generated/unique/gangneung-sea-coffee-content-gangneung-two-day-route-1-640.webp 640w, /images/optimized/generated/unique/gangneung-sea-coffee-content-gangneung-two-day-route-1-680.webp 680w, /images/optimized/generated/unique/gangneung-sea-coffee-content-gangneung-two-day-route-1-768.webp 768w, /images/optimized/generated/unique/gangneung-sea-coffee-content-gangneung-two-day-route-1-960.webp 960w, /images/optimized/generated/unique/gangneung-sea-coffee-content-gangneung-two-day-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/gangneung-sea-coffee-content-gangneung-two-day-route-1.jpg" alt="gangneung two day travel guide image - gangneung sea coffee content gangneung two day route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 시간대별로 짜는 방법
@@ -177,10 +177,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/sokcho-seoraksan-market-content-320.webp 320w, /images/optimized/kto/sokcho-seoraksan-market-content-330.webp 330w, /images/optimized/kto/sokcho-seoraksan-market-content-360.webp 360w, /images/optimized/kto/sokcho-seoraksan-market-content-480.webp 480w, /images/optimized/kto/sokcho-seoraksan-market-content-520.webp 520w, /images/optimized/kto/sokcho-seoraksan-market-content-640.webp 640w, /images/optimized/kto/sokcho-seoraksan-market-content-680.webp 680w, /images/optimized/kto/sokcho-seoraksan-market-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/sokcho-seoraksan-market-content.jpg" alt="설악산국립공원" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/gangneung-gyeongpo-lake-generated-gangneung-two-day-route-1-160.webp 160w, /images/optimized/generated/unique/gangneung-gyeongpo-lake-generated-gangneung-two-day-route-1-240.webp 240w, /images/optimized/generated/unique/gangneung-gyeongpo-lake-generated-gangneung-two-day-route-1-320.webp 320w, /images/optimized/generated/unique/gangneung-gyeongpo-lake-generated-gangneung-two-day-route-1-330.webp 330w, /images/optimized/generated/unique/gangneung-gyeongpo-lake-generated-gangneung-two-day-route-1-360.webp 360w, /images/optimized/generated/unique/gangneung-gyeongpo-lake-generated-gangneung-two-day-route-1-480.webp 480w, /images/optimized/generated/unique/gangneung-gyeongpo-lake-generated-gangneung-two-day-route-1-520.webp 520w, /images/optimized/generated/unique/gangneung-gyeongpo-lake-generated-gangneung-two-day-route-1-640.webp 640w, /images/optimized/generated/unique/gangneung-gyeongpo-lake-generated-gangneung-two-day-route-1-680.webp 680w, /images/optimized/generated/unique/gangneung-gyeongpo-lake-generated-gangneung-two-day-route-1-768.webp 768w, /images/optimized/generated/unique/gangneung-gyeongpo-lake-generated-gangneung-two-day-route-1-960.webp 960w, /images/optimized/generated/unique/gangneung-gyeongpo-lake-generated-gangneung-two-day-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/gangneung-gyeongpo-lake-generated-gangneung-two-day-route-1.jpg" alt="gangneung two day travel guide image - gangneung gyeongpo lake generated gangneung two day route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-박은경</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 대중교통, 택시, 렌터카 선택 기준
@@ -204,16 +204,15 @@ draft: false
   <div class="planning-table-head"><span>항목</span><span>1인 기준</span><span>체크 포인트</span></div>
   <div><span>지역 내 교통</span><strong>8,000~25,000원</strong><p>지하철·버스 중심이면 낮고, 짧은 택시를 2회 이상 넣으면 올라갑니다.</p></div>
   <div><span>식사·카페</span><strong>35,000~70,000원</strong><p>시장 간식과 카페를 넣으면 만족도는 높지만 지출이 쉽게 늘어납니다.</p></div>
-  <div><span>입장·체험</span><strong>0~30,000원</strong><p>무료 산책지 중심인지, 전망대·케이블카·박물관을 넣는지에 따라 달라집니다.</p></div>
-  <div><span>비상 예산</span><strong>20,000~40,000원</strong><p>우천, 막차, 짐 이동 때문에 택시를 타야 할 상황을 대비합니다.</p></div>
+  <div><span>입장·체험</span><strong>0~30,000원</strong><p>무료 산책지 중심인지, 전망대·케이블카·박물관을 넣는지에 따라 달라집니ong>20,000~40,000원</strong><p>우천, 막차, 짐 이동 때문에 택시를 타야 할 상황을 대비합니다.</p></div>
 </section>
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/sokcho-without-car-content-320.webp 320w, /images/optimized/kto/sokcho-without-car-content-330.webp 330w, /images/optimized/kto/sokcho-without-car-content-360.webp 360w, /images/optimized/kto/sokcho-without-car-content-480.webp 480w, /images/optimized/kto/sokcho-without-car-content-520.webp 520w, /images/optimized/kto/sokcho-without-car-content-640.webp 640w, /images/optimized/kto/sokcho-without-car-content-680.webp 680w, /images/optimized/kto/sokcho-without-car-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/sokcho-without-car-content.jpg" alt="속초 관광수산시장" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-without-car-content-gangneung-two-day-route-1-160.webp 160w, /images/optimized/generated/unique/sokcho-without-car-content-gangneung-two-day-route-1-240.webp 240w, /images/optimized/generated/unique/sokcho-without-car-content-gangneung-two-day-route-1-320.webp 320w, /images/optimized/generated/unique/sokcho-without-car-content-gangneung-two-day-route-1-330.webp 330w, /images/optimized/generated/unique/sokcho-without-car-content-gangneung-two-day-route-1-360.webp 360w, /images/optimized/generated/unique/sokcho-without-car-content-gangneung-two-day-route-1-480.webp 480w, /images/optimized/generated/unique/sokcho-without-car-content-gangneung-two-day-route-1-520.webp 520w, /images/optimized/generated/unique/sokcho-without-car-content-gangneung-two-day-route-1-640.webp 640w, /images/optimized/generated/unique/sokcho-without-car-content-gangneung-two-day-route-1-680.webp 680w, /images/optimized/generated/unique/sokcho-without-car-content-gangneung-two-day-route-1-768.webp 768w, /images/optimized/generated/unique/sokcho-without-car-content-gangneung-two-day-route-1-960.webp 960w, /images/optimized/generated/unique/sokcho-without-car-content-gangneung-two-day-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/sokcho-without-car-content-gangneung-two-day-route-1.jpg" alt="gangneung two day travel guide image - sokcho without car content gangneung two day route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 숙소 위치와 식사 타이밍
@@ -230,10 +229,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/chuncheon-lake-day-content-320.webp 320w, /images/optimized/kto/chuncheon-lake-day-content-330.webp 330w, /images/optimized/kto/chuncheon-lake-day-content-360.webp 360w, /images/optimized/kto/chuncheon-lake-day-content-480.webp 480w, /images/optimized/kto/chuncheon-lake-day-content-520.webp 520w, /images/optimized/kto/chuncheon-lake-day-content-640.webp 640w, /images/optimized/kto/chuncheon-lake-day-content-680.webp 680w, /images/optimized/kto/chuncheon-lake-day-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/chuncheon-lake-day-content.jpg" alt="춘천 호수 여행 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-two-day-route-1-160.webp 160w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-two-day-route-1-240.webp 240w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-two-day-route-1-320.webp 320w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-two-day-route-1-330.webp 330w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-two-day-route-1-360.webp 360w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-two-day-route-1-480.webp 480w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-two-day-route-1-520.webp 520w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-two-day-route-1-640.webp 640w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-two-day-route-1-680.webp 680w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-two-day-route-1-768.webp 768w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-two-day-route-1-960.webp 960w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-two-day-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/gangneung-coffee-street-generated-gangneung-two-day-route-1.jpg" alt="gangneung two day travel guide image - gangneung coffee street generated gangneung two day route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-이대순</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 계절별 주의사항

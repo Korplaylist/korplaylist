@@ -10,9 +10,9 @@ urlSlug: "tongyeong-island-view"
 tags: ["통영", "동피랑", "케이블카", "바다"]
 publishedAt: "2026-06-02"
 updatedAt: "2026-06-02"
-heroImage: "/images/kto/tongyeong-island-view-content.jpg"
-imageAlt: "통영 동피랑마을"
-imageCredit: "ⓒ한국관광공사 포토코리아-이범수"
+heroImage: "/images/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-sea-view-route-1-tongyeong-sea-view-route-1.jpg"
+imageAlt: "통영 케이블카와 항구 섬 전망"
+imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
 draft: false
 ---
 
@@ -161,10 +161,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/tongyeong-two-day-content-320.webp 320w, /images/optimized/kto/tongyeong-two-day-content-330.webp 330w, /images/optimized/kto/tongyeong-two-day-content-360.webp 360w, /images/optimized/kto/tongyeong-two-day-content-480.webp 480w, /images/optimized/kto/tongyeong-two-day-content-520.webp 520w, /images/optimized/kto/tongyeong-two-day-content-640.webp 640w, /images/optimized/kto/tongyeong-two-day-content-680.webp 680w, /images/optimized/kto/tongyeong-two-day-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/tongyeong-two-day-content.jpg" alt="통영 제승당" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/tongyeong-two-day-content-tongyeong-sea-view-route-1-160.webp 160w, /images/optimized/generated/unique/tongyeong-two-day-content-tongyeong-sea-view-route-1-240.webp 240w, /images/optimized/generated/unique/tongyeong-two-day-content-tongyeong-sea-view-route-1-320.webp 320w, /images/optimized/generated/unique/tongyeong-two-day-content-tongyeong-sea-view-route-1-330.webp 330w, /images/optimized/generated/unique/tongyeong-two-day-content-tongyeong-sea-view-route-1-360.webp 360w, /images/optimized/generated/unique/tongyeong-two-day-content-tongyeong-sea-view-route-1-480.webp 480w, /images/optimized/generated/unique/tongyeong-two-day-content-tongyeong-sea-view-route-1-520.webp 520w, /images/optimized/generated/unique/tongyeong-two-day-content-tongyeong-sea-view-route-1-640.webp 640w, /images/optimized/generated/unique/tongyeong-two-day-content-tongyeong-sea-view-route-1-680.webp 680w, /images/optimized/generated/unique/tongyeong-two-day-content-tongyeong-sea-view-route-1-768.webp 768w, /images/optimized/generated/unique/tongyeong-two-day-content-tongyeong-sea-view-route-1-960.webp 960w, /images/optimized/generated/unique/tongyeong-two-day-content-tongyeong-sea-view-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/tongyeong-two-day-content-tongyeong-sea-view-route-1.jpg" alt="tongyeong island view travel guide image - tongyeong two day content tongyeong sea view route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 시간대별로 짜는 방법
@@ -177,10 +177,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/yeosu-night-sea-content-320.webp 320w, /images/optimized/kto/yeosu-night-sea-content-330.webp 330w, /images/optimized/kto/yeosu-night-sea-content-360.webp 360w, /images/optimized/kto/yeosu-night-sea-content-480.webp 480w, /images/optimized/kto/yeosu-night-sea-content-520.webp 520w, /images/optimized/kto/yeosu-night-sea-content-640.webp 640w, /images/optimized/kto/yeosu-night-sea-content-680.webp 680w, /images/optimized/kto/yeosu-night-sea-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/yeosu-night-sea-content.jpg" alt="여수 밤바다 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-sea-view-route-1-tongyeong-sea-view-route-2-160.webp 160w, /images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-sea-view-route-1-tongyeong-sea-view-route-2-240.webp 240w, /images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-sea-view-route-1-tongyeong-sea-view-route-2-320.webp 320w, /images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-sea-view-route-1-tongyeong-sea-view-route-2-330.webp 330w, /images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-sea-view-route-1-tongyeong-sea-view-route-2-360.webp 360w, /images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-sea-view-route-1-tongyeong-sea-view-route-2-480.webp 480w, /images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-sea-view-route-1-tongyeong-sea-view-route-2-520.webp 520w, /images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-sea-view-route-1-tongyeong-sea-view-route-2-640.webp 640w, /images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-sea-view-route-1-tongyeong-sea-view-route-2-680.webp 680w, /images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-sea-view-route-1-tongyeong-sea-view-route-2-768.webp 768w, /images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-sea-view-route-1-tongyeong-sea-view-route-2-960.webp 960w, /images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-sea-view-route-1-tongyeong-sea-view-route-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-sea-view-route-1-tongyeong-sea-view-route-2.jpg" alt="tongyeong island view travel guide image - tongyeong cablecar harbor generated tongyeong sea view route 1 tongyeong sea view route 2" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 대중교통, 택시, 렌터카 선택 기준
@@ -205,15 +205,15 @@ draft: false
   <div><span>지역 내 교통</span><strong>8,000~25,000원</strong><p>지하철·버스 중심이면 낮고, 짧은 택시를 2회 이상 넣으면 올라갑니다.</p></div>
   <div><span>식사·카페</span><strong>35,000~70,000원</strong><p>시장 간식과 카페를 넣으면 만족도는 높지만 지출이 쉽게 늘어납니다.</p></div>
   <div><span>입장·체험</span><strong>0~30,000원</strong><p>무료 산책지 중심인지, 전망대·케이블카·박물관을 넣는지에 따라 달라집니다.</p></div>
-  <div><span>비상 예산</span><strong>20,000~40,000원</strong><p>우천, 막차, 짐 이동 때문에 택시를 타야 할 상황을 대비합니다.</p></div>
+  <div><span>비상 예산</span><stron 때문에 택시를 타야 할 상황을 대비합니다.</p></div>
 </section>
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/yeosu-island-day-content-320.webp 320w, /images/optimized/kto/yeosu-island-day-content-330.webp 330w, /images/optimized/kto/yeosu-island-day-content-360.webp 360w, /images/optimized/kto/yeosu-island-day-content-480.webp 480w, /images/optimized/kto/yeosu-island-day-content-520.webp 520w, /images/optimized/kto/yeosu-island-day-content-640.webp 640w, /images/optimized/kto/yeosu-island-day-content-680.webp 680w, /images/optimized/kto/yeosu-island-day-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/yeosu-island-day-content.jpg" alt="여수 해상케이블카" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/kto/yeosu-island-day-content-160.webp 160w, /images/optimized/kto/yeosu-island-day-content-240.webp 240w, /images/optimized/kto/yeosu-island-day-content-320.webp 320w, /images/optimized/kto/yeosu-island-day-content-330.webp 330w, /images/optimized/kto/yeosu-island-day-content-360.webp 360w, /images/optimized/kto/yeosu-island-day-content-480.webp 480w, /images/optimized/kto/yeosu-island-day-content-520.webp 520w, /images/optimized/kto/yeosu-island-day-content-640.webp 640w, /images/optimized/kto/yeosu-island-day-content-680.webp 680w, /images/optimized/kto/yeosu-island-day-content-768.webp 768w, /images/optimized/kto/yeosu-island-day-content-960.webp 960w, /images/optimized/kto/yeosu-island-day-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/kto/yeosu-island-day-content.jpg" alt="tongyeong island view travel guide image - yeosu island day content" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒ한국관광공사 포토코리아</figcaption>
 </figure>
 
 ## 숙소 위치와 식사 타이밍
@@ -230,10 +230,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/busan-gwangan-bridge-320.webp 320w, /images/optimized/kto/busan-gwangan-bridge-330.webp 330w, /images/optimized/kto/busan-gwangan-bridge-360.webp 360w, /images/optimized/kto/busan-gwangan-bridge-480.webp 480w, /images/optimized/kto/busan-gwangan-bridge-520.webp 520w, /images/optimized/kto/busan-gwangan-bridge-640.webp 640w, /images/optimized/kto/busan-gwangan-bridge-680.webp 680w, /images/optimized/kto/busan-gwangan-bridge-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/busan-gwangan-bridge.jpg" alt="부산 광안대교 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/tongyeong-island-view-generated-tongyeong-sea-view-route-2-160.webp 160w, /images/optimized/generated/unique/tongyeong-island-view-generated-tongyeong-sea-view-route-2-240.webp 240w, /images/optimized/generated/unique/tongyeong-island-view-generated-tongyeong-sea-view-route-2-320.webp 320w, /images/optimized/generated/unique/tongyeong-island-view-generated-tongyeong-sea-view-route-2-330.webp 330w, /images/optimized/generated/unique/tongyeong-island-view-generated-tongyeong-sea-view-route-2-360.webp 360w, /images/optimized/generated/unique/tongyeong-island-view-generated-tongyeong-sea-view-route-2-480.webp 480w, /images/optimized/generated/unique/tongyeong-island-view-generated-tongyeong-sea-view-route-2-520.webp 520w, /images/optimized/generated/unique/tongyeong-island-view-generated-tongyeong-sea-view-route-2-640.webp 640w, /images/optimized/generated/unique/tongyeong-island-view-generated-tongyeong-sea-view-route-2-680.webp 680w, /images/optimized/generated/unique/tongyeong-island-view-generated-tongyeong-sea-view-route-2-768.webp 768w, /images/optimized/generated/unique/tongyeong-island-view-generated-tongyeong-sea-view-route-2-960.webp 960w, /images/optimized/generated/unique/tongyeong-island-view-generated-tongyeong-sea-view-route-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/tongyeong-island-view-generated-tongyeong-sea-view-route-2.jpg" alt="tongyeong island view travel guide image - tongyeong island view generated tongyeong sea view route 2" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 계절별 주의사항

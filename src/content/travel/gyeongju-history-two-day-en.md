@@ -10,7 +10,7 @@ urlSlug: "gyeongju-history-two-day"
 tags: ["Gyeongju", "Itineraries", "Korea travel", "gyeongju history two"]
 publishedAt: "2026-05-28"
 updatedAt: "2026-05-28"
-heroImage: "/images/kto/gyeongju-history-two-day-content.jpg"
+heroImage: "/images/generated/unique/gyeongju-history-two-day-content-gyeongju-history-two-day-route-1.jpg"
 imageAlt: "Gyeongju 2-Day History Itinerary: Daereungwon, Cheomseongdae and Bulguksa main image"
 imageCredit: "ⓒ한국관광공사 포토코리아-이범수"
 draft: false
@@ -180,10 +180,10 @@ This route separates arrival, photo time, food breaks, and the final stop so you
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/gyeongju-family-content-320.webp 320w, /images/optimized/kto/gyeongju-family-content-330.webp 330w, /images/optimized/kto/gyeongju-family-content-360.webp 360w, /images/optimized/kto/gyeongju-family-content-480.webp 480w, /images/optimized/kto/gyeongju-family-content-520.webp 520w, /images/optimized/kto/gyeongju-family-content-640.webp 640w, /images/optimized/kto/gyeongju-family-content-680.webp 680w, /images/optimized/kto/gyeongju-family-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/gyeongju-family-content.jpg" alt="Korea travel photo: 경주 대릉원" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-160.webp 160w, /images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-240.webp 240w, /images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-320.webp 320w, /images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-330.webp 330w, /images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-360.webp 360w, /images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-480.webp 480w, /images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-520.webp 520w, /images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-640.webp 640w, /images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-680.webp 680w, /images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-768.webp 768w, /images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-960.webp 960w, /images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1.jpg" alt="gyeongju history two day travel guide image - gyeongju family content gyeongju history two day route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-IR 스튜디오</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## How to Plan the Day
@@ -192,14 +192,11 @@ Put the longest or most crowded stop early in the day. Keep flexible time after 
 
 If the route includes night views, markets, or the coast, place them near the end so you are not forced to cross the city after dark.
 
-If you are comparing similar routes, read [Gyeongju Family Trip Guide: Historic Sites, Museums and Easy Walks With Kids](/en/travel/gyeongbuk/gyeongju-family/) first. For food, transport, or seasonal decisions, [Jeonju Hanok Village Day Trip: Gyeonggijeon, Nambu Market and One-Day Route](/en/travel/jeonbuk/jeonju-hanok-day/) can help refine the plan without adding unnecessary stops.
-
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/jeonju-hanok-day-content-320.webp 320w, /images/optimized/kto/jeonju-hanok-day-content-330.webp 330w, /images/optimized/kto/jeonju-hanok-day-content-360.webp 360w, /images/optimized/kto/jeonju-hanok-day-content-480.webp 480w, /images/optimized/kto/jeonju-hanok-day-content-520.webp 520w, /images/optimized/kto/jeonju-hanok-day-content-640.webp 640w, /images/optimized/kto/jeonju-hanok-day-content-680.webp 680w, /images/optimized/kto/jeonju-hanok-day-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/jeonju-hanok-day-content.jpg" alt="Korea travel photo: 전주한옥마을" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+If you are comparing similar routes, read [Gyeongju Family Trip Guide: Historic Sites, Museums and Easy Walks With Kids](/en/travel/gyeongbuk/gyeongju-family/) first. For food, transport, or seasonal decisions, [Jeonju Hanok Village Day Trip: Gyeonggijeon, Nambu Market and One-Day Route](/en/travel/jeonbuk/jeonju-hanok-day/) can help refine the plan without adding unnec
+    <source type="image/webp" srcset="/images/optimized/generated/gyeongju-daereungwon-walk-generated-320.webp 320w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-330.webp 330w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-360.webp 360w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-480.webp 480w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-520.webp 520w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-640.webp 640w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-680.webp 680w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1.jpg" alt="Gyeongju Daereungwon and Cheomseongdae historic walk" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒKorea Playlist Image 2.0</figcaption>
 </figure>
 
 ## Public Transport, Taxi, or Rental Car
@@ -223,16 +220,16 @@ For accommodation, choose an area near the last evening stop or the next morning
   <div class="planning-table-head"><span>Item</span><span>Per Person</span><span>Planning Note</span></div>
   <div><span>Local transport</span><strong>KRW 8,000-25,000</strong><p>Subway and bus routes stay low; several short taxis raise the total quickly.</p></div>
   <div><span>Meals and cafes</span><strong>KRW 35,000-70,000</strong><p>Markets and cafes improve the day but are usually where small costs stack up.</p></div>
-  <div><span>Tickets and activities</span><strong>KRW 0-30,000</strong><p>The range depends on whether you choose free walks or paid viewpoints, museums, cable cars, or experiences.</p></div>
+  <div><span>Tickets and activities</span><strong>KRW 0-30,000</strong><p>free walks or paid viewpoints, museums, cable cars, or experiences.</p></div>
   <div><span>Backup budget</span><strong>KRW 20,000-40,000</strong><p>Keep room for rain, missed buses, luggage movement, or a taxi at the end of the day.</p></div>
 </section>
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/jeonju-food-cost-content-320.webp 320w, /images/optimized/kto/jeonju-food-cost-content-330.webp 330w, /images/optimized/kto/jeonju-food-cost-content-360.webp 360w, /images/optimized/kto/jeonju-food-cost-content-480.webp 480w, /images/optimized/kto/jeonju-food-cost-content-520.webp 520w, /images/optimized/kto/jeonju-food-cost-content-640.webp 640w, /images/optimized/kto/jeonju-food-cost-content-680.webp 680w, /images/optimized/kto/jeonju-food-cost-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/jeonju-food-cost-content.jpg" alt="Korea travel photo: 전주남부시장" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/kto/jeonju-food-cost-content-160.webp 160w, /images/optimized/kto/jeonju-food-cost-content-240.webp 240w, /images/optimized/kto/jeonju-food-cost-content-320.webp 320w, /images/optimized/kto/jeonju-food-cost-content-330.webp 330w, /images/optimized/kto/jeonju-food-cost-content-360.webp 360w, /images/optimized/kto/jeonju-food-cost-content-480.webp 480w, /images/optimized/kto/jeonju-food-cost-content-520.webp 520w, /images/optimized/kto/jeonju-food-cost-content-640.webp 640w, /images/optimized/kto/jeonju-food-cost-content-680.webp 680w, /images/optimized/kto/jeonju-food-cost-content-768.webp 768w, /images/optimized/kto/jeonju-food-cost-content-960.webp 960w, /images/optimized/kto/jeonju-food-cost-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/kto/jeonju-food-cost-content.jpg" alt="gyeongju history two day travel guide image - jeonju food cost content" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒ한국관광공사 포토코리아</figcaption>
 </figure>
 
 ## Stay Area and Food Timing
@@ -245,14 +242,14 @@ For food, place one longer meal after Daereungwon or keep dinner near Bulguksa T
 
 On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and short taxi rides. Photo-focused stops may lose value, so keep only one or two essential daylight stops.
 
-Use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, move outdoor photo stops earlier because sunset comes quickly.
+Use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, move kly.
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/daegu-modern-street-content-320.webp 320w, /images/optimized/kto/daegu-modern-street-content-330.webp 330w, /images/optimized/kto/daegu-modern-street-content-360.webp 360w, /images/optimized/kto/daegu-modern-street-content-480.webp 480w, /images/optimized/kto/daegu-modern-street-content-520.webp 520w, /images/optimized/kto/daegu-modern-street-content-640.webp 640w, /images/optimized/kto/daegu-modern-street-content-680.webp 680w, /images/optimized/kto/daegu-modern-street-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/daegu-modern-street-content.jpg" alt="Korea travel photo: 대구 계산예가" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-160.webp 160w, /images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-240.webp 240w, /images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-320.webp 320w, /images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-330.webp 330w, /images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-360.webp 360w, /images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-480.webp 480w, /images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-520.webp 520w, /images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-640.webp 640w, /images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-680.webp 680w, /images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-768.webp 768w, /images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-960.webp 960w, /images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1.jpg" alt="gyeongju history two day travel guide image - gyeongju history walk generated gyeongju history two day route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## Seasonal Notes

@@ -10,7 +10,7 @@ urlSlug: "busan-two-day-route"
 tags: ["부산", "1박2일", "해운대", "광안리", "감천문화마을"]
 publishedAt: "2026-05-18"
 updatedAt: "2026-05-18"
-heroImage: "/images/kto/busan-haeundae-view.jpg"
+heroImage: "/images/generated/unique/busan-haeundae-view-busan-two-day-route-1.jpg"
 imageAlt: "부산 해운대와 도심 전경"
 imageCredit: "ⓒ한국관광공사 포토코리아-김미숙"
 draft: false
@@ -180,10 +180,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/busan-haeundae-walk-320.webp 320w, /images/optimized/kto/busan-haeundae-walk-330.webp 330w, /images/optimized/kto/busan-haeundae-walk-360.webp 360w, /images/optimized/kto/busan-haeundae-walk-480.webp 480w, /images/optimized/kto/busan-haeundae-walk-520.webp 520w, /images/optimized/kto/busan-haeundae-walk-640.webp 640w, /images/optimized/kto/busan-haeundae-walk-680.webp 680w, /images/optimized/kto/busan-haeundae-walk-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/busan-haeundae-walk.jpg" alt="부산 해운대 달맞이길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-haeundae-walk-busan-two-day-route-1-160.webp 160w, /images/optimized/generated/unique/busan-haeundae-walk-busan-two-day-route-1-240.webp 240w, /images/optimized/generated/unique/busan-haeundae-walk-busan-two-day-route-1-320.webp 320w, /images/optimized/generated/unique/busan-haeundae-walk-busan-two-day-route-1-330.webp 330w, /images/optimized/generated/unique/busan-haeundae-walk-busan-two-day-route-1-360.webp 360w, /images/optimized/generated/unique/busan-haeundae-walk-busan-two-day-route-1-480.webp 480w, /images/optimized/generated/unique/busan-haeundae-walk-busan-two-day-route-1-520.webp 520w, /images/optimized/generated/unique/busan-haeundae-walk-busan-two-day-route-1-640.webp 640w, /images/optimized/generated/unique/busan-haeundae-walk-busan-two-day-route-1-680.webp 680w, /images/optimized/generated/unique/busan-haeundae-walk-busan-two-day-route-1-768.webp 768w, /images/optimized/generated/unique/busan-haeundae-walk-busan-two-day-route-1-960.webp 960w, /images/optimized/generated/unique/busan-haeundae-walk-busan-two-day-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/busan-haeundae-walk-busan-two-day-route-1.jpg" alt="busan two day route travel guide image - busan haeundae walk busan two day route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 시간대별로 짜는 방법
@@ -196,10 +196,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/busan-gwangan-bridge-320.webp 320w, /images/optimized/kto/busan-gwangan-bridge-330.webp 330w, /images/optimized/kto/busan-gwangan-bridge-360.webp 360w, /images/optimized/kto/busan-gwangan-bridge-480.webp 480w, /images/optimized/kto/busan-gwangan-bridge-520.webp 520w, /images/optimized/kto/busan-gwangan-bridge-640.webp 640w, /images/optimized/kto/busan-gwangan-bridge-680.webp 680w, /images/optimized/kto/busan-gwangan-bridge-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/busan-gwangan-bridge.jpg" alt="부산 광안대교 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-night-coast-generated-busan-two-day-route-1-160.webp 160w, /images/optimized/generated/unique/busan-night-coast-generated-busan-two-day-route-1-240.webp 240w, /images/optimized/generated/unique/busan-night-coast-generated-busan-two-day-route-1-320.webp 320w, /images/optimized/generated/unique/busan-night-coast-generated-busan-two-day-route-1-330.webp 330w, /images/optimized/generated/unique/busan-night-coast-generated-busan-two-day-route-1-360.webp 360w, /images/optimized/generated/unique/busan-night-coast-generated-busan-two-day-route-1-480.webp 480w, /images/optimized/generated/unique/busan-night-coast-generated-busan-two-day-route-1-520.webp 520w, /images/optimized/generated/unique/busan-night-coast-generated-busan-two-day-route-1-640.webp 640w, /images/optimized/generated/unique/busan-night-coast-generated-busan-two-day-route-1-680.webp 680w, /images/optimized/generated/unique/busan-night-coast-generated-busan-two-day-route-1-768.webp 768w, /images/optimized/generated/unique/busan-night-coast-generated-busan-two-day-route-1-960.webp 960w, /images/optimized/generated/unique/busan-night-coast-generated-busan-two-day-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/busan-night-coast-generated-busan-two-day-route-1.jpg" alt="busan two day route travel guide image - busan night coast generated busan two day route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-박성근</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 대중교통, 택시, 렌터카 선택 기준
@@ -229,10 +229,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/busan-gamcheon-village-320.webp 320w, /images/optimized/kto/busan-gamcheon-village-330.webp 330w, /images/optimized/kto/busan-gamcheon-village-360.webp 360w, /images/optimized/kto/busan-gamcheon-village-480.webp 480w, /images/optimized/kto/busan-gamcheon-village-520.webp 520w, /images/optimized/kto/busan-gamcheon-village-640.webp 640w, /images/optimized/kto/busan-gamcheon-village-680.webp 680w, /images/optimized/kto/busan-gamcheon-village-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/busan-gamcheon-village.jpg" alt="부산 감천문화마을 전경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/busan-hillside-village-generated-160.webp 160w, /images/optimized/generated/busan-hillside-village-generated-240.webp 240w, /images/optimized/generated/busan-hillside-village-generated-320.webp 320w, /images/optimized/generated/busan-hillside-village-generated-330.webp 330w, /images/optimized/generated/busan-hillside-village-generated-360.webp 360w, /images/optimized/generated/busan-hillside-village-generated-480.webp 480w, /images/optimized/generated/busan-hillside-village-generated-520.webp 520w, /images/optimized/generated/busan-hillside-village-generated-640.webp 640w, /images/optimized/generated/busan-hillside-village-generated-680.webp 680w, /images/optimized/generated/busan-hillside-village-generated-768.webp 768w, /images/optimized/generated/busan-hillside-village-generated-960.webp 960w, /images/optimized/generated/busan-hillside-village-generated-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/busan-hillside-village-generated.jpg" alt="busan two day route travel guide image - busan hillside village generated" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-오한솔</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 숙소 위치와 식사 타이밍
@@ -249,10 +249,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/busan-jagalchi-market-320.webp 320w, /images/optimized/kto/busan-jagalchi-market-330.webp 330w, /images/optimized/kto/busan-jagalchi-market-360.webp 360w, /images/optimized/kto/busan-jagalchi-market-480.webp 480w, /images/optimized/kto/busan-jagalchi-market-520.webp 520w, /images/optimized/kto/busan-jagalchi-market-640.webp 640w, /images/optimized/kto/busan-jagalchi-market-680.webp 680w, /images/optimized/kto/busan-jagalchi-market-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/busan-jagalchi-market.jpg" alt="부산 자갈치시장" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-jagalchi-market-busan-two-day-route-1-160.webp 160w, /images/optimized/generated/unique/busan-jagalchi-market-busan-two-day-route-1-240.webp 240w, /images/optimized/generated/unique/busan-jagalchi-market-busan-two-day-route-1-320.webp 320w, /images/optimized/generated/unique/busan-jagalchi-market-busan-two-day-route-1-330.webp 330w, /images/optimized/generated/unique/busan-jagalchi-market-busan-two-day-route-1-360.webp 360w, /images/optimized/generated/unique/busan-jagalchi-market-busan-two-day-route-1-480.webp 480w, /images/optimized/generated/unique/busan-jagalchi-market-busan-two-day-route-1-520.webp 520w, /images/optimized/generated/unique/busan-jagalchi-market-busan-two-day-route-1-640.webp 640w, /images/optimized/generated/unique/busan-jagalchi-market-busan-two-day-route-1-680.webp 680w, /images/optimized/generated/unique/busan-jagalchi-market-busan-two-day-route-1-768.webp 768w, /images/optimized/generated/unique/busan-jagalchi-market-busan-two-day-route-1-960.webp 960w, /images/optimized/generated/unique/busan-jagalchi-market-busan-two-day-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/busan-jagalchi-market-busan-two-day-route-1.jpg" alt="busan two day route travel guide image - busan jagalchi market busan two day route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 계절별 주의사항

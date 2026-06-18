@@ -10,9 +10,9 @@ urlSlug: "seoul-hangang-evening"
 tags: ["ソウル", "季節旅行", "韓国旅行", "seoul"]
 publishedAt: "2026-05-17"
 updatedAt: "2026-05-17"
-heroImage: "/images/kto/seoul-hangang-evening-content.jpg"
-imageAlt: "ソウル漢江夜景コース：汝矣島・盤浦の夕方散歩と準備物 main image"
-imageCredit: "ⓒ한국관광공사 포토코리아-이범수"
+heroImage: "/images/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-1.jpg"
+imageAlt: "ソウル漢江の夕方散策路と都市夜景"
+imageCredit: "ⓒKorea Playlist Image 2.0"
 draft: false
 ---
 
@@ -161,10 +161,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/seoul-one-day-palace-walk-content-320.webp 320w, /images/optimized/kto/seoul-one-day-palace-walk-content-330.webp 330w, /images/optimized/kto/seoul-one-day-palace-walk-content-360.webp 360w, /images/optimized/kto/seoul-one-day-palace-walk-content-480.webp 480w, /images/optimized/kto/seoul-one-day-palace-walk-content-520.webp 520w, /images/optimized/kto/seoul-one-day-palace-walk-content-640.webp 640w, /images/optimized/kto/seoul-one-day-palace-walk-content-680.webp 680w, /images/optimized/kto/seoul-one-day-palace-walk-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/seoul-one-day-palace-walk-content.jpg" alt="韓国旅行写真：서울 고궁 단청" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-160.webp 160w, /images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-240.webp 240w, /images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-320.webp 320w, /images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-330.webp 330w, /images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-360.webp 360w, /images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-480.webp 480w, /images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-520.webp 520w, /images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-640.webp 640w, /images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-680.webp 680w, /images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-768.webp 768w, /images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-960.webp 960w, /images/optimized/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-one-day-palace-walk-content-seoul-hangang-night-walk-1.jpg" alt="seoul hangang evening travel guide image - seoul one day palace walk content seoul hangang night walk 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 時間帯ごとの考え方
@@ -173,14 +173,12 @@ draft: false
 
 夜景や市場を入れる場合は、最後に置くと移動が単純になります。
 
-似たルートで迷う場合は、まず[ソウル日帰り徒歩コース：景福宮・北村・仁寺洞を歩く1日旅](/ja/travel/seoul/seoul-one-day-palace-walk/)を比較してください。食事、交通、季節の条件を詰めたい時は[2026年の韓国旅行はいつ行く？季節別おすすめ旅行先と準備ポイント](/ja/travel/seoul/korea-season-travel-calendar/)も参考になります。
-
-<figure class="content-photo">
+似たルートで迷う場合は、まず[ソウル日帰り徒歩コース：景福宮・北村・仁寺洞を歩く1日旅](/ja/travel/seoul/seoul-one-day-palace-walk/)を比較してください。食事、交通、季節の条件を詰めたい時は[2026年の韓国旅行はいつ行く？季節別おすすめ旅行先と準備ポイント](/ja/travel/igure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/incheon-open-port-content-320.webp 320w, /images/optimized/kto/incheon-open-port-content-330.webp 330w, /images/optimized/kto/incheon-open-port-content-360.webp 360w, /images/optimized/kto/incheon-open-port-content-480.webp 480w, /images/optimized/kto/incheon-open-port-content-520.webp 520w, /images/optimized/kto/incheon-open-port-content-640.webp 640w, /images/optimized/kto/incheon-open-port-content-680.webp 680w, /images/optimized/kto/incheon-open-port-content-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/incheon-open-port-content.jpg" alt="韓国旅行写真：인천 차이나타운" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-160.webp 160w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-240.webp 240w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-320.webp 320w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-330.webp 330w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-360.webp 360w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-480.webp 480w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-520.webp 520w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-640.webp 640w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-680.webp 680w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-768.webp 768w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-960.webp 960w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1.jpg" alt="ソウルの宮殿散策路と都市風景" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+  <figcaption>ⓒKorea Playlist Image 2.0</figcaption>
 </figure>
 
 ## 公共交通・タクシー・レンタカーの選び方
@@ -210,10 +208,10 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/myrealtrip/seoul-1-320.webp 320w, /images/optimized/myrealtrip/seoul-1-330.webp 330w, /images/optimized/myrealtrip/seoul-1-360.webp 360w, /images/optimized/myrealtrip/seoul-1-480.webp 480w, /images/optimized/myrealtrip/seoul-1-520.webp 520w, /images/optimized/myrealtrip/seoul-1-640.webp 640w, /images/optimized/myrealtrip/seoul-1-680.webp 680w, /images/optimized/myrealtrip/seoul-1-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/myrealtrip/seoul-1.jpg" alt="韓国旅行写真：서울 여행 숙소 참고 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-160.webp 160w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-240.webp 240w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-320.webp 320w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-330.webp 330w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-360.webp 360w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-480.webp 480w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-520.webp 520w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-640.webp 640w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-680.webp 680w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-768.webp 768w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-960.webp 960w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-hangang-evening-generated-seoul-hangang-night-walk-2.jpg" alt="seoul hangang evening travel guide image - seoul hangang evening generated seoul hangang night walk 2" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒmyrealtrip</figcaption>
+  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
 </figure>
 
 ## 宿泊エリアと食事のタイミング
@@ -224,14 +222,14 @@ draft: false
 
 ## 雨の日・暑い日の代替案
 
-雨の日は屋外の滞在時間を減らし、屋内展示、市場、カフェ、短距離タクシーを組み合わせます。写真目的の場所は満足度が下がることがあるため、日中の重要スポットを1〜2か所だけ残すと安心です。
+雨の日は屋外の滞在時間を減らし、屋内展示、市場、カフェ、ることがあるため、日中の重要スポットを1〜2か所だけ残すと安心です。
 
 残りは食事と休憩に切り替えます。夏は昼の長い徒歩移動を避け、冬は日没が早いので屋外写真スポットを前半に寄せてください。
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/myrealtrip/seoul-2-320.webp 320w, /images/optimized/myrealtrip/seoul-2-330.webp 330w, /images/optimized/myrealtrip/seoul-2-360.webp 360w, /images/optimized/myrealtrip/seoul-2-480.webp 480w, /images/optimized/myrealtrip/seoul-2-520.webp 520w, /images/optimized/myrealtrip/seoul-2-640.webp 640w, /images/optimized/myrealtrip/seoul-2-680.webp 680w, /images/optimized/myrealtrip/seoul-2-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/myrealtrip/seoul-2.jpg" alt="韓国旅行写真：서울 도심 숙소 참고 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/myrealtrip/seoul-2-160.webp 160w, /images/optimized/myrealtrip/seoul-2-240.webp 240w, /images/optimized/myrealtrip/seoul-2-320.webp 320w, /images/optimized/myrealtrip/seoul-2-330.webp 330w, /images/optimized/myrealtrip/seoul-2-360.webp 360w, /images/optimized/myrealtrip/seoul-2-480.webp 480w, /images/optimized/myrealtrip/seoul-2-520.webp 520w, /images/optimized/myrealtrip/seoul-2-640.webp 640w, /images/optimized/myrealtrip/seoul-2-680.webp 680w, /images/optimized/myrealtrip/seoul-2-768.webp 768w, /images/optimized/myrealtrip/seoul-2-960.webp 960w, /images/optimized/myrealtrip/seoul-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/myrealtrip/seoul-2.jpg" alt="seoul hangang evening travel guide image - seoul 2" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>ⓒmyrealtrip</figcaption>
 </figure>
