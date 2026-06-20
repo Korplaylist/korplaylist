@@ -1,19 +1,18 @@
 {
-  "date": "2026-06-19",
-  "timezone": "Asia/Seoul",
-  "lastCheckedAt": "2026-06-19T10:31:04+09:00",
-  "lastPublishedAt": "2026-06-19T10:31:04+09:00",
-  "todayTarget": 3,
-  "todayPublished": 2,
-  "targetPublishTimes": [
-    "2026-06-19T07:23:00+09:00",
-    "2026-06-19T10:23:00+09:00",
-    "2026-06-19T13:23:00+09:00"
-  ],
-  "currentLanguageStage": "en",
-  "planningBundle": "busan-arrival-flow",
-  "nextPublishAfter": "2026-06-19T13:23:00+09:00",
-  "canPublishNow": false,
-  "blockedReason": "Waiting for next target publish slot at 2026-06-19T13:23:00+09:00 Asia/Seoul.",
-  "pendingDraft": ""
+    "date":  "2026-06-21",
+    "timezone":  "Asia/Seoul",
+    "lastCheckedAt":  "2026-06-21T07:30:12+09:00",
+    "lastPublishedAt":  "2026-06-21T07:30:12+09:00",
+    "todayTarget":  2,
+    "todayPublished":  1,
+    "targetPublishTimes":  [
+                               "2026-06-21T07:23:00+09:00",
+                               "2026-06-21T10:23:00+09:00"
+                           ],
+    "currentLanguageStage":  "ko",
+    "planningBundle":  null,
+    "nextPublishAfter":  "2026-06-21T10:23:00+09:00",
+    "canPublishNow":  false,
+    "blockedReason":  "Waiting for the next target publish slot at 2026-06-21T10:23:00+09:00 in Asia/Seoul.",
+    "pendingDraft":  null
 }
