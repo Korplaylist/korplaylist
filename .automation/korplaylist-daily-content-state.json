@@ -1,19 +1,30 @@
 ﻿{
     "date":  "2026-06-22",
     "timezone":  "Asia/Seoul",
-    "lastCheckedAt":  "2026-06-22T10:27:25.5560343+09:00",
-    "lastPublishedAt":  "2026-06-22T10:27:25.5560343+09:00",
+    "lastCheckedAt":  "2026-06-22T13:37:22.4990154+09:00",
+    "lastPublishedAt":  "2026-06-22T13:37:22.4990154+09:00",
     "todayTarget":  3,
-    "todayPublished":  2,
+    "todayPublished":  3,
     "targetPublishTimes":  [
                                "2026-06-22T07:23:00.0000000+09:00",
                                "2026-06-22T10:23:00.0000000+09:00",
                                "2026-06-22T13:23:00.0000000+09:00"
                            ],
-    "currentLanguageStage":  "ko",
-    "planningBundle":  null,
-    "nextPublishAfter":  "2026-06-22T13:23:00.0000000+09:00",
+    "currentLanguageStage":  "en",
+    "planningBundle":  {
+                           "translationKey":  "seoul-rainy-day-first-trip",
+                           "regionSlug":  "seoul",
+                           "sourceLocale":  "ko",
+                           "remainingLocales":  [
+                                                    "en",
+                                                    "ja"
+                                                ]
+                       },
+    "nextPublishAfter":  null,
     "canPublishNow":  false,
-    "blockedReason":  "Waiting for the next scheduled publish slot in Asia/Seoul.",
-    "pendingDraft":  null
+    "blockedReason":  "Today's publishing target is complete for 2026-06-22 in Asia/Seoul. Next work starts tomorrow.",
+    "pendingDraft":  {
+                         "translationKey":  "seoul-rainy-day-first-trip",
+                         "file":  "src/content/travel/seoul-rainy-day-first-trip.md"
+                     }
 }
