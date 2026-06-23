@@ -1,15 +1,15 @@
 {
     "date":  "2026-06-23",
     "timezone":  "Asia/Seoul",
-    "lastCheckedAt":  "2026-06-23T07:27:27.0365677+09:00",
-    "lastPublishedAt":  "2026-06-23T07:27:27.0365677+09:00",
+    "lastCheckedAt":  "2026-06-23T10:29:09+09:00",
+    "lastPublishedAt":  "2026-06-23T10:29:09+09:00",
     "todayTarget":  2,
-    "todayPublished":  1,
+    "todayPublished":  2,
     "targetPublishTimes":  [
                                "2026-06-23T07:23:00.0000000+09:00",
                                "2026-06-23T10:23:00.0000000+09:00"
                            ],
-    "currentLanguageStage":  "ja",
+    "currentLanguageStage":  null,
     "planningBundle":  {
                            "translationKey":  "seoul-rainy-day-first-trip",
                            "regionSlug":  "seoul",
@@ -18,11 +18,8 @@
                                                     "ja"
                                                 ]
                        },
-    "nextPublishAfter":  "2026-06-23T10:23:00.0000000+09:00",
+    "nextPublishAfter":  null,
     "canPublishNow":  false,
-    "blockedReason":  "Waiting for the next target publish slot at 2026-06-23T10:23:00+09:00 in Asia/Seoul.",
-    "pendingDraft":  {
-                         "translationKey":  "seoul-rainy-day-first-trip",
-                         "file":  "src/content/travel/seoul-rainy-day-first-trip-ja.md"
-                     }
+    "blockedReason":  "The daily target is complete for 2026-06-23 in Asia/Seoul. The next work starts tomorrow.",
+    "pendingDraft":  null
 }
