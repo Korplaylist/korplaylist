@@ -12,9 +12,15 @@ export async function getStaticPaths() {
 
 const { region } = Astro.props;
 const regionPosts = posts.filter((post) => getPostRegion(post) === region);
+const hasRegionPosts = regionPosts.length > 0;
 ---
 
-<BaseLayout title={`${region} 여행`} description={`${region} 여행 코스, 교통, 비용, 방문 팁을 정리한 글입니다.`} canonical={getRegionUrl(region)}>
+<BaseLayout
+  title={`${region} 여행`}
+  description={`${region} 여행 코스, 교통, 비용, 방문 팁을 정리한 글입니다.`}
+  canonical={getRegionUrl(region)}
+  noindex={!hasRegionPosts}
+>
   <section class="page-shell">
     <p class="eyebrow">Region</p>
     <h1>{region} 여행</h1>
