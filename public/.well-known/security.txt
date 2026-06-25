@@ -1,0 +1,5 @@
+Contact: mailto:korplaylist.hong@gmail.com
+Expires: 2027-06-25T23:59:59+09:00
+Preferred-Languages: ko, en, ja
+Canonical: https://korplaylist.com/.well-known/security.txt
+Policy: https://korplaylist.com/privacy/
