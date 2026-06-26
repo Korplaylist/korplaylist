@@ -1,7 +1,7 @@
 ---
 title: "수원 화성 반나절 코스 2026: 화성행궁, 행리단길, 방화수류정까지 처음 가는 동선"
 description: "서울 근교 반나절 여행으로 수원 화성을 처음 가는 사람을 위해 화성행궁, 행리단길, 방화수류정, 연무대까지 이어지는 동선과 교통, 비용, 머물기 좋은 위치를 정리했습니다."
-category: "도시 산책"
+category: "여행 코스"
 region: "수원"
 locale: "ko"
 translationKey: "suwon-hwaseong-half-day"
@@ -13,7 +13,6 @@ updatedAt: "2026-06-26"
 heroImage: "/images/generated/unique/suwon-banghwasuryujeong-suwon-hwaseong-half-day-1.jpg"
 imageAlt: "초여름 오전 수원 화성 방화수류정과 성곽 연못 풍경"
 imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
-adsenseReady: false
 draft: false
 ---
 
@@ -176,6 +175,21 @@ VISITKOREA는 화성어차를 화성행궁 출발 관광 코스와 연무대 출
 초여름과 가을은 성곽 걷기 비중을 조금 늘려도 괜찮지만, 한여름 낮 시간에는 `행궁 관람 - 카페 휴식 - 방화수류정 짧은 산책`처럼 실내와 그늘을 섞는 편이 좋습니다. 겨울에는 바람이 강하면 연무대 쪽 체감 추위가 커질 수 있어 화성어차 같은 짧은 보조 코스를 붙이는 편이 더 편안합니다.
 
 만약 야간 개장이나 특별 행사 시즌과 겹친다면 반나절 코스를 낮에 끝내고, 저녁에는 화성행궁 야간 입장만 따로 분리하는 편이 좋습니다. 낮 코스와 밤 코스를 한 번에 합치면 대기 시간과 체력이 겹쳐 일정이 갑자기 무거워질 수 있습니다.
+
+<section class="article-note adsense-repair-note">
+  <h2>출발 전 마지막으로 확인할 기준</h2>
+  <p>수원 도시 산책 글은 지도상 최단 시간만 보고 고르면 실제 여행에서 흔들리기 쉽습니다. 도착 시간, 짐의 크기, 비나 더위, 체크인 전 공백, 첫 식사 위치, 마지막 이동 거리를 함께 봐야 첫 여행자가 체감하는 피로도가 줄어듭니다.</p>
+  <p><strong>수원 화성 반나절 코스 2026: 화성행궁, 행리단길, 방화수류정까지 처음 가는 동선</strong>을 기본안으로 잡되, 당일 상황에 따라 한두 가지만 조정하는 편이 좋습니다. 비 예보가 있으면 야외 구간을 앞당기고, 캐리어가 있으면 역이나 숙소 근처에서 먼저 정리하며, 다음 날 일정이 이른 경우에는 밤 동선을 짧게 끝내는 쪽이 안전합니다.</p>
+  <p>특히 검색으로 들어온 여행자라면 “어디가 유명한가”보다 “내 시간대와 짐 상태에서 덜 꼬이는가”를 먼저 확인해야 합니다. 이 글의 동선과 비용 기준은 그런 판단을 빠르게 하기 위한 기준점으로 보면 됩니다.</p>
+</section>
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/suwon-hwaseong-01-160.webp 160w, /images/optimized/official/suwon-hwaseong-01-240.webp 240w, /images/optimized/official/suwon-hwaseong-01-320.webp 320w, /images/optimized/official/suwon-hwaseong-01-330.webp 330w, /images/optimized/official/suwon-hwaseong-01-360.webp 360w, /images/optimized/official/suwon-hwaseong-01-480.webp 480w, /images/optimized/official/suwon-hwaseong-01-520.webp 520w, /images/optimized/official/suwon-hwaseong-01-640.webp 640w, /images/optimized/official/suwon-hwaseong-01-680.webp 680w, /images/optimized/official/suwon-hwaseong-01-768.webp 768w, /images/optimized/official/suwon-hwaseong-01-960.webp 960w, /images/optimized/official/suwon-hwaseong-01-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/suwon-hwaseong-01.jpg" alt="수원화성 성곽길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ한국관광공사 포토코리아-김지호</figcaption>
+</figure>
 
 ## 자주 묻는 질문
 

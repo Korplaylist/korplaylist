@@ -13,7 +13,6 @@ updatedAt: "2026-06-26"
 heroImage: "/images/official/daejeon-expo-bridge-sunset-original.jpg"
 imageAlt: "대전 엑스포다리와 한빛탑이 보이는 여름 저녁 노을 풍경"
 imageCredit: "ⓒ대전관광"
-adsenseReady: false
 draft: false
 ---
 
@@ -173,6 +172,29 @@ draft: false
 비가 오면 한빛탑 광장과 엑스포다리 체류 시간을 줄이고, 신세계 Art & Science 실내 비중을 높인 뒤 비가 약해질 때만 짧게 광장 쪽으로 나가는 편이 좋습니다. 한밭수목원은 우천 시 분위기는 좋을 수 있어도 바닥 상태와 체류 만족도가 들쭉날쭉합니다.
 
 한여름에는 일몰 전까지 실내에 머물다가 해가 낮아지는 시간에 광장과 다리로 이동하는 편이 훨씬 편합니다. 비슷한 계절 계획이 필요하면 [국내여행 언제 갈까? 계절별 추천 여행지와 준비 포인트 2026](/travel/seoul/korea-season-travel-calendar/)도 함께 보면 좋습니다.
+
+<section class="article-note adsense-repair-note">
+  <h2>출발 전 마지막으로 확인할 기준</h2>
+  <p>대전 여행 코스 글은 지도상 최단 시간만 보고 고르면 실제 여행에서 흔들리기 쉽습니다. 도착 시간, 짐의 크기, 비나 더위, 체크인 전 공백, 첫 식사 위치, 마지막 이동 거리를 함께 봐야 첫 여행자가 체감하는 피로도가 줄어듭니다.</p>
+  <p><strong>대전 엑스포과학공원 야경 코스 2026: 한빛탑·엑스포다리·한밭수목원 저녁 동선</strong>을 기본안으로 잡되, 당일 상황에 따라 한두 가지만 조정하는 편이 좋습니다. 비 예보가 있으면 야외 구간을 앞당기고, 캐리어가 있으면 역이나 숙소 근처에서 먼저 정리하며, 다음 날 일정이 이른 경우에는 밤 동선을 짧게 끝내는 쪽이 안전합니다.</p>
+  <p>특히 검색으로 들어온 여행자라면 “어디가 유명한가”보다 “내 시간대와 짐 상태에서 덜 꼬이는가”를 먼저 확인해야 합니다. 이 글의 동선과 비용 기준은 그런 판단을 빠르게 하기 위한 기준점으로 보면 됩니다.</p>
+</section>
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/daejeon-seogu-expo-bridge-publicdata-160.webp 160w, /images/optimized/official/daejeon-seogu-expo-bridge-publicdata-240.webp 240w, /images/optimized/official/daejeon-seogu-expo-bridge-publicdata-320.webp 320w, /images/optimized/official/daejeon-seogu-expo-bridge-publicdata-330.webp 330w, /images/optimized/official/daejeon-seogu-expo-bridge-publicdata-360.webp 360w, /images/optimized/official/daejeon-seogu-expo-bridge-publicdata-480.webp 480w, /images/optimized/official/daejeon-seogu-expo-bridge-publicdata-520.webp 520w, /images/optimized/official/daejeon-seogu-expo-bridge-publicdata-640.webp 640w, /images/optimized/official/daejeon-seogu-expo-bridge-publicdata-680.webp 680w, /images/optimized/official/daejeon-seogu-expo-bridge-publicdata-768.webp 768w, /images/optimized/official/daejeon-seogu-expo-bridge-publicdata-960.webp 960w, /images/optimized/official/daejeon-seogu-expo-bridge-publicdata-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/daejeon-seogu-expo-bridge-publicdata.jpg" alt="대전 엑스포다리" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ한국관광공사 포토코리아-대전광역시 서구</figcaption>
+</figure>
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/daejeon-expo-park-tourism-160.webp 160w, /images/optimized/official/daejeon-expo-park-tourism-240.webp 240w, /images/optimized/official/daejeon-expo-park-tourism-320.webp 320w, /images/optimized/official/daejeon-expo-park-tourism-330.webp 330w, /images/optimized/official/daejeon-expo-park-tourism-360.webp 360w, /images/optimized/official/daejeon-expo-park-tourism-480.webp 480w, /images/optimized/official/daejeon-expo-park-tourism-520.webp 520w, /images/optimized/official/daejeon-expo-park-tourism-640.webp 640w, /images/optimized/official/daejeon-expo-park-tourism-680.webp 680w, /images/optimized/official/daejeon-expo-park-tourism-768.webp 768w, /images/optimized/official/daejeon-expo-park-tourism-960.webp 960w, /images/optimized/official/daejeon-expo-park-tourism-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/daejeon-expo-park-tourism.jpg" alt="엑스포과학공원" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ한국관광공사 포토코리아-강윤구</figcaption>
+</figure>
 
 ## 자주 묻는 질문
 

@@ -13,7 +13,6 @@ updatedAt: "2026-06-25"
 heroImage: "/images/generated/busan-gimhae-airport-to-gwangalli-hero-generated.jpg"
 imageAlt: "Travelers rolling suitcases along the Gwangalli beachfront walkway in early summer evening light"
 imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
-adsenseReady: false
 draft: false
 ---
 
@@ -171,3 +170,11 @@ For one person in daytime, it is clearly more expensive than public transport. B
 ### Can I use a Busan metro day pass for the airport transfer?
 
 No. According to Busan Transportation Corporation guidance, the 1-day and 3-day passes do not apply to buses, the Donghae Line, or the Busan-Gimhae Light Rail. Because the Gimhae Airport route includes the light rail segment, you should not decide the transfer based only on a metro day pass.
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/busan-gimhae-airport-03-160.webp 160w, /images/optimized/official/busan-gimhae-airport-03-240.webp 240w, /images/optimized/official/busan-gimhae-airport-03-320.webp 320w, /images/optimized/official/busan-gimhae-airport-03-330.webp 330w, /images/optimized/official/busan-gimhae-airport-03-360.webp 360w, /images/optimized/official/busan-gimhae-airport-03-480.webp 480w, /images/optimized/official/busan-gimhae-airport-03-520.webp 520w, /images/optimized/official/busan-gimhae-airport-03-640.webp 640w, /images/optimized/official/busan-gimhae-airport-03-680.webp 680w, /images/optimized/official/busan-gimhae-airport-03-768.webp 768w, /images/optimized/official/busan-gimhae-airport-03-960.webp 960w, /images/optimized/official/busan-gimhae-airport-03-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/busan-gimhae-airport-03.jpg" alt="김해국제공항" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ 한국관광공사 포토코리아-이범수</figcaption>
+</figure>

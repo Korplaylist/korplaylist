@@ -13,7 +13,6 @@ updatedAt: "2026-06-23"
 heroImage: "/images/generated/seoul-rainy-day-museum-arrival-generated.jpg"
 imageAlt: "夏の雨が降るソウル龍山の国立中央博物館前広場に傘を差して入っていく旅行者"
 imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
-adsenseReady: false
 draft: false
 ---
 
@@ -213,6 +212,22 @@ draft: false
 二つ目は、靴と傘の影響を軽く見ることです。ソウルは駅と建物の間の短い地上移動が重なりやすいので、防水の靴や替えの靴下があるだけで疲れ方が変わります。
 
 三つ目は、天気が少し回復した瞬間に予定を増やしすぎることです。漢江や屋外散歩は短く確認するだけで十分で、「もう一つ屋外名所を足す」と考え始めると帰りの時間が崩れやすくなります。
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/seoul-museum-01-160.webp 160w, /images/optimized/official/seoul-museum-01-240.webp 240w, /images/optimized/official/seoul-museum-01-320.webp 320w, /images/optimized/official/seoul-museum-01-330.webp 330w, /images/optimized/official/seoul-museum-01-360.webp 360w, /images/optimized/official/seoul-museum-01-480.webp 480w, /images/optimized/official/seoul-museum-01-520.webp 520w, /images/optimized/official/seoul-museum-01-640.webp 640w, /images/optimized/official/seoul-museum-01-680.webp 680w, /images/optimized/official/seoul-museum-01-768.webp 768w, /images/optimized/official/seoul-museum-01-960.webp 960w, /images/optimized/official/seoul-museum-01-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/seoul-museum-01.jpg" alt="남산이 보이는 서울 실루엣" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ 한국관광공사 포토코리아-유세종</figcaption>
+</figure>
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/seoul-yeouido-01-160.webp 160w, /images/optimized/official/seoul-yeouido-01-240.webp 240w, /images/optimized/official/seoul-yeouido-01-320.webp 320w, /images/optimized/official/seoul-yeouido-01-330.webp 330w, /images/optimized/official/seoul-yeouido-01-360.webp 360w, /images/optimized/official/seoul-yeouido-01-480.webp 480w, /images/optimized/official/seoul-yeouido-01-520.webp 520w, /images/optimized/official/seoul-yeouido-01-640.webp 640w, /images/optimized/official/seoul-yeouido-01-680.webp 680w, /images/optimized/official/seoul-yeouido-01-768.webp 768w, /images/optimized/official/seoul-yeouido-01-960.webp 960w, /images/optimized/official/seoul-yeouido-01-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/seoul-yeouido-01.jpg" alt="서울 여의도 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ 한국관광공사 포토코리아-이범수</figcaption>
+</figure>
 
 ## よくある質問
 

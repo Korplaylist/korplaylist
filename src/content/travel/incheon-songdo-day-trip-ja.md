@@ -13,7 +13,6 @@ updatedAt: "2026-06-22"
 heroImage: "/images/generated/incheon-songdo-central-park-morning-generated.jpg"
 imageAlt: "朝の仁川松島セントラルパークで水辺の散歩道と高層ビル群を眺める風景"
 imageCredit: "Korea Playlist Image 2.0"
-adsenseReady: false
 draft: false
 ---
 
@@ -186,6 +185,20 @@ draft: false
 次に多いのは、日差しや風の影響を軽く見ることです。ルート自体は簡単でも、屋外滞在時間が長くなると疲れ方が変わります。
 
 三つ目は、松島と他の仁川エリアを一日に詰め込みすぎることです。快適な初訪問を優先するなら、一日一地区の考え方が合っています。
+
+<section class="article-note adsense-repair-note">
+  <h2>出発前に確認したい実用メモ</h2>
+  <p>仁川のモデルコースを組むときは、地図上の最短時間だけで決めないほうが安全です。到着時刻、荷物、雨や暑さ、チェックインまでの空き時間、最後の移動距離を一緒に見ると、初めての旅行でも予定が崩れにくくなります。</p>
+  <p><strong>仁川松島日帰り旅行 2026: セントラルパークとトライボウル、Gタワーを歩く定番ルート</strong>は基本ルートとして使い、天気や体力に合わせて一つだけ優先順位を変えるのがおすすめです。屋外の見どころは早めに、駅や宿の近くで食事を済ませる日は移動を短く、翌朝が早い日は夜景や市場を無理に足さないほうが満足度が安定します。</p>
+</section>
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/incheon-songdo-01-160.webp 160w, /images/optimized/official/incheon-songdo-01-240.webp 240w, /images/optimized/official/incheon-songdo-01-320.webp 320w, /images/optimized/official/incheon-songdo-01-330.webp 330w, /images/optimized/official/incheon-songdo-01-360.webp 360w, /images/optimized/official/incheon-songdo-01-480.webp 480w, /images/optimized/official/incheon-songdo-01-520.webp 520w, /images/optimized/official/incheon-songdo-01-640.webp 640w, /images/optimized/official/incheon-songdo-01-680.webp 680w, /images/optimized/official/incheon-songdo-01-768.webp 768w, /images/optimized/official/incheon-songdo-01-960.webp 960w, /images/optimized/official/incheon-songdo-01-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/incheon-songdo-01.jpg" alt="송도국제도시 센트럴파크 권역" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ 한국관광공사 포토코리아-이범수</figcaption>
+</figure>
 
 ## よくある質問
 

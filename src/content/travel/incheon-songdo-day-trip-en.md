@@ -13,7 +13,6 @@ updatedAt: "2026-06-22"
 heroImage: "/images/generated/incheon-songdo-central-park-morning-generated.jpg"
 imageAlt: "Morning walking view at Incheon Songdo Central Park with waterside paths and modern skyline"
 imageCredit: "Korea Playlist Image 2.0"
-adsenseReady: false
 draft: false
 ---
 
@@ -200,3 +199,11 @@ Half a day works if you only want Central Park and one additional stop. A full r
 
 ### What is the best season for this route?
 Spring and autumn are the easiest. Summer is still possible, but the walking load feels heavier, so indoor breaks matter more.
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/incheon-songdo-01-160.webp 160w, /images/optimized/official/incheon-songdo-01-240.webp 240w, /images/optimized/official/incheon-songdo-01-320.webp 320w, /images/optimized/official/incheon-songdo-01-330.webp 330w, /images/optimized/official/incheon-songdo-01-360.webp 360w, /images/optimized/official/incheon-songdo-01-480.webp 480w, /images/optimized/official/incheon-songdo-01-520.webp 520w, /images/optimized/official/incheon-songdo-01-640.webp 640w, /images/optimized/official/incheon-songdo-01-680.webp 680w, /images/optimized/official/incheon-songdo-01-768.webp 768w, /images/optimized/official/incheon-songdo-01-960.webp 960w, /images/optimized/official/incheon-songdo-01-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/incheon-songdo-01.jpg" alt="송도국제도시 센트럴파크 권역" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ 한국관광공사 포토코리아-이범수</figcaption>
+</figure>

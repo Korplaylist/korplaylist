@@ -13,7 +13,6 @@ updatedAt: "2026-06-19"
 heroImage: "/images/generated/busan-gimhae-airport-first-day-hero-generated.jpg"
 imageAlt: "Travelers checking rail and city transport signs after arriving at Gimhae Airport for a first Busan trip"
 imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
-adsenseReady: false
 draft: false
 ---
 
@@ -165,3 +164,19 @@ No. It works well when you arrive later, your hotel is already in the beach area
 ### What should I do if rain is likely on arrival day?
 
 Reduce the chance of a long beach-first transfer. Seomyeon or Busan Station usually gives you easier indoor backup options and a smoother luggage plan.
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/busan-gimhae-airport-01-160.webp 160w, /images/optimized/official/busan-gimhae-airport-01-240.webp 240w, /images/optimized/official/busan-gimhae-airport-01-320.webp 320w, /images/optimized/official/busan-gimhae-airport-01-330.webp 330w, /images/optimized/official/busan-gimhae-airport-01-360.webp 360w, /images/optimized/official/busan-gimhae-airport-01-480.webp 480w, /images/optimized/official/busan-gimhae-airport-01-520.webp 520w, /images/optimized/official/busan-gimhae-airport-01-640.webp 640w, /images/optimized/official/busan-gimhae-airport-01-680.webp 680w, /images/optimized/official/busan-gimhae-airport-01-768.webp 768w, /images/optimized/official/busan-gimhae-airport-01-960.webp 960w, /images/optimized/official/busan-gimhae-airport-01-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/busan-gimhae-airport-01.jpg" alt="김해국제공항" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ 한국관광공사 포토코리아-이범수</figcaption>
+</figure>
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/busan-gimhae-airport-02-160.webp 160w, /images/optimized/official/busan-gimhae-airport-02-240.webp 240w, /images/optimized/official/busan-gimhae-airport-02-320.webp 320w, /images/optimized/official/busan-gimhae-airport-02-330.webp 330w, /images/optimized/official/busan-gimhae-airport-02-360.webp 360w, /images/optimized/official/busan-gimhae-airport-02-480.webp 480w, /images/optimized/official/busan-gimhae-airport-02-520.webp 520w, /images/optimized/official/busan-gimhae-airport-02-640.webp 640w, /images/optimized/official/busan-gimhae-airport-02-680.webp 680w, /images/optimized/official/busan-gimhae-airport-02-768.webp 768w, /images/optimized/official/busan-gimhae-airport-02-960.webp 960w, /images/optimized/official/busan-gimhae-airport-02-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/busan-gimhae-airport-02.jpg" alt="김해국제공항 내부 이동 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ 한국관광공사 포토코리아-이범수</figcaption>
+</figure>

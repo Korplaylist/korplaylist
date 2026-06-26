@@ -13,7 +13,6 @@ updatedAt: "2026-06-18"
 heroImage: "/images/generated/busan-gimhae-airport-first-day-hero-generated.jpg"
 imageAlt: "김해공항 도착 후 경전철과 시내 교통 표지판을 확인하는 여행자"
 imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
-adsenseReady: false
 draft: false
 ---
 
@@ -147,6 +146,22 @@ draft: false
 장소를 많이 넣지 않는 것이 가장 중요합니다. 김해공항에서 부산으로 들어오는 첫날은 “공항 도착”, “도심 진입”, “짐 정리”, “첫 식사”, “체크인 또는 보관”, “저녁 일정”만으로도 이미 일정이 충분히 촘촘합니다. 여기서 서쪽 권역과 동쪽 권역을 동시에 넣으면 체감 피로가 급격히 올라갑니다.
 
 그래서 첫날은 서면, 부산역·남포동, 해운대 중 한 축만 확실히 선택하고 나머지는 둘째 날로 넘기는 편이 좋습니다. 부산은 유명한 곳이 많은 도시지만, 첫날 효율은 “많이 보는 것”보다 “무리 없이 이어지는 것”에서 결정됩니다.
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/busan-gimhae-airport-01-160.webp 160w, /images/optimized/official/busan-gimhae-airport-01-240.webp 240w, /images/optimized/official/busan-gimhae-airport-01-320.webp 320w, /images/optimized/official/busan-gimhae-airport-01-330.webp 330w, /images/optimized/official/busan-gimhae-airport-01-360.webp 360w, /images/optimized/official/busan-gimhae-airport-01-480.webp 480w, /images/optimized/official/busan-gimhae-airport-01-520.webp 520w, /images/optimized/official/busan-gimhae-airport-01-640.webp 640w, /images/optimized/official/busan-gimhae-airport-01-680.webp 680w, /images/optimized/official/busan-gimhae-airport-01-768.webp 768w, /images/optimized/official/busan-gimhae-airport-01-960.webp 960w, /images/optimized/official/busan-gimhae-airport-01-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/busan-gimhae-airport-01.jpg" alt="김해국제공항" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+</figure>
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/busan-gimhae-airport-02-160.webp 160w, /images/optimized/official/busan-gimhae-airport-02-240.webp 240w, /images/optimized/official/busan-gimhae-airport-02-320.webp 320w, /images/optimized/official/busan-gimhae-airport-02-330.webp 330w, /images/optimized/official/busan-gimhae-airport-02-360.webp 360w, /images/optimized/official/busan-gimhae-airport-02-480.webp 480w, /images/optimized/official/busan-gimhae-airport-02-520.webp 520w, /images/optimized/official/busan-gimhae-airport-02-640.webp 640w, /images/optimized/official/busan-gimhae-airport-02-680.webp 680w, /images/optimized/official/busan-gimhae-airport-02-768.webp 768w, /images/optimized/official/busan-gimhae-airport-02-960.webp 960w, /images/optimized/official/busan-gimhae-airport-02-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/busan-gimhae-airport-02.jpg" alt="김해국제공항 내부 이동 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
+</figure>
 
 ## 자주 묻는 질문
 

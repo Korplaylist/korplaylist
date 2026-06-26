@@ -13,7 +13,6 @@ updatedAt: "2026-06-17"
 heroImage: "/images/generated/unique/busan-station-busan-city-tour-red-line-first-day-1.jpg"
 imageAlt: "부산역 광장에서 시티투어 출발 동선을 준비하는 여행자 흐름"
 imageCredit: "ⓒ한국관광공사 포토코리아-이범수"
-adsenseReady: false
 draft: false
 ---
 
@@ -157,6 +156,21 @@ draft: false
     <img src="/images/generated/unique/busan-haeundae-view-busan-city-tour-red-line-first-day-1.jpg" alt="busan city tour red line first day travel guide image - busan haeundae view busan city tour red line first day 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+</figure>
+
+<section class="article-note adsense-repair-note">
+  <h2>출발 전 마지막으로 확인할 기준</h2>
+  <p>부산 교통 준비 글은 지도상 최단 시간만 보고 고르면 실제 여행에서 흔들리기 쉽습니다. 도착 시간, 짐의 크기, 비나 더위, 체크인 전 공백, 첫 식사 위치, 마지막 이동 거리를 함께 봐야 첫 여행자가 체감하는 피로도가 줄어듭니다.</p>
+  <p><strong>부산시티투어 레드라인 2026: 부산역 출발로 해운대·광안리 하루에 보는 법</strong>을 기본안으로 잡되, 당일 상황에 따라 한두 가지만 조정하는 편이 좋습니다. 비 예보가 있으면 야외 구간을 앞당기고, 캐리어가 있으면 역이나 숙소 근처에서 먼저 정리하며, 다음 날 일정이 이른 경우에는 밤 동선을 짧게 끝내는 쪽이 안전합니다.</p>
+  <p>특히 검색으로 들어온 여행자라면 “어디가 유명한가”보다 “내 시간대와 짐 상태에서 덜 꼬이는가”를 먼저 확인해야 합니다. 이 글의 동선과 비용 기준은 그런 판단을 빠르게 하기 위한 기준점으로 보면 됩니다.</p>
+</section>
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/busan-station-04-160.webp 160w, /images/optimized/official/busan-station-04-240.webp 240w, /images/optimized/official/busan-station-04-320.webp 320w, /images/optimized/official/busan-station-04-330.webp 330w, /images/optimized/official/busan-station-04-360.webp 360w, /images/optimized/official/busan-station-04-480.webp 480w, /images/optimized/official/busan-station-04-520.webp 520w, /images/optimized/official/busan-station-04-640.webp 640w, /images/optimized/official/busan-station-04-680.webp 680w, /images/optimized/official/busan-station-04-768.webp 768w, /images/optimized/official/busan-station-04-960.webp 960w, /images/optimized/official/busan-station-04-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/busan-station-04.jpg" alt="부산역 주변 첫 이동 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
 </figure>
 
 ## 자주 묻는 질문

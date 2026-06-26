@@ -13,7 +13,6 @@ updatedAt: "2026-06-20"
 heroImage: "/images/kto/busan-haeundae-view.jpg"
 imageAlt: "A wide coastal view of Haeundae Beach and the hotel district in Busan"
 imageCredit: "ⓒ한국관광공사 포토코리아-김민수"
-adsenseReady: false
 draft: false
 ---
 
@@ -168,3 +167,19 @@ Usually not unless your whole first evening is already built around the coast. A
 ### What is the safest choice in rainy weather?
 
 Taxi is the easiest if budget allows. If not, the airport limousine is usually the smoother compromise because it reduces the amount of wet walking and transfer movement.
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/busan-gimhae-airport-04-160.webp 160w, /images/optimized/official/busan-gimhae-airport-04-240.webp 240w, /images/optimized/official/busan-gimhae-airport-04-320.webp 320w, /images/optimized/official/busan-gimhae-airport-04-330.webp 330w, /images/optimized/official/busan-gimhae-airport-04-360.webp 360w, /images/optimized/official/busan-gimhae-airport-04-480.webp 480w, /images/optimized/official/busan-gimhae-airport-04-520.webp 520w, /images/optimized/official/busan-gimhae-airport-04-640.webp 640w, /images/optimized/official/busan-gimhae-airport-04-680.webp 680w, /images/optimized/official/busan-gimhae-airport-04-768.webp 768w, /images/optimized/official/busan-gimhae-airport-04-960.webp 960w, /images/optimized/official/busan-gimhae-airport-04-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/busan-gimhae-airport-04.jpg" alt="김해국제공항 내부 이동 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ 한국관광공사 포토코리아-이범수</figcaption>
+</figure>
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/busan-haeundae-05-160.webp 160w, /images/optimized/official/busan-haeundae-05-240.webp 240w, /images/optimized/official/busan-haeundae-05-320.webp 320w, /images/optimized/official/busan-haeundae-05-330.webp 330w, /images/optimized/official/busan-haeundae-05-360.webp 360w, /images/optimized/official/busan-haeundae-05-480.webp 480w, /images/optimized/official/busan-haeundae-05-520.webp 520w, /images/optimized/official/busan-haeundae-05-640.webp 640w, /images/optimized/official/busan-haeundae-05-680.webp 680w, /images/optimized/official/busan-haeundae-05-768.webp 768w, /images/optimized/official/busan-haeundae-05-960.webp 960w, /images/optimized/official/busan-haeundae-05-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/busan-haeundae-05.jpg" alt="해운대 달맞이길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ 한국관광공사 포토코리아-박성근</figcaption>
+</figure>

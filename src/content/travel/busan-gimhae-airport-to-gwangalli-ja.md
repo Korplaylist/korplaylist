@@ -13,7 +13,6 @@ updatedAt: "2026-06-25"
 heroImage: "/images/generated/busan-gimhae-airport-to-gwangalli-hero-generated.jpg"
 imageAlt: "初夏の夕方、スーツケースを引きながら広安里の海辺へ向かう旅行者"
 imageCredit: "한국 플레이리스트 이미지 2.0"
-adsenseReady: false
 draft: false
 ---
 
@@ -152,6 +151,14 @@ Visit Busanでは、海雲台ニュータウン方面の空港リムジンが南
 到着後すぐ海辺を歩きたいなら、[釜山1泊2日モデルコース 2026](/ja/travel/busan/busan-two-day-route/)の夜パートが参考になります。まず夕食動線を組みたいなら、[釜山市場グルメルート 2026](/ja/travel/busan/busan-market-food/)を合わせると初日の優先順位が整理しやすいです。
 
 出典: [Visit Busan travel preparation guide](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000303012002000), [Gimhae International Airport public transportation guide](https://www.airport.co.kr/gimhaeeng/cms/frCon/index.do?MENU_ID=110), [Gimhae International Airport taxi guide](https://www.airport.co.kr/gimhaeeng/cms/frCon/index.do?CONTENTS_NO=4&MENU_ID=110), [Busan Metropolitan City public transportation fares](https://www.busan.go.kr/eng/public-transportation), [Busan Transportation Corporation fare table](https://www2.humetro.busan.kr/homepage/cht/page/subLocation.do?menu_no=100601040101)
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/busan-gimhae-airport-03-160.webp 160w, /images/optimized/official/busan-gimhae-airport-03-240.webp 240w, /images/optimized/official/busan-gimhae-airport-03-320.webp 320w, /images/optimized/official/busan-gimhae-airport-03-330.webp 330w, /images/optimized/official/busan-gimhae-airport-03-360.webp 360w, /images/optimized/official/busan-gimhae-airport-03-480.webp 480w, /images/optimized/official/busan-gimhae-airport-03-520.webp 520w, /images/optimized/official/busan-gimhae-airport-03-640.webp 640w, /images/optimized/official/busan-gimhae-airport-03-680.webp 680w, /images/optimized/official/busan-gimhae-airport-03-768.webp 768w, /images/optimized/official/busan-gimhae-airport-03-960.webp 960w, /images/optimized/official/busan-gimhae-airport-03-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/busan-gimhae-airport-03.jpg" alt="김해국제공항" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ 한국관광공사 포토코리아-이범수</figcaption>
+</figure>
 
 ## よくある質問
 

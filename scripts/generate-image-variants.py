@@ -6,6 +6,7 @@ from PIL import Image
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE_DIRS = [
     ROOT / "public" / "images" / "kto",
+    ROOT / "public" / "images" / "official",
     ROOT / "public" / "images" / "myrealtrip",
     ROOT / "public" / "images" / "generated",
 ]

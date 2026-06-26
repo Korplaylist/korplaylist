@@ -10,10 +10,9 @@ urlSlug: "daejeon-station-bread-science-day"
 tags: ["대전", "대전역", "성심당", "한밭수목원", "엑스포과학공원"]
 publishedAt: "2026-06-26"
 updatedAt: "2026-06-26"
-heroImage: "/images/official/daejeon-expo-park-tourism.jpg"
+heroImage: "/images/official/daejeon-expo-park-03.jpg"
 imageAlt: "대전 엑스포과학공원과 한빛탑 주변을 걷는 여름 오후 풍경"
 imageCredit: "대전관광"
-adsenseReady: false
 draft: false
 ---
 
@@ -223,6 +222,30 @@ draft: false
 - 성심당 본점: [성심당 본점 공식 안내](https://sungsimdang.co.kr/31/15)
 - 한밭수목원: [대전광역시 한밭수목원 공식 홈페이지](https://www.daejeon.go.kr/gar/index.do)
 - 명소 소개: [대전관광 성심당 소개](https://daejeontour.co.kr/sights_djt/56), [대전관광 한밭수목원 소개](https://daejeontour.co.kr/sights_djt/71), [대전관광 엑스포과학공원 소개](https://daejeontour.co.kr/sights_djt/70)
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/daejeon-expo-park-04-160.webp 160w, /images/optimized/official/daejeon-expo-park-04-240.webp 240w, /images/optimized/official/daejeon-expo-park-04-320.webp 320w, /images/optimized/official/daejeon-expo-park-04-330.webp 330w, /images/optimized/official/daejeon-expo-park-04-360.webp 360w, /images/optimized/official/daejeon-expo-park-04-480.webp 480w, /images/optimized/official/daejeon-expo-park-04-520.webp 520w, /images/optimized/official/daejeon-expo-park-04-640.webp 640w, /images/optimized/official/daejeon-expo-park-04-680.webp 680w, /images/optimized/official/daejeon-expo-park-04-768.webp 768w, /images/optimized/official/daejeon-expo-park-04-960.webp 960w, /images/optimized/official/daejeon-expo-park-04-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/daejeon-expo-park-04.jpg" alt="대전 엑스포다리" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ한국관광공사 포토코리아-대전광역시 서구</figcaption>
+</figure>
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/daejeon-expo-park-05-160.webp 160w, /images/optimized/official/daejeon-expo-park-05-240.webp 240w, /images/optimized/official/daejeon-expo-park-05-320.webp 320w, /images/optimized/official/daejeon-expo-park-05-330.webp 330w, /images/optimized/official/daejeon-expo-park-05-360.webp 360w, /images/optimized/official/daejeon-expo-park-05-480.webp 480w, /images/optimized/official/daejeon-expo-park-05-520.webp 520w, /images/optimized/official/daejeon-expo-park-05-640.webp 640w, /images/optimized/official/daejeon-expo-park-05-680.webp 680w, /images/optimized/official/daejeon-expo-park-05-768.webp 768w, /images/optimized/official/daejeon-expo-park-05-960.webp 960w, /images/optimized/official/daejeon-expo-park-05-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/daejeon-expo-park-05.jpg" alt="대전 엑스포다리 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ한국관광공사 포토코리아-이정옥</figcaption>
+</figure>
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/daejeon-expo-park-06-160.webp 160w, /images/optimized/official/daejeon-expo-park-06-240.webp 240w, /images/optimized/official/daejeon-expo-park-06-320.webp 320w, /images/optimized/official/daejeon-expo-park-06-330.webp 330w, /images/optimized/official/daejeon-expo-park-06-360.webp 360w, /images/optimized/official/daejeon-expo-park-06-480.webp 480w, /images/optimized/official/daejeon-expo-park-06-520.webp 520w, /images/optimized/official/daejeon-expo-park-06-640.webp 640w, /images/optimized/official/daejeon-expo-park-06-680.webp 680w, /images/optimized/official/daejeon-expo-park-06-768.webp 768w, /images/optimized/official/daejeon-expo-park-06-960.webp 960w, /images/optimized/official/daejeon-expo-park-06-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/daejeon-expo-park-06.jpg" alt="대전 한빛탑 야경 광장" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ한국관광공사 포토코리아-포토코리아</figcaption>
+</figure>
 
 ## 자주 묻는 질문
 
