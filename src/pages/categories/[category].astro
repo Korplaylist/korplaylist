@@ -13,9 +13,10 @@ export async function getStaticPaths() {
 const { category } = Astro.props;
 const posts = (await getPublishedTravelPosts()).filter((post) => post.data.category === category);
 const description = categoryDescriptions[category] ?? `${category} 한국여행 정보를 모았습니다.`;
+const hasPosts = posts.length > 0;
 ---
 
-<BaseLayout title={category} description={description} canonical={getCategoryUrl(category)}>
+<BaseLayout title={category} description={description} canonical={getCategoryUrl(category)} noindex={!hasPosts}>
   <section class="page-shell">
     <p class="eyebrow">Category</p>
     <h1>{category}</h1>

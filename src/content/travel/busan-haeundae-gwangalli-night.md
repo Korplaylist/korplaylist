@@ -13,6 +13,7 @@ updatedAt: "2026-06-16"
 heroImage: "/images/generated/unique/busan-night-coast-generated-busan-haeundae-gwangalli-night-1.jpg"
 imageAlt: "부산 해운대와 광안리를 잇는 저녁 해안 산책로"
 imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+adsenseReady: false
 draft: false
 ---
 

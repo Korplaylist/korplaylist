@@ -13,6 +13,7 @@ updatedAt: "2026-06-23"
 heroImage: "/images/generated/seoul-rainy-day-museum-arrival-generated.jpg"
 imageAlt: "Travelers entering the National Museum of Korea plaza in Yongsan on a summer rainy day with umbrellas"
 imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+adsenseReady: false
 draft: false
 ---
 

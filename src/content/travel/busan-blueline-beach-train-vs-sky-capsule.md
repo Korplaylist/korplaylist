@@ -13,6 +13,7 @@ updatedAt: "2026-06-24"
 heroImage: "/images/generated/unique/busan-blueline-sky-capsule-busan-blueline-beach-train-vs-sky-capsule-1.jpg"
 imageAlt: "미포 해안 산책로 위로 스카이캡슐이 지나가는 부산 블루라인파크 여름 풍경"
 imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+adsenseReady: false
 draft: false
 ---
 

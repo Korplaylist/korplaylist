@@ -13,6 +13,7 @@ updatedAt: "2026-06-25"
 heroImage: "/images/generated/busan-gimhae-airport-to-gwangalli-hero-generated.jpg"
 imageAlt: "Travelers rolling suitcases along the Gwangalli beachfront walkway in early summer evening light"
 imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+adsenseReady: false
 draft: false
 ---
 

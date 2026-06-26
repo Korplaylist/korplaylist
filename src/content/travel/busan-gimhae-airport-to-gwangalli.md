@@ -13,6 +13,7 @@ updatedAt: "2026-06-25"
 heroImage: "/images/generated/busan-gimhae-airport-to-gwangalli-hero-generated.jpg"
 imageAlt: "초여름 저녁 광안리 해변 산책로로 여행자들이 캐리어를 끌고 이동하는 모습"
 imageCredit: "한국플레이리스트 이미지 2.0"
+adsenseReady: false
 draft: false
 ---
 

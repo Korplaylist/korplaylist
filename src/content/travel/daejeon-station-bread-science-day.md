@@ -13,6 +13,7 @@ updatedAt: "2026-06-26"
 heroImage: "/images/official/daejeon-expo-park-tourism.jpg"
 imageAlt: "대전 엑스포과학공원과 한빛탑 주변을 걷는 여름 오후 풍경"
 imageCredit: "대전관광"
+adsenseReady: false
 draft: false
 ---
 

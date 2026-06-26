@@ -13,6 +13,7 @@ updatedAt: "2026-06-18"
 heroImage: "/images/generated/busan-gimhae-airport-first-day-hero-generated.jpg"
 imageAlt: "김해공항 도착 후 경전철과 시내 교통 표지판을 확인하는 여행자"
 imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+adsenseReady: false
 draft: false
 ---
 

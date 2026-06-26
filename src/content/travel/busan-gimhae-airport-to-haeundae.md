@@ -13,6 +13,7 @@ updatedAt: "2026-06-19"
 heroImage: "/images/kto/busan-haeundae-view.jpg"
 imageAlt: "해운대해수욕장과 고층 호텔 권역을 내려다본 부산 해안 전경"
 imageCredit: "ⓒ한국관광공사 포토코리아-김미숙"
+adsenseReady: false
 draft: false
 ---
 

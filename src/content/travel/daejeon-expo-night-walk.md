@@ -13,6 +13,7 @@ updatedAt: "2026-06-26"
 heroImage: "/images/official/daejeon-seogu-expo-bridge-publicdata.jpg"
 imageAlt: "대전 엑스포 권역 수변 광장과 야경 조명"
 imageCredit: "ⓒ대전광역시 서구 공공데이터포털"
+adsenseReady: false
 draft: false
 ---
 

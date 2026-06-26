@@ -13,6 +13,7 @@ updatedAt: "2026-06-20"
 heroImage: "/images/myrealtrip/busan-4.jpg"
 imageAlt: "광안대교와 부산 바다 전망이 보이는 해안가 호텔 전경"
 imageCredit: "ⓒmyrealtrip"
+adsenseReady: false
 draft: false
 ---
 

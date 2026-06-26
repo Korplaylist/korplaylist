@@ -13,6 +13,7 @@ updatedAt: "2026-06-19"
 heroImage: "/images/generated/busan-gimhae-airport-first-day-hero-generated.jpg"
 imageAlt: "Travelers checking rail and city transport signs after arriving at Gimhae Airport for a first Busan trip"
 imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+adsenseReady: false
 draft: false
 ---
 

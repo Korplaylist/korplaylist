@@ -13,6 +13,7 @@ updatedAt: "2026-06-17"
 heroImage: "/images/generated/busan-rainy-day-first-trip-generated.jpg"
 imageAlt: "부산 남포동 시장 권역의 비 오는 날 도보 동선"
 imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+adsenseReady: false
 draft: false
 ---
 

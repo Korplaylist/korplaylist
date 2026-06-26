@@ -13,6 +13,7 @@ updatedAt: "2026-06-21"
 heroImage: "/images/kto/busan-station.jpg"
 imageAlt: "부산역 광장에서 서면 방향 이동을 준비하는 여행객과 역 전경"
 imageCredit: "ⓒ한국관광공사 포토코리아"
+adsenseReady: false
 draft: false
 ---
 

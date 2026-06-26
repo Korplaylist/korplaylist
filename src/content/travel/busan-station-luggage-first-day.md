@@ -13,6 +13,7 @@ updatedAt: "2026-06-17"
 heroImage: "/images/generated/busan-station-luggage-generated.png"
 imageAlt: "부산역 도착 후 캐리어를 맡기기 위해 짐 보관함으로 이동하는 여행자"
 imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+adsenseReady: false
 draft: false
 ---
 

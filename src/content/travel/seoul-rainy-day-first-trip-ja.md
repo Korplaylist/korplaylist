@@ -13,6 +13,7 @@ updatedAt: "2026-06-23"
 heroImage: "/images/generated/seoul-rainy-day-museum-arrival-generated.jpg"
 imageAlt: "夏の雨が降るソウル龍山の国立中央博物館前広場に傘を差して入っていく旅行者"
 imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+adsenseReady: false
 draft: false
 ---
 

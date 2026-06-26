@@ -13,6 +13,7 @@ updatedAt: "2026-06-22"
 heroImage: "/images/generated/seoul-rainy-day-museum-arrival-generated.jpg"
 imageAlt: "여름비가 내린 서울 용산 국립중앙박물관 앞 광장으로 우산을 쓰고 들어가는 여행자들"
 imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+adsenseReady: false
 draft: false
 ---
 

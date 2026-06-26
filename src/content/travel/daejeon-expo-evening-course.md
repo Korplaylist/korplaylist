@@ -13,6 +13,7 @@ updatedAt: "2026-06-26"
 heroImage: "/images/official/daejeon-expo-bridge-sunset-original.jpg"
 imageAlt: "대전 엑스포다리와 한빛탑이 보이는 여름 저녁 노을 풍경"
 imageCredit: "ⓒ대전관광"
+adsenseReady: false
 draft: false
 ---
 

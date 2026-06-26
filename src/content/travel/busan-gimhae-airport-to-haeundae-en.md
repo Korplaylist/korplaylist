@@ -13,6 +13,7 @@ updatedAt: "2026-06-20"
 heroImage: "/images/kto/busan-haeundae-view.jpg"
 imageAlt: "A wide coastal view of Haeundae Beach and the hotel district in Busan"
 imageCredit: "ⓒ한국관광공사 포토코리아-김민수"
+adsenseReady: false
 draft: false
 ---
 

@@ -13,6 +13,7 @@ updatedAt: "2026-06-16"
 heroImage: "/images/generated/busan-stay-area-generated.jpg"
 imageAlt: "부산 해변 숙소 권역과 도심 풍경"
 imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+adsenseReady: false
 draft: false
 ---
 

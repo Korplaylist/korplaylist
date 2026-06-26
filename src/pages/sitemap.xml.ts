@@ -26,7 +26,8 @@ export async function GET() {
     ...(await getPublishedTravelPosts("en")),
     ...(await getPublishedTravelPosts("ja"))
   ];
-  const categoryUrls = categories.map((category) => getCategoryUrl(category));
+  const categoriesWithPosts = categories.filter((category) => posts.some((post) => post.data.category === category));
+  const categoryUrls = categoriesWithPosts.map((category) => getCategoryUrl(category));
   const regionsWithPosts = regions.filter((region) => posts.some((post) => getPostRegion(post) === region));
   const regionUrls = regionsWithPosts.map((region) => getRegionUrl(region));
   const urls = [...staticPaths, ...categoryUrls, ...regionUrls, ...posts.map((post) => getPostUrl(post))];

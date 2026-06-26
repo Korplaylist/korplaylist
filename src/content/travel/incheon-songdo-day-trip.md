@@ -13,6 +13,7 @@ updatedAt: "2026-06-21"
 heroImage: "/images/generated/incheon-songdo-central-park-morning-generated.jpg"
 imageAlt: "초여름 아침 인천 송도 센트럴파크 수변 산책로와 도심 스카이라인"
 imageCredit: "한국 플레이리스트 이미지 2.0"
+adsenseReady: false
 draft: false
 ---
 

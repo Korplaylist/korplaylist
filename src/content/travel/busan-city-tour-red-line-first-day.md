@@ -13,6 +13,7 @@ updatedAt: "2026-06-17"
 heroImage: "/images/generated/unique/busan-station-busan-city-tour-red-line-first-day-1.jpg"
 imageAlt: "부산역 광장에서 시티투어 출발 동선을 준비하는 여행자 흐름"
 imageCredit: "ⓒ한국관광공사 포토코리아-이범수"
+adsenseReady: false
 draft: false
 ---
 

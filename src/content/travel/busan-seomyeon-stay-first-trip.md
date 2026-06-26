@@ -13,6 +13,7 @@ updatedAt: "2026-06-18"
 heroImage: "/images/generated/busan-seomyeon-stay-base-generated.png"
 imageAlt: "부산 서면 도심에서 숙소 위치와 지하철 동선을 확인하는 여행자"
 imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+adsenseReady: false
 draft: false
 ---
 

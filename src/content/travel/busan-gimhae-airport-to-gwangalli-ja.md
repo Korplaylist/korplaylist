@@ -13,6 +13,7 @@ updatedAt: "2026-06-25"
 heroImage: "/images/generated/busan-gimhae-airport-to-gwangalli-hero-generated.jpg"
 imageAlt: "初夏の夕方、スーツケースを引きながら広安里の海辺へ向かう旅行者"
 imageCredit: "한국 플레이리스트 이미지 2.0"
+adsenseReady: false
 draft: false
 ---
 

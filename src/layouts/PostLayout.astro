@@ -16,6 +16,7 @@ const author = authorProfiles[locale] ?? authorProfiles.ko;
 const imageAlt = getImageAlt(post);
 const postRegion = getPostRegion(post);
 const regionUrl = locale === "ko" ? getRegionUrl(postRegion) : `/${locale}/#regions`;
+const noindex = post.data.adsenseReady === false;
 const labels = {
   ko: {
     home: "홈",
@@ -129,6 +130,7 @@ const jsonLd = {
   keywords={post.data.tags.join(", ")}
   locale={locale}
   alternates={alternates}
+  noindex={noindex}
   jsonLd={jsonLd}
 >
   <article class="article-shell">

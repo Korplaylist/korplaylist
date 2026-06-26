@@ -13,6 +13,7 @@ updatedAt: "2026-06-22"
 heroImage: "/images/generated/incheon-songdo-central-park-morning-generated.jpg"
 imageAlt: "朝の仁川松島セントラルパークで水辺の散歩道と高層ビル群を眺める風景"
 imageCredit: "Korea Playlist Image 2.0"
+adsenseReady: false
 draft: false
 ---
 
