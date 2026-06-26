@@ -192,9 +192,14 @@ draft: false
 
 夜景や市場を入れる場合は、最後に置くと移動が単純になります。
 
-似たルートで迷う場合は、まず[慶州家族旅行コース：子どもと行きやすい遺跡・博物館・散歩道](/ja/travel/gyeongbuk/gyeongju-family/)を比較してください。食事、交通、季節の条件を詰めたい時は[全州韓屋村日帰りコース：慶基殿・南部市場まで回る1日旅](/ja/travel/jeonbuk/jeonju-hanok-d
-    <source type="image/webp" srcset="/images/optimized/generated/gyeongju-daereungwon-walk-generated-320.webp 320w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-330.webp 330w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-360.webp 360w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-480.webp 480w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-520.webp 520w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-640.webp 640w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-680.webp 680w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1.jpg" alt="慶州大陵苑と瞻星台の歴史散策路" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+関連ガイドは、エリア・交通手段・滞在時間が実際に重なる場合だけ参考にしてください。別エリアの目的地を無理に足すより、同じ移動条件の中で優先順位を決める方が現実的です。
+
+関連ガイドは、エリア・交通手段・滞在時間が実際に重なる場合だけ参考にしてください。別エリアの目的地を無理に足すより、同じ移動条件の中で優先順位を決める方が現実的です。
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-160.webp 160w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-240.webp 240w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-320.webp 320w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-330.webp 330w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-360.webp 360w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-480.webp 480w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-520.webp 520w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-640.webp 640w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-680.webp 680w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-768.webp 768w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-960.webp 960w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1.jpg" alt="慶州1泊2日歴史旅行コース：大陵苑・瞻星台・仏国寺まで整理 旅行ガイド画像" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>ⓒKorea Playlist Image 2.0</figcaption>
 </figure>

@@ -173,10 +173,12 @@ draft: false
 
 夜景や市場を入れる場合は、最後に置くと移動が単純になります。
 
-似たルートで迷う場合は、まず[ソウル日帰り徒歩コース：景福宮・北村・仁寺洞を歩く1日旅](/ja/travel/seoul/seoul-one-day-palace-walk/)を比較してください。食事、交通、季節の条件を詰めたい時は[2026年の韓国旅行はいつ行く？季節別おすすめ旅行先と準備ポイント](/ja/travel/igure class="content-photo">
+関連ガイドは、エリア・交通手段・滞在時間が実際に重なる場合だけ参考にしてください。別エリアの目的地を無理に足すより、同じ移動条件の中で優先順位を決める方が現実的です。
+
+<figure class="content-photo">
   <picture>
     <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-160.webp 160w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-240.webp 240w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-320.webp 320w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-330.webp 330w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-360.webp 360w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-480.webp 480w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-520.webp 520w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-640.webp 640w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-680.webp 680w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-768.webp 768w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-960.webp 960w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1.jpg" alt="ソウルの宮殿散策路と都市風景" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1.jpg" alt="ソウル漢江夜景コース：汝矣島・盤浦の夕方散歩と準備物 旅行ガイド画像" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>ⓒKorea Playlist Image 2.0</figcaption>
 </figure>

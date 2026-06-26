@@ -9,7 +9,7 @@
     "preview": "astro preview",
     "build:static": "node scripts/build-static.mjs",
     "check:images": "node scripts/check-image-duplicates.mjs && node scripts/check-image-source-families.mjs",
-    "check:adsense": "node scripts/check-adsense-readiness.mjs",
+    "check:adsense": "node scripts/check-content-integrity.mjs && node scripts/check-asset-existence.mjs && node scripts/check-adsense-readiness.mjs",
     "fix:images": "node scripts/fix-images.mjs"
   },
   "dependencies": {

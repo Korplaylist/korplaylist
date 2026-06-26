@@ -153,10 +153,12 @@ draft: false
 
 주말에는 자갈치시장과 BIFF광장 주변 식사 대기가 길어질 수 있어 식당 후보를 2~3곳 저장해두는 것이 좋습니다. 특히 저녁 직전 시간대는 체크인 시간과 겹치기 쉬우므로 4시 전후에 한 번 마무리 지점을 결정해두면 일정이 덜 흔들립니다.
 
-<figure class="content-photo"t="/images/optimized/generated/busan-market-food-generated-320.webp 320w, /images/optimized/generated/busan-market-food-generated-330.webp 330w, /images/optimized/generated/busan-market-food-generated-360.webp 360w, /images/optimized/generated/busan-market-food-generated-480.webp 480w, /images/optimized/generated/busan-market-food-generated-520.webp 520w, /images/optimized/generated/busan-market-food-generated-640.webp 640w, /images/optimized/generated/busan-market-food-generated-680.webp 680w, /images/optimized/generated/busan-market-food-generated-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/busan-market-food-generated-busan-station-half-day-1.jpg" alt="부산 시장 골목 음식과 여행자 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-market-food-generated-busan-station-half-day-1-160.webp 160w, /images/optimized/generated/unique/busan-market-food-generated-busan-station-half-day-1-240.webp 240w, /images/optimized/generated/unique/busan-market-food-generated-busan-station-half-day-1-320.webp 320w, /images/optimized/generated/unique/busan-market-food-generated-busan-station-half-day-1-330.webp 330w, /images/optimized/generated/unique/busan-market-food-generated-busan-station-half-day-1-360.webp 360w, /images/optimized/generated/unique/busan-market-food-generated-busan-station-half-day-1-480.webp 480w, /images/optimized/generated/unique/busan-market-food-generated-busan-station-half-day-1-520.webp 520w, /images/optimized/generated/unique/busan-market-food-generated-busan-station-half-day-1-640.webp 640w, /images/optimized/generated/unique/busan-market-food-generated-busan-station-half-day-1-680.webp 680w, /images/optimized/generated/unique/busan-market-food-generated-busan-station-half-day-1-768.webp 768w, /images/optimized/generated/unique/busan-market-food-generated-busan-station-half-day-1-960.webp 960w, /images/optimized/generated/unique/busan-market-food-generated-busan-station-half-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/busan-market-food-generated-busan-station-half-day-1.jpg" alt="부산역 도착 반나절 코스 2026: 짐 맡기고 남포동까지 무리 없는 동선 여행 가이드 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒKorea Playlist Image 2.0</figcaption>
 </figure>
 
 ## 숙소 위치와 연결할 때 좋은 기준

@@ -173,12 +173,14 @@ draft: false
 
 저녁 일정이 있다면 야경이나 시장처럼 체류 시간이 자연스럽게 길어지는 장소를 마지막에 두는 것이 안정적입니다.
 
-동선이 비슷한 고민이라면 [서울 당일치기 도보 여행: 경복궁·북촌·인사동 하루 코스](/travel/seoul/seoul-one-day-palace-walk/)을 먼저 비교하고, 식비나 교통처럼 세부 조건이 중요할 때는 [국내여행 언제 갈까? 계절별 추천 여행지와 준비 포인트 2026](/travel/seoul/korea-season-travel-calendar/)도 함께 확인하면 계획이 더 현실적입니다.
+관련 글은 지역, 교통수단, 체류 시간이 실제로 겹칠 때만 함께 보는 것이 좋습니다. 유명한 장소를 더 넣기보다 같은 권역 안에서 우선순위를 정하는 편이 일정 만족도를 높입니다.
+
+<figure class="content-photo">
   <picture>
     <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-160.webp 160w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-240.webp 240w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-320.webp 320w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-330.webp 330w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-360.webp 360w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-480.webp 480w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-520.webp 520w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-640.webp 640w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-680.webp 680w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-768.webp 768w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-960.webp 960w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1.jpg" alt="서울 궁궐 산책길과 도심 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-palace-walk-generated-seoul-hangang-night-walk-1.jpg" alt="서울 한강 야경 코스: 여의도·반포 저녁 산책과 준비물 여행 가이드 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒKorea Playlist Image 2.0</figcaption>
 </figure>
 
 ## 대중교통, 택시, 렌터카 선택 기준

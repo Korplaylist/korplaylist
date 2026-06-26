@@ -174,7 +174,13 @@ draft: false
 夜景や市場を入れる場合は、最後に置くと移動が単純になります。
 
 似たルートで迷う場合は、まず[慶州1泊2日歴史旅行コース：大陵苑・瞻星台・仏国寺まで整理](/ja/travel/gyeongbuk/gyeongju-history-two-day/)を比較してください。食事、交通、季節の条件を詰めたい時は[全州グルメ旅行予算：ビビンバ・豆もやしクッパ・市場おやつの費用整理](/ja/travel/jeonbuk/jeonju-food-cost/)も参考になります/images/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-family-trip-guide-1.jpg type="image/webp" srcset="/images/optimized/generated/gyeongju-daereungwon-walk-generated-320.webp 320w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-330.webp 330w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-360.webp 360w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-480.webp 480w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-520.webp 520w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-640.webp 640w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-680.webp 680w, /images/optimized/generated/gyeongju-daereungwon-walk-generated-768.webp 768w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-family-trip-guide-1.jpg" alt="慶州大陵苑と瞻星台の歴史散策路" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+
+関連ガイドは、エリア・交通手段・滞在時間が実際に重なる場合だけ参考にしてください。別エリアの目的地を無理に足すより、同じ移動条件の中で優先順位を決める方が現実的です。
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-family-trip-guide-1-160.webp 160w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-family-trip-guide-1-240.webp 240w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-family-trip-guide-1-320.webp 320w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-family-trip-guide-1-330.webp 330w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-family-trip-guide-1-360.webp 360w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-family-trip-guide-1-480.webp 480w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-family-trip-guide-1-520.webp 520w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-family-trip-guide-1-640.webp 640w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-family-trip-guide-1-680.webp 680w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-family-trip-guide-1-768.webp 768w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-family-trip-guide-1-960.webp 960w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-family-trip-guide-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-family-trip-guide-1.jpg" alt="慶州家族旅行コース：子どもと行きやすい遺跡・博物館・散歩道 旅行ガイド画像" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>ⓒKorea Playlist Image 2.0</figcaption>
 </figure>
@@ -200,7 +206,7 @@ draft: false
   <div class="planning-table-head"><span>項目</span><span>1人目安</span><span>確認ポイント</span></div>
   <div><span>地域内交通</span><strong>8,000〜25,000ウォン</strong><p>地下鉄やバス中心なら低め、短距離タクシーを複数回使うと上がります。</p></div>
   <div><span>食事・カフェ</span><strong>35,000〜70,000ウォン</strong><p>市場グルメやカフェを入れると満足度は上がりますが、小さな出費が増えます。</p></div>
-  <div><span>入場・体験</span><strong>0〜30ーを入れるかで変わります。</p></div>
+  <div><span>予備費</span><strong>20,000〜40,000ウォン</strong><p>雨、終バス、荷物移動でタクシーが必要になる場合に備えます。</p></div>
   <div><span>予備費</span><strong>20,000〜40,000ウォン</strong><p>雨、終バス、荷物移動でタクシーが必要になる場合に備えます。</p></div>
 </section>
 

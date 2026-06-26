@@ -173,11 +173,14 @@ draft: false
 
 저녁 일정이 있다면 야경이나 시장처럼 체류 시간이 자연스럽게 길어지는 장소를 마지막에 두는 것이 안정적입니다.
 
-동선이 비슷한 고민이라면 [전주 먹거리 여행 예산: 비빔밥·콩나물국밥·시장 간식 비용 정리](/travel/jeonbuk/jeonju-food-cost/)을 먼저 비교하고, 식비나 교통처럼 세부 조건이 중요할 때는 [경주 1박2일 역사 여행 코스: 대릉원·첨성대·불국사까지 정리](/travel/gyeongbuk/gyeongju-history-two-day/)도  <picture>
+관련 글은 지역, 교통수단, 체류 시간이 실제로 겹칠 때만 함께 보는 것이 좋습니다. 유명한 장소를 더 넣기보다 같은 권역 안에서 우선순위를 정하는 편이 일정 만족도를 높입니다.
+
+<figure class="content-photo">
+  <picture>
     <source type="image/webp" srcset="/images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-hanok-village-day-trip-1-160.webp 160w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-hanok-village-day-trip-1-240.webp 240w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-hanok-village-day-trip-1-320.webp 320w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-hanok-village-day-trip-1-330.webp 330w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-hanok-village-day-trip-1-360.webp 360w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-hanok-village-day-trip-1-480.webp 480w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-hanok-village-day-trip-1-520.webp 520w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-hanok-village-day-trip-1-640.webp 640w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-hanok-village-day-trip-1-680.webp 680w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-hanok-village-day-trip-1-768.webp 768w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-hanok-village-day-trip-1-960.webp 960w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-hanok-village-day-trip-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/jeonju-hanok-food-alley-generated-jeonju-hanok-village-day-trip-1.jpg" alt="전주 한옥마을 골목과 길거리 음식 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeonju-hanok-food-alley-generated-jeonju-hanok-village-day-trip-1.jpg" alt="전주 한옥마을 당일치기 코스: 경기전·남부시장까지 하루 일정 여행 가이드 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒKorea Playlist Image 2.0</figcaption>
 </figure>
 
 ## 대중교통, 택시, 렌터카 선택 기준

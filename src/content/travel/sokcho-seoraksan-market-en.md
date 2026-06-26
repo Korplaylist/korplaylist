@@ -173,7 +173,8 @@ Put the longest or most crowded stop early in the day. Keep flexible time after 
 
 If the route includes night views, markets, or the coast, place them near the end so you are not forced to cross the city after dark.
 
-If you are comparing similar routes, read [Sokcho Without a Car: Bus Guide for the Sea, Market and Seoraksan](/en/travel/gangwon/sokcho-without-car/) first. For food, transport, or seasonal decisions, [Gangneung Day Trip 2026: Sea, Coffee Street and Gyeongpo Lake in One Route](/en/travel/gangwon/gangneung-sea-coffeeary stops.
+Use related guides only when the route, transport method, and travel area actually overlap. Adding extra stops just because another guide exists usually makes the day harder rather than better.
+
 
 <figure class="content-photo">
   <picture>

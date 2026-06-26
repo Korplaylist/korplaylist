@@ -173,12 +173,14 @@ draft: false
 
 저녁 일정이 있다면 야경이나 시장처럼 체류 시간이 자연스럽게 길어지는 장소를 마지막에 두는 것이 안정적입니다.
 
-동선이 비슷한 고민이라면 [서울 한강 야경 코스: 여의도·반포 저녁 산책과 준비물](/travel/seoul/seoul-hangang-evening/)을 먼저 비교하고, 식비나 교통처럼 세부 조건이 중요할 때는 [인천 당일치기 코스: 개항장·차이나타운·월미도 수도권 여행](/travel/incheon/incheon-open-port/)도 함께 확인하면 계획이 더 현실적입니다.
+관련 글은 지역, 교통수단, 체류 시간이 실제로 겹칠 때만 함께 보는 것이 좋습니다. 유명한 장소를 더 넣기보다 같은 권역 안에서 우선순위를 정하는 편이 일정 만족도를 높입니다.
+
+<figure class="content-photo">
   <picture>
     <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-160.webp 160w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-240.webp 240w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-320.webp 320w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-330.webp 330w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-360.webp 360w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-480.webp 480w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-520.webp 520w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-640.webp 640w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-680.webp 680w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-768.webp 768w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-960.webp 960w, /images/optimized/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1.jpg" alt="서울 궁궐 산책길과 도심 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-palace-walk-generated-seoul-one-day-palace-walk-1.jpg" alt="서울 당일치기 도보 여행: 경복궁·북촌·인사동 하루 코스 여행 가이드 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒKorea Playlist Image 2.0</figcaption>
 </figure>
 
 ## 대중교통, 택시, 렌터카 선택 기준
@@ -206,10 +208,12 @@ draft: false
   <div><span>비상 예산</span><strong>20,000~40,000원</strong><p>우천, 막차, 짐 이동 때문에 택시를 타야 할 상황을 대비합니다.</p></div>
 </section>
 
-<figure class/images/generated/unique/seoul-hangang-evening-generated-seoul-one-day-palace-walk-1.jpg/webp" srcset="/images/optimized/generated/seoul-hangang-evening-generated-320.webp 320w, /images/optimized/generated/seoul-hangang-evening-generated-330.webp 330w, /images/optimized/generated/seoul-hangang-evening-generated-360.webp 360w, /images/optimized/generated/seoul-hangang-evening-generated-480.webp 480w, /images/optimized/generated/seoul-hangang-evening-generated-520.webp 520w, /images/optimized/generated/seoul-hangang-evening-generated-640.webp 640w, /images/optimi/images/generated/unique/seoul-hangang-evening-generated-seoul-one-day-palace-walk-1.jpgp 680w, /images/optimized/generated/seoul-hangang-evening-g/images/generated/unique/seoul-2-seoul-one-day-palace-walk-1.jpg"(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/seoul-hangang-evening-generated-seoul-one-day-palace-walk-1.jpg" alt="서울 한강 저녁 산책로와 도심 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-one-day-palace-walk-1-160.webp 160w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-one-day-palace-walk-1-240.webp 240w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-one-day-palace-walk-1-320.webp 320w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-one-day-palace-walk-1-330.webp 330w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-one-day-palace-walk-1-360.webp 360w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-one-day-palace-walk-1-480.webp 480w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-one-day-palace-walk-1-520.webp 520w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-one-day-palace-walk-1-640.webp 640w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-one-day-palace-walk-1-680.webp 680w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-one-day-palace-walk-1-768.webp 768w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-one-day-palace-walk-1-960.webp 960w, /images/optimized/generated/unique/seoul-hangang-evening-generated-seoul-one-day-palace-walk-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-hangang-evening-generated-seoul-one-day-palace-walk-1.jpg" alt="서울 당일치기 도보 여행: 경복궁·북촌·인사동 하루 코스 여행 가이드 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒKorea Playlist Image 2.0</figcaption>
 </figure>
 
 ## 숙소 위치와 식사 타이밍

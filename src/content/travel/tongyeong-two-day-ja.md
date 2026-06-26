@@ -173,10 +173,12 @@ draft: false
 
 夜景や市場を入れる場合は、最後に置くと移動が単純になります。
 
-似たルートで迷う場合は、まず[統営の海景色旅行コース：東ピラン・ケーブルカー・江口岸の核心動線](/ja/travel/gyeongnam/tongyeong-island-view/)を比較してください。食事、交通、季節の条件を詰めたい時は[麗水島旅行日帰りガイド：船便・天気・時刻表のチェックポイント](/ja/travetent-photo">
+関連ガイドは、エリア・交通手段・滞在時間が実際に重なる場合だけ参考にしてください。別エリアの目的地を無理に足すより、同じ移動条件の中で優先順位を決める方が現実的です。
+
+<figure class="content-photo">
   <picture>
     <source type="image/webp" srcset="/images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-two-day-island-route-1-160.webp 160w, /images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-two-day-island-route-1-240.webp 240w, /images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-two-day-island-route-1-320.webp 320w, /images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-two-day-island-route-1-330.webp 330w, /images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-two-day-island-route-1-360.webp 360w, /images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-two-day-island-route-1-480.webp 480w, /images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-two-day-island-route-1-520.webp 520w, /images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-two-day-island-route-1-640.webp 640w, /images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-two-day-island-route-1-680.webp 680w, /images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-two-day-island-route-1-768.webp 768w, /images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-two-day-island-route-1-960.webp 960w, /images/optimized/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-two-day-island-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-two-day-island-route-1.jpg" alt="統営のケーブルカーと港、島の眺望" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/tongyeong-cablecar-harbor-generated-tongyeong-two-day-island-route-1.jpg" alt="統営1泊2日モデルコース：島旅と市内名所を一緒に楽しむ日程 旅行ガイド画像" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>ⓒKorea Playlist Image 2.0</figcaption>
 </figure>

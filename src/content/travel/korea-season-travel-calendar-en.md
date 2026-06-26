@@ -173,7 +173,8 @@ Put the longest or most crowded stop early in the day. Keep flexible time after 
 
 If the route includes night views, markets, or the coast, place them near the end so you are not forced to cross the city after dark.
 
-If you are comparing similar routes, read [Busan 2-Day Itinerary 2026: Haeundae, Gwangalli and Gamcheon Without Wasting Time](/en/travel/busan/busan-two-day-route/) first. For food, transport,y 2026: How First-Time Visitors Should Split East and West](/en/travel/jeju/jeju-three-day-first/) can help refine the plan without adding unnecessary stops.
+Use related guides only when the route, transport method, and travel area actually overlap. Adding extra stops just because another guide exists usually makes the day harder rather than better.
+
 
 <figure class="content-photo">
   <picture>

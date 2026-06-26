@@ -205,7 +205,7 @@ draft: false
   <div><span>지역 내 교통</span><strong>8,000~25,000원</strong><p>지하철·버스 중심이면 낮고, 짧은 택시를 2회 이상 넣으면 올라갑니다.</p></div>
   <div><span>식사·카페</span><strong>35,000~70,000원</strong><p>시장 간식과 카페를 넣으면 만족도는 높지만 지출이 쉽게 늘어납니다.</p></div>
   <div><span>입장·체험</span><strong>0~30,000원</strong><p>무료 산책지 중심인지, 전망대·케이블카·박물관을 넣는지에 따라 달라집니다.</p></div>
-  <div><span>비상 예산</span><stron때문에 택시를 타야 할 상황을 대비합니다.</p></div>
+  <div><span>비상 예산</span><strong>20,000~40,000원</strong><p>비, 막차, 짐 이동 때문에 택시를 타야 할 상황을 대비합니다.</p></div>
 </section>
 
 <figure class="content-photo">
@@ -231,9 +231,9 @@ draft: false
 <figure class="content-photo">
   <picture>
     <source type="image/webp" srcset="/images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-160.webp 160w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-240.webp 240w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-320.webp 320w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-330.webp 330w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-360.webp 360w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-480.webp 480w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-520.webp 520w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-640.webp 640w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-680.webp 680w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-768.webp 768w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-960.webp 960w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1.jpg" alt="?? ??? ???? ?? ??" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1.jpg" alt="여수 밤바다 여행 코스 2026: 해상케이블카·낭만포차·오동도 동선 여행 가이드 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>????????? ??? 2.0</figcaption>
+  <figcaption>ⓒKorea Playlist Image 2.0</figcaption>
 </figure>
 
 ## 계절별 주의사항
