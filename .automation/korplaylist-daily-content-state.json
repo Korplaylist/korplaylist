@@ -1,8 +1,8 @@
 {
   "date": "2026-06-26",
   "timezone": "Asia/Seoul",
-  "lastCheckedAt": "2026-06-26T17:08:30+09:00",
-  "lastPublishedAt": "2026-06-26T17:08:30+09:00",
+  "lastCheckedAt": "2026-06-26T17:15:33+09:00",
+  "lastPublishedAt": "2026-06-26T17:15:33+09:00",
   "todayTarget": 4,
   "todayPublished": 1,
   "targetPublishTimes": [
@@ -12,9 +12,9 @@
     "2026-06-26T19:37:00+09:00"
   ],
   "currentLanguageStage": "ko",
-  "planningBundle": "daejeon-expo-evening-course",
-  "nextPublishAfter": "2026-06-26T10:37:00+09:00",
-  "canPublishNow": true,
-  "blockedReason": null,
+  "planningBundle": "daejeon-expo-night-walk",
+  "nextPublishAfter": "2026-06-26T19:37:00+09:00",
+  "canPublishNow": false,
+  "blockedReason": "Waiting for the next scheduled publish slot at 2026-06-26T19:37:00+09:00.",
   "pendingDraft": null
 }
