@@ -85,6 +85,7 @@ export const postRegionMap: Record<string, string> = {
   부산: "부산",
   대구: "대구",
   인천: "인천",
+  수원: "경기",
   제주: "제주",
   강릉: "강원",
   속초: "강원",
