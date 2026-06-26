@@ -1,9 +1,9 @@
 import { getCollection } from "astro:content";
 import { siteConfig } from "../site.config";
-import { getPostUrl } from "../lib/travel";
+import { getPostUrl, isPublishedTravelData } from "../lib/travel";
 
 export async function GET() {
-  const posts = await getCollection("travel", ({ data }) => !data.draft);
+  const posts = await getCollection("travel", ({ data }) => isPublishedTravelData(data));
   const items = posts
     .sort((a, b) => b.data.updatedAt.valueOf() - a.data.updatedAt.valueOf())
     .map((post) => {

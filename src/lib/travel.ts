@@ -2,8 +2,12 @@ import { getCollection } from "astro:content";
 import { categorySlugMap, postRegionMap, regionSlugMap } from "../site.config";
 
 export async function getPublishedTravelPosts(locale = "ko") {
-  const posts = await getCollection("travel", ({ data }) => !data.draft && (data.locale ?? "ko") === locale);
+  const posts = await getCollection("travel", ({ data }) => isPublishedTravelData(data) && (data.locale ?? "ko") === locale);
   return posts.sort((a, b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf());
+}
+
+export function isPublishedTravelData(data: { draft?: boolean; publishedAt: Date }) {
+  return !data.draft && data.publishedAt.valueOf() <= Date.now();
 }
 
 export function getPostLocale(post: { data: { locale?: string } }) {

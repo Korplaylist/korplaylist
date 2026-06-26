@@ -1,10 +1,10 @@
 ---
 import { getCollection } from "astro:content";
 import PostLayout from "../../../../layouts/PostLayout.astro";
-import { extractFaqItems, getPostRegionSlug, getPostSlug, getPostUrl, getRelatedPosts } from "../../../../lib/travel";
+import { extractFaqItems, getPostRegionSlug, getPostSlug, getPostUrl, getRelatedPosts, isPublishedTravelData } from "../../../../lib/travel";
 
 export async function getStaticPaths() {
-  const posts = await getCollection("travel", ({ data }) => !data.draft && data.locale === "en");
+  const posts = await getCollection("travel", ({ data }) => isPublishedTravelData(data) && data.locale === "en");
   return posts.map((post) => ({
     params: { region: getPostRegionSlug(post), slug: getPostSlug(post) },
     props: { post }
@@ -12,7 +12,7 @@ export async function getStaticPaths() {
 }
 
 const { post } = Astro.props;
-const allPosts = await getCollection("travel", ({ data }) => !data.draft);
+const allPosts = await getCollection("travel", ({ data }) => isPublishedTravelData(data));
 const { Content, headings } = await post.render();
 const relatedPosts = getRelatedPosts(post, allPosts, 5);
 const faqItems = extractFaqItems(post.body);
