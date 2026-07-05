@@ -1,0 +1,679 @@
+{
+  "timezone": "Asia/Seoul",
+  "queue": [
+    {
+      "date": "2026-07-06",
+      "regionSlug": "seoul",
+      "title": "서울 2호선 실내 여행 코스 2026: 성수·잠실·삼성을 비 적게 맞고 도는 동선",
+      "primaryKeyword": "서울 지하철 실내 여행",
+      "searchIntent": "rainy-day itinerary",
+      "internalLinks": [
+        "seoul-rainy-day-first-trip",
+        "seoul-one-day-palace-walk"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-06T07:57:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-06T14:23:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-06T21:17:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-07",
+      "regionSlug": "busan",
+      "title": "부산 영도 하루 코스 2026: 흰여울·태종대·남항 야경을 덜 걷고 보는 순서",
+      "primaryKeyword": "부산 영도 여행 코스",
+      "searchIntent": "one-day itinerary",
+      "internalLinks": [
+        "busan-station-half-day",
+        "busan-two-day-route"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-07T07:58:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-07T14:45:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-07T20:01:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-08",
+      "regionSlug": "jeju",
+      "title": "제주 서귀포 비 오는 날 코스 2026: 폭우에도 이동이 편한 실내·시장 동선",
+      "primaryKeyword": "제주 비오는날 서귀포",
+      "searchIntent": "rainy-day itinerary",
+      "internalLinks": [
+        "jeju-three-day-first",
+        "jeju-without-car"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-08T07:58:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-08T15:06:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-08T18:45:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-09",
+      "regionSlug": "gangwon",
+      "title": "강릉 뚜벅이 여름 여행 2026: 강릉역·안목·경포를 버스로 잇는 하루 코스",
+      "primaryKeyword": "강릉 뚜벅이 여행",
+      "searchIntent": "transport itinerary",
+      "internalLinks": [
+        "gangneung-sea-coffee",
+        "gangneung-two-day"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-09T07:58:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-09T15:28:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-09T21:30:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-10",
+      "regionSlug": "gyeongnam",
+      "title": "통영 여객선 결항 대체 코스 2026: 섬 여행이 취소돼도 하루를 살리는 동선",
+      "primaryKeyword": "통영 여객선 결항",
+      "searchIntent": "weather backup",
+      "internalLinks": [
+        "tongyeong-island-view",
+        "tongyeong-two-day"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-10T07:58:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-10T15:50:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-10T20:14:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-11",
+      "regionSlug": "gyeongbuk",
+      "title": "경주 여름 야간 여행 2026: 대릉원·월정교·동궁과 월지를 덜 덥게 보는 순서",
+      "primaryKeyword": "경주 야간 여행 코스",
+      "searchIntent": "night itinerary",
+      "internalLinks": [
+        "gyeongju-history-two-day",
+        "gyeongju-family"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-11T07:58:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-11T12:12:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-11T18:58:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-12",
+      "regionSlug": "incheon",
+      "title": "인천공항 8시간 환승 여행 2026: 짐·출입국 시간을 빼고 가능한 서울 밖 코스",
+      "primaryKeyword": "인천공항 환승 관광",
+      "searchIntent": "airport layover",
+      "internalLinks": [
+        "incheon-open-port",
+        "incheon-songdo-day-trip"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-12T07:58:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-12T12:34:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-12T21:43:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-13",
+      "regionSlug": "jeonnam",
+      "title": "여수 해상케이블카 야경 코스 2026: 돌산·낭만포차까지 대기시간 줄이는 순서",
+      "primaryKeyword": "여수 케이블카 야경",
+      "searchIntent": "night itinerary",
+      "internalLinks": [
+        "yeosu-night-sea",
+        "yeosu-island-day"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-13T07:58:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-13T12:55:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-13T20:27:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-14",
+      "regionSlug": "gangwon",
+      "title": "속초 여름 저녁 코스 2026: 해수욕장·시장·청초호 야경을 하루에 잇는 법",
+      "primaryKeyword": "속초 저녁 여행 코스",
+      "searchIntent": "evening itinerary",
+      "internalLinks": [
+        "sokcho-seoraksan-market",
+        "sokcho-without-car"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-14T07:58:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-14T13:17:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-14T19:11:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-15",
+      "regionSlug": "jeonbuk",
+      "title": "전주 한옥마을 여름 저녁 코스 2026: 더위와 인파를 피하는 식사·야경 순서",
+      "primaryKeyword": "전주 한옥마을 야간",
+      "searchIntent": "evening itinerary",
+      "internalLinks": [
+        "jeonju-hanok-day",
+        "jeonju-food-cost"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-15T07:58:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-15T13:39:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-15T21:56:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-16",
+      "regionSlug": "busan",
+      "title": "부산 기장 해안 하루 코스 2026: 해동용궁사·대변항·아난티 이동시간 정리",
+      "primaryKeyword": "부산 기장 여행 코스",
+      "searchIntent": "coastal itinerary",
+      "internalLinks": [
+        "busan-two-day-route",
+        "busan-haeundae-gwangalli-night"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-16T07:58:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-16T14:01:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-16T20:40:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-17",
+      "regionSlug": "seoul",
+      "title": "서울 여름밤 여행 코스 2026: 청계천·DDP·광장시장을 늦게까지 걷는 동선",
+      "primaryKeyword": "서울 야간 여행 코스",
+      "searchIntent": "night itinerary",
+      "internalLinks": [
+        "seoul-hangang-evening",
+        "seoul-one-day-palace-walk"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-17T07:58:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-17T14:22:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-17T19:24:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-18",
+      "regionSlug": "jeju",
+      "title": "제주 동쪽 여름 하루 코스 2026: 성산·섭지코지·세화 이동시간과 일몰 선택",
+      "primaryKeyword": "제주 동쪽 여행 코스",
+      "searchIntent": "coastal itinerary",
+      "internalLinks": [
+        "jeju-three-day-first",
+        "jeju-without-car"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-18T07:58:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-18T14:44:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-18T18:09:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-19",
+      "regionSlug": "daejeon",
+      "title": "대전 아이와 비 오는 날 코스 2026: 국립중앙과학관·엑스포 실내 중심 동선",
+      "primaryKeyword": "대전 아이와 갈만한곳",
+      "searchIntent": "family rainy-day",
+      "internalLinks": [
+        "daejeon-expo-evening-course",
+        "daejeon-expo-night-walk"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-19T07:58:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-19T15:06:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-19T20:53:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-20",
+      "regionSlug": "gyeonggi",
+      "title": "수원 화성 여름밤 코스 2026: 행궁동 저녁부터 방화수류정 야경까지",
+      "primaryKeyword": "수원 화성 야경 코스",
+      "searchIntent": "night itinerary",
+      "internalLinks": [
+        "suwon-hwaseong-half-day"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-20T07:58:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-20T15:28:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-20T19:37:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-21",
+      "regionSlug": "gyeongbuk",
+      "title": "경주 비 오는 날 가족 여행 2026: 박물관·황리단길·실내 유적 동선",
+      "primaryKeyword": "경주 비오는날 아이와",
+      "searchIntent": "family rainy-day",
+      "internalLinks": [
+        "gyeongju-family",
+        "gyeongju-history-two-day"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-21T07:58:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-21T15:49:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-21T18:22:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-22",
+      "regionSlug": "daegu",
+      "title": "대구 폭염 피하는 하루 코스 2026: 실내 명소와 야간 산책을 잇는 방법",
+      "primaryKeyword": "대구 여름 실내 여행",
+      "searchIntent": "heat-wave itinerary",
+      "internalLinks": [
+        "daegu-modern-street"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-22T07:59:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-22T12:11:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-22T21:06:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-23",
+      "regionSlug": "gyeongnam",
+      "title": "통영 케이블카·미륵산 하루 코스 2026: 대기시간과 날씨별 대체 동선",
+      "primaryKeyword": "통영 케이블카 코스",
+      "searchIntent": "viewpoint itinerary",
+      "internalLinks": [
+        "tongyeong-island-view",
+        "tongyeong-two-day"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-23T07:59:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-23T12:33:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-23T19:50:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-24",
+      "regionSlug": "jeonnam",
+      "title": "여수 부모님과 1박2일 2026: 걷는 거리 줄인 케이블카·오동도·시장 코스",
+      "primaryKeyword": "여수 부모님 여행",
+      "searchIntent": "accessible itinerary",
+      "internalLinks": [
+        "yeosu-night-sea",
+        "yeosu-island-day"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-24T07:59:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-24T12:55:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-24T18:35:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-25",
+      "regionSlug": "seoul",
+      "title": "서울역 짐 보관 후 반나절 코스 2026: 남대문·덕수궁·청계천 이동 순서",
+      "primaryKeyword": "서울역 짐보관 반나절",
+      "searchIntent": "arrival itinerary",
+      "internalLinks": [
+        "seoul-one-day-palace-walk",
+        "seoul-rainy-day-first-trip"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-25T07:59:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-25T13:17:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-25T21:19:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-26",
+      "regionSlug": "busan",
+      "title": "부산 해수욕장 비교 2026: 해운대·광안리·송정 숙소와 교통 선택 기준",
+      "primaryKeyword": "부산 해수욕장 추천",
+      "searchIntent": "beach comparison",
+      "internalLinks": [
+        "busan-haeundae-gwangalli-stay-guide",
+        "busan-stay-area-first-trip"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-26T07:59:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-26T13:38:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-26T20:03:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-27",
+      "regionSlug": "jeju",
+      "title": "제주 서쪽 노을 하루 코스 2026: 협재·금능·애월을 역주행하는 시간표",
+      "primaryKeyword": "제주 서쪽 노을 코스",
+      "searchIntent": "sunset itinerary",
+      "internalLinks": [
+        "jeju-three-day-first",
+        "jeju-without-car"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-27T07:59:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-27T14:00:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-27T18:48:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-28",
+      "regionSlug": "gangwon",
+      "title": "강릉 비 오는 날 여행 2026: 오죽헌·박물관·카페를 차 없이 잇는 코스",
+      "primaryKeyword": "강릉 비오는날 여행",
+      "searchIntent": "rainy-day itinerary",
+      "internalLinks": [
+        "gangneung-sea-coffee",
+        "gangneung-two-day"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-28T07:59:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-28T14:22:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-28T21:32:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-29",
+      "regionSlug": "gangwon",
+      "title": "설악산 여름 산행 준비 2026: 비 예보·케이블카·속초 복귀 판단 기준",
+      "primaryKeyword": "설악산 여름 등산",
+      "searchIntent": "mountain planning",
+      "internalLinks": [
+        "sokcho-seoraksan-market",
+        "sokcho-without-car"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-29T07:59:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-29T14:44:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-29T20:16:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-30",
+      "regionSlug": "jeonbuk",
+      "title": "전주 비 오는 날 먹거리 코스 2026: 한옥마을·시장·실내 문화공간 순서",
+      "primaryKeyword": "전주 비오는날 여행",
+      "searchIntent": "food rainy-day",
+      "internalLinks": [
+        "jeonju-food-cost",
+        "jeonju-hanok-day"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-30T07:59:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-30T15:05:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-30T19:01:00+09:00"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "date": "2026-07-31",
+      "regionSlug": "busan",
+      "title": "부산 아이와 비 오는 날 2026: 해양박물관·실내 전망·시장 가족 코스",
+      "primaryKeyword": "부산 비오는날 아이와",
+      "searchIntent": "family rainy-day",
+      "internalLinks": [
+        "busan-rainy-day-first-trip",
+        "busan-station-half-day"
+      ],
+      "publications": [
+        {
+          "locale": "ko",
+          "publishedAt": "2026-07-31T07:59:00+09:00"
+        },
+        {
+          "locale": "en",
+          "publishedAt": "2026-07-31T15:27:00+09:00"
+        },
+        {
+          "locale": "ja",
+          "publishedAt": "2026-07-31T21:45:00+09:00"
+        }
+      ],
+      "status": "queued"
+    }
+  ]
+}
