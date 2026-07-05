@@ -19,7 +19,6 @@ draft: false
 If you want to connect Seongsu, Jamsil, and Samseong on a rainy day without spending half the day soaked between stations, this guide lays out an indoor-first Line 2 plan with realistic timing, budget, transport, and backup choices.
 
 The key to this route is simple: `keep Seongsu short`, `let Jamsil absorb the wettest hours`, and `use Samseong as the controlled finish`. Rainy indoor itineraries in Seoul often fail because travelers treat Seongsu as a full all-weather sightseeing district or try to do too many paid indoor attractions in both Jamsil and Samseong on the same day. Line 2 itself is easy to follow, but July in Seoul is also the wettest and most humid part of the year, so even short street-level walks feel heavier than expected.  
-Source: [Regional Climate Statistics for Seoul | KMA](https://www.weather.go.kr/w/climate/statistics/region.do), [Climate Characteristics of Korea | KMA](https://www.weather.go.kr/w/climate/statistics/korea.do)
 
 <div class="article-summary">
   <strong>Key takeaways</strong>
@@ -112,13 +111,10 @@ Source: [Regional Climate Statistics for Seoul | KMA](https://www.weather.go.kr/
 ## Why Seongsu-Jamsil-Samseong Works Better Than Other Orders On A Rainy Day
 
 Seongsu works well at the start not because it is the strongest indoor sightseeing district, but because it is the stop that loses the least value when you keep it short. Yeonmujang-gil runs through Seongsu-dong between Ttukseom and Seongsu stations and is known for cafes, handmade shoe workshops, and trend-driven spaces. On a rainy day, that makes it a good opening mood-setting stop, but not the place where you should fight weather, queues, and wet shoes for half the day.  
-Source: [Seongsu-dong Cafe Street | Seoul Metropolitan Government](https://english.seoul.go.kr/seongsu-dong-cafe-street/), [Yeonmujang-gil | Seoul Metropolitan Government](https://english.seoul.go.kr/yeonmujang-gil-seongsu-dong-cafe-street/)
 
 Jamsil then works as the main indoor anchor because one wider complex can cover lunch, bathrooms, cafes, dinner candidates, and one paid attraction without forcing you back outside repeatedly. Official tourism information presents Lotte World Tower and Mall as a mixed-use complex with an observatory, galleries, cafes, hotel, and retail functions. That is exactly what you want when the weather is unstable.  
-Source: [Lotte World Tower & Mall | Visit Korea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=72115), [SEOUL SKY | Lotte World Tower](https://seoulsky.lotteworld.com/)
 
 Samseong finishes well because COEX Mall offers a simple indoor structure for closing the day. Starfield Library is an open public space in the middle of the mall, and COEX Aquarium is another weather-proof option if you truly still have energy. In most cases, however, Samseong should be the decompression block, not a second attempt to build a whole new sightseeing day.  
-Source: [Starfield Library | Visit Seoul](https://english.visitseoul.net/attractions/Starfield-Library/ENP026558), [SEA LIFE COEX Aquarium | Visit Seoul](https://english.visitseoul.net/attractions/COEX-Aquarium/ENP000374)
 
 ## Keep Seongsu Sharp And Short
 
@@ -139,7 +135,6 @@ If what you really want is simply the most stable rainy-day Seoul plan for a fir
 ## In Jamsil, Finish Lunch And Your Main Indoor Decision In One Zone
 
 Once you reach Jamsil, the single biggest decision is choosing just one main paid indoor block. Seoul Sky makes more sense when the rain weakens and visibility opens up, since the adult general ticket is KRW 33,000 and the experience depends heavily on the view. Aquarium time, by contrast, is more weather-proof and easier with children, but it can easily consume the energy you wanted to save for Samseong later.  
-Source: [SEOUL SKY Ticket Info](https://seoulsky.lotteworld.com/price/info/ticket), [COEX Aquarium | Visit Korea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=95700)
 
 The practical rules in Jamsil usually look like this:
 
@@ -187,14 +182,12 @@ Jamsil is also one of the heaviest foot-traffic areas on the line, so weekend qu
 The transfer from Jamsil to Samseong is simple enough, but the real question is not the ride time. The real question is whether you still need a new attraction or whether what you need is a clean indoor place to recover, eat, and decide how to end the day. That is why Starfield Library should usually come first in Samseong.
 
 Because it sits in the center of COEX Mall, Starfield Library is useful as a free reset space. It gives you a place to sit, dry off mentally, check battery levels, reorganize bags, and decide whether another paid stop still makes sense. COEX Aquarium runs daily from 10:00 to 20:00 with last admission at 19:00, so it remains available even later in the day, but that does not mean you should automatically add it. If Jamsil already took your money and energy, Samseong should often become a calm indoor close instead.  
-Source: [Starfield Library | Visit Seoul](https://english.visitseoul.net/attractions/Starfield-Library/ENP026558), [SEA LIFE COEX Opening Hours](https://www.visitsealife.com/coex-seoul/en/plan-your-visit/before-you-visit/opening-hours/), [COEX Aquarium | Visit Korea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=95700)
 
 ## Transport Planning Matters More Than Absolute Fare
 
 People often assume an indoor Seoul subway route will automatically be cheap and easy. The route is easy, but the total budget often grows through `one short taxi ride`, `extra cafe time while waiting out rain`, and `small delays caused by wet umbrellas and crowded station exits`. If you stay on subway and bus only, the route is manageable. If the rain becomes much stronger or your shoes are already losing the battle, it is better to slow down once between Jamsil and Samseong rather than forcing the schedule.
 
 Seoul’s Climate Card tourist pass can simplify the day if you expect several subway and bus rides beyond this route. The city’s official tourist version offers a 1-day pass at KRW 5,000. If this indoor route is the only major movement of the day and you are going straight back afterward, a normal transit card may be simpler.  
-Source: [Climate Card | Seoul Metropolitan Government](https://english.seoul.go.kr/policy/transportation/climate-card/), [Climate Card Tourist Pass launch](https://english.seoul.go.kr/seoul-launches-climate-card-tourist-pass-with-1-2-3-and-5-day-options-starting-in-july/), [Subway | Visit Seoul](https://english.visitseoul.net/subway)
 
 <section class="planning-table compact">
   <h2>Typical Budget Check</h2>

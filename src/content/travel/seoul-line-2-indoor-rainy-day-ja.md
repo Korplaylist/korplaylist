@@ -19,7 +19,6 @@ draft: false
 ソウル2号線の東側エリアで、雨に大きく振り回されずに聖水、蚕室、三成を1日でつなぎたい人向けに、屋内中心の動線、現実的な時間配分、予算、交通、代替案をまとめます。
 
 このコースで大事なのは `聖水は短く`, `蚕室でいちばん長く`, `三成は落ち着いて締める` という順番です。雨の日のソウル屋内旅行が崩れやすいのは、聖水を全天候型の観光地だと考えすぎたり、蚕室と三成の有料屋内施設を同じ日に詰め込みすぎたりするからです。2号線自体は分かりやすい一方、7月のソウルは降水量も湿度も高く、駅から建物までの短い移動でも体力が削られます。  
-出典: [ソウル地域別気候特性 | 気象庁](https://www.weather.go.kr/w/climate/statistics/region.do), [韓国の気候特性 | 気象庁](https://www.weather.go.kr/w/climate/statistics/korea.do)
 
 <div class="article-summary">
   <strong>要点</strong>
@@ -112,13 +111,10 @@ draft: false
 ## なぜ雨の日は聖水→蚕室→三成の順番が使いやすいのか
 
 聖水を先に置く理由は、「最高の屋内観光地だから」ではなく `短く切り上げても損をしにくい区間` だからです。延武場キルはトゥクソム駅と聖水駅の間を通る通りで、カフェや手作り靴工房、個性のある店舗が集まる場所として知られています。雨の日はこのエリアを長い散歩コースとして考えるより、ソウル東側の空気感をつかむ出発区間として短く使う方が安定します。  
-出典: [Seongsu-dong Cafe Street | Seoul Metropolitan Government](https://english.seoul.go.kr/seongsu-dong-cafe-street/), [Yeonmujang-gil | Seoul Metropolitan Government](https://english.seoul.go.kr/yeonmujang-gil-seongsu-dong-cafe-street/)
 
 そのあと蚕室を長く取ると、昼食、トイレ、カフェ、休憩、有料屋内の選択肢まで同じエリアで処理できます。公式観光情報でも、ロッテワールドタワー＆モールは展望台、ギャラリー、カフェ、ホテル、商業施設が入る大型複合空間として紹介されており、天候が不安定な日に時間を吸収する力が強いです。  
-出典: [Lotte World Tower & Mall | Visit Korea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=72115), [SEOUL SKY | Lotte World Tower](https://seoulsky.lotteworld.com/)
 
 三成はコエックスモールの屋内構造が分かりやすく、スターフィールド・ライブラリーのように無料で座って整え直せる空間があるため、最後の整理区間に向いています。観光をもう一度始める場所ではなく、崩れた体力と時間を戻す区間として見る方が現実的です。  
-出典: [Starfield Library | Visit Seoul](https://english.visitseoul.net/attractions/Starfield-Library/ENP026558), [SEA LIFE COEX Aquarium | Visit Seoul](https://english.visitseoul.net/attractions/COEX-Aquarium/ENP000374)
 
 ## 聖水は「長く粘る場所」ではなく「短く見る場所」
 
@@ -139,7 +135,6 @@ draft: false
 ## 蚕室では昼食と主役になる屋内選択を同じエリアで終える
 
 蚕室に着いたら最初に決めるべきことは、「有料の主役を一つにする」ことです。ソウルスカイは雨が弱まり視界が開く日に向いていて、一般大人券は33,000ウォンです。逆に霧や雨が強い日は、眺望の価値が落ちやすいです。一方、水族館は天候の影響を受けにくく、子ども連れにも合わせやすいですが、滞在時間が長くなりやすく三成が薄くなります。  
-出典: [SEOUL SKY Ticket Info](https://seoulsky.lotteworld.com/price/info/ticket), [COEX Aquarium | Visit Korea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=95700)
 
 蚕室では次の考え方が実用的です。
 
@@ -187,14 +182,12 @@ draft: false
 蚕室から三成までは2号線で分かりやすく移動できますが、問題は移動時間そのものではありません。問題は、そこでまた新しい観光を組み立てる必要があるかどうかです。雨の日は、観光地を追加するよりも、無料で座れて気持ちを立て直せる場所の価値が高くなります。
 
 スターフィールド・ライブラリーはコエックスモールの中央にある開放型空間なので、座って休み、スマートフォンの充電を確認し、濡れた荷物を整え、夕食候補を決め直すのに向いています。コエックスアクアリウムは毎日10:00〜20:00、最終入場19:00なので、夕方以降でも入れますが、蚕室ですでに有料屋内を使ったなら無理に足さない方が全体の完成度は上がります。  
-出典: [Starfield Library | Visit Seoul](https://english.visitseoul.net/attractions/Starfield-Library/ENP026558), [SEA LIFE COEX Opening Hours](https://www.visitsealife.com/coex-seoul/en/plan-your-visit/before-you-visit/opening-hours/), [COEX Aquarium | Visit Korea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=95700)
 
 ## 交通は「最安」より「選択回数を減らす」ことが大事
 
 屋内中心の地下鉄ルートだから交通費が単純に安いと思いがちですが、実際には `短いタクシー1回`, `雨待ちのカフェ`, `濡れた傘で動きが遅くなる時間` が予算を押し上げます。地下鉄とバスだけでも十分回せるルートですが、靴が厳しくなってきたら、蚕室と三成の間で一度ペースを落とす方が結果的に楽です。
 
 ソウル市の観光向け気候同行カードは、当日に地下鉄やバスを複数回使う人には分かりやすい選択肢です。公式案内では1日券が5,000ウォンで、ソウル市内の公共交通をまとめて使う人には扱いやすい仕組みです。逆に、このコースだけで終わるなら通常の交通カードでも十分です。  
-出典: [Climate Card | Seoul Metropolitan Government](https://english.seoul.go.kr/policy/transportation/climate-card/), [Climate Card Tourist Pass launch](https://english.seoul.go.kr/seoul-launches-climate-card-tourist-pass-with-1-2-3-and-5-day-options-starting-in-july/), [Subway | Visit Seoul](https://english.visitseoul.net/subway)
 
 <section class="planning-table compact">
   <h2>費用の目安</h2>

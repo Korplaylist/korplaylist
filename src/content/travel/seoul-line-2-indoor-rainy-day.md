@@ -19,7 +19,6 @@ draft: false
 서울 2호선 동쪽 축에서 비를 크게 맞지 않고 성수, 잠실, 삼성을 하루에 잇고 싶은 사람을 위해 실내 위주 동선, 이동 순서, 비용, 대체안, 숙소 판단 기준을 정리했습니다.
 
 이 코스의 핵심은 `성수에서는 짧고 민첩하게`, `잠실에서는 가장 오래`, `삼성에서는 저녁 전 마무리`입니다. 비 오는 날 서울 실내 여행이 흔히 꼬이는 이유는 성수를 과하게 길게 잡거나, 잠실과 삼성의 유료 실내 시설을 한날에 둘 다 욕심내기 때문입니다. 2호선으로 이동 자체는 단순하지만, 장마철 7월 서울은 습도가 높고 7월 강수량이 가장 많은 달이라 역 밖 짧은 이동도 피로가 빠르게 쌓입니다.  
-출처: [서울 지역별 기후특성 | 기상청](https://www.weather.go.kr/w/climate/statistics/region.do), [우리나라 기후특성 | 기상청](https://www.weather.go.kr/w/climate/statistics/korea.do)
 
 <div class="article-summary">
   <strong>핵심 요약</strong>
@@ -112,13 +111,10 @@ draft: false
 ## 왜 성수-잠실-삼성 순서가 비 오는 날에 가장 덜 피곤한가
 
 성수를 먼저 두는 이유는 “가장 좋은 실내 관광지”라서가 아니라 `오전 체류 시간이 짧아도 아쉽지 않은 구간`이기 때문입니다. 연무장길은 성수역과 뚝섬역 사이로 이어지는 거리이고, 젊은 층이 찾는 카페와 수제화, 팝업 성격의 매장이 밀집한 지역으로 알려져 있습니다. 비 오는 날에는 이 지역을 긴 산책형 코스로 보지 말고, 오전에 감각만 보고 빠지는 전초전으로 잡는 편이 좋습니다.  
-출처: [Seongsu-dong Cafe Street | Seoul Metropolitan Government](https://english.seoul.go.kr/seongsu-dong-cafe-street/), [Yeonmujang-gil | Seoul Metropolitan Government](https://english.seoul.go.kr/yeonmujang-gil-seongsu-dong-cafe-street/)
 
 반대로 잠실은 롯데월드몰 하나만으로도 점심, 화장실, 카페, 저녁 후보, 실내 유료 선택지를 한 번에 담을 수 있어 비가 강한 시간대를 흡수하기 좋습니다. 공식 관광 정보 기준 롯데월드타워·몰은 전망대, 갤러리, 카페, 호텔, 쇼핑 시설이 함께 있는 대형 복합공간이라 “이동을 줄이며 시간을 태울 수 있는 실내 거점”이라는 점이 강점입니다.  
-출처: [Lotte World Tower & Mall | Visit Korea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=72115), [SEOUL SKY | Lotte World Tower](https://seoulsky.lotteworld.com/)
 
 삼성은 코엑스몰 중심이라 지하 연결 동선이 단순하고, 스타필드 라이브러리처럼 무료로 쉬어 갈 수 있는 공간이 있습니다. 잠실에서 이미 충분히 실내 체류를 했다면 삼성은 “마지막 돈 쓰는 구간”이 아니라 “체력 회복과 저녁 정리 구간”으로 보는 것이 훨씬 효율적입니다.  
-출처: [Starfield Library | Visit Seoul](https://english.visitseoul.net/attractions/Starfield-Library/ENP026558), [SEA LIFE COEX Aquarium | Visit Seoul](https://english.visitseoul.net/attractions/COEX-Aquarium/ENP000374)
 
 ## 성수는 오래 버티는 곳이 아니라 짧게 보고 빠지는 구간으로 잡아야 한다
 
@@ -139,7 +135,6 @@ draft: false
 ## 잠실은 한 구역에서 점심과 핵심 체류를 끝내야 만족도가 높다
 
 잠실에 도착하면 가장 먼저 할 일은 “유료 입장 하나만 고르기”입니다. 서울스카이는 성인 일반권이 33,000원이라 비가 약해지고 시야가 열리는 날에는 값어치를 하기 쉽지만, 안개와 비가 강하면 만족도가 떨어질 수 있습니다. 반대로 아쿠아리움은 날씨 영향을 덜 받는 대신 체류 시간이 길어져 삼성 구간이 짧아질 수 있습니다.  
-출처: [SEOUL SKY Ticket Info](https://seoulsky.lotteworld.com/price/info/ticket), [COEX Aquarium | Visit Korea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=95700)
 
 비 오는 7월의 잠실에서는 다음처럼 생각하면 실수가 줄어듭니다.
 
@@ -187,7 +182,6 @@ draft: false
 잠실에서 2호선으로 삼성까지는 비교적 짧게 이동할 수 있지만, 비 오는 날 체감 피로는 “이동 시간”보다 “내려서 다시 무엇을 결정해야 하는가”에 좌우됩니다. 그래서 삼성에서는 스타필드 라이브러리처럼 무료로 앉아 쉬기 쉬운 장소를 먼저 두고, 에너지가 남을 때만 추가 유료 입장을 고민하는 편이 좋습니다.
 
 스타필드 라이브러리는 코엑스몰 중심부의 개방형 공간이라 앉아서 숨을 고르고, 휴대폰 충전 상태를 확인하고, 저녁 식당 후보를 다시 정리하기에 좋습니다. 코엑스 아쿠아리움은 운영시간이 매일 10:00~20:00, 마지막 입장 19:00이어서 늦게 도착해도 넣을 수는 있지만, 잠실에서 이미 유료 구간을 썼다면 삼성에서 또 아쿠아리움을 추가하는 것은 보통 과합니다.  
-출처: [Starfield Library | Visit Seoul](https://english.visitseoul.net/attractions/Starfield-Library/ENP026558), [SEA LIFE COEX Opening Hours](https://www.visitsealife.com/coex-seoul/en/plan-your-visit/before-you-visit/opening-hours/), [COEX Aquarium | Visit Korea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=95700)
 
 이 구간의 정답은 “뭘 더 볼까”보다 “어디서 덜 젖고 덜 지치게 저녁을 먹고 끝낼까”입니다. 쇼핑보다 쉬는 시간이 더 절실한 날이라면, 삼성은 무료 공간과 저녁만으로 닫아도 충분합니다.
 
@@ -196,7 +190,6 @@ draft: false
 서울 지하철 실내 여행이라고 하면 무조건 교통비가 적게 들 것 같지만, 실제로는 `짧은 택시 1회`, `우산 때문에 느려진 이동`, `대기열 때문에 늘어난 카페 비용`이 총예산을 키웁니다. 대중교통만 이용한다면 2호선 한 줄기라 운영은 단순합니다. 다만 비가 아주 강하거나 신발 상태가 망가졌다면 잠실에서 삼성으로 넘어가기 전 한 번 쉬고 움직이는 편이 낫습니다.
 
 서울시는 단기 방문객용 클라이밋카드 관광권을 운영하고 있어, 그날 서울 시내 지하철과 버스를 여러 번 쓸 계획이라면 1일권 5,000원이 계산이 쉬운 편입니다. 반대로 이 일정만 하고 숙소로 바로 돌아갈 사람은 일반 교통카드가 더 단순할 수도 있습니다.  
-출처: [Climate Card | Seoul Metropolitan Government](https://english.seoul.go.kr/policy/transportation/climate-card/), [Climate Card Tourist Pass launch](https://english.seoul.go.kr/seoul-launches-climate-card-tourist-pass-with-1-2-3-and-5-day-options-starting-in-july/), [Subway | Visit Seoul](https://english.visitseoul.net/subway)
 
 <section class="planning-table compact">
   <h2>예상 비용 체크</h2>
