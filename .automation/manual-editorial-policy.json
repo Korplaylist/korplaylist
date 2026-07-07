@@ -1,0 +1,43 @@
+{
+  "mode": "manual-request-only",
+  "timezone": "Asia/Seoul",
+  "dailyCount": {
+    "min": 3,
+    "max": 5
+  },
+  "rotation": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "publishingWindows": {
+    "ko": [
+      "07:10-09:40",
+      "11:30-14:20",
+      "16:30-19:50",
+      "20:10-22:10"
+    ],
+    "en": [
+      "08:10-10:40",
+      "12:20-15:40",
+      "17:10-20:30",
+      "21:00-23:00"
+    ],
+    "ja": [
+      "07:40-10:20",
+      "11:40-14:40",
+      "16:20-19:20",
+      "20:00-22:20"
+    ]
+  },
+  "rules": [
+    "Do not run autonomous article-writing automations.",
+    "Create scheduled posts only when the user asks for today's reserved posts.",
+    "Use one locale per requested day: Korean day, then English day, then Japanese day.",
+    "Select keywords separately for each locale instead of translating the same Korean keyword.",
+    "Use English URL slugs for every locale.",
+    "Keep body source lists out of articles. Keep only legally required image attribution captions.",
+    "Each article must pass content integrity, image existence, image duplicate, AdSense readiness, automation health, and Astro build checks before commit.",
+    "Do not stage unrelated dirty files."
+  ]
+}

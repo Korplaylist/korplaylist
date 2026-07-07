@@ -4,6 +4,7 @@ import path from "node:path";
 
 const root = process.cwd();
 const expectedCwd = root;
+const policyPath = path.join(root, ".automation", "manual-editorial-policy.json");
 const automationPath = path.join(
   os.homedir(),
   ".codex",
@@ -11,10 +12,9 @@ const automationPath = path.join(
   "korplaylist-july-queue-writer",
   "automation.toml"
 );
-const queuePath = path.join(root, ".automation", "july-2026-editorial-queue.json");
 const failures = [];
 
-checkQueue();
+checkManualPolicy();
 checkLocalAutomation();
 
 if (failures.length) {
@@ -25,36 +25,30 @@ if (failures.length) {
 
 console.log("Automation health check passed.");
 
-function checkQueue() {
-  let payload;
+function checkManualPolicy() {
+  let policy;
   try {
-    payload = JSON.parse(fs.readFileSync(queuePath, "utf8"));
+    policy = JSON.parse(fs.readFileSync(policyPath, "utf8"));
   } catch (error) {
-    failures.push(`cannot read editorial queue: ${error.message}`);
+    failures.push(`cannot read manual editorial policy: ${error.message}`);
     return;
   }
 
-  if (!Array.isArray(payload.queue)) {
-    failures.push("editorial queue is missing a queue array");
-    return;
+  if (policy.mode !== "manual-request-only") {
+    failures.push(`manual editorial policy mode must be manual-request-only, found "${policy.mode}"`);
   }
 
-  for (const item of payload.queue) {
-    if (!item.date || !item.regionSlug || !item.title || !item.primaryKeyword) {
-      failures.push(`queue item has missing planning fields: ${JSON.stringify(item)}`);
-      continue;
-    }
+  if (policy.dailyCount?.min !== 3 || policy.dailyCount?.max !== 5) {
+    failures.push("manual editorial policy must keep dailyCount at 3-5");
+  }
 
-    if (hasReplacementChars(item.title) || hasReplacementChars(item.primaryKeyword)) {
-      failures.push(`queue item appears mojibake/corrupted: ${item.date}`);
-    }
+  if (JSON.stringify(policy.rotation) !== JSON.stringify(["ko", "en", "ja"])) {
+    failures.push("manual editorial policy rotation must be ko -> en -> ja");
+  }
 
-    if (!["queued", "prepared"].includes(item.status)) {
-      failures.push(`queue item has unsupported status "${item.status}": ${item.date}`);
-    }
-
-    if (!Array.isArray(item.publications) || item.publications.length !== 3) {
-      failures.push(`queue item must have ko/en/ja publication times: ${item.date}`);
+  for (const locale of ["ko", "en", "ja"]) {
+    if (!Array.isArray(policy.publishingWindows?.[locale]) || policy.publishingWindows[locale].length < 3) {
+      failures.push(`manual editorial policy needs at least three publishing windows for ${locale}`);
     }
   }
 }
@@ -65,22 +59,13 @@ function checkLocalAutomation() {
   const source = fs.readFileSync(automationPath, "utf8");
   const status = readTomlString(source, "status");
   const cwdValues = readTomlArray(source, "cwds");
-  const prompt = readTomlString(source, "prompt");
 
   if (status === "ACTIVE") {
-    failures.push("Codex queue writer automation is ACTIVE; keep it PAUSED unless manually supervised");
+    failures.push("Codex queue writer automation is ACTIVE; keep it PAUSED for manual-only publishing");
   }
 
   if (cwdValues.length && !cwdValues.includes(expectedCwd)) {
     failures.push(`Codex queue writer cwd mismatch. Expected "${expectedCwd}", found ${JSON.stringify(cwdValues)}`);
-  }
-
-  if (hasReplacementChars(source) || /異|뷴|�/.test(source)) {
-    failures.push("Codex queue writer automation file contains mojibake/corrupted Korean text");
-  }
-
-  if (prompt && !/never display source lists/i.test(prompt)) {
-    failures.push("Codex queue writer prompt is missing the no-source-list rule");
   }
 }
 
@@ -93,8 +78,4 @@ function readTomlArray(source, key) {
   const match = source.match(new RegExp(`^${key}\\s*=\\s*\\[(.*?)\\]\\s*$`, "m"));
   if (!match) return [];
   return [...match[1].matchAll(/"([^"]+)"/g)].map((item) => item[1].replace(/\\\\/g, "\\"));
-}
-
-function hasReplacementChars(value) {
-  return /�|\?{2,}|[縺譁蜊遺쒖쿂]/.test(value);
 }

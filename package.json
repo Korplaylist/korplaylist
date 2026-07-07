@@ -11,6 +11,7 @@
     "check:images": "node scripts/check-image-duplicates.mjs && node scripts/check-image-source-families.mjs",
     "check:adsense": "node scripts/check-content-integrity.mjs && node scripts/check-asset-existence.mjs && node scripts/check-adsense-readiness.mjs",
     "check:automation": "node scripts/check-automation-health.mjs",
+    "plan:daily": "node scripts/create-manual-daily-plan.mjs",
     "fix:images": "node scripts/fix-images.mjs"
   },
   "dependencies": {
