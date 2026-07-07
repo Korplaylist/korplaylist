@@ -2,7 +2,7 @@ name: Publish scheduled travel posts
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -24,6 +24,9 @@ jobs:
       - uses: actions/setup-node@v5
         with:
           node-version: 22
+
+      - name: Check editorial automation health
+        run: node scripts/check-automation-health.mjs
 
       - name: Detect newly due posts
         run: node scripts/trigger-scheduled-publish.mjs
