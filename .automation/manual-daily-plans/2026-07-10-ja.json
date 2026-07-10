@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-10",
+  "locale": "ja",
+  "mode": "manual-request-only",
+  "status": "prepared",
+  "count": 3,
+  "keywordStrategy": {
+    "audience": "日本語で韓国旅行を調べる旅行者",
+    "rule": "Japanese search-demand keywords selected directly, not translated from Korean keywords"
+  },
+  "publishingSlots": [
+    {
+      "order": 1,
+      "publishedAt": "2026-07-10T09:10:00+09:00"
+    },
+    {
+      "order": 2,
+      "publishedAt": "2026-07-10T12:40:00+09:00"
+    },
+    {
+      "order": 3,
+      "publishedAt": "2026-07-10T17:30:00+09:00"
+    }
+  ],
+  "articlePlans": [
+    {
+      "order": 1,
+      "targetKeyword": "仁川空港 乗り継ぎ 観光",
+      "secondaryKeywords": [
+        "インチョン空港 トランジット 観光",
+        "仁川空港 6時間 乗り継ぎ"
+      ],
+      "searchIntent": "airport layover itinerary",
+      "regionSlug": "incheon",
+      "title": "仁川空港 乗り継ぎ観光 2026: 6〜8時間で無理なく行ける空港周辺モデルコース",
+      "urlSlug": "incheon-airport-layover-tour",
+      "internalLinkTargets": [
+        "incheon-open-port",
+        "incheon-songdo-day-trip"
+      ],
+      "status": "prepared"
+    },
+    {
+      "order": 2,
+      "targetKeyword": "ソウル 雨の日 モデルコース",
+      "secondaryKeywords": [
+        "韓国旅行 雨の日 ソウル",
+        "ソウル 室内観光"
+      ],
+      "searchIntent": "rainy-day indoor itinerary",
+      "regionSlug": "seoul",
+      "title": "ソウル雨の日モデルコース 2026: 明洞・東大門・博物館を濡れずに回る室内中心プラン",
+      "urlSlug": "seoul-rainy-day-model-course",
+      "internalLinkTargets": [
+        "seoul-line-2-indoor-rainy-day",
+        "seoul-one-day-palace-walk"
+      ],
+      "status": "prepared"
+    },
+    {
+      "order": 3,
+      "targetKeyword": "釜山 初めて 2泊3日",
+      "secondaryKeywords": [
+        "釜山 モデルコース 日本語",
+        "釜山 海雲台 南浦洞 甘川文化村"
+      ],
+      "searchIntent": "first-time multi-day itinerary",
+      "regionSlug": "busan",
+      "title": "釜山 初めての2泊3日 2026: 海雲台・南浦洞・甘川文化村を迷わず回る順番",
+      "urlSlug": "busan-first-time-2n3d",
+      "internalLinkTargets": [
+        "busan-two-day-route",
+        "busan-haeundae-gwangalli-night"
+      ],
+      "status": "prepared"
+    }
+  ]
+}
