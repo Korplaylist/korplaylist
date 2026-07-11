@@ -1,0 +1,57 @@
+{
+  "date": "2026-07-11",
+  "locale": "ko",
+  "mode": "manual-request-only",
+  "status": "prepared",
+  "count": 3,
+  "keywordStrategy": {
+    "audience": "한국어 검색 사용자",
+    "rule": "한국어 검색 수요에 맞춰 여름밤, 피크닉, 야경, 주말 당일치기 의도를 직접 선정"
+  },
+  "publishingSlots": [
+    {
+      "order": 1,
+      "publishedAt": "2026-07-11T09:10:00+09:00"
+    },
+    {
+      "order": 2,
+      "publishedAt": "2026-07-11T13:20:00+09:00"
+    },
+    {
+      "order": 3,
+      "publishedAt": "2026-07-11T18:40:00+09:00"
+    }
+  ],
+  "articlePlans": [
+    {
+      "order": 1,
+      "targetKeyword": "송도 센트럴파크 야경",
+      "secondaryKeywords": ["송도 야경", "송도 데이트 코스", "인천 여름밤"],
+      "searchIntent": "summer night itinerary",
+      "regionSlug": "incheon",
+      "title": "송도 센트럴파크 야경 코스 2026: 여름밤 산책·트라이보울·수상택시 동선",
+      "urlSlug": "incheon-songdo-summer-night",
+      "status": "prepared"
+    },
+    {
+      "order": 2,
+      "targetKeyword": "대전 한빛탑 물빛광장",
+      "secondaryKeywords": ["대전 야경", "엑스포다리", "갑천 산책"],
+      "searchIntent": "night attraction and family route",
+      "regionSlug": "daejeon",
+      "title": "대전 한빛탑 물빛광장 여름밤 코스 2026: 엑스포다리·갑천 산책 동선",
+      "urlSlug": "daejeon-hanbit-summer-night",
+      "status": "prepared"
+    },
+    {
+      "order": 3,
+      "targetKeyword": "여의도 한강공원 피크닉",
+      "secondaryKeywords": ["한강 피크닉", "여의도 야경", "한강공원 돗자리"],
+      "searchIntent": "summer picnic planning",
+      "regionSlug": "seoul",
+      "title": "여의도 한강공원 피크닉 2026: 여름밤 돗자리·야경·편의점 동선 가이드",
+      "urlSlug": "yeouido-hangang-summer-picnic",
+      "status": "prepared"
+    }
+  ]
+}
