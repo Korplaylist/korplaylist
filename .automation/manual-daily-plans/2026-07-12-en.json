@@ -1,0 +1,57 @@
+{
+  "date": "2026-07-12",
+  "locale": "en",
+  "mode": "manual-request-only",
+  "status": "prepared",
+  "count": 3,
+  "keywordStrategy": {
+    "audience": "English-speaking Korea travelers",
+    "rule": "English search-demand keywords selected directly, focusing on airport entry, KTX routing, and first-trip itinerary planning"
+  },
+  "publishingSlots": [
+    {
+      "order": 1,
+      "publishedAt": "2026-07-12T08:40:00+09:00"
+    },
+    {
+      "order": 2,
+      "publishedAt": "2026-07-12T13:10:00+09:00"
+    },
+    {
+      "order": 3,
+      "publishedAt": "2026-07-12T18:20:00+09:00"
+    }
+  ],
+  "articlePlans": [
+    {
+      "order": 1,
+      "targetKeyword": "Incheon airport layover tour",
+      "secondaryKeywords": ["ICN layover tour", "Incheon airport transit", "Songdo layover"],
+      "searchIntent": "airport layover planning",
+      "regionSlug": "incheon",
+      "title": "Incheon Airport Layover Tour 2026: What to Do With 6 to 8 Hours Near ICN",
+      "urlSlug": "incheon-airport-layover-tour",
+      "status": "prepared"
+    },
+    {
+      "order": 2,
+      "targetKeyword": "Seoul to Busan KTX itinerary",
+      "secondaryKeywords": ["Busan 2 day itinerary", "Korea train itinerary", "Busan first trip"],
+      "searchIntent": "intercity train route planning",
+      "regionSlug": "busan",
+      "title": "Seoul to Busan KTX Itinerary 2026: First-Timer Route for 2 Days in Busan",
+      "urlSlug": "seoul-to-busan-ktx-itinerary",
+      "status": "prepared"
+    },
+    {
+      "order": 3,
+      "targetKeyword": "Korea 7 day itinerary",
+      "secondaryKeywords": ["South Korea summer itinerary", "Seoul Busan Jeju itinerary", "Korea first trip"],
+      "searchIntent": "first-time country itinerary planning",
+      "regionSlug": "seoul",
+      "title": "Korea 7 Day Summer Itinerary 2026: Seoul, Busan, Jeju, and Gyeongju Without Rushing",
+      "urlSlug": "korea-7-day-summer-itinerary",
+      "status": "prepared"
+    }
+  ]
+}
