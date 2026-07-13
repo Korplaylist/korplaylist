@@ -1,0 +1,57 @@
+{
+  "date": "2026-07-13",
+  "locale": "ja",
+  "mode": "manual-request-only",
+  "status": "prepared",
+  "count": 3,
+  "keywordStrategy": {
+    "audience": "日本語で韓国旅行を検索する初回・短期旅行者",
+    "rule": "Japanese search-demand keywords selected directly, not translated from Korean keywords"
+  },
+  "publishingSlots": [
+    {
+      "order": 1,
+      "publishedAt": "2026-07-13T14:05:00+09:00"
+    },
+    {
+      "order": 2,
+      "publishedAt": "2026-07-13T16:40:00+09:00"
+    },
+    {
+      "order": 3,
+      "publishedAt": "2026-07-13T20:10:00+09:00"
+    }
+  ],
+  "articlePlans": [
+    {
+      "order": 1,
+      "targetKeyword": "韓国旅行 3泊4日 モデルコース",
+      "secondaryKeywords": ["韓国 3泊4日 初めて", "ソウル 釜山 3泊4日", "韓国旅行 モデルコース"],
+      "searchIntent": "first-time Korea multi-city itinerary planning",
+      "regionSlug": "seoul",
+      "title": "韓国旅行3泊4日モデルコース2026: 初めてでも迷わないソウルと釜山の回り方",
+      "urlSlug": "korea-3n4d-model-course",
+      "status": "prepared"
+    },
+    {
+      "order": 2,
+      "targetKeyword": "仁川空港 トランジット 観光",
+      "secondaryKeywords": ["仁川空港 乗り継ぎ 観光", "韓国 トランジット ツアー", "仁川空港 待ち時間 過ごし方"],
+      "searchIntent": "airport transit sightseeing and timing",
+      "regionSlug": "incheon",
+      "title": "仁川空港トランジット観光2026: 6時間から9時間で外に出る時の現実的な回り方",
+      "urlSlug": "incheon-airport-transit-sightseeing",
+      "status": "prepared"
+    },
+    {
+      "order": 3,
+      "targetKeyword": "釜山 3泊4日 モデルコース",
+      "secondaryKeywords": ["釜山旅行 3泊4日", "釜山 初めて モデルコース", "釜山 グルメ 観光 3泊4日"],
+      "searchIntent": "Busan first-trip multi-day route planning",
+      "regionSlug": "busan",
+      "title": "釜山3泊4日モデルコース2026: 初めての釜山で海・市場・夜景を無理なく回る旅程",
+      "urlSlug": "busan-3n4d-model-course",
+      "status": "prepared"
+    }
+  ]
+}
