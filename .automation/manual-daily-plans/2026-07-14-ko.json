@@ -1,0 +1,57 @@
+{
+  "date": "2026-07-14",
+  "locale": "ko",
+  "mode": "manual-request-only",
+  "status": "prepared",
+  "count": 3,
+  "keywordStrategy": {
+    "audience": "한국어로 국내 여름 여행 코스를 검색하는 단기 여행자",
+    "rule": "Korean search-demand keywords selected directly, not translated from other languages"
+  },
+  "publishingSlots": [
+    {
+      "order": 1,
+      "publishedAt": "2026-07-14T11:20:00+09:00"
+    },
+    {
+      "order": 2,
+      "publishedAt": "2026-07-14T15:40:00+09:00"
+    },
+    {
+      "order": 3,
+      "publishedAt": "2026-07-14T19:30:00+09:00"
+    }
+  ],
+  "articlePlans": [
+    {
+      "order": 1,
+      "targetKeyword": "강릉 당일치기 뚜벅이",
+      "secondaryKeywords": ["강릉 당일치기 코스", "강릉 KTX 당일치기", "강릉 여름 여행"],
+      "searchIntent": "public transport day-trip planning",
+      "regionSlug": "gangwon",
+      "title": "강릉 당일치기 뚜벅이 코스 2026: KTX로 다녀오는 바다·카페·호수 루트",
+      "urlSlug": "gangneung-day-trip-without-car",
+      "status": "prepared"
+    },
+    {
+      "order": 2,
+      "targetKeyword": "속초 여름 여행 1박2일",
+      "secondaryKeywords": ["속초 1박2일 코스", "속초 여름 여행", "속초 뚜벅이 여행"],
+      "searchIntent": "summer overnight route planning",
+      "regionSlug": "gangwon",
+      "title": "속초 여름 여행 1박2일 코스 2026: 바다·시장·설악산을 무리 없이 묶는 법",
+      "urlSlug": "sokcho-summer-1n2d-course",
+      "status": "prepared"
+    },
+    {
+      "order": 3,
+      "targetKeyword": "부산 비오는 날 여행",
+      "secondaryKeywords": ["부산 비오는 날 실내", "부산 장마 여행", "부산 실내 데이트 코스"],
+      "searchIntent": "rainy-day indoor itinerary planning",
+      "regionSlug": "busan",
+      "title": "부산 비오는 날 여행 코스 2026: 장마철에도 덜 지치는 실내·시장·카페 루트",
+      "urlSlug": "busan-rainy-day-course",
+      "status": "prepared"
+    }
+  ]
+}
