@@ -1,0 +1,57 @@
+{
+  "date": "2026-07-15",
+  "locale": "en",
+  "mode": "manual-request-only",
+  "status": "prepared",
+  "count": 3,
+  "keywordStrategy": {
+    "audience": "English-speaking travelers planning Korea summer trips",
+    "rule": "English search-demand keywords selected directly, focusing on monsoon planning, summer festivals, and first-time Seoul itineraries"
+  },
+  "publishingSlots": [
+    {
+      "order": 1,
+      "publishedAt": "2026-07-15T12:20:00+09:00"
+    },
+    {
+      "order": 2,
+      "publishedAt": "2026-07-15T16:10:00+09:00"
+    },
+    {
+      "order": 3,
+      "publishedAt": "2026-07-15T20:00:00+09:00"
+    }
+  ],
+  "articlePlans": [
+    {
+      "order": 1,
+      "targetKeyword": "Korea rainy season travel",
+      "secondaryKeywords": ["Korea monsoon travel", "Seoul rainy day itinerary", "Korea summer rain travel"],
+      "searchIntent": "rainy-season route and packing planning",
+      "regionSlug": "seoul",
+      "title": "Korea Rainy Season Travel 2026: Where to Go, What to Pack, and How to Plan Around Monsoon Weather",
+      "urlSlug": "korea-rainy-season-travel",
+      "status": "prepared"
+    },
+    {
+      "order": 2,
+      "targetKeyword": "Boryeong Mud Festival 2026",
+      "secondaryKeywords": ["Boryeong Mud Festival from Seoul", "Daecheon Beach festival", "Korea summer festival"],
+      "searchIntent": "festival transport and practical preparation",
+      "regionSlug": "chungnam",
+      "title": "Boryeong Mud Festival 2026 Guide: How to Go From Seoul, What to Bring, and Where to Stay",
+      "urlSlug": "boryeong-mud-festival-2026",
+      "status": "prepared"
+    },
+    {
+      "order": 3,
+      "targetKeyword": "Seoul 3 day summer itinerary",
+      "secondaryKeywords": ["Seoul summer itinerary", "3 days in Seoul first trip", "Seoul itinerary for first timers"],
+      "searchIntent": "first-time Seoul summer route planning",
+      "regionSlug": "seoul",
+      "title": "Seoul 3 Day Summer Itinerary 2026: Palace Walks, Markets, Cafes, and Han River Evenings",
+      "urlSlug": "seoul-3-day-summer-itinerary",
+      "status": "prepared"
+    }
+  ]
+}
