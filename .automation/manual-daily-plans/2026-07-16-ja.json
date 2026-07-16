@@ -1,0 +1,57 @@
+{
+  "date": "2026-07-16",
+  "locale": "ja",
+  "mode": "manual-request-only",
+  "status": "prepared",
+  "count": 3,
+  "keywordStrategy": {
+    "audience": "Japanese travelers planning Korea summer trips",
+    "rule": "Japanese search-demand keywords selected directly, focusing on rainy-season travel, a summer festival, and a first-time Seoul itinerary"
+  },
+  "publishingSlots": [
+    {
+      "order": 1,
+      "publishedAt": "2026-07-16T12:20:00+09:00"
+    },
+    {
+      "order": 2,
+      "publishedAt": "2026-07-16T16:10:00+09:00"
+    },
+    {
+      "order": 3,
+      "publishedAt": "2026-07-16T20:00:00+09:00"
+    }
+  ],
+  "articlePlans": [
+    {
+      "order": 1,
+      "targetKeyword": "韓国 梅雨 旅行",
+      "secondaryKeywords": ["韓国 雨の日 観光", "ソウル 雨の日 モデルコース", "韓国 夏 旅行 持ち物"],
+      "searchIntent": "rainy-season route and packing planning",
+      "regionSlug": "seoul",
+      "title": "韓国の梅雨旅行ガイド2026: 雨の日の行き先、持ち物、ソウル・釜山・済州の回り方",
+      "urlSlug": "korea-rainy-season-travel",
+      "status": "prepared"
+    },
+    {
+      "order": 2,
+      "targetKeyword": "保寧マッドフェスティバル 2026",
+      "secondaryKeywords": ["保寧マッドフェスティバル 行き方", "大川海水浴場 韓国", "韓国 夏 フェス"],
+      "searchIntent": "festival transport and practical preparation",
+      "regionSlug": "chungnam",
+      "title": "保寧マッドフェスティバル2026ガイド: ソウルからの行き方、持ち物、宿泊エリア",
+      "urlSlug": "boryeong-mud-festival-2026",
+      "status": "prepared"
+    },
+    {
+      "order": 3,
+      "targetKeyword": "ソウル 3日間 モデルコース",
+      "secondaryKeywords": ["ソウル 3泊4日 初めて", "ソウル 夏 旅行 モデルコース", "韓国旅行 ソウル 初心者"],
+      "searchIntent": "first-time Seoul summer route planning",
+      "regionSlug": "seoul",
+      "title": "ソウル3日間モデルコース2026: 宮殿、市場、カフェ、漢江を夏でも無理なく回る",
+      "urlSlug": "seoul-3-day-summer-itinerary",
+      "status": "prepared"
+    }
+  ]
+}
