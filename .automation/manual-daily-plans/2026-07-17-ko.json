@@ -1,0 +1,57 @@
+{
+  "date": "2026-07-17",
+  "locale": "ko",
+  "mode": "manual-request-only",
+  "status": "prepared",
+  "count": 3,
+  "keywordStrategy": {
+    "audience": "Korean travelers planning immediate July summer trips",
+    "rule": "Korean search-demand keywords selected directly, focusing on a near-term summer festival, domestic 2-night summer vacation planning, and rainy-day Seoul routes"
+  },
+  "publishingSlots": [
+    {
+      "order": 1,
+      "publishedAt": "2026-07-17T12:20:00+09:00"
+    },
+    {
+      "order": 2,
+      "publishedAt": "2026-07-17T16:10:00+09:00"
+    },
+    {
+      "order": 3,
+      "publishedAt": "2026-07-17T20:00:00+09:00"
+    }
+  ],
+  "articlePlans": [
+    {
+      "order": 1,
+      "targetKeyword": "보령머드축제 2026",
+      "secondaryKeywords": ["보령머드축제 일정", "대천해수욕장 축제", "보령머드축제 준비물"],
+      "searchIntent": "festival dates, transport, packing, and day-trip planning",
+      "regionSlug": "chungnam",
+      "title": "보령머드축제 2026 가이드: 일정, 입장 준비, 대천해수욕장 동선까지 한 번에",
+      "urlSlug": "boryeong-mud-festival-2026",
+      "status": "prepared"
+    },
+    {
+      "order": 2,
+      "targetKeyword": "국내 여름휴가 2박3일",
+      "secondaryKeywords": ["여름 국내여행 추천", "강릉 속초 2박3일", "부산 여름휴가 코스"],
+      "searchIntent": "summer vacation destination comparison and practical route planning",
+      "regionSlug": "gangwon",
+      "title": "국내 여름휴가 2박3일 추천 2026: 강릉·속초·부산 중 어디가 맞을까",
+      "urlSlug": "domestic-summer-vacation-2n3d",
+      "status": "prepared"
+    },
+    {
+      "order": 3,
+      "targetKeyword": "서울 비오는 날 데이트 코스",
+      "secondaryKeywords": ["서울 비오는 날 갈만한 곳", "서울 실내 데이트", "장마철 서울 코스"],
+      "searchIntent": "rainy-day Seoul date and indoor route planning",
+      "regionSlug": "seoul",
+      "title": "서울 비오는 날 데이트 코스 2026: 실내 전시, 카페, 쇼핑, 저녁 동선까지",
+      "urlSlug": "seoul-rainy-day-date-course",
+      "status": "prepared"
+    }
+  ]
+}
