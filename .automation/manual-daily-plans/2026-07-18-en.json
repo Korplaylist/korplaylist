@@ -1,0 +1,57 @@
+{
+  "date": "2026-07-18",
+  "locale": "en",
+  "mode": "manual-request-only",
+  "status": "prepared",
+  "count": 3,
+  "keywordStrategy": {
+    "audience": "English-speaking travelers planning Korea summer trips in July and August",
+    "rule": "English search-demand keywords selected for broad summer travel intent: Busan beach itinerary, Jeju summer beaches, and Korea summer packing list with rain and heat planning"
+  },
+  "publishingSlots": [
+    {
+      "order": 1,
+      "publishedAt": "2026-07-18T12:20:00+09:00"
+    },
+    {
+      "order": 2,
+      "publishedAt": "2026-07-18T16:10:00+09:00"
+    },
+    {
+      "order": 3,
+      "publishedAt": "2026-07-18T20:00:00+09:00"
+    }
+  ],
+  "articlePlans": [
+    {
+      "order": 1,
+      "targetKeyword": "Busan summer itinerary",
+      "secondaryKeywords": ["Busan beach itinerary", "Haeundae Gwangalli itinerary", "Busan rainy day itinerary"],
+      "searchIntent": "summer beach route, market stop, evening view, and rainy-day backup planning",
+      "regionSlug": "busan",
+      "title": "Busan Summer Itinerary 2026: Haeundae, Gwangalli, Markets, and Rainy-Day Backups",
+      "urlSlug": "busan-summer-beach-itinerary",
+      "status": "prepared"
+    },
+    {
+      "order": 2,
+      "targetKeyword": "Jeju summer beaches 2026",
+      "secondaryKeywords": ["Jeju summer itinerary", "Jeju beaches in July", "Jeju rainy day summer trip"],
+      "searchIntent": "Jeju beach area selection, accommodation base, driving route, and rain backup planning",
+      "regionSlug": "jeju",
+      "title": "Jeju Summer Beaches 2026: Where to Stay, What to See, and How to Plan Around Rain",
+      "urlSlug": "jeju-summer-beaches-2026",
+      "status": "prepared"
+    },
+    {
+      "order": 3,
+      "targetKeyword": "Korea summer packing list",
+      "secondaryKeywords": ["what to wear in Korea summer", "Korea rainy season packing list", "Korea July August travel clothes"],
+      "searchIntent": "practical packing advice for heat, humidity, rain, public transport, and day bags",
+      "regionSlug": "seoul",
+      "title": "Korea Summer Packing List 2026: What to Wear and Bring for July, August, Rain, and Heat",
+      "urlSlug": "korea-summer-packing-list",
+      "status": "prepared"
+    }
+  ]
+}
