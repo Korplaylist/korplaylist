@@ -50,7 +50,7 @@ draft: false
 오후 도착이라면 간식부터 시작하지 않는 것이 좋습니다. 여행 초반에 단 음식이나 음료를 먼저 많이 먹으면 정작 메인 식사를 제대로 즐기기 어렵습니다. 대신 위치 확인, 사진, 산책을 먼저 하고 이른 저녁 시간대에 조개구이와 해산물 구이를 먹은 뒤 해변 간식과 커피로 넘어가면 자연스럽습니다. 날씨가 덥거나 비가 올 때는 실내 휴식 지점을 동선 중간에 넣어 체력을 보존하세요.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/daecheon-seafood-beach-boryeong-daecheon-beach-seafood-cost-1.jpg" alt="대천해수욕장 주변을 걷는 먹거리 여행 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <img src="/images/generated/unique/daecheon-seafood-beach-v2-boryeong-daecheon-beach-seafood-cost-1.jpg" alt="대천해수욕장 주변을 걷는 먹거리 여행 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   <figcaption>지도만 보고 움직이기보다 기준점, 식사 지점, 휴식 지점을 순서대로 묶으면 현장 대기 시간을 줄일 수 있습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ draft: false
 </div>
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/daecheon-seafood-budget-boryeong-daecheon-beach-seafood-cost-1.jpg" alt="대천해수욕장 먹거리 예산을 정리하는 여행 준비 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <img src="/images/generated/unique/daecheon-seafood-budget-v2-boryeong-daecheon-beach-seafood-cost-1.jpg" alt="대천해수욕장 먹거리 예산을 정리하는 여행 준비 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   <figcaption>식비는 대표 메뉴, 보조 메뉴, 휴식 비용을 나누어 잡으면 현장에서 과하게 주문하는 일을 줄일 수 있습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
