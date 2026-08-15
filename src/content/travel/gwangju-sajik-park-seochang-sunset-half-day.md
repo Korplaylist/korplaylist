@@ -10,7 +10,7 @@ urlSlug: "gwangju-sajik-park-seochang-sunset-half-day"
 tags: ["광주여행","사직공원","서창감성조망대","노을코스","전망"]
 publishedAt: "2026-08-15T11:40:00+09:00"
 updatedAt: "2026-08-15"
-heroImage: "/images/generated/unique/gwangju-main-photo-gwangju-sajik-park-seochang-sunset-half-day-20260815.jpg"
+heroImage: "/images/generated/unique/gwangju-main-photo2-gwangju-sajik-park-seochang-sunset-half-day-20260815.jpg"
 imageAlt: "광주 사직공원과 서창 감성조망대 노을 풍경"
 imageCredit: "ⓒ한국플레이리스트 제작 이미지"
 adsenseReady: true
