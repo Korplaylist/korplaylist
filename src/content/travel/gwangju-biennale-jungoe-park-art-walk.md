@@ -10,7 +10,7 @@ urlSlug: "gwangju-biennale-jungoe-park-art-walk"
 tags: ["광주여행","광주비엔날레","중외공원","전시관","예술산책"]
 publishedAt: "2026-08-15T11:10:00+09:00"
 updatedAt: "2026-08-15"
-heroImage: "/images/generated/unique/gwangju-hero-gwangju-biennale-jungoe-park-art-walk-1.jpg"
+heroImage: "/images/generated/unique/gwangju-main-photo-gwangju-biennale-jungoe-park-art-walk-20260815.jpg"
 imageAlt: "광주비엔날레전시관과 중외공원 예술 산책 풍경"
 imageCredit: "ⓒ한국플레이리스트 제작 이미지"
 adsenseReady: true

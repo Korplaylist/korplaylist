@@ -10,7 +10,7 @@ urlSlug: "gwangju-songjeong-station-market-food-route"
 tags: ["광주여행","광주송정역","1913송정역시장","송정떡갈비","먹거리코스"]
 publishedAt: "2026-08-15T10:40:00+09:00"
 updatedAt: "2026-08-15"
-heroImage: "/images/generated/unique/gwangju-hero-gwangju-songjeong-station-market-food-route-1.jpg"
+heroImage: "/images/generated/unique/gwangju-main-photo-gwangju-songjeong-station-market-food-route-20260815.jpg"
 imageAlt: "광주송정역과 1913송정역시장 먹거리 코스 풍경"
 imageCredit: "ⓒ한국플레이리스트 제작 이미지"
 adsenseReady: true

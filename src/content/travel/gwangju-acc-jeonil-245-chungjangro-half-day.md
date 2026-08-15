@@ -10,7 +10,7 @@ urlSlug: "gwangju-acc-jeonil-245-chungjangro-half-day"
 tags: ["광주여행","국립아시아문화전당","전일빌딩245","충장로","반나절코스"]
 publishedAt: "2026-08-15T09:10:00+09:00"
 updatedAt: "2026-08-15"
-heroImage: "/images/generated/unique/gwangju-hero-gwangju-acc-jeonil-245-chungjangro-half-day-1.jpg"
+heroImage: "/images/generated/unique/gwangju-main-photo-gwangju-acc-jeonil-245-chungjangro-half-day-20260815.jpg"
 imageAlt: "광주 ACC와 전일빌딩245를 중심으로 걷는 원도심 풍경"
 imageCredit: "ⓒ한국플레이리스트 제작 이미지"
 adsenseReady: true
