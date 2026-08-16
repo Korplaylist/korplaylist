@@ -8,7 +8,7 @@ translationKey: "ulsan-ganjeolgot-jinha-beach-sunrise-route"
 regionSlug: "ulsan"
 urlSlug: "ulsan-ganjeolgot-jinha-beach-sunrise-route"
 tags: ["울산여행","간절곶","진하해수욕장","해돋이","일출코스"]
-publishedAt: "2026-08-16T10:00:00+09:00"
+publishedAt: "2026-08-16T16:00:00+09:00"
 updatedAt: "2026-08-16"
 heroImage: "/images/generated/unique/ulsan-main-photo-ganjeolgot-jinha-beach-sunrise-route-20260816.jpg"
 imageAlt: "울산 간절곶 해안에서 해가 떠오르는 일출 풍경"

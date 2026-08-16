@@ -8,7 +8,7 @@ translationKey: "ulsan-oegosan-onggi-village-half-day"
 regionSlug: "ulsan"
 urlSlug: "ulsan-oegosan-onggi-village-half-day"
 tags: ["울산여행","외고산옹기마을","옹기마을","문화여행","울주여행"]
-publishedAt: "2026-08-16T12:00:00+09:00"
+publishedAt: "2026-08-16T18:00:00+09:00"
 updatedAt: "2026-08-16"
 heroImage: "/images/generated/unique/ulsan-main-photo-oegosan-onggi-village-half-day-20260816.jpg"
 imageAlt: "울산 외고산 옹기마을의 장독대와 전통 건물 풍경"

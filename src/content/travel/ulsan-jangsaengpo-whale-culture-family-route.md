@@ -8,7 +8,7 @@ translationKey: "ulsan-jangsaengpo-whale-culture-family-route"
 regionSlug: "ulsan"
 urlSlug: "ulsan-jangsaengpo-whale-culture-family-route"
 tags: ["울산여행","장생포","고래문화마을","고래박물관","가족여행"]
-publishedAt: "2026-08-16T09:00:00+09:00"
+publishedAt: "2026-08-16T15:00:00+09:00"
 updatedAt: "2026-08-16"
 heroImage: "/images/generated/unique/ulsan-main-photo-jangsaengpo-whale-culture-family-route-20260816.jpg"
 imageAlt: "울산 장생포 항구와 고래문화시설이 보이는 가족 여행 풍경"

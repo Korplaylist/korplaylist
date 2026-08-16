@@ -8,7 +8,7 @@ translationKey: "ulsan-jujeon-mongdol-gangdong-coast-walk"
 regionSlug: "ulsan"
 urlSlug: "ulsan-jujeon-mongdol-gangdong-coast-walk"
 tags: ["울산여행","주전몽돌해변","강동해안","몽돌해변","해안산책"]
-publishedAt: "2026-08-16T11:10:00+09:00"
+publishedAt: "2026-08-16T17:10:00+09:00"
 updatedAt: "2026-08-16"
 heroImage: "/images/generated/unique/ulsan-main-photo-jujeon-mongdol-gangdong-coast-walk-20260816.jpg"
 imageAlt: "울산 주전몽돌해변의 검은 몽돌과 푸른 바다 풍경"

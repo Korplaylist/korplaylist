@@ -8,7 +8,7 @@ translationKey: "ulsan-daewangam-park-ilsan-beach-half-day"
 regionSlug: "ulsan"
 urlSlug: "ulsan-daewangam-park-ilsan-beach-half-day"
 tags: ["울산여행","대왕암공원","일산해수욕장","울산바다","해안산책"]
-publishedAt: "2026-08-16T08:10:00+09:00"
+publishedAt: "2026-08-16T14:10:00+09:00"
 updatedAt: "2026-08-16"
 heroImage: "/images/generated/unique/ulsan-main-photo-daewangam-park-ilsan-beach-half-day-20260816.jpg"
 imageAlt: "울산 대왕암공원 해안 절벽과 푸른 바다 풍경"

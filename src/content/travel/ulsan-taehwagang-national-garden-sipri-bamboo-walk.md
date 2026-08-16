@@ -8,7 +8,7 @@ translationKey: "ulsan-taehwagang-national-garden-sipri-bamboo-walk"
 regionSlug: "ulsan"
 urlSlug: "ulsan-taehwagang-national-garden-sipri-bamboo-walk"
 tags: ["울산여행","태화강국가정원","십리대숲","강변산책","반나절코스"]
-publishedAt: "2026-08-16T07:20:00+09:00"
+publishedAt: "2026-08-16T13:20:00+09:00"
 updatedAt: "2026-08-16"
 heroImage: "/images/generated/unique/ulsan-main-photo-taehwagang-national-garden-sipri-bamboo-walk-20260816.jpg"
 imageAlt: "울산 태화강 국가정원과 십리대숲이 이어지는 강변 풍경"
