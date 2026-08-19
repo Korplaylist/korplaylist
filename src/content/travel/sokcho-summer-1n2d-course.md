@@ -39,7 +39,10 @@ draft: false
 시장에서는 닭강정, 오징어순대, 회, 튀김, 젓갈류 등을 많이 찾습니다. 하지만 여름에는 포장 음식을 오래 들고 다니면 불편합니다. 숙소로 바로 돌아갈 수 있는 시간대에 사거나, 바로 먹을 것만 고르는 편이 좋습니다. 속초 1박2일은 먹거리가 강한 여행이지만, 먹는 일정이 이동을 방해하지 않게 잡아야 합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/sokcho-summer-market-sokcho-summer-1n2d-course-1.jpg" alt="속초 여름 여행 1박2일에서 들르기 좋은 중앙시장 먹거리 골목" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-summer-market-sokcho-summer-1n2d-course-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/sokcho-summer-market-sokcho-summer-1n2d-course-1.jpg" alt="속초 여름 여행 1박2일에서 들르기 좋은 중앙시장 먹거리 골목" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -52,7 +55,10 @@ draft: false
 자차가 없다면 설악산 이동 시간을 넉넉히 보세요. 버스 배차와 택시 대기, 성수기 교통 상황에 따라 예상보다 오래 걸릴 수 있습니다. 1박2일 여행에서 가장 중요한 것은 돌아가는 시간입니다. 서울이나 수도권으로 돌아가는 버스, 기차, 자차 이동 시간을 먼저 정하고, 설악산 체류 시간을 그 안에 맞춰야 합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/sokcho-summer-seoraksan-sokcho-summer-1n2d-course-1.jpg" alt="속초 여름 여행 둘째 날 오전에 가볍게 걷기 좋은 설악산 입구 산책길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-summer-seoraksan-sokcho-summer-1n2d-course-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/sokcho-summer-seoraksan-sokcho-summer-1n2d-course-1.jpg" alt="속초 여름 여행 둘째 날 오전에 가볍게 걷기 좋은 설악산 입구 산책길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -65,7 +71,10 @@ draft: false
 1박2일에서는 숙소를 이동하지 않는 것이 원칙입니다. 첫날 짐을 맡기고 둘째 날 체크아웃 후 보관까지 가능한 곳이면 가장 좋습니다. 숙소가 애매하면 여행 내내 짐을 들고 다니게 되고, 여름 속초에서는 그 피로가 큽니다. 숙소 선택은 전망보다 동선이 먼저입니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/sokcho-summer-harbor-sokcho-summer-1n2d-course-1.jpg" alt="속초 여름 1박2일 저녁에 걷기 좋은 항구와 해변 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-summer-harbor-sokcho-summer-1n2d-course-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/sokcho-summer-harbor-sokcho-summer-1n2d-course-1.jpg" alt="속초 여름 1박2일 저녁에 걷기 좋은 항구와 해변 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 

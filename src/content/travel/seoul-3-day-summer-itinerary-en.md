@@ -39,7 +39,10 @@ After the palace area, move toward Insadong or Ikseondong for tea, cafes, and lu
 For late afternoon or early evening, choose a market or food street. Gwangjang Market is popular, but it can be hot and crowded. Go with flexible expectations, eat what is easy, and do not wait too long in one line. If the weather is rainy, reduce the outdoor walking and use Insadong cafes or a museum as the backup.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/seoul-3-day-summer-market-seoul-3-day-summer-itinerary-1.jpg" alt="Seoul market food stop for a first-time 3 day summer itinerary" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-3-day-summer-market-seoul-3-day-summer-itinerary-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-3-day-summer-market-seoul-3-day-summer-itinerary-1.jpg" alt="Seoul market food stop for a first-time 3 day summer itinerary" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -52,7 +55,10 @@ Later, move to Hongdae and Yeonnam. This area is better in the afternoon and eve
 This is also a good day for shopping. Keep purchases realistic. If you buy too much early, you will carry bags for the rest of the evening. If your hotel is near Hongdae, Myeongdong, or Euljiro, plan a drop-off break before dinner. Seoul is easier when you let the hotel act as a reset point.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/seoul-3-day-summer-hongdae-seoul-3-day-summer-itinerary-1.jpg" alt="Hongdae and Yeonnam evening route for a Seoul 3 day summer itinerary" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-3-day-summer-hongdae-seoul-3-day-summer-itinerary-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-3-day-summer-hongdae-seoul-3-day-summer-itinerary-1.jpg" alt="Hongdae and Yeonnam evening route for a Seoul 3 day summer itinerary" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -65,7 +71,10 @@ In the late afternoon, aim for the Han River if the weather is good. Yeouido, Ba
 If rain continues, replace the river with a mall, cinema, spa, or cafe evening. The point of the third day is to end well, not to force one more outdoor photo. Seoul summer travel feels much better when you leave room for weather and energy.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/seoul-3-day-summer-hangang-seoul-3-day-summer-itinerary-1.jpg" alt="Han River sunset picnic for a Seoul 3 day summer itinerary" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-3-day-summer-hangang-seoul-3-day-summer-itinerary-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-3-day-summer-hangang-seoul-3-day-summer-itinerary-1.jpg" alt="Han River sunset picnic for a Seoul 3 day summer itinerary" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 

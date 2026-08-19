@@ -36,6 +36,7 @@ draft: false
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/songdo-central-park-walk-incheon-songdo-summer-night-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/songdo-central-park-walk-incheon-songdo-summer-night-1.jpg" alt="송도 센트럴파크 수로 옆 산책로와 고층 빌딩이 보이는 낮은 각도의 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>
@@ -58,6 +59,7 @@ draft: false
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/songdo-waterfront-skyline-incheon-songdo-summer-night-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/songdo-waterfront-skyline-incheon-songdo-summer-night-1.jpg" alt="송도 센트럴파크 물가와 고층 빌딩이 노을빛에 비치는 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>
@@ -72,6 +74,7 @@ draft: false
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/songdo-tribowl-evening-incheon-songdo-summer-night-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/songdo-tribowl-evening-incheon-songdo-summer-night-1.jpg" alt="송도 트라이보울 광장과 주변 빌딩이 저녁빛에 보이는 모습" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>

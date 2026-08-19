@@ -41,7 +41,10 @@ draft: false
 저녁 식사는 18시 전후가 가장 붐빌 수 있습니다. 일정이 가능하다면 조금 이르게 먹거나, 19시 이후로 늦추고 중간에 간단한 음료를 넣으세요. 줄이 긴 곳을 무조건 기다리기보다 같은 메뉴군에서 회전이 빠른 곳을 찾는 편이 반나절 코스에는 더 맞습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/jeonju-nambu-market-evening-food-budget-20260720-1.jpg" alt="전주 남부시장 식사 예산을 정리하는 여행 준비 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeonju-nambu-market-evening-food-budget-20260720-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeonju-nambu-market-evening-food-budget-20260720-1.jpg" alt="전주 남부시장 식사 예산을 정리하는 여행 준비 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>남부시장에서는 대표 식사 하나와 보조 메뉴 하나를 나누어 잡으면 과하게 주문하지 않고도 전주 먹거리 분위기를 볼 수 있습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -52,7 +55,10 @@ draft: false
 비가 오면 산책 욕심을 줄이는 것이 좋습니다. 한옥 골목은 분위기가 있지만 우산을 쓰고 오래 걷기에는 불편할 수 있습니다. 이럴 때는 남부시장 식사 뒤 큰길 가까운 카페나 숙소 근처 휴식으로 바꾸는 편이 낫습니다. 여행의 완성도는 장소 수보다 다음 날 컨디션에 더 크게 좌우됩니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/jeonju-nambu-market-evening-food-hanok-20260720-1.jpg" alt="전주 한옥마을 야간 골목을 걷는 여행 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeonju-nambu-market-evening-food-hanok-20260720-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeonju-nambu-market-evening-food-hanok-20260720-1.jpg" alt="전주 한옥마을 야간 골목을 걷는 여행 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>야간 한옥마을은 길게 걷기보다 숙소 복귀 방향에 맞춰 짧게 보는 편이 저녁 코스에 적합합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -75,7 +81,10 @@ draft: false
 비 예보가 있는 날에도 남부시장 자체를 빼야 하는 것은 아닙니다. 다만 시장 안에서 메뉴를 여러 번 옮겨 다니는 방식은 피하세요. 한 곳에서 메인 식사를 해결하고, 간식은 포장 가능한 메뉴로 가볍게 넣는 편이 낫습니다. 젖은 신발로 오래 걷다 보면 다음 날 일정까지 영향을 받을 수 있으므로, “전주에서 유명한 것을 전부 먹는 일정”보다 “편하게 먹고 쉬는 일정”이 더 현실적입니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/jeonju-nambu-market-evening-food-rain-20260720-1.jpg" alt="비 오는 전주 남부시장 근처에서 저녁 식사 동선을 정리하는 여행 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeonju-nambu-market-evening-food-rain-20260720-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeonju-nambu-market-evening-food-rain-20260720-1.jpg" alt="비 오는 전주 남부시장 근처에서 저녁 식사 동선을 정리하는 여행 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>비 오는 전주 저녁에는 야외 산책보다 시장 식사, 실내 휴식, 숙소 복귀 방향을 먼저 잡는 편이 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 

@@ -36,6 +36,7 @@ If your onward flight is international, aim to be back at the airport at least t
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/incheon-layover-skyline-incheon-airport-layover-tour-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/incheon-layover-skyline-incheon-airport-layover-tour-1.jpg" alt="Songdo skyline and waterfront scenery near Incheon Airport" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>
@@ -56,6 +57,7 @@ The risk is that Open Port can involve a little more route judgment. Streets, sl
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/incheon-layover-open-port-incheon-airport-layover-tour-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/incheon-layover-open-port-incheon-airport-layover-tour-1.jpg" alt="Incheon Open Port streets used for a short airport layover route" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>
@@ -76,6 +78,7 @@ Carry only what you need: passport, phone, wallet, charger, boarding details, an
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/incheon-layover-tribowl-incheon-airport-layover-tour-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/incheon-layover-tribowl-incheon-airport-layover-tour-1.jpg" alt="Tri-bowl and Songdo plaza as a short Incheon layover photo stop" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>

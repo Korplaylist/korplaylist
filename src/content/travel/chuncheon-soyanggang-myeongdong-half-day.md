@@ -39,7 +39,10 @@ draft: false
 차량 여행자라면 주차와 이동 방향을 먼저 계산해야 합니다. 뚜벅이라면 춘천역, 남춘천역, 명동, 소양강 사이를 버스나 택시로 적절히 섞는 것이 현실적입니다. 전부 걸어서 해결하려 하면 반나절 코스치고 피로가 커질 수 있습니다. 이동 수단을 먼저 정하면 전체 일정이 훨씬 안정됩니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/chuncheon-soyanggang-myeongdong-half-day-route-20260730-1.jpg" alt="춘천 소양강 강변에서 반나절 동선을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/chuncheon-soyanggang-myeongdong-half-day-route-20260730-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/chuncheon-soyanggang-myeongdong-half-day-route-20260730-1.jpg" alt="춘천 소양강 강변에서 반나절 동선을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>춘천 반나절 코스는 강변과 식사 지점을 분리해서 생각해야 합니다. 이동 수단을 먼저 정하면 일정이 안정됩니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -58,7 +61,10 @@ draft: false
 오후형에서는 스카이워크 운영 시간과 입장 가능 여부를 더 신경 써야 합니다. 늦게 도착하면 체류 시간이 짧아지고, 날씨가 바뀌면 강변 만족도도 떨어질 수 있습니다. 비나 바람이 강한 날에는 스카이워크 자체보다 강변 앞쪽만 짧게 보고 카페로 이동하는 편이 안전합니다. 무리해서 강변을 오래 걷는 것보다 여유 있게 마무리하는 것이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/chuncheon-soyanggang-myeongdong-half-day-dakgalbi-20260730-1.jpg" alt="춘천 명동 닭갈비 골목에서 점심으로 닭갈비를 먹는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/chuncheon-soyanggang-myeongdong-half-day-dakgalbi-20260730-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/chuncheon-soyanggang-myeongdong-half-day-dakgalbi-20260730-1.jpg" alt="춘천 명동 닭갈비 골목에서 점심으로 닭갈비를 먹는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>명동 닭갈비는 반나절 코스의 식사 기준점입니다. 대기 시간을 감안해 산책 시간을 너무 길게 잡지 않는 편이 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -71,7 +77,10 @@ draft: false
 혼자 여행이라면 카페를 짧게 넣고 강변 사진 시간을 확보하는 편이 좋습니다. 가족 여행이라면 식사 후 카페 휴식이 사실상 필수입니다. 친구와 함께라면 명동에서 식사 후 카페, 이후 강변 산책 순서가 대화하기에도 편합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/chuncheon-soyanggang-myeongdong-half-day-cafe-20260730-1.jpg" alt="춘천 소양강 앞쪽 카페에서 음료와 디저트로 쉬는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/chuncheon-soyanggang-myeongdong-half-day-cafe-20260730-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/chuncheon-soyanggang-myeongdong-half-day-cafe-20260730-1.jpg" alt="춘천 소양강 앞쪽 카페에서 음료와 디저트로 쉬는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>카페 휴식은 춘천 반나절 코스의 피로를 줄이는 핵심입니다. 다음 이동 방향과 가까운 곳을 고르면 전체 일정이 편해집니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -86,6 +95,8 @@ draft: false
 방문 전에는 소양강스카이워크 운영 여부, 날씨, 강풍 예보, 명동 식사 시간대 혼잡을 확인하세요. 당일치기라면 돌아가는 기차나 버스 시간도 먼저 정해야 합니다. 춘천은 한 장소를 길게 보는 여행지라기보다 이동 리듬을 잘 맞출 때 만족도가 높습니다. 강변 산책, 닭갈비 식사, 카페 휴식을 각각 너무 길게 잡지 말고 1시간 안팎으로 나누면 전체 일정이 부드럽습니다.
 
 이 코스는 복잡하지 않지만 날씨와 이동 수단에 따라 만족도가 달라집니다. 핵심은 강변 산책을 너무 길게 잡지 않는 것, 점심 대기 시간을 감안하는 것, 카페를 회복 지점으로 넣는 것입니다. 이 세 가지를 지키면 춘천다운 강변 풍경과 식사를 반나절 안에 무리 없이 묶을 수 있습니다.
+
+강변을 걷기 전에는 바람과 체감 온도를 한 번 더 확인하세요. 같은 거리라도 물가에서는 피로가 더 빨리 쌓일 수 있습니다.
 
 ## 동행별 조정법
 

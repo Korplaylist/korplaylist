@@ -39,7 +39,10 @@ draft: false
 처음 여수를 방문한다면 웅천과 낭만포차 권역을 같은 저녁에 무리하게 묶지 않는 편이 좋습니다. 지도상으로 같은 여수 안에 있어도 이동 방향이 다르고, 저녁에는 식사와 귀가 시간이 겹칩니다. 오늘 코스는 웅천과 장도를 중심으로 좁혀서 여유를 확보하는 방식입니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/yeosu-ungcheon-jangdo-evening-walk-route-20260811-1.jpg" alt="여수 웅천 바다 산책로에서 저녁 동선을 잡는 모습" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/yeosu-ungcheon-jangdo-evening-walk-route-20260811-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/yeosu-ungcheon-jangdo-evening-walk-route-20260811-1.jpg" alt="여수 웅천 바다 산책로에서 저녁 동선을 잡는 모습" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>웅천은 길이 넓고 바다 전망이 열려 있어 저녁 산책의 시작 지점으로 잡기 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -52,7 +55,10 @@ draft: false
 카페를 넣는다면 장도 전후 중 하나만 선택하세요. 산책, 장도, 식사, 카페를 모두 길게 잡으면 저녁 시간이 금방 밀립니다. 특히 바람이 강한 날에는 실내 휴식 시간이 더 필요하므로, 카페는 대체 일정으로 활용하는 것이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/yeosu-ungcheon-jangdo-evening-walk-rest-20260811-1.jpg" alt="여수 장도 주변에서 쉬어가기 좋은 그늘 산책길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/yeosu-ungcheon-jangdo-evening-walk-rest-20260811-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/yeosu-ungcheon-jangdo-evening-walk-rest-20260811-1.jpg" alt="여수 장도 주변에서 쉬어가기 좋은 그늘 산책길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>장도는 오래 머무는 목적지보다 웅천 산책에 변화를 주는 짧은 섬길로 잡는 편이 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -63,7 +69,10 @@ draft: false
 자차가 있다면 주차 위치와 빠져나가는 길을 확인해야 합니다. 대중교통 여행자라면 택시 호출 가능성과 버스 배차를 함께 보세요. 일행이 있으면 이동비를 나누기 쉬우므로, 늦은 시간에는 택시를 섞는 것이 현실적입니다. 여수는 풍경이 좋은 만큼 권역 이동이 길어질 수 있다는 점을 항상 염두에 두세요.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/yeosu-ungcheon-jangdo-evening-walk-return-20260811-1.jpg" alt="여수 웅천 바다 산책로에서 밤 귀가 방향을 잡는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/yeosu-ungcheon-jangdo-evening-walk-return-20260811-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/yeosu-ungcheon-jangdo-evening-walk-return-20260811-1.jpg" alt="여수 웅천 바다 산책로에서 밤 귀가 방향을 잡는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>웅천 저녁 코스는 식사 전에 귀가 방향을 정해두면 늦은 이동의 부담이 줄어듭니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -106,6 +115,8 @@ draft: false
 ## 일정 압축 방법
 
 시간이 2시간뿐이라면 웅천 산책로 40분, 장도 주변 확인 30분, 식사 또는 카페 50분으로 줄이면 됩니다. 시간이 3시간 이상 있다면 장도 주변에서 쉬는 시간을 늘리고, 해가 진 뒤 웅천 산책로를 짧게 다시 걸어도 좋습니다. 단, 늦은 밤에 다른 권역으로 넘어가는 계획은 피하세요. 여수 저녁 여행은 적게 이동할수록 만족도가 높아집니다.
+
+장도 접근은 날씨와 현장 상황에 따라 체감이 달라질 수 있으니, 무리하게 섬 안쪽까지 넣기보다 웅천 안에서 끝낼 대안도 준비하세요.
 
 결론적으로 이 코스는 여수의 조용한 저녁을 보고 싶은 사람에게 맞는 일정입니다. 대표 명소를 모두 넣는 대신 한 권역 안에서 바다, 섬길, 식사, 귀가를 정리하면 피로가 줄고 만족도가 안정됩니다.
 

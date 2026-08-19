@@ -37,7 +37,10 @@ draft: false
 동선의 핵심은 “걷기 전에 식사를 할지, 걷고 나서 식사를 할지”입니다. 아침이나 오전에 출발한다면 외옹치 바다향기로를 먼저 걷고 대포항에서 점심을 먹는 순서가 자연스럽습니다. 오후에 도착했다면 대포항에서 가볍게 식사하거나 간식을 먹은 뒤, 해가 낮아지는 시간에 산책을 붙이는 편이 낫습니다. 바다 산책로는 날씨가 좋으면 짧아도 만족도가 높지만, 강한 햇볕이나 바람이 있으면 체감 난도가 올라갑니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/sokcho-daepo-oeongchi-half-day-port-20260726-1.jpg" alt="속초 대포항에서 항구와 식사 동선을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-daepo-oeongchi-half-day-port-20260726-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/sokcho-daepo-oeongchi-half-day-port-20260726-1.jpg" alt="속초 대포항에서 항구와 식사 동선을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>대포항은 산책보다 식사와 항구 분위기가 강한 지점입니다. 반나절 일정에서는 오래 머무르기보다 식사 전후 기준점으로 잡는 편이 효율적입니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -58,7 +61,10 @@ draft: false
 오후 출발의 단점은 날씨가 변하면 산책 시간이 줄어든다는 점입니다. 강풍, 비, 높은 파도 예보가 있다면 외옹치 산책은 짧게 보고 대포항 식사와 카페 휴식 중심으로 바꾸는 편이 낫습니다. 여행에서 계획한 장소를 전부 찍는 것보다, 피로도를 줄이고 다음 일정에 무리가 없게 끝내는 것이 더 중요합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/sokcho-daepo-oeongchi-half-day-trail-20260726-1.jpg" alt="속초 외옹치 바다향기로 해안 데크를 걷는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-daepo-oeongchi-half-day-trail-20260726-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/sokcho-daepo-oeongchi-half-day-trail-20260726-1.jpg" alt="속초 외옹치 바다향기로 해안 데크를 걷는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>외옹치 바다향기로는 짧은 산책만으로도 바다 체감이 분명합니다. 대신 여름에는 시간대와 바람을 보고 걷는 길이를 조절해야 합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -71,7 +77,10 @@ draft: false
 식사 후 바로 장거리 이동을 붙이지 말고, 항구 주변에서 20분 정도 숨을 고르는 시간을 넣으면 일정이 덜 빡빡해집니다. 여름 속초는 짧은 거리도 햇볕 아래에서는 피곤하게 느껴질 수 있습니다. 카페를 넣는다면 전망 좋은 곳만 고집하기보다, 다음 이동 방향과 가까운 곳을 선택하는 편이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/sokcho-daepo-oeongchi-half-day-lunch-20260726-1.jpg" alt="속초 대포항 근처 식당에서 바다 산책 후 점심을 먹는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-daepo-oeongchi-half-day-lunch-20260726-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/sokcho-daepo-oeongchi-half-day-lunch-20260726-1.jpg" alt="속초 대포항 근처 식당에서 바다 산책 후 점심을 먹는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>대포항 식사는 산책 전보다 산책 후에 넣으면 만족도가 높습니다. 다만 주말 점심에는 대기 시간을 고려해 메뉴 후보를 넓게 잡는 편이 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 

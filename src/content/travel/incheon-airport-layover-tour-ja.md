@@ -37,7 +37,10 @@ draft: false
 空港外へ出るなら、最低でも次便の出発2時間半から3時間前には空港へ戻る前提にすると安心です。繁忙期、週末、悪天候、夕方の道路混雑がある日はさらに余裕を見ます。乗り継ぎ時間が6時間でも、自由に観光できる時間は2時間前後になることがあります。
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/incheon-layover-clock-incheon-airport-layover-tour-1.jpg" alt="仁川空港の乗り継ぎ時間を時計で確認する旅行者" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/incheon-layover-clock-incheon-airport-layover-tour-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/incheon-layover-clock-incheon-airport-layover-tour-1.jpg" alt="仁川空港の乗り継ぎ時間を時計で確認する旅行者" width="1200" height="800" loading="lazy" decoding="async" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -56,7 +59,10 @@ draft: false
 6時間台なら、空港外へ出るかどうかをかなり慎重に考えてください。入国審査が早く終わり、荷物を預けられ、交通がスムーズな場合だけ短く出るイメージです。7〜8時間あれば、松島で食事と散歩を入れる余地が少し出ます。それでも観光地を複数入れるより、1エリアで完結する方が安心です。
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/incheon-songdo-park-incheon-airport-layover-tour-1.jpg" alt="仁川松島の公園で短い乗り継ぎ観光を楽しむ旅行者" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/incheon-songdo-park-incheon-airport-layover-tour-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/incheon-songdo-park-incheon-airport-layover-tour-1.jpg" alt="仁川松島の公園で短い乗り継ぎ観光を楽しむ旅行者" width="1200" height="800" loading="lazy" decoding="async" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -100,7 +106,10 @@ draft: false
 </section>
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/incheon-airport-train-incheon-airport-layover-tour-1.jpg" alt="仁川空港から空港鉄道で移動する旅行者" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/incheon-airport-train-incheon-airport-layover-tour-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/incheon-airport-train-incheon-airport-layover-tour-1.jpg" alt="仁川空港から空港鉄道で移動する旅行者" width="1200" height="800" loading="lazy" decoding="async" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 

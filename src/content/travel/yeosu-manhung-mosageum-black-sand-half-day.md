@@ -37,7 +37,10 @@ draft: false
 처음에는 만흥검은모래해변을 기준으로 잡고, 이후 체력과 날씨에 따라 모사금 방향을 붙이는 방식이 좋습니다. 해변 산책은 40분에서 70분 정도가 적당합니다. 사진을 많이 찍거나 카페를 오래 이용한다면 전체 체류는 2시간 이상으로 늘어납니다. 반나절 일정에서는 한 장소를 넓게 보는 것보다 이동 실패를 줄이는 것이 더 중요합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/yeosu-manhung-mosageum-black-sand-half-day-route-20260806-1.jpg" alt="여수 만흥검은모래해변 주변에서 해안 산책 방향을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/yeosu-manhung-mosageum-black-sand-half-day-route-20260806-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/yeosu-manhung-mosageum-black-sand-half-day-route-20260806-1.jpg" alt="여수 만흥검은모래해변 주변에서 해안 산책 방향을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>해변 자체보다 출발지와 돌아가는 방향을 먼저 정해야 반나절 코스가 안정됩니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -48,7 +51,10 @@ draft: false
 카페를 고를 때는 전망보다 접근성과 좌석을 먼저 보세요. 바다 전망이 좋아도 계단이 많거나 이동이 불편하면 반나절 일정에는 맞지 않을 수 있습니다. 아이와 함께라면 화장실과 실내 좌석이 중요하고, 부모님과 함께라면 오래 걷지 않아도 바다를 볼 수 있는 위치가 낫습니다. 혼자 여행이라면 조용히 앉아 귀가 교통편을 확인할 수 있는 곳이면 충분합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/yeosu-manhung-mosageum-black-sand-half-day-cafe-20260806-1.jpg" alt="여수 조용한 해변 근처 카페에서 바다를 보며 쉬는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/yeosu-manhung-mosageum-black-sand-half-day-cafe-20260806-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/yeosu-manhung-mosageum-black-sand-half-day-cafe-20260806-1.jpg" alt="여수 조용한 해변 근처 카페에서 바다를 보며 쉬는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>카페 휴식은 해안 산책의 피로를 줄이는 장치입니다. 전망보다 다음 이동이 쉬운지가 더 중요합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -59,7 +65,10 @@ draft: false
 비 예보가 있으면 해변 체류를 줄이세요. 모래와 바위가 젖으면 걷기 불편하고, 우산을 들고 사진을 찍기도 쉽지 않습니다. 강풍이 있는 날에는 바닷가 체감이 크게 떨어지므로 카페나 식사 중심으로 바꾸는 것이 낫습니다. 여수 바다는 날씨가 맞을 때 가치가 크지만, 날씨가 맞지 않을 때 억지로 버티는 일정은 추천하지 않습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/yeosu-manhung-mosageum-black-sand-half-day-evening-20260806-1.jpg" alt="여수 모사금 해안 주변을 블루아워에 걷는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/yeosu-manhung-mosageum-black-sand-half-day-evening-20260806-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/yeosu-manhung-mosageum-black-sand-half-day-evening-20260806-1.jpg" alt="여수 모사금 해안 주변을 블루아워에 걷는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>노을 뒤에는 이동이 느려질 수 있습니다. 해안 전망을 짧게 보고 돌아오는 시간을 남겨두는 편이 안전합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -98,3 +107,5 @@ draft: false
 ## 마무리 팁
 
 여수의 바다 코스는 마지막 이동이 편해야 좋은 기억으로 남습니다. 해변에서 오래 머문 뒤 식사 장소를 다시 찾기 시작하면 저녁 시간이 쉽게 밀립니다. 출발 전에 돌아갈 방향의 식사 후보를 정해두고, 해변에서는 바다를 보는 데 집중하세요. 조용한 코스일수록 이동 계획이 단순해야 만족도가 높습니다.
+
+검은모래해변은 날씨와 물때에 따라 체류감이 달라지므로, 바다 상태가 애매하면 사진보다 짧은 산책과 식사 연결을 우선하세요.

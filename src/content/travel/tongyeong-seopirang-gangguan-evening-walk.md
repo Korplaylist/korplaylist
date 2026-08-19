@@ -37,7 +37,10 @@ draft: false
 시작은 해가 남아 있을 때가 좋습니다. 완전히 어두워진 뒤에는 계단과 골목 이동이 불편해질 수 있고, 전망도 낮 시간보다 제한적입니다. 숙소가 강구안 쪽이라면 먼저 서피랑을 보고 내려와 식사하는 순서가 좋습니다. 반대로 식사를 먼저 하면 언덕 산책이 부담스러워져 코스를 포기하게 될 가능성이 큽니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/tongyeong-seopirang-gangguan-evening-walk-route-20260806-1.jpg" alt="통영 서피랑 언덕 계단에서 항구 방향 동선을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/tongyeong-seopirang-gangguan-evening-walk-route-20260806-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/tongyeong-seopirang-gangguan-evening-walk-route-20260806-1.jpg" alt="통영 서피랑 언덕 계단에서 항구 방향 동선을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>서피랑은 경사와 계단을 감안해야 합니다. 전망 구간을 짧게 정하면 이후 강구안 식사까지 무리 없이 이어집니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -48,7 +51,10 @@ draft: false
 해산물 식사는 여행 만족도를 높이지만, 너무 늦게 먹으면 이후 야경 산책이 짧아집니다. 반대로 언덕 산책 전에 무겁게 먹으면 계단이 부담스럽습니다. 따라서 가벼운 산책 후 식사, 식사 후 항구를 짧게 걷는 흐름이 가장 안정적입니다. 혼자 여행이라면 간단한 식사를 선택하고, 가족 여행이라면 좌석과 화장실 이용이 편한 곳을 우선하세요.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/tongyeong-seopirang-gangguan-evening-walk-dinner-20260806-1.jpg" alt="통영 강구안 항구 주변에서 해산물 식사로 쉬는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/tongyeong-seopirang-gangguan-evening-walk-dinner-20260806-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/tongyeong-seopirang-gangguan-evening-walk-dinner-20260806-1.jpg" alt="통영 강구안 항구 주변에서 해산물 식사로 쉬는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>강구안 식사는 언덕 산책 뒤 회복 지점으로 넣는 것이 좋습니다. 식사 뒤 항구 산책을 짧게 붙이면 일정이 안정됩니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -59,7 +65,10 @@ draft: false
 비가 오면 항구 산책로가 미끄럽고 우산 때문에 이동이 불편합니다. 이런 날에는 서피랑을 줄이고 강구안 주변 식사와 카페 중심으로 바꾸세요. 바람이 강하면 바닷가 체감이 크게 떨어질 수 있으므로 야경 촬영보다 안전한 귀가 동선을 우선해야 합니다. 통영 저녁 코스는 날씨가 좋을 때 짧게 빛나고, 날씨가 나쁠 때는 줄일 수 있어야 좋은 코스입니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/tongyeong-seopirang-gangguan-evening-walk-night-20260806-1.jpg" alt="통영 강구안 항구 야경 산책로를 걷는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/tongyeong-seopirang-gangguan-evening-walk-night-20260806-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/tongyeong-seopirang-gangguan-evening-walk-night-20260806-1.jpg" alt="통영 강구안 항구 야경 산책로를 걷는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>강구안 야경은 길게 걷지 않아도 통영의 항구 분위기를 충분히 느낄 수 있습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -98,5 +107,7 @@ draft: false
 ## 마무리 팁
 
 통영 저녁 코스는 마지막에 항구 주변에서 끝나는 구성이 가장 편합니다. 숙소가 강구안 근처라면 식사 뒤 짧게 걷고 바로 쉬면 되고, 숙소가 멀다면 택시나 버스 위치를 먼저 확인해야 합니다. 서피랑의 전망과 강구안의 식사를 모두 살리려면 언덕 체류를 욕심내지 않는 것이 핵심입니다.
+
+바람이 강한 날에는 항구 주변 체감 온도가 내려가므로, 긴 산책보다 식사 후 짧은 야경 확인으로 마무리하는 편이 좋습니다.
 
 시간이 남으면 항구 주변을 한 바퀴 더 걷기보다 다음 날 아침 동선을 확인해두세요. 통영은 아침 일정과 저녁 일정의 피로가 이어지기 쉬운 도시라, 저녁에는 짧게 끝내는 판단이 전체 여행을 더 안정적으로 만듭니다.

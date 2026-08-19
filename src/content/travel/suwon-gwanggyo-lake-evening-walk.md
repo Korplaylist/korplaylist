@@ -37,7 +37,10 @@ draft: false
 대중교통으로 온다면 역이나 버스 정류장에서 공원 진입까지의 시간을 포함해 계산하세요. 차량 이용자는 주차장 위치와 나가는 방향을 먼저 확인해야 합니다. 주말 저녁에는 주차와 카페 대기가 길어질 수 있으므로 출발 전에 대체 휴식 지점을 정해두면 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/suwon-gwanggyo-lake-evening-walk-route-20260806-1.jpg" alt="수원 광교호수공원 보드워크에서 산책 방향을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/suwon-gwanggyo-lake-evening-walk-route-20260806-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/suwon-gwanggyo-lake-evening-walk-route-20260806-1.jpg" alt="수원 광교호수공원 보드워크에서 산책 방향을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>광교호수공원은 전체 일주보다 오늘 걸을 구간을 먼저 정하는 것이 중요합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -48,7 +51,10 @@ draft: false
 카페를 고를 때는 전망보다 좌석과 다음 이동 방향을 먼저 보세요. 전망 좋은 자리가 없더라도 실내에서 물을 마시고 발을 쉬게 하는 것만으로도 일정이 안정됩니다. 가족 여행이라면 화장실과 좌석 간격이 중요하고, 커플이나 친구 여행이라면 창가 전망과 야경 시간을 함께 고려하면 됩니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/suwon-gwanggyo-lake-evening-walk-cafe-20260806-1.jpg" alt="수원 광교호수공원 전망 카페에서 음료와 디저트로 쉬는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/suwon-gwanggyo-lake-evening-walk-cafe-20260806-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/suwon-gwanggyo-lake-evening-walk-cafe-20260806-1.jpg" alt="수원 광교호수공원 전망 카페에서 음료와 디저트로 쉬는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>카페 휴식은 광교호수공원 저녁 코스의 완충 지점입니다. 쉬는 시간을 넣어야 야경까지 무리 없이 이어집니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -59,7 +65,10 @@ draft: false
 비가 오면 산책로가 미끄러울 수 있고, 우산 때문에 호수 전망을 즐기기 어렵습니다. 이런 날에는 카페 시간을 늘리고 야경 확인을 짧게 줄이세요. 더운 날에는 물을 준비하고, 긴 산책보다 짧은 왕복 구간을 선택하는 편이 낫습니다. 호수공원은 언제든 더 걸을 수 있는 곳이지만, 반나절 코스에서는 돌아갈 체력을 남기는 것이 중요합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/suwon-gwanggyo-lake-evening-walk-night-20260806-1.jpg" alt="수원 광교호수공원 야경과 호수 반사를 보며 걷는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/suwon-gwanggyo-lake-evening-walk-night-20260806-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/suwon-gwanggyo-lake-evening-walk-night-20260806-1.jpg" alt="수원 광교호수공원 야경과 호수 반사를 보며 걷는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>블루아워 이후에는 호수 반사와 도시 조명이 살아납니다. 안전한 조명 구간 중심으로 짧게 걷는 것이 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -98,6 +107,8 @@ draft: false
 ## 마무리 팁
 
 광교호수공원은 시작보다 끝 지점을 잘 정해야 편합니다. 산책을 마친 뒤 식사나 귀가 방향이 반대로 잡히면 같은 길을 다시 걷게 됩니다. 도착 전에 오늘 걸을 구간, 쉴 장소, 돌아갈 방향을 한 번에 정리하세요. 가까운 저녁 코스일수록 단순한 계획이 실제 만족도를 높입니다.
+
+호수 주변 카페나 식사 장소는 주말 저녁에 대기가 생기기 쉬우므로, 산책 시작 전에 후보를 두세 곳 저장해 두면 일정이 덜 흔들립니다.
 
 시간이 남으면 무리해서 반대편 호수까지 넓히기보다 벤치나 카페에서 쉬는 편이 낫습니다. 저녁 산책은 많은 거리를 채우는 일정이 아니라, 하루를 편하게 마무리하는 일정으로 잡아야 다음 이동도 가볍습니다.
 

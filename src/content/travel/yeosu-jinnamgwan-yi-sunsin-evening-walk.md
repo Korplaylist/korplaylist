@@ -41,7 +41,10 @@ draft: false
 이순신광장에서는 바로 식사를 정하기보다 사람이 몰리는 정도를 먼저 보세요. 줄이 긴 곳을 무조건 따라가면 저녁 산책 시간이 줄어듭니다. 대표 메뉴 하나와 가벼운 간식 하나를 분리해 잡으면 부담이 적습니다. 이후 해안 방향으로 짧게 걸어 야경을 보고, 숙소 방향 교통을 확인한 뒤 마무리하면 됩니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/yeosu-jinnamgwan-evening-walk-food-20260720-1.jpg" alt="여수 이순신광장 근처에서 저녁 먹거리와 밤 산책을 준비하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/yeosu-jinnamgwan-evening-walk-food-20260720-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/yeosu-jinnamgwan-evening-walk-food-20260720-1.jpg" alt="여수 이순신광장 근처에서 저녁 먹거리와 밤 산책을 준비하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>저녁 코스에서는 식사를 오래 끌지 않는 것이 중요합니다. 간단히 먹고 해안 산책 시간을 남겨두면 일정이 덜 답답합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -52,7 +55,10 @@ draft: false
 케이블카나 돌산 방향 야경까지 넣고 싶다면 이 글의 코스와 분리하는 편이 좋습니다. 같은 저녁에 모두 넣으면 이동 시간이 늘어나고, 식사 대기까지 겹치면 밤 늦게 숙소로 돌아가게 됩니다. 처음 여수에 간다면 광장 주변을 안정적으로 보고, 다음 날 오동도나 케이블카를 따로 배치하는 방식이 더 현실적입니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/yeosu-jinnamgwan-evening-walk-night-20260720-1.jpg" alt="여수 밤바다 산책로에서 야경을 보며 걷는 여행 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/yeosu-jinnamgwan-evening-walk-night-20260720-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/yeosu-jinnamgwan-evening-walk-night-20260720-1.jpg" alt="여수 밤바다 산책로에서 야경을 보며 걷는 여행 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>밤바다 산책은 길이보다 복귀 동선이 중요합니다. 숙소 방향 이동을 먼저 확인한 뒤 걷는 범위를 정하세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -74,7 +80,10 @@ draft: false
 이 기준은 여행 품질에도 직접 영향을 줍니다. 복귀 방법이 정해져 있으면 해안 산책을 어디까지 할지, 식사를 얼마나 기다릴지, 카페에 들어갈지 판단이 쉬워집니다. 반대로 복귀를 나중에 생각하면 야경을 더 보려다 식사와 이동이 모두 늦어질 수 있습니다. 특히 아이나 부모님과 함께라면 밤바다 산책보다 숙소에 편하게 돌아가는 흐름이 더 중요합니다. 여수의 저녁은 오래 버티는 일정이 아니라, 보기 좋은 시간대에 짧게 보고 무리 없이 끝내는 일정으로 잡아야 만족도가 높습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/yeosu-jinnamgwan-evening-walk-return-20260720-1.jpg" alt="여수 이순신광장 근처에서 저녁 복귀 교통을 확인하는 여행 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/yeosu-jinnamgwan-evening-walk-return-20260720-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/yeosu-jinnamgwan-evening-walk-return-20260720-1.jpg" alt="여수 이순신광장 근처에서 저녁 복귀 교통을 확인하는 여행 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>여수 저녁 코스는 복귀 교통을 먼저 정해야 합니다. 숙소 방향을 확인한 뒤 산책 범위와 식사 대기 시간을 조절하세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -101,6 +110,8 @@ draft: false
 출발 전에는 진남관 관람 가능 여부, 이순신광장 식사 후보, 숙소 복귀 방법을 먼저 확인하세요. 이 세 가지가 정리되면 저녁 코스의 위험이 크게 줄어듭니다. 특히 숙소가 돌산이나 외곽이면 산책을 시작하기 전에 복귀 시간을 정해 두는 것이 좋습니다. 막차나 택시 호출 가능성을 늦게 확인하면 좋은 야경을 보고도 마지막 이동에서 피로가 커질 수 있습니다.
 
 식사 후보는 한 곳만 저장하지 말고 같은 권역에서 2~3개를 준비하세요. 여수는 주말과 휴가철에 대기 시간이 빠르게 늘어납니다. 한 곳에서 오래 기다리는 선택이 밤바다 산책 시간을 줄인다면, 같은 메뉴군의 다른 가게로 바꾸는 편이 전체 만족도는 더 높을 수 있습니다. 코스의 목적은 많이 먹는 것이 아니라 저녁 시간을 안정적으로 쓰는 것입니다.
+
+진남관 관람이 제한되는 날에도 이순신광장과 해안 산책을 중심으로 코스를 줄이면 저녁 동선 자체는 충분히 유지할 수 있습니다.
 
 ## 자주 묻는 질문
 

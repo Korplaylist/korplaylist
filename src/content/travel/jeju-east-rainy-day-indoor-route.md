@@ -37,7 +37,10 @@ draft: false
 아이와 함께라면 실내 체류 시간이 긴 곳을 중심에 두세요. 사진 명소를 여러 곳 넣는 것보다 화장실, 식사, 주차, 비를 피할 공간이 더 중요합니다. 부모님과 함께라면 미끄러운 현무암길이나 해안 산책로를 무리하게 걷지 않는 편이 좋습니다. 커플 여행이라면 카페와 짧은 바다 전망을 묶어도 좋지만, 젖은 옷을 말릴 수 있는 휴식 시간을 일정에 넣어야 합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/jeju-east-rainy-day-indoor-route-planning-20260724-1.jpg" alt="제주 동쪽 성산 주변에서 비 오는 날 동선을 실내 중심으로 조정하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeju-east-rainy-day-indoor-route-planning-20260724-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeju-east-rainy-day-indoor-route-planning-20260724-1.jpg" alt="제주 동쪽 성산 주변에서 비 오는 날 동선을 실내 중심으로 조정하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>비 오는 날에는 장소 수를 늘리기보다 숙소와 가까운 권역 안에서 실내, 카페, 짧은 산책을 나누는 편이 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -54,7 +57,10 @@ draft: false
 입장료가 있는 시설은 방문 전 운영 시간과 휴무일을 확인해야 합니다. 제주 동쪽은 날씨에 따라 당일 방문객이 실내로 몰릴 수 있어 주차와 대기가 생길 수 있습니다. 비가 강한 날에는 특정 실내 명소 하나에 사람이 집중될 수 있으므로, 대체 카페나 식사 장소를 함께 정해 두세요. 예약이 필요한 체험형 시설이라면 현장 이동 전 가능 여부를 확인해야 합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/jeju-east-rainy-day-indoor-route-cafe-20260724-1.jpg" alt="제주 동쪽 비 오는 날 카페 창가에서 쉬며 다음 동선을 정하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeju-east-rainy-day-indoor-route-cafe-20260724-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeju-east-rainy-day-indoor-route-cafe-20260724-1.jpg" alt="제주 동쪽 비 오는 날 카페 창가에서 쉬며 다음 동선을 정하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>카페는 단순한 쉬는 장소가 아니라 젖은 옷과 이동 피로를 정리하고 다음 동선을 판단하는 기준점이 됩니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -71,7 +77,10 @@ draft: false
 강풍이 있으면 해안 산책은 생략하는 것이 맞습니다. 비가 적어도 바람이 강하면 체감 피로가 크고, 우산이 뒤집히거나 카메라와 휴대폰이 젖을 수 있습니다. 이럴 때는 실내 여행지와 카페, 숙소 휴식을 중심으로 바꾸세요. 제주 여행에서 하루쯤 바깥 풍경을 줄이는 것은 실패가 아닙니다. 날씨에 맞춰 체력을 아끼는 것이 다음 날 여행의 품질을 지킵니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/jeju-east-rainy-day-indoor-route-coast-20260724-1.jpg" alt="제주 동쪽 비 오는 날 해안 산책로를 짧게 걷는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeju-east-rainy-day-indoor-route-coast-20260724-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeju-east-rainy-day-indoor-route-coast-20260724-1.jpg" alt="제주 동쪽 비 오는 날 해안 산책로를 짧게 걷는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>비가 약한 날에는 짧은 해안 산책을 넣을 수 있지만, 강풍이면 실내 일정으로 바꾸는 것이 안전합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 

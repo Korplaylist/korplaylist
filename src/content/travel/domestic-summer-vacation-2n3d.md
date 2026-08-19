@@ -47,7 +47,10 @@ draft: false
 장점은 코스가 다채롭다는 것이고, 단점은 이동 동선이 길어질 수 있다는 점입니다. 차가 있으면 편하지만 성수기 주차가 부담됩니다. 차가 없다면 숙소 위치를 속초해수욕장이나 중앙시장 접근성 기준으로 잡아야 합니다. 숙소가 애매하면 택시와 버스 이동이 계속 늘어납니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/domestic-summer-vacation-market-domestic-summer-vacation-2n3d-1.jpg" alt="속초 여름휴가 2박3일 중앙시장 먹거리 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/domestic-summer-vacation-market-domestic-summer-vacation-2n3d-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/domestic-summer-vacation-market-domestic-summer-vacation-2n3d-1.jpg" alt="속초 여름휴가 2박3일 중앙시장 먹거리 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -60,7 +63,10 @@ draft: false
 단점은 도시가 길다는 것입니다. 해운대와 남포를 하루에 여러 번 오가면 이동 피로가 큽니다. 숙소를 어디에 잡느냐가 중요합니다. 해변 중심이면 해운대나 광안리, 쇼핑과 교통 중심이면 서면, 시장과 항구 분위기면 남포가 맞습니다. 2박3일이라면 한 숙소 권역을 중심으로 움직이는 편이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/domestic-summer-vacation-busan-cafe-domestic-summer-vacation-2n3d-1.jpg" alt="부산 여름휴가 2박3일 비 오는 날에도 쉬기 좋은 바다 카페" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/domestic-summer-vacation-busan-cafe-domestic-summer-vacation-2n3d-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/domestic-summer-vacation-busan-cafe-domestic-summer-vacation-2n3d-1.jpg" alt="부산 여름휴가 2박3일 비 오는 날에도 쉬기 좋은 바다 카페" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -79,7 +85,10 @@ draft: false
 비가 오면 강릉은 카페와 실내 전시, 속초는 시장과 카페, 부산은 쇼핑몰과 실내 데이트 코스로 바꿉니다. 여름 국내여행은 계획을 지키는 것보다 컨디션에 맞게 줄이는 판단이 중요합니다. 특히 마지막 날에는 귀가 교통을 생각해서 먼 곳을 넣지 않는 편이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/domestic-summer-vacation-lakeside-domestic-summer-vacation-2n3d-1.jpg" alt="국내 여름휴가 2박3일 마지막 날 가볍게 걷기 좋은 호수 산책" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/domestic-summer-vacation-lakeside-domestic-summer-vacation-2n3d-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/domestic-summer-vacation-lakeside-domestic-summer-vacation-2n3d-1.jpg" alt="국내 여름휴가 2박3일 마지막 날 가볍게 걷기 좋은 호수 산책" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 

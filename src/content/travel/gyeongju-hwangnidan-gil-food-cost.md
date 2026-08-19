@@ -37,7 +37,10 @@ draft: false
 아이와 함께라면 대기 시간이 짧은 시간대를 먼저 고려하세요. 커플 여행이라면 사진을 찍는 골목과 카페 휴식 시간을 넉넉히 남겨두는 편이 좋습니다. 친구 여행이라면 각자 먹고 싶은 메뉴가 갈릴 수 있으므로 메인 식사와 간식 구간을 분리하는 것이 편합니다. 혼자 여행이라면 혼잡한 저녁 피크보다 늦은 점심이나 이른 저녁이 주문과 좌석 선택에 유리합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/hwangnidan-food-table-gyeongju-hwangnidan-gil-food-cost-1.jpg" alt="황리단길에서 즐기는 경주 한식 정식와 지역 재료 디저트" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/hwangnidan-food-table-gyeongju-hwangnidan-gil-food-cost-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/hwangnidan-food-table-gyeongju-hwangnidan-gil-food-cost-1.jpg" alt="황리단길에서 즐기는 경주 한식 정식와 지역 재료 디저트" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>대표 메뉴를 한 번에 몰아 먹기보다 메인과 보조 메뉴를 나누면 식비와 만족도를 함께 관리하기 쉽습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -50,7 +53,10 @@ draft: false
 오후 도착이라면 간식부터 시작하지 않는 것이 좋습니다. 여행 초반에 단 음식이나 음료를 먼저 많이 먹으면 정작 메인 식사를 제대로 즐기기 어렵습니다. 대신 위치 확인, 사진, 산책을 먼저 하고 이른 저녁 시간대에 경주 한식 정식를 먹은 뒤 한옥 카페로 넘어가면 자연스럽습니다. 날씨가 덥거나 비가 올 때는 실내 휴식 지점을 동선 중간에 넣어 체력을 보존하세요.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/hwangnidan-food-street-v2-gyeongju-hwangnidan-gil-food-cost-1.jpg" alt="황리단길 주변을 걷는 먹거리 여행 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/hwangnidan-food-street-v2-gyeongju-hwangnidan-gil-food-cost-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/hwangnidan-food-street-v2-gyeongju-hwangnidan-gil-food-cost-1.jpg" alt="황리단길 주변을 걷는 먹거리 여행 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>지도만 보고 움직이기보다 기준점, 식사 지점, 휴식 지점을 순서대로 묶으면 현장 대기 시간을 줄일 수 있습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -76,7 +82,10 @@ draft: false
 </div>
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/hwangnidan-food-budget-v2-gyeongju-hwangnidan-gil-food-cost-1.jpg" alt="황리단길 먹거리 예산을 정리하는 여행 준비 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/hwangnidan-food-budget-v2-gyeongju-hwangnidan-gil-food-cost-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/hwangnidan-food-budget-v2-gyeongju-hwangnidan-gil-food-cost-1.jpg" alt="황리단길 먹거리 예산을 정리하는 여행 준비 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>식비는 대표 메뉴, 보조 메뉴, 휴식 비용을 나누어 잡으면 현장에서 과하게 주문하는 일을 줄일 수 있습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 

@@ -39,7 +39,10 @@ draft: false
 [부산 해운대·광안리 밤 코스](/travel/busan/busan-haeundae-gwangalli-night/)를 계획했다면, 비 오는 날에는 그 코스를 전부 따라가기보다 해운대 또는 광안리 중 한 곳만 선택하세요. 두 해변을 모두 욕심내면 젖은 신발과 긴 이동 때문에 피로가 커집니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/busan-rainy-indoor-busan-rainy-day-course-1.jpg" alt="부산 비오는 날 해운대 근처에서 들르기 좋은 실내 전시 공간" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-rainy-indoor-busan-rainy-day-course-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/busan-rainy-indoor-busan-rainy-day-course-1.jpg" alt="부산 비오는 날 해운대 근처에서 들르기 좋은 실내 전시 공간" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -52,7 +55,10 @@ draft: false
 부산 초행자라면 숙소를 서면에 잡는 것도 방법입니다. 맑은 날에는 해운대와 남포로 움직이고, 비 오는 날에는 서면 안에서 일정을 줄일 수 있기 때문입니다. 특히 2박 이상 일정에서는 날씨가 하루쯤 흔들릴 수 있으므로, 비상 동선이 있는 숙소 권역이 유리합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/busan-rainy-mall-busan-rainy-day-course-1.jpg" alt="부산 비오는 날 서면과 실내 쇼핑 동선으로 쉬어가는 여행" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-rainy-mall-busan-rainy-day-course-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/busan-rainy-mall-busan-rainy-day-course-1.jpg" alt="부산 비오는 날 서면과 실내 쇼핑 동선으로 쉬어가는 여행" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -65,7 +71,10 @@ draft: false
 식사는 한 곳에 오래 줄 서기보다 후보를 여러 개 두세요. 비 오는 날에는 이동 자체가 피곤하기 때문에, 첫 번째 후보가 붐비면 바로 두 번째로 바꾸는 편이 낫습니다. 부산 비오는 날 여행은 맛집 성공보다 컨디션 유지가 더 중요합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/busan-rainy-market-busan-rainy-day-course-1.jpg" alt="부산 비오는 날 남포와 시장 골목에서 즐기는 따뜻한 먹거리 코스" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-rainy-market-busan-rainy-day-course-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/busan-rainy-market-busan-rainy-day-course-1.jpg" alt="부산 비오는 날 남포와 시장 골목에서 즐기는 따뜻한 먹거리 코스" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 

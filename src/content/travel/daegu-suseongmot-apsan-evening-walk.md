@@ -39,7 +39,10 @@ draft: false
 앞산으로 넘어갈 때는 대중교통만 고집하지 않아도 됩니다. 일행이 있거나 시간이 늦었다면 택시로 한 번에 이동해 체력을 아끼는 선택이 더 현실적입니다. 앞산에서 가장 중요한 것은 “얼마나 많이 걷느냐”가 아니라 “야경을 보고 다시 편하게 내려올 수 있느냐”입니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/daegu-suseongmot-apsan-evening-walk-route-20260809-1.jpg" alt="대구 수성못에서 앞산으로 이어지는 저녁 여행 동선을 확인하는 모습" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/daegu-suseongmot-apsan-evening-walk-route-20260809-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/daegu-suseongmot-apsan-evening-walk-route-20260809-1.jpg" alt="대구 수성못에서 앞산으로 이어지는 저녁 여행 동선을 확인하는 모습" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>수성못에서 앞산으로 넘어가는 동선은 저녁 시간과 귀가 방향을 먼저 정한 뒤 선택하는 것이 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -52,7 +55,10 @@ draft: false
 일행별로 조정도 필요합니다. 부모님과 함께라면 수성못 산책 구간을 짧게 잡고 카페에서 쉬는 시간을 늘리세요. 친구나 커플 여행이라면 호수길을 조금 더 길게 걷고 앞산에서는 전망만 보고 내려오는 식으로 리듬을 잡으면 됩니다. 혼자라면 밝은 시간대에 수성못 산책을 끝내고 앞산 이동은 너무 늦지 않게 하는 것이 안전합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/daegu-suseongmot-apsan-evening-walk-rest-20260809-1.jpg" alt="대구 앞산 전망대 접근 전 쉬어가기 좋은 저녁 휴식 지점" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/daegu-suseongmot-apsan-evening-walk-rest-20260809-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/daegu-suseongmot-apsan-evening-walk-rest-20260809-1.jpg" alt="대구 앞산 전망대 접근 전 쉬어가기 좋은 저녁 휴식 지점" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>앞산은 무리한 등산 코스로 잡기보다 접근 가능한 전망 지점과 휴식 시간을 함께 보는 편이 안정적입니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -65,7 +71,10 @@ draft: false
 야경 사진을 찍을 계획이라면 삼각대보다 겉옷과 배터리가 더 중요합니다. 여름에도 산 쪽은 바람이 불 수 있고, 휴대폰 배터리는 사진과 지도 사용으로 빨리 줄어듭니다. 밝은 길을 이용하고, 마지막 대중교통 시간에 쫓기지 않도록 30분 여유를 남겨두세요.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/daegu-suseongmot-apsan-evening-walk-night-20260809-1.jpg" alt="대구 앞산에서 바라보는 저녁 도시 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/daegu-suseongmot-apsan-evening-walk-night-20260809-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/daegu-suseongmot-apsan-evening-walk-night-20260809-1.jpg" alt="대구 앞산에서 바라보는 저녁 도시 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>앞산 야경은 일정의 마지막 보너스로 두면 날씨와 교통 변수에 더 유연하게 대응할 수 있습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 

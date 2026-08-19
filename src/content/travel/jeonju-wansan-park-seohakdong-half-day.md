@@ -36,7 +36,10 @@ adsenseReady: true
 이동 순서는 “공원 진입 → 전망과 그늘 구간 확인 → 서학동 방향으로 내려오기 → 골목 산책 → 카페 또는 식사 → 귀가”가 안정적입니다. 반대로 골목을 먼저 오래 돌면 공원으로 올라갈 때 피로가 크게 느껴질 수 있습니다. 특히 여름에는 오르막을 늦은 오후까지 미루는 방식이 좋지 않습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/jeonju-wansan-park-seohakdong-half-day-route-20260814-1.jpg" alt="전주 완산공원 언덕길과 산책 경로를 확인하는 지점" loading="lazy" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeonju-wansan-park-seohakdong-half-day-route-20260814-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeonju-wansan-park-seohakdong-half-day-route-20260814-1.jpg" alt="전주 완산공원 언덕길과 산책 경로를 확인하는 지점" loading="lazy" />
+  </picture>
   <figcaption>완산공원 코스는 초반에 언덕의 체감 난도와 내려오는 방향을 함께 확인해야 합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -51,7 +54,10 @@ adsenseReady: true
 식사는 한옥마을 쪽으로 다시 들어가 해결할 수도 있고, 서학동 인근에서 가볍게 마무리할 수도 있습니다. 다만 특정 식당 하나를 목표로 고정하면 영업 시간이나 대기 상황에 따라 일정이 흔들립니다. 반나절 코스에서는 “이 주변에서 먹는다” 정도로 범위를 잡고, 현장에서 선택하는 편이 안정적입니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/jeonju-wansan-park-seohakdong-half-day-rest-20260814-1.jpg" alt="전주 서학동 골목에서 쉬기 좋은 조용한 자리" loading="lazy" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeonju-wansan-park-seohakdong-half-day-rest-20260814-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeonju-wansan-park-seohakdong-half-day-rest-20260814-1.jpg" alt="전주 서학동 골목에서 쉬기 좋은 조용한 자리" loading="lazy" />
+  </picture>
   <figcaption>서학동에서는 걷는 양보다 쉬는 리듬을 잘 잡을수록 동네 분위기가 선명하게 남습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -64,7 +70,10 @@ adsenseReady: true
 귀가 동선은 한옥마을 방향으로 되돌아갈지, 전주 시내 쪽으로 빠질지에 따라 달라집니다. 초행자는 한옥마을을 기준점으로 삼으면 길을 잃을 가능성이 줄어듭니다. 다만 사람이 많은 시간대라면 오히려 시내 방향으로 빠지는 것이 이동 스트레스를 줄일 수 있습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/jeonju-wansan-park-seohakdong-half-day-return-20260814-1.jpg" alt="전주 서학동에서 저녁에 돌아가는 조용한 골목길" loading="lazy" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeonju-wansan-park-seohakdong-half-day-return-20260814-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeonju-wansan-park-seohakdong-half-day-return-20260814-1.jpg" alt="전주 서학동에서 저녁에 돌아가는 조용한 골목길" loading="lazy" />
+  </picture>
   <figcaption>귀가 시간은 골목이 어두워지기 전에 큰길 방향으로 나오는 기준을 잡는 것이 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -109,5 +118,7 @@ adsenseReady: true
 ## 코스를 선택해야 하는 사람
 
 이 코스는 전주를 이미 한 번 다녀왔거나, 한옥마을의 붐비는 거리만으로는 아쉬운 사람에게 잘 맞습니다. 공원과 골목, 카페 휴식을 균형 있게 넣고 싶다면 만족도가 높습니다.
+
+완산공원 오르막을 넣는 날에는 식사 직후보다 식사 전이나 충분히 쉰 뒤에 걷는 편이 좋습니다. 작은 순서 차이가 피로를 크게 줄입니다.
 
 반대로 전주의 대표 명소를 빠르게 모두 확인하고 싶은 첫 방문자라면 한옥마을 중심 코스가 더 효율적일 수 있습니다. 오늘 코스의 목적은 대표 명소 경쟁이 아니라, 전주 안에서 조금 조용한 시간을 확보하는 것입니다.

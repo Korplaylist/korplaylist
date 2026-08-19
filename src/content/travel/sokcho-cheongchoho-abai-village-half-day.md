@@ -41,7 +41,10 @@ draft: false
 아바이마을은 오래 머무는 것보다 골목 분위기와 간단한 먹거리를 보는 정도가 적당합니다. 유명 메뉴를 꼭 먹어야 한다는 생각보다, 줄이 길면 바로 주변 대안을 보는 식으로 움직이세요. 속초는 성수기와 주말에 대기 시간이 급격히 늘어납니다. 반나절 일정에서는 한 곳의 성공보다 전체 흐름이 더 중요합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/sokcho-cheongchoho-abai-walk-food-20260720-1.jpg" alt="속초 아바이마을 골목에서 간단한 먹거리로 쉬는 여행 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-cheongchoho-abai-walk-food-20260720-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/sokcho-cheongchoho-abai-walk-food-20260720-1.jpg" alt="속초 아바이마을 골목에서 간단한 먹거리로 쉬는 여행 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>아바이마을은 긴 식사보다 짧은 골목 산책과 가벼운 먹거리 휴식으로 넣을 때 반나절 일정에 잘 맞습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -52,7 +55,10 @@ draft: false
 저녁 일정까지 이어진다면 이 코스에 속초해수욕장을 억지로 붙이지 않는 편이 낫습니다. 해변은 다음 일정의 중심으로 따로 잡는 것이 좋습니다. 반나절 안에 호수, 마을, 시장, 해변까지 모두 넣으면 각 장소에서 머무는 시간이 짧아지고 이동만 많아집니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/sokcho-cheongchoho-abai-walk-rest-20260720-1.jpg" alt="속초 청초호 저녁 산책로에서 쉬는 여행 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-cheongchoho-abai-walk-rest-20260720-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/sokcho-cheongchoho-abai-walk-rest-20260720-1.jpg" alt="속초 청초호 저녁 산책로에서 쉬는 여행 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>청초호는 걷는 장소이면서 쉬는 장소입니다. 마지막에 휴식 시간을 남겨두면 다음 이동이 훨씬 편해집니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -75,7 +81,10 @@ draft: false
 비 오는 날에는 시장과 해변을 추가로 붙이는 것도 피하는 편이 낫습니다. 우산을 쓰고 여러 장소를 옮겨 다니면 실제로 보는 시간보다 이동과 대기 시간이 길어집니다. 이 코스의 장점은 좁게 움직일 수 있다는 점이므로, 날씨가 좋지 않을수록 그 장점을 살려야 합니다. 청초호 산책 20~30분, 아바이마을 식사, 카페 휴식, 숙소 복귀처럼 단순한 흐름으로 바꾸면 반나절 일정이 무리 없이 끝납니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/sokcho-cheongchoho-abai-walk-rain-20260720-1.jpg" alt="비 오는 속초 청초호 근처에서 실내 휴식 지점을 확인하는 여행 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-cheongchoho-abai-walk-rain-20260720-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/sokcho-cheongchoho-abai-walk-rain-20260720-1.jpg" alt="비 오는 속초 청초호 근처에서 실내 휴식 지점을 확인하는 여행 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>속초는 비보다 바람이 더 큰 변수입니다. 강풍 예보가 있으면 호수 산책을 짧게 줄이고 실내 휴식 지점을 먼저 잡으세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -102,6 +111,8 @@ draft: false
 출발 전에는 청초호를 얼마나 걸을지, 아바이마을에서 식사를 할지 간식만 먹을지, 마지막 휴식 지점을 어디로 잡을지 정해 두세요. 이 세 가지가 정해지면 날씨나 대기 줄이 바뀌어도 일정 수정이 쉽습니다. 특히 속초는 성수기와 비수기의 체감이 큰 도시라서, 특정 가게 하나를 목표로 하는 계획보다 같은 권역 안에서 대안을 고르는 계획이 더 안정적입니다.
 
 차 없이 이동한다면 터미널, 숙소, 첫 목적지 사이의 실제 이동 시간을 지도에서 다시 확인하세요. 도보로 가능해 보이는 거리라도 짐이 있거나 바람이 강하면 택시가 더 효율적일 수 있습니다. 이 코스는 비용을 많이 쓰는 일정이 아니라 이동 판단을 잘해야 만족도가 올라가는 일정입니다.
+
+청초호 주변은 바람 방향에 따라 걷는 체감이 달라지므로, 출발 전에 돌아오는 길을 같은 경로로 할지 다른 길로 줄일지 정해 두면 좋습니다.
 
 ## 자주 묻는 질문
 

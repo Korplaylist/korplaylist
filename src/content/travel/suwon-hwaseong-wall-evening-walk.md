@@ -41,7 +41,10 @@ draft: false
 해가 지기 60~90분 전부터 움직이면 가장 안정적입니다. 밝을 때 장안문과 성곽 구조를 보고, 해가 낮아질 때 화서문 방향으로 짧게 걸으면 사진과 산책을 함께 잡을 수 있습니다. 이후 바로 행궁동으로 내려와 카페나 식사를 넣으면 됩니다. 성곽길은 길 자체가 목적이므로, 특정 지점까지 반드시 가겠다는 식보다 몸 상태와 조명 상황에 맞춰 내려오는 판단이 중요합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/suwon-hwaseong-wall-evening-walk-route-20260721-1.jpg" alt="수원 화성 성곽 안내도 앞에서 저녁 산책 동선을 확인하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/suwon-hwaseong-wall-evening-walk-route-20260721-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/suwon-hwaseong-wall-evening-walk-route-20260721-1.jpg" alt="수원 화성 성곽 안내도 앞에서 저녁 산책 동선을 확인하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>수원 화성은 전체 일주보다 내려올 지점과 휴식 지점을 먼저 정해야 저녁 산책이 안정적입니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -52,7 +55,10 @@ draft: false
 저녁 식사를 넣을 계획이라면 행궁동 안쪽 골목보다 복귀가 쉬운 큰길 가까운 지점을 후보에 넣으세요. 분위기 좋은 골목은 사진을 찍기 좋지만, 늦은 시간에는 택시나 버스 접근이 불편할 수 있습니다. 수원역으로 돌아가야 한다면 마지막 장소를 정류장 접근이 쉬운 쪽에 두는 것이 좋습니다. 이 기준을 미리 세우면 산책이 길어져도 복귀가 흔들리지 않습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/suwon-hwaseong-wall-evening-walk-return-20260721-1.jpg" alt="수원 화성 성곽 근처 큰길에서 저녁 복귀 교통을 확인하는 여행 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/suwon-hwaseong-wall-evening-walk-return-20260721-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/suwon-hwaseong-wall-evening-walk-return-20260721-1.jpg" alt="수원 화성 성곽 근처 큰길에서 저녁 복귀 교통을 확인하는 여행 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>저녁 코스는 마지막 이동이 중요합니다. 성곽에서 내려온 뒤 수원역, 숙소, 행궁동 중 어디로 갈지 먼저 정하세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -63,7 +69,10 @@ draft: false
 더운 날에는 물과 얇은 겉옷을 함께 준비하세요. 낮에는 덥지만 저녁에는 바람이 불 수 있고, 카페나 실내 공간은 냉방이 강할 수 있습니다. 부모님과 함께라면 성곽 위에서 오래 머무르기보다 중간에 앉을 수 있는 장소를 먼저 확인하는 편이 낫습니다. 아이와 함께라면 어두워진 뒤 성곽길을 계속 걷기보다 해가 지기 전에 내려와 식사나 카페로 전환하는 것이 안전합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/suwon-hwaseong-wall-evening-walk-rain-20260721-1.jpg" alt="비 오는 행궁동 카페에서 수원 화성 산책 대안을 정리하는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/suwon-hwaseong-wall-evening-walk-rain-20260721-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/suwon-hwaseong-wall-evening-walk-rain-20260721-1.jpg" alt="비 오는 행궁동 카페에서 수원 화성 산책 대안을 정리하는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>비가 오면 성곽길을 길게 고집하지 말고 행궁동 실내 휴식과 큰길 복귀를 우선하는 편이 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -90,6 +99,8 @@ draft: false
 ## 공식 확인과 지도
 
 방문 전에는 수원시 관광 안내, 수원문화재단, 수원 화성 관련 운영 정보, 날씨와 대중교통 막차 시간을 확인하세요. 행사, 보수, 우천, 안전 통제에 따라 일부 구간 이용이 달라질 수 있습니다. 지도 앱은 기본 위치를 잡는 데 유용하지만, 실제로는 어느 지점에서 성곽 위로 올라가고 내려올지까지 함께 확인해야 합니다.
+
+성곽 위로 올라간 뒤에는 중간에 내려오는 지점이 제한적으로 느껴질 수 있으니, 출발 전에 하산 지점과 식사 위치를 같이 정해 두는 편이 안전합니다.
 
 <a href="https://www.google.com/maps/search/?api=1&query=%EC%88%98%EC%9B%90%20%ED%99%94%EC%84%B1%20%EC%9E%A5%EC%95%88%EB%AC%B8%20%ED%99%94%EC%84%9C%EB%AC%B8%20%ED%96%89%EA%B6%81%EB%8F%99%20%EC%A0%80%EB%85%81%20%EC%82%B0%EC%B1%85%20%EC%BD%94%EC%8A%A4" target="_blank" rel="noopener noreferrer">Google 지도에서 수원 화성 저녁 산책 동선 확인하기</a>
 

@@ -36,6 +36,7 @@ draft: false
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/yeouido-riverside-sunset-yeouido-hangang-summer-picnic-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/yeouido-riverside-sunset-yeouido-hangang-summer-picnic-1.jpg" alt="여의도 한강공원과 한강 다리가 저녁빛에 보이는 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>
@@ -58,6 +59,7 @@ draft: false
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/hangang-picnic-river-yeouido-hangang-summer-picnic-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/hangang-picnic-river-yeouido-hangang-summer-picnic-1.jpg" alt="한강공원 물가에서 여름 저녁 산책과 피크닉을 즐기기 좋은 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>
@@ -72,6 +74,7 @@ draft: false
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/hangang-evening-walk-yeouido-hangang-summer-picnic-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/hangang-evening-walk-yeouido-hangang-summer-picnic-1.jpg" alt="한강공원 여름 저녁 산책로와 강변 분위기" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>

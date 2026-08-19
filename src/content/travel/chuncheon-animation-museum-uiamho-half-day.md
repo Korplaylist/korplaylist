@@ -36,7 +36,10 @@ adsenseReady: true
 추천 순서는 “박물관 도착 → 관람 → 짧은 휴식 → 의암호 산책 → 귀가”입니다. 관람 전 산책을 길게 하면 박물관에서 집중력이 떨어질 수 있습니다. 반대로 관람을 먼저 끝내면 남은 체력에 맞춰 호수 산책 길이를 조정하기 쉽습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/chuncheon-animation-museum-uiamho-half-day-route-20260814-1.jpg" alt="춘천 애니메이션박물관 입구와 의암호 산책 경로 확인 지점" loading="lazy" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/chuncheon-animation-museum-uiamho-half-day-route-20260814-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/chuncheon-animation-museum-uiamho-half-day-route-20260814-1.jpg" alt="춘천 애니메이션박물관 입구와 의암호 산책 경로 확인 지점" loading="lazy" />
+  </picture>
   <figcaption>춘천 반나절 코스는 실내 관람을 먼저 고정하고 산책 길이를 조절하는 방식이 안정적입니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -51,7 +54,10 @@ adsenseReady: true
 식사는 춘천 도심에서 해결할지, 코스 주변에서 가볍게 해결할지 미리 방향만 정하세요. 특정 식당을 일정의 중심에 두면 관람 시간이 늘어났을 때 전체 흐름이 흔들립니다. 반나절 코스에서는 식사보다 이동과 관람의 순서를 먼저 안정화하는 것이 중요합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/chuncheon-animation-museum-uiamho-half-day-rest-20260814-1.jpg" alt="춘천 의암호 산책 중 쉬기 좋은 호숫가 데크와 벤치" loading="lazy" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/chuncheon-animation-museum-uiamho-half-day-rest-20260814-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/chuncheon-animation-museum-uiamho-half-day-rest-20260814-1.jpg" alt="춘천 의암호 산책 중 쉬기 좋은 호숫가 데크와 벤치" loading="lazy" />
+  </picture>
   <figcaption>의암호 산책은 경치가 이어지기 때문에 중간 회복 지점을 정해두는 편이 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -64,7 +70,10 @@ adsenseReady: true
 귀가 동선은 박물관을 기준으로 다시 돌아올지, 산책 후 다른 지점으로 빠질지에 따라 달라집니다. 초행자라면 되돌아오는 구조가 가장 단순합니다. 호수길은 풍경이 좋아 계속 걷기 쉽지만, 돌아오는 거리까지 감안하면 예상보다 시간이 길어질 수 있습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/chuncheon-animation-museum-uiamho-half-day-return-20260814-1.jpg" alt="춘천 의암호 산책 후 저녁에 돌아가는 호숫가 길" loading="lazy" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/chuncheon-animation-museum-uiamho-half-day-return-20260814-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/chuncheon-animation-museum-uiamho-half-day-return-20260814-1.jpg" alt="춘천 의암호 산책 후 저녁에 돌아가는 호숫가 길" loading="lazy" />
+  </picture>
   <figcaption>의암호 주변은 해가 기울기 전에 돌아오는 시간을 정해두면 귀가 동선이 안정됩니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -109,6 +118,8 @@ adsenseReady: true
 ## 코스를 선택해야 하는 사람
 
 이 코스는 춘천에서 실내와 자연 풍경을 함께 보고 싶은 사람에게 적합합니다. 비나 더위가 걱정되지만 완전히 실내에만 있고 싶지는 않은 여행자에게 특히 좋습니다.
+
+방문 전에는 박물관 운영 여부와 의암호 주변 날씨를 함께 확인하면, 실내 관람과 짧은 산책 사이의 균형을 현장에서 더 쉽게 조정할 수 있습니다.
 
 반대로 춘천의 여러 명소를 하루에 많이 돌고 싶은 사람에게는 다소 느리게 느껴질 수 있습니다. 오늘 코스는 장소 수보다 체감 만족도를 우선하는 반나절형 일정입니다.
 

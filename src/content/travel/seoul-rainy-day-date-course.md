@@ -39,7 +39,10 @@ draft: false
 용산의 장점은 날씨 대체가 쉽다는 점입니다. 전시가 길어지면 카페 시간을 줄이고, 비가 심해지면 쇼핑몰 안에서 식사까지 해결하면 됩니다. 단점은 주말에 사람이 많다는 점입니다. 인기 식당을 고집하기보다 대기 적은 곳을 후보로 여러 개 잡아두세요.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/seoul-rainy-date-gallery-seoul-rainy-day-date-course-1.jpg" alt="서울 비오는 날 데이트 코스로 좋은 실내 전시와 박물관" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-rainy-date-gallery-seoul-rainy-day-date-course-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-rainy-date-gallery-seoul-rainy-day-date-course-1.jpg" alt="서울 비오는 날 데이트 코스로 좋은 실내 전시와 박물관" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -60,7 +63,10 @@ draft: false
 홍대·연남은 친구 같은 편한 데이트에 좋습니다. 격식 있는 식사보다 가볍게 먹고 이동하기 좋고, 늦은 시간까지 문을 여는 곳도 많습니다. 대신 조용한 대화를 원한다면 붐비는 골목보다 연남 안쪽 카페나 예약 가능한 식당을 선택하는 편이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/seoul-rainy-date-cafe-seoul-rainy-day-date-course-1.jpg" alt="서울 비오는 날 데이트로 활용하기 좋은 카페 창가 자리" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-rainy-date-cafe-seoul-rainy-day-date-course-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-rainy-date-cafe-seoul-rainy-day-date-course-1.jpg" alt="서울 비오는 날 데이트로 활용하기 좋은 카페 창가 자리" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -73,7 +79,10 @@ draft: false
 다만 주말과 퇴근 시간에는 사람이 많습니다. 식사는 피크 시간을 살짝 피하거나 예약 가능한 곳을 선택하세요. 한강을 꼭 넣고 싶다면 돗자리나 피크닉보다 짧은 산책 정도로 생각하는 편이 현실적입니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/seoul-rainy-date-mall-seoul-rainy-day-date-course-1.jpg" alt="서울 비오는 날 데이트 코스로 좋은 실내 쇼핑몰 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-rainy-date-mall-seoul-rainy-day-date-course-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-rainy-date-mall-seoul-rainy-day-date-course-1.jpg" alt="서울 비오는 날 데이트 코스로 좋은 실내 쇼핑몰 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 

@@ -119,7 +119,10 @@ Source: [VisitKorea Hanbit Tower](https://english.visitkorea.or.kr/svc/contents/
 From there, Hanbit Square gives you the breathing room that many evening routes lack. You can treat it as a transition point instead of rushing from the station straight to the final bridge viewpoint. That matters in summer, because heat and humidity make the first forty minutes feel longer than the map suggests.
 
 <figure class="content-photo">
-  <img src="/images/official/daejeon-hanbit-square-summer-night-original.jpg" alt="Summer evening view of Hanbit Square in Daejeon with open plaza lighting" width="2048" height="1152" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/daejeon-hanbit-square-summer-night-original-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/daejeon-hanbit-square-summer-night-original.jpg" alt="Summer evening view of Hanbit Square in Daejeon with open plaza lighting" width="2048" height="1152" loading="lazy" decoding="async" />
+  </picture>
   <figcaption>ⓒKorea Tourism Organization Photo Korea</figcaption>
 </figure>
 
@@ -141,7 +144,10 @@ The route itself can stay fairly low-cost:
 For accommodation, Dunsan-dong and Yuseong generally work better than a random far-out budget room because the late return is simpler and the next morning is easier to manage. Daejeon Station can also work if your main goal is quick rail departure. The key is not the district name alone. The key is whether you can get back after the bridge without turning the last thirty minutes into another major transfer.
 
 <figure class="content-photo">
-  <img src="/images/official/daejeon-seogu-expo-bridge-publicdata.jpg" alt="Nightfall view of Expo Bridge in Daejeon over the Gapcheon riverside" width="2048" height="1152" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/daejeon-seogu-expo-bridge-publicdata-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/daejeon-seogu-expo-bridge-publicdata.jpg" alt="Nightfall view of Expo Bridge in Daejeon over the Gapcheon riverside" width="2048" height="1152" loading="lazy" decoding="async" />
+  </picture>
   <figcaption>ⓒDaejeon Seo-gu public data portal</figcaption>
 </figure>
 
@@ -158,7 +164,10 @@ The most common mistakes are:
 3. Picking a stay area without thinking about the final return after the bridge.
 
 <figure class="content-photo">
-  <img src="/images/official/daejeon-expo-park-tourism.jpg" alt="Visitors walking around Daejeon Expo Science Park in clear early evening light" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/daejeon-expo-park-tourism-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/daejeon-expo-park-tourism.jpg" alt="Visitors walking around Daejeon Expo Science Park in clear early evening light" width="1200" height="800" loading="lazy" decoding="async" />
+  </picture>
   <figcaption>ⓒKorea Tourism Organization Photo Korea</figcaption>
 </figure>
 

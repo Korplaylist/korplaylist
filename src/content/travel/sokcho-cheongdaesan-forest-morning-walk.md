@@ -39,7 +39,10 @@ draft: false
 대중교통만 이용한다면 배차 간격을 확인해야 합니다. 택시 이동이 가능한 상황이면 숙소에서 숲길 입구까지 택시로 접근하고, 내려온 뒤에는 식사나 카페가 있는 방향으로 이동하는 방식이 더 편합니다. 속초는 장소 사이 거리가 짧아 보여도 도보 이동이 애매한 구간이 있으므로, 걷는 시간과 이동 시간을 분리해서 계산하세요.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/sokcho-cheongdaesan-forest-morning-walk-route-20260811-1.jpg" alt="속초 청대산 숲길 입구에서 아침 산책 동선을 확인하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-cheongdaesan-forest-morning-walk-route-20260811-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/sokcho-cheongdaesan-forest-morning-walk-route-20260811-1.jpg" alt="속초 청대산 숲길 입구에서 아침 산책 동선을 확인하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>청대산 숲길은 출발 전에 돌아올 시간을 정해두면 이후 속초 바다 일정과 연결하기 쉽습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -52,7 +55,10 @@ draft: false
 일행별 조정도 필요합니다. 부모님과 함께라면 숲길 시간을 줄이고 쉬는 지점을 더 자주 넣으세요. 아이와 함께라면 흙길과 계단이 불편할 수 있으므로 짧은 왕복으로 마무리하는 편이 좋습니다. 혼자라면 이른 시간 너무 한적한 구간을 깊게 들어가지 말고, 밝은 길과 주요 동선을 중심으로 움직이세요.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/sokcho-cheongdaesan-forest-morning-walk-rest-20260811-1.jpg" alt="속초 청대산 숲길 산책 중 쉬어가기 좋은 그늘 쉼터" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-cheongdaesan-forest-morning-walk-rest-20260811-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/sokcho-cheongdaesan-forest-morning-walk-rest-20260811-1.jpg" alt="속초 청대산 숲길 산책 중 쉬어가기 좋은 그늘 쉼터" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>아침 숲길은 쉬는 간격을 넉넉히 잡아야 이후 바다와 시장 일정까지 피로가 덜 이어집니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -63,7 +69,10 @@ draft: false
 오전에 숲길을 걸었다면 오후에는 평지 위주로 움직이세요. 속초해변과 시장, 청초호를 모두 도보로 연결하려 하면 생각보다 피곤합니다. 특히 여름에는 해변 체류 시간이 길어지기 쉬우므로, 숲길 후 오후 일정은 한두 곳으로 좁혀야 합니다. 여행 품질은 방문 장소 개수가 아니라 하루 끝의 피로도에서 결정됩니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/sokcho-cheongdaesan-forest-morning-walk-return-20260811-1.jpg" alt="속초 청대산 숲길 산책 후 카페 거리와 숙소 방향으로 돌아가는 길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-cheongdaesan-forest-morning-walk-return-20260811-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/sokcho-cheongdaesan-forest-morning-walk-return-20260811-1.jpg" alt="속초 청대산 숲길 산책 후 카페 거리와 숙소 방향으로 돌아가는 길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>숲길 후에는 카페나 식사 지점을 먼저 잡고 오후 이동 방향을 정하면 일정이 흐트러지지 않습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 

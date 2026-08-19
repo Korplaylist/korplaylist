@@ -39,7 +39,10 @@ draft: false
 釜山なら移動距離を短くすることが重要です。海雲台に泊まるなら海雲台周辺、南浦洞に泊まるなら市場と港側、 서면に泊まるなら買い物と食事を中心にします。雨の日に海雲台から南浦洞まで何度も横断すると、地図で見るより時間と体力を使います。
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/korea-rainy-season-museum-korea-rainy-season-travel-1.jpg" alt="韓国の梅雨旅行で使いやすい屋内博物館ルート" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/korea-rainy-season-museum-korea-rainy-season-travel-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/korea-rainy-season-museum-korea-rainy-season-travel-1.jpg" alt="韓国の梅雨旅行で使いやすい屋内博物館ルート" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -52,7 +55,10 @@ draft: false
 済州はさらに慎重に考えます。海岸道路、展望台、滝、オルレ道は天気の影響を受けやすく、風が強いと移動そのものが疲れます。レンタカーがあっても島を横断する予定は減らし、東部なら東部、西部なら西部だけに絞ります。雨が強い日はカフェ、市場、博物館、短い海岸立ち寄りに変える判断が必要です。
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/korea-rainy-season-busan-cafe-korea-rainy-season-travel-1.jpg" alt="韓国の雨の日旅行で使いやすい釜山の海沿いカフェ" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/korea-rainy-season-busan-cafe-korea-rainy-season-travel-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/korea-rainy-season-busan-cafe-korea-rainy-season-travel-1.jpg" alt="韓国の雨の日旅行で使いやすい釜山の海沿いカフェ" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -73,7 +79,10 @@ draft: false
 夜は宿の近くで終えるのがおすすめです。雨の日の夜に写真スポット一つのためだけに市内を横断すると、帰り道が負担になります。明洞、乙支路、弘大、鍾路などに泊まっているなら、最後は近い食堂やカフェに寄って戻るほうが快適です。
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/korea-rainy-season-jeju-coast-korea-rainy-season-travel-1.jpg" alt="韓国の梅雨旅行で雨の済州海岸道路を走るイメージ" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/korea-rainy-season-jeju-coast-korea-rainy-season-travel-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/korea-rainy-season-jeju-coast-korea-rainy-season-travel-1.jpg" alt="韓国の梅雨旅行で雨の済州海岸道路を走るイメージ" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 

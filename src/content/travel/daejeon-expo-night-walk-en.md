@@ -119,7 +119,10 @@ Source: [VisitKorea Hanbit Tower](https://english.visitkorea.or.kr/svc/contents/
 The riverside section is what gives the route its atmosphere, but it should stay secondary to the overall flow. If you try to maximize walking distance just because the river path looks clean on the map, the route becomes less satisfying. The better choice is to keep the middle section long enough for the mood but short enough that the bridge still feels like a strong finish.
 
 <figure class="content-photo">
-  <img src="/images/official/daejeon-seogu-gapcheon-nurigil-publicdata.jpg" alt="Evening path along the Gapcheon riverside near Daejeon Expo district" width="1920" height="1080" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/daejeon-seogu-gapcheon-nurigil-publicdata-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/daejeon-seogu-gapcheon-nurigil-publicdata.jpg" alt="Evening path along the Gapcheon riverside near Daejeon Expo district" width="1920" height="1080" loading="lazy" decoding="async" />
+  </picture>
   <figcaption>ⓒDaejeon Seo-gu public data portal</figcaption>
 </figure>
 
@@ -141,7 +144,10 @@ Expected costs usually stay modest:
 For accommodation, Yuseong and Dunsan-dong usually balance access and comfort well. Daejeon Station works if you need an early train departure the next morning. What matters most is not the cheapest nightly rate but whether the last movement after the bridge stays simple. If the return to your room already feels annoying while you are planning it, it will feel worse at 9 or 10 p.m.
 
 <figure class="content-photo">
-  <img src="/images/official/daejeon-seogu-gapcheon-riverside-publicdata.jpg" alt="Open riverside view along Gapcheon during blue hour in Daejeon" width="2048" height="1152" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/daejeon-seogu-gapcheon-riverside-publicdata-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/daejeon-seogu-gapcheon-riverside-publicdata.jpg" alt="Open riverside view along Gapcheon during blue hour in Daejeon" width="2048" height="1152" loading="lazy" decoding="async" />
+  </picture>
   <figcaption>ⓒDaejeon Seo-gu public data portal</figcaption>
 </figure>
 
@@ -154,7 +160,10 @@ The second mistake is overcommitting to the riverside section in bad weather. A 
 The third mistake is mixing the route with too many unrelated errands. Shopping, long cafe detours, and extra transport hops make the walk lose its rhythm. If you want a denser evening with more plaza time and less walking, the <a href="/en/travel/daejeon/daejeon-expo-evening-course/">Expo evening course</a> usually works better.
 
 <figure class="content-photo">
-  <img src="/images/official/daejeon-expo-park-02.jpg" alt="Night view of the Expo district in Daejeon with plaza lighting and open walking space" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/daejeon-expo-park-02-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/daejeon-expo-park-02.jpg" alt="Night view of the Expo district in Daejeon with plaza lighting and open walking space" width="1200" height="800" loading="lazy" decoding="async" />
+  </picture>
   <figcaption>ⓒKorea Tourism Organization Photo Korea</figcaption>
 </figure>
 

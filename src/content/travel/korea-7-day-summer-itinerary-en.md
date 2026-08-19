@@ -36,6 +36,7 @@ If you are arriving from a long-haul flight, keep day 1 gentle. Do not schedule 
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/korea-seven-day-busan-beach-korea-7-day-summer-itinerary-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/korea-seven-day-busan-beach-korea-7-day-summer-itinerary-1.jpg" alt="Busan beach skyline for a Korea 7 day summer itinerary" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>
@@ -56,6 +57,7 @@ On the second Busan day, add the opposite side of the city. If you stayed near N
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/korea-seven-day-gyeongju-history-korea-7-day-summer-itinerary-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/korea-seven-day-gyeongju-history-korea-7-day-summer-itinerary-1.jpg" alt="Gyeongju historical walking route for a Korea 7 day itinerary" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>
@@ -76,6 +78,7 @@ Rain backup matters too. Seoul has the easiest indoor backup. Busan has markets,
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/korea-seven-day-jeju-coast-korea-7-day-summer-itinerary-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/korea-seven-day-jeju-coast-korea-7-day-summer-itinerary-1.jpg" alt="Jeju coastal scenery for a Korea summer itinerary" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>

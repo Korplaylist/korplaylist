@@ -39,7 +39,10 @@ draft: false
 家族旅行、友人グループ、荷物が多い旅行、写真をしっかり撮りたい旅行なら宿泊をおすすめします。日帰りは、時間が限られていて、移動に慣れていて、当日の目的を明確にできる人向けです。
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/boryeong-mud-festival-train-boryeong-mud-festival-2026-1.jpg" alt="保寧マッドフェスティバルへ向かう列車と交通計画" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/boryeong-mud-festival-train-boryeong-mud-festival-2026-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/boryeong-mud-festival-train-boryeong-mud-festival-2026-1.jpg" alt="保寧マッドフェスティバルへ向かう列車と交通計画" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -60,7 +63,10 @@ draft: false
 大きなバッグは扱いにくいです。会場内で動くときは、身軽さが快適さになります。必要なものだけを小さなバッグに入れ、宿泊するなら大きな荷物は宿かロッカーに置く前提で動きます。
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/boryeong-mud-festival-packing-boryeong-mud-festival-2026-1.jpg" alt="保寧マッドフェスティバルの持ち物とシャワー準備" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/boryeong-mud-festival-packing-boryeong-mud-festival-2026-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/boryeong-mud-festival-packing-boryeong-mud-festival-2026-1.jpg" alt="保寧マッドフェスティバルの持ち物とシャワー準備" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -79,7 +85,10 @@ draft: false
 泥体験のあとは、洗う時間を長めに見ます。多くの人が同じ時間にシャワー、着替え、食事、移動をするため、思ったより待つ可能性があります。日帰りなら、ここで予定が押しやすいです。宿泊なら焦らず部屋に戻れるので、体力面でも有利です。
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/boryeong-mud-festival-evening-boryeong-mud-festival-2026-1.jpg" alt="保寧マッドフェスティバル後の大川海水浴場の夕方" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/boryeong-mud-festival-evening-boryeong-mud-festival-2026-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/boryeong-mud-festival-evening-boryeong-mud-festival-2026-1.jpg" alt="保寧マッドフェスティバル後の大川海水浴場の夕方" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 

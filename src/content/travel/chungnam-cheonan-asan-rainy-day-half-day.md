@@ -37,7 +37,10 @@ draft: false
 비가 약하게 내리거나 그친 뒤라면 넓은 산책로를 짧게 걷고 실내 관람을 붙이는 방식이 좋습니다. 비가 강하면 야외 이동은 최소화하고, 실내 관람과 카페 휴식, 역으로 돌아가는 시간을 넉넉히 잡으세요. 우산을 들고 넓은 공간을 오래 걷는 일정은 생각보다 피로가 큽니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/chungnam-cheonan-asan-rainy-day-half-day-route-20260806-1.jpg" alt="비 오는 충남 천안의 넓은 산책로에서 우산을 들고 동선을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/chungnam-cheonan-asan-rainy-day-half-day-route-20260806-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/chungnam-cheonan-asan-rainy-day-half-day-route-20260806-1.jpg" alt="비 오는 충남 천안의 넓은 산책로에서 우산을 들고 동선을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>비 오는 날에는 볼거리보다 이동 횟수와 쉴 수 있는 지점을 먼저 계산해야 합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -54,7 +57,10 @@ draft: false
 식사와 카페를 고를 때는 유명도보다 역 접근성을 우선하세요. 비가 오는 날에는 택시 호출, 버스 대기, 캐리어 이동이 모두 변수입니다. 실내에서 40분에서 60분 정도 쉬고 돌아가는 교통편을 확인하면 일정이 안정됩니다. 차량 여행자라면 주차장 출입이 쉬운 곳을 고르는 편이 낫습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/chungnam-cheonan-asan-rainy-day-half-day-cafe-20260806-1.jpg" alt="비 오는 날 아산 온천권 카페에서 따뜻한 음료로 쉬는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/chungnam-cheonan-asan-rainy-day-half-day-cafe-20260806-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/chungnam-cheonan-asan-rainy-day-half-day-cafe-20260806-1.jpg" alt="비 오는 날 아산 온천권 카페에서 따뜻한 음료로 쉬는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>아산 온천권 휴식은 비 오는 날 반나절 코스의 피로를 줄이는 핵심입니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -65,7 +71,10 @@ draft: false
 캐리어가 있다면 코스를 시작하기 전에 보관 여부를 먼저 확인하세요. 우산과 짐을 동시에 들고 이동하면 짧은 거리도 길게 느껴집니다. 가족 여행에서는 아이 우산, 여벌 옷, 화장실 위치가 중요하고, 혼자 여행에서는 역까지 돌아가는 길을 단순하게 잡는 것이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/chungnam-cheonan-asan-rainy-day-half-day-return-20260806-1.jpg" alt="비가 온 뒤 충남 역 앞에서 우산을 들고 귀가 시간을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/chungnam-cheonan-asan-rainy-day-half-day-return-20260806-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/chungnam-cheonan-asan-rainy-day-half-day-return-20260806-1.jpg" alt="비가 온 뒤 충남 역 앞에서 우산을 들고 귀가 시간을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>돌아가는 역과 시간을 먼저 정하면 비 오는 날에도 일정이 덜 흔들립니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 

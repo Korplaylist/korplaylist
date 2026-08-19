@@ -39,7 +39,10 @@ draft: false
 기차 도착 시간이 오전이라면 산책을 먼저 넣고 점심을 뒤에 붙이는 구성이 좋습니다. 오후 도착이라면 식사나 카페를 먼저 넣고 해가 약해지는 시간에 산책을 붙이면 체력 부담이 줄어듭니다. 반나절 코스의 핵심은 오동도에서 오래 버티는 것이 아니라, 역과 바다 사이 이동을 단순하게 만드는 것입니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/yeosu-odongdo-expo-station-half-day-station-20260727-1.jpg" alt="여수엑스포역 주변에서 오동도 방향 동선을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/yeosu-odongdo-expo-station-half-day-station-20260727-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/yeosu-odongdo-expo-station-half-day-station-20260727-1.jpg" alt="여수엑스포역 주변에서 오동도 방향 동선을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>여수엑스포역 도착 직후에는 짐과 이동 방향을 먼저 정해야 합니다. 반나절 코스에서는 출발 준비가 깔끔할수록 산책 만족도가 올라갑니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -52,7 +55,10 @@ draft: false
 점심은 오동도 산책 후 엑스포역 주변이나 해안가 방향으로 붙이면 됩니다. 특정 식당 하나만 정해두면 대기 상황에 따라 일정이 흔들릴 수 있으니, 해산물, 한식, 가벼운 면 요리처럼 메뉴 후보를 넓게 잡는 것이 좋습니다. 반나절 뒤 다음 일정이 있다면 점심을 길게 끌지 말고, 카페 휴식으로 체력을 조절하는 편이 낫습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/yeosu-odongdo-expo-station-half-day-walk-20260727-1.jpg" alt="오동도 그늘 산책로에서 바다를 보며 걷는 가족 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/yeosu-odongdo-expo-station-half-day-walk-20260727-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/yeosu-odongdo-expo-station-half-day-walk-20260727-1.jpg" alt="오동도 그늘 산책로에서 바다를 보며 걷는 가족 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>오동도 산책은 그늘과 바다 전망을 번갈아 만나는 점이 장점입니다. 여름에는 전체를 욕심내기보다 쉬운 구간 중심으로 걷는 편이 안정적입니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -73,7 +79,10 @@ draft: false
 기차 출발 전 마지막 일정으로 오동도를 넣는 경우에는 시간을 더 보수적으로 잡아야 합니다. 산책이 예상보다 길어지거나 카페 대기가 생기면 열차 시간에 쫓길 수 있습니다. 출발 2시간 전에는 역 방향으로 돌아온다는 기준을 세우면 안정적입니다. 짐을 맡긴 위치도 함께 고려해야 합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/yeosu-odongdo-expo-station-half-day-lunch-20260727-1.jpg" alt="여수 오동도 산책 후 바다 전망이 보이는 곳에서 점심과 음료를 즐기는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/yeosu-odongdo-expo-station-half-day-lunch-20260727-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/yeosu-odongdo-expo-station-half-day-lunch-20260727-1.jpg" alt="여수 오동도 산책 후 바다 전망이 보이는 곳에서 점심과 음료를 즐기는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>오동도 반나절 코스에서는 식사와 카페를 이동 완충 시간으로 쓰는 것이 좋습니다. 날씨가 덥거나 비가 오면 이 시간이 일정 안정성을 만들어줍니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 

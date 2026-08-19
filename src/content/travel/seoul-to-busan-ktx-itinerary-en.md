@@ -36,6 +36,7 @@ Seat reservations matter during weekends, holidays, and summer travel periods. I
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/ktx-busan-market-food-seoul-to-busan-ktx-itinerary-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ktx-busan-market-food-seoul-to-busan-ktx-itinerary-1.jpg" alt="Busan market food stop after arriving by KTX from Seoul" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>
@@ -58,6 +59,7 @@ If you only have one night, choose the base that matches your main goal. If you 
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/ktx-busan-haeundae-evening-seoul-to-busan-ktx-itinerary-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ktx-busan-haeundae-evening-seoul-to-busan-ktx-itinerary-1.jpg" alt="Haeundae skyline and beach atmosphere for a first Busan trip" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>
@@ -78,6 +80,7 @@ Gamcheon Culture Village is a good example. It can be memorable, but it is not i
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/ktx-busan-gwangalli-night-seoul-to-busan-ktx-itinerary-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ktx-busan-gwangalli-night-seoul-to-busan-ktx-itinerary-1.jpg" alt="Gwangalli night skyline and bridge view for a Busan evening route" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>

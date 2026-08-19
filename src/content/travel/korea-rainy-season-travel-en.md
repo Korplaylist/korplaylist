@@ -39,7 +39,10 @@ Once you choose the anchor, add one outdoor piece nearby. For example, pair a Se
 The wrong way is to plan Gyeongbokgung, Bukchon, Namsan, Hongdae, and Han River all in one rainy day. Even if every place is technically reachable, your shoes, phone battery, clothes, and patience will not enjoy it. Rainy-season travel rewards compact neighborhoods.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/korea-rainy-season-museum-korea-rainy-season-travel-1.jpg" alt="Indoor museum route for Korea rainy season travel" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/korea-rainy-season-museum-korea-rainy-season-travel-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/korea-rainy-season-museum-korea-rainy-season-travel-1.jpg" alt="Indoor museum route for Korea rainy season travel" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -52,7 +55,10 @@ Busan needs more restraint. The city is long, and moving from Haeundae to Nampo 
 Jeju is beautiful in rainy weather, but it is less forgiving. Driving visibility, wind, coastal viewpoints, and sudden showers matter. Do not pack the day with distant stops. Choose one side of the island, keep the route short, and be ready to replace a viewpoint with a cafe or market. If you are not renting a car, rainy-season Jeju needs even more patience because buses and taxis can shape the whole day.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/korea-rainy-season-busan-cafe-korea-rainy-season-travel-1.jpg" alt="Busan cafe with rainy ocean view during Korea monsoon travel" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/korea-rainy-season-busan-cafe-korea-rainy-season-travel-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/korea-rainy-season-busan-cafe-korea-rainy-season-travel-1.jpg" alt="Busan cafe with rainy ocean view during Korea monsoon travel" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -73,7 +79,10 @@ A practical Seoul route could be: National Museum of Korea in the morning, lunch
 For first-time travelers, keep your hotel area in mind. A rainy night is not the best time to cross the city just for one photo spot. End near your accommodation, or at least near a subway line that takes you back directly.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/korea-rainy-season-jeju-coast-korea-rainy-season-travel-1.jpg" alt="Jeju coastal road in summer rain for Korea rainy season planning" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/korea-rainy-season-jeju-coast-korea-rainy-season-travel-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/korea-rainy-season-jeju-coast-korea-rainy-season-travel-1.jpg" alt="Jeju coastal road in summer rain for Korea rainy season planning" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 

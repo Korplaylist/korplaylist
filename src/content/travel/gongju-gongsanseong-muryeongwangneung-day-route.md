@@ -37,7 +37,10 @@ draft: false
 아이와 함께라면 공산성 전체를 욕심내기보다 전망이 좋은 일부 구간만 걷고, 무령왕릉 쪽에서 쉬어 가는 방식이 낫습니다. 부모님과 함께라면 성곽을 길게 도는 것보다 차량 이동 동선과 앉아 쉴 수 있는 지점을 먼저 확인하세요. 혼자 가는 여행자라면 설명을 읽는 시간이 길어져도 부담이 적으므로 박물관이나 전시 공간을 함께 넣어도 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/gongju-gongsanseong-muryeongwangneung-day-route-tomb-20260723-1.jpg" alt="공주 무령왕릉과 왕릉원 주변을 차분히 걷는 역사 여행 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/gongju-gongsanseong-muryeongwangneung-day-route-tomb-20260723-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/gongju-gongsanseong-muryeongwangneung-day-route-tomb-20260723-1.jpg" alt="공주 무령왕릉과 왕릉원 주변을 차분히 걷는 역사 여행 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>무령왕릉 구간은 걷는 양보다 설명을 이해하는 시간이 중요하므로 오후 일정에 배치해도 부담이 적습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -54,7 +57,10 @@ draft: false
 사진 위주 여행이라면 공산성에서 시간을 더 쓰고, 역사 이해가 목적이라면 무령왕릉과 전시 공간에 시간을 더 배정하세요. 날씨가 더운 날에는 공산성 체류를 짧게 줄이고 카페 휴식이나 실내 전시를 넣는 편이 좋습니다. 비가 오는 날에는 성곽길이 미끄러울 수 있으므로 전망 욕심을 줄이고, 왕릉원과 박물관형 관람으로 무게를 옮기는 것이 안전합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/gongju-gongsanseong-muryeongwangneung-day-route-food-20260723-1.jpg" alt="공주 원도심에서 점심을 먹고 오후 유적지 이동을 준비하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/gongju-gongsanseong-muryeongwangneung-day-route-food-20260723-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/gongju-gongsanseong-muryeongwangneung-day-route-food-20260723-1.jpg" alt="공주 원도심에서 점심을 먹고 오후 유적지 이동을 준비하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>점심은 유명 메뉴보다 오후 이동이 편한 위치와 대기 시간을 기준으로 고르는 것이 당일치기에 적합합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -71,7 +77,10 @@ draft: false
 가방은 가볍게 꾸리는 것이 좋습니다. 공산성에서는 오르내림이 있고, 무령왕릉 주변은 설명을 읽으며 천천히 움직이게 됩니다. 무거운 짐은 코스 전체의 집중력을 떨어뜨립니다. 숙박 없이 당일로 다녀온다면 보조배터리, 작은 우산, 손수건, 물 정도만 챙겨도 충분합니다. 사진 장비를 많이 가져간다면 공산성에서만 적극적으로 쓰고, 오후에는 이동 피로를 줄이는 방식이 현실적입니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/gongju-gongsanseong-muryeongwangneung-day-route-evening-20260723-1.jpg" alt="공주 금강변에서 당일치기 여행을 마무리하는 저녁 산책" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/gongju-gongsanseong-muryeongwangneung-day-route-evening-20260723-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/gongju-gongsanseong-muryeongwangneung-day-route-evening-20260723-1.jpg" alt="공주 금강변에서 당일치기 여행을 마무리하는 저녁 산책" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>공산성과 왕릉을 본 뒤에는 원도심이나 금강변을 짧게 걸으며 일정을 마무리하면 이동 부담이 줄어듭니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -88,6 +97,8 @@ draft: false
 시간이 부족하다면 공산성 전체 순환을 줄이는 것이 가장 현실적입니다. 무령왕릉은 설명과 맥락이 핵심이라 너무 짧게 보면 방문 의미가 약해집니다. 공산성에서는 입구와 가까운 전망 구간만 보고, 점심을 간단히 해결한 뒤 왕릉원으로 이동하세요. 날씨가 좋지 않은 날도 같은 기준을 적용하면 됩니다. 실외 보행을 줄이고, 설명을 읽을 수 있는 구간을 남기는 방식이 백제 유적 코스의 만족도를 지키는 방법입니다.
 
 출발 전 최종 체크는 세 가지면 충분합니다. 첫째, 공산성에서 실제로 걸을 구간을 정합니다. 둘째, 점심 위치를 공산성과 왕릉원 사이에서 고릅니다. 셋째, 오후에 전시를 얼마나 읽을지 동행자와 맞춥니다. 이 세 가지가 정리되면 현장에서 유명 장소를 더 넣고 싶은 마음이 생겨도 일정이 크게 흔들리지 않습니다. 공주 유적 코스는 이동보다 이해의 밀도가 중요한 여행입니다.
+
+아이와 함께라면 설명을 오래 읽는 구간과 뛰어놀 수 있는 구간을 나눠 두어야 백제 유적 관람이 지루한 이동으로 느껴지지 않습니다.
 
 ## 자주 묻는 질문
 

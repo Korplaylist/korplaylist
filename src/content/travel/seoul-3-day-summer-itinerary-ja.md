@@ -39,7 +39,10 @@ draft: false
 夕方は広蔵市場や明洞、乙支路周辺で食事を考えます。広蔵市場は人気ですが、夏は暑く混みやすいので、食べたいものを決めすぎず、空いている店を柔軟に使うほうが楽です。雨が強い日は市場を短くし、仁寺洞のカフェや博物館に切り替えます。
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/seoul-3-day-summer-market-seoul-3-day-summer-itinerary-1.jpg" alt="ソウル3日間モデルコースで立ち寄りたい市場グルメ" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-3-day-summer-market-seoul-3-day-summer-itinerary-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-3-day-summer-market-seoul-3-day-summer-itinerary-1.jpg" alt="ソウル3日間モデルコースで立ち寄りたい市場グルメ" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -52,7 +55,10 @@ draft: false
 買い物をするなら、この日にまとめるのも効率的です。早い時間に買いすぎると荷物を持って歩くことになるため、ホテルに戻れる導線を作ります。弘大、明洞、乙支路、東大門周辺に泊まっているなら、途中で荷物を置く時間を入れると夜が楽になります。
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/seoul-3-day-summer-hongdae-seoul-3-day-summer-itinerary-1.jpg" alt="ソウル夏旅行で歩きたい弘大と延南洞の夕方" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-3-day-summer-hongdae-seoul-3-day-summer-itinerary-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-3-day-summer-hongdae-seoul-3-day-summer-itinerary-1.jpg" alt="ソウル夏旅行で歩きたい弘大と延南洞の夕方" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -65,7 +71,10 @@ draft: false
 雨が続く場合は、漢江をあきらめてモール、映画館、スパ、カフェ夜景に切り替えます。3日目の目的は「最後まで予定を消化すること」ではなく、疲れすぎずにソウル旅行を締めることです。
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/seoul-3-day-summer-hangang-seoul-3-day-summer-itinerary-1.jpg" alt="ソウル3日間モデルコースの締めに使いやすい漢江の夕方" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-3-day-summer-hangang-seoul-3-day-summer-itinerary-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-3-day-summer-hangang-seoul-3-day-summer-itinerary-1.jpg" alt="ソウル3日間モデルコースの締めに使いやすい漢江の夕方" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 

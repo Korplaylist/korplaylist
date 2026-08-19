@@ -47,7 +47,10 @@ After Haeundae, move to a food or cafe stop before the hottest part of the day. 
 Save Gwangalli for late afternoon into evening. This is when the beach becomes more comfortable and the bridge view starts doing the work. Walk the promenade, eat dinner nearby, then stay until the lights come on. If you have one Busan summer day, Haeundae morning plus Gwangalli evening is the cleanest structure.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/busan-summer-beach-gwangalli-busan-summer-beach-itinerary-1.jpg" alt="Gwangalli Beach evening promenade with Gwangan Bridge lights in Busan" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-summer-beach-gwangalli-busan-summer-beach-itinerary-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/busan-summer-beach-gwangalli-busan-summer-beach-itinerary-1.jpg" alt="Gwangalli Beach evening promenade with Gwangan Bridge lights in Busan" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -68,7 +71,10 @@ The practical rule is to eat before you are exhausted. Beach heat makes people d
 Markets are also useful in rainy weather. If showers arrive, you can eat, wait, and decide whether to continue to the next beach or switch to an indoor stop. Do not treat rain as an automatic failure. In Busan, a rainy middle section can still lead to a very good Gwangalli evening if the sky clears.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/busan-summer-beach-market-busan-summer-beach-itinerary-1.jpg" alt="Busan market food alley with seafood and travelers choosing snacks" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-summer-beach-market-busan-summer-beach-itinerary-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/busan-summer-beach-market-busan-summer-beach-itinerary-1.jpg" alt="Busan market food alley with seafood and travelers choosing snacks" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -81,7 +87,10 @@ If you are staying in Haeundae, your rainy backup can be simple: cafe, meal, sho
 Carry a compact umbrella, but also think about shoes. Wet sandals may be fine at the beach, but slippery stairs and subway floors are not fun. A small towel and a plastic bag for wet items can save the rest of the day. If you are using a camera, bring a simple rain cover or keep photography expectations modest.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/busan-summer-beach-rain-cafe-busan-summer-beach-itinerary-1.jpg" alt="Rainy Busan beach cafe with travelers checking their route on a phone" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-summer-beach-rain-cafe-busan-summer-beach-itinerary-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/busan-summer-beach-rain-cafe-busan-summer-beach-itinerary-1.jpg" alt="Rainy Busan beach cafe with travelers checking their route on a phone" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 

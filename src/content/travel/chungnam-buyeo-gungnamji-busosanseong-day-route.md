@@ -36,7 +36,10 @@ adsenseReady: true
 추천 순서는 “궁남지 산책 → 점심 또는 휴식 → 부소산성 숲길 → 카페나 식사 → 귀가”입니다. 반대로 부소산성을 먼저 깊게 걸으면 궁남지에서 여유가 줄어들 수 있습니다. 특히 더운 계절에는 숲길을 가장 더운 시간대에 길게 걷지 않도록 조정해야 합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/chungnam-buyeo-gungnamji-busosanseong-day-route-route-20260814-1.jpg" alt="충남 부여 궁남지 연못 산책로와 경로 확인 지점" loading="lazy" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/chungnam-buyeo-gungnamji-busosanseong-day-route-route-20260814-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/chungnam-buyeo-gungnamji-busosanseong-day-route-route-20260814-1.jpg" alt="충남 부여 궁남지 연못 산책로와 경로 확인 지점" loading="lazy" />
+  </picture>
   <figcaption>궁남지는 평탄하지만 사진과 휴식 시간이 길어지기 쉬워 초반 여유를 넉넉히 잡는 것이 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -51,7 +54,10 @@ adsenseReady: true
 식사는 궁남지와 부소산성 사이 또는 부소산성 후반에 배치하면 좋습니다. 특정 식당 하나에 의존하기보다 부여읍 안에서 선택지를 넓게 잡는 편이 안전합니다. 영업일과 대기 시간은 현장에서 달라질 수 있으므로, 일정표에는 식당 이름보다 식사 시간대를 먼저 적어두세요.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/chungnam-buyeo-gungnamji-busosanseong-day-route-rest-20260814-1.jpg" alt="충남 부여 부소산성 숲길 중 쉬기 좋은 그늘과 돌길" loading="lazy" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/chungnam-buyeo-gungnamji-busosanseong-day-route-rest-20260814-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/chungnam-buyeo-gungnamji-busosanseong-day-route-rest-20260814-1.jpg" alt="충남 부여 부소산성 숲길 중 쉬기 좋은 그늘과 돌길" loading="lazy" />
+  </picture>
   <figcaption>부소산성 숲길은 깊게 들어가기보다 쉬는 지점을 기준으로 왕복 범위를 정하면 부담이 줄어듭니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -64,7 +70,10 @@ adsenseReady: true
 귀가 동선은 부소산성 후반에 다시 확인해야 합니다. 오전에 세운 계획과 실제 체력은 달라질 수 있습니다. 해가 기울기 시작하면 숲길보다 큰길 방향으로 나오는 것이 안전합니다. 특히 사진을 찍다 보면 시간이 늦어지기 쉬우므로 귀가 기준을 휴대폰 알람으로 맞춰두는 것도 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/chungnam-buyeo-gungnamji-busosanseong-day-route-return-20260814-1.jpg" alt="충남 부여 역사 산책 후 저녁에 돌아가는 조용한 길" loading="lazy" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/chungnam-buyeo-gungnamji-busosanseong-day-route-return-20260814-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/chungnam-buyeo-gungnamji-busosanseong-day-route-return-20260814-1.jpg" alt="충남 부여 역사 산책 후 저녁에 돌아가는 조용한 길" loading="lazy" />
+  </picture>
   <figcaption>부여 하루 코스는 해가 지기 전 큰길 방향으로 나오는 기준을 세우면 마무리가 안정됩니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 

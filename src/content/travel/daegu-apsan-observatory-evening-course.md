@@ -39,7 +39,10 @@ draft: false
 차량 여행자라면 주차장 상황을 먼저 봐야 합니다. 주말과 휴일 저녁에는 주차 대기가 생길 수 있고, 늦게 내려올수록 주변 식사 장소 이동도 함께 몰립니다. 대중교통 여행자라면 내려온 뒤 버스나 택시 연결 시간을 고려해야 합니다. 앞산은 도심에서 멀리 떨어진 여행지는 아니지만, 전망대 체류 후 피곤한 상태에서는 작은 이동도 길게 느껴질 수 있습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/daegu-apsan-observatory-evening-course-cablecar-20260727-1.jpg" alt="대구 앞산 케이블카 탑승장 주변에서 저녁 코스를 시작하는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/daegu-apsan-observatory-evening-course-cablecar-20260727-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/daegu-apsan-observatory-evening-course-cablecar-20260727-1.jpg" alt="대구 앞산 케이블카 탑승장 주변에서 저녁 코스를 시작하는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>케이블카를 이용하면 앞산전망대 접근이 쉬워집니다. 다만 저녁 피크에는 대기와 하산 시간을 함께 계산해야 일정이 밀리지 않습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -60,7 +63,10 @@ draft: false
 비가 오거나 미세먼지가 심한 날은 전망 만족도가 크게 줄어듭니다. 구름이 많아도 야경은 볼 수 있지만, 시야가 뿌연 날에는 굳이 전망대 체류를 길게 잡을 필요가 없습니다. 이런 날은 케이블카 이용과 짧은 전망 확인 정도로 줄이고, 근처 식사나 카페를 더 여유 있게 잡는 편이 낫습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/daegu-apsan-observatory-evening-course-trail-20260727-1.jpg" alt="앞산전망대 주변 산책로에서 대구 시내를 보며 걷는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/daegu-apsan-observatory-evening-course-trail-20260727-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/daegu-apsan-observatory-evening-course-trail-20260727-1.jpg" alt="앞산전망대 주변 산책로에서 대구 시내를 보며 걷는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>앞산전망대 코스는 짧아 보여도 산 위 이동이 포함됩니다. 노을을 기다릴 계획이라면 걷는 속도와 휴식 시간을 여유 있게 잡는 편이 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -73,7 +79,10 @@ draft: false
 가족 여행에서는 식사를 전망대보다 중요하게 잡는 것이 좋습니다. 아이가 있거나 부모님과 함께라면 전망대 체류는 짧게, 하산 후 편한 식사를 길게 두는 구성이 안정적입니다. 친구나 커플 여행에서는 전망대 체류를 조금 늘리고, 식사는 늦은 저녁으로 잡아도 무리가 적습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/daegu-apsan-observatory-evening-course-dinner-20260727-1.jpg" alt="대구 앞산 저녁 코스 후 가까운 식당에서 식사하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/daegu-apsan-observatory-evening-course-dinner-20260727-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/daegu-apsan-observatory-evening-course-dinner-20260727-1.jpg" alt="대구 앞산 저녁 코스 후 가까운 식당에서 식사하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>저녁 식사는 하산 후 가까운 동선에 붙이는 편이 좋습니다. 야경을 본 뒤에는 이동 피로가 커져 멀리 가는 일정이 부담될 수 있습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 

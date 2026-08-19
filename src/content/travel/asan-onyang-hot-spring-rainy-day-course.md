@@ -37,7 +37,10 @@ draft: false
 반대로 사진 명소를 많이 찍고 싶은 여행자라면 만족도가 낮을 수 있습니다. 온천 코스는 화려한 장면보다 회복과 휴식이 중심입니다. 가족 여행이라면 목욕 시간 차이를 어떻게 맞출지, 아이가 지루해하지 않을지, 부모님이 오래 걷지 않아도 되는지 확인해야 합니다. 혼자 가는 여행자라면 온천, 시장 식사, 카페 독서처럼 느린 코스로 잡으면 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/asan-onyang-hot-spring-rainy-day-course-spa-20260723-1.jpg" alt="비 오는 날 아산 온양온천 주변에서 온천 휴식을 준비하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/asan-onyang-hot-spring-rainy-day-course-spa-20260723-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/asan-onyang-hot-spring-rainy-day-course-spa-20260723-1.jpg" alt="비 오는 날 아산 온양온천 주변에서 온천 휴식을 준비하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>온천은 코스의 중심이지만, 목욕 전후 이동과 식사 시간을 함께 계산해야 일정이 느슨하게 유지됩니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -54,7 +57,10 @@ draft: false
 목욕 후 바로 긴 이동을 해야 한다면 체류 시간을 줄이세요. 온천은 몸을 편하게 만들지만 동시에 나른함을 주기 때문에, 운전자가 있다면 식사와 휴식을 지나치게 늦게 잡지 않는 편이 좋습니다. 대중교통 이용자는 열차나 버스 시간을 맞춰야 하므로, 온천 종료 시간을 미리 정해 두는 것이 안전합니다. 비 오는 날에는 택시 수요가 늘 수 있어 역까지의 짧은 이동도 여유를 둬야 합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/asan-onyang-hot-spring-rainy-day-course-market-20260723-1.jpg" alt="아산 온양온천 주변 전통시장에서 비 오는 날 식사 동선을 고르는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/asan-onyang-hot-spring-rainy-day-course-market-20260723-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/asan-onyang-hot-spring-rainy-day-course-market-20260723-1.jpg" alt="아산 온양온천 주변 전통시장에서 비 오는 날 식사 동선을 고르는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>비 오는 날 시장은 오래 둘러보기보다 식사 방식과 좌석 여부를 먼저 정하면 이동 피로를 줄일 수 있습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -71,7 +77,10 @@ draft: false
 비가 그쳤다면 짧은 산책을 추가할 수 있습니다. 다만 젖은 노면은 미끄럽고, 여름 장마철에는 갑자기 다시 비가 올 수 있습니다. 지도상으로 가까워 보여도 실제로는 횡단보도, 지하도, 도로 구조 때문에 이동 시간이 늘어날 수 있으므로 여유를 두세요. 온양온천 코스는 장소를 많이 늘릴수록 장점이 줄어드는 편입니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/asan-onyang-hot-spring-rainy-day-course-cafe-20260723-1.jpg" alt="온양온천 여행 후 비 오는 창가 카페에서 복귀 시간을 정리하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/asan-onyang-hot-spring-rainy-day-course-cafe-20260723-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/asan-onyang-hot-spring-rainy-day-course-cafe-20260723-1.jpg" alt="온양온천 여행 후 비 오는 창가 카페에서 복귀 시간을 정리하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>온천 후 카페 시간을 일정에 넣으면 젖은 옷과 이동 피로를 정리하고 복귀 시간을 맞추기 쉽습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -90,6 +99,8 @@ draft: false
 방문 전 체크리스트는 단순하게 잡는 것이 좋습니다. 온천 시설의 운영 여부와 준비물, 온양온천역 복귀 교통, 비가 강해졌을 때 생략할 장소를 미리 정하세요. 세 가지가 정리되면 현장에서 계획을 바꾸더라도 당황할 일이 적습니다. 특히 당일치기라면 열차나 버스 시간을 사진으로 저장해 두고, 온천 종료 예정 시간을 알람으로 맞춰 두면 일정 관리가 훨씬 쉬워집니다.
 
 동행자가 있다면 목욕 시간 차이도 미리 맞추는 편이 좋습니다. 한 사람은 짧게 끝내고 다른 사람은 오래 머물면 이후 식사와 복귀 시간이 어긋납니다. 만나는 장소를 역 근처 카페나 시장 입구처럼 찾기 쉬운 곳으로 정해 두면 비 오는 날에도 불필요한 대기 시간을 줄일 수 있습니다.
+
+마지막으로 수건, 여벌 양말, 방수 가방처럼 작은 준비물을 챙기면 비 오는 날 온천 코스의 체감 만족도가 훨씬 안정됩니다.
 
 ## 자주 묻는 질문
 

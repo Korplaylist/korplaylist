@@ -36,6 +36,7 @@ draft: false
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/daejeon-expo-bridge-evening-daejeon-hanbit-summer-night-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/daejeon-expo-bridge-evening-daejeon-hanbit-summer-night-1.jpg" alt="대전 엑스포다리와 갑천 주변이 노을빛에 보이는 여름 저녁 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>
@@ -58,6 +59,7 @@ draft: false
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/daejeon-gapcheon-riverside-daejeon-hanbit-summer-night-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/daejeon-gapcheon-riverside-daejeon-hanbit-summer-night-1.jpg" alt="대전 갑천 강변과 산책로가 넓게 이어지는 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>
@@ -72,6 +74,7 @@ draft: false
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/daejeon-expo-park-walk-daejeon-hanbit-summer-night-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/daejeon-expo-park-walk-daejeon-hanbit-summer-night-1.jpg" alt="대전 엑스포과학공원 주변 산책로와 야외 공간" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>

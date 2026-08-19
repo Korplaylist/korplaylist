@@ -39,7 +39,10 @@ draft: false
 실레마을은 빠르게 체크하는 장소가 아닙니다. 길을 따라 걷고, 안내판을 읽고, 낮은 풍경을 보는 시간이 핵심입니다. 사진을 많이 찍는 사람이라면 같은 장소에서 오래 머물 수 있으므로 전체 이동 시간을 넉넉히 잡으세요. 반대로 날씨가 덥거나 추운 날에는 산책 구간을 줄이고 실내 휴식 지점을 먼저 확보하는 것이 낫습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/chuncheon-gimyujeong-station-sille-village-half-day-route-20260809-1.jpg" alt="춘천 김유정역에서 실레마을로 향하는 반나절 여행 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/chuncheon-gimyujeong-station-sille-village-half-day-route-20260809-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/chuncheon-gimyujeong-station-sille-village-half-day-route-20260809-1.jpg" alt="춘천 김유정역에서 실레마을로 향하는 반나절 여행 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>김유정역 코스는 도착 직후 돌아갈 교통 시간을 확인하면 산책 속도를 안정적으로 잡을 수 있습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -52,7 +55,10 @@ draft: false
 부모님과 함께라면 걷는 길의 경사와 화장실 위치를 먼저 확인하세요. 아이와 함께라면 설명이 긴 코스보다 짧은 산책, 간식, 기차 이동의 재미를 살리는 편이 좋습니다. 혼자 간다면 사진 촬영과 독서 시간을 넣어도 좋지만, 해가 진 뒤 한적한 길을 오래 걷는 일정은 피하는 것이 낫습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/chuncheon-gimyujeong-station-sille-village-half-day-rest-20260809-1.jpg" alt="춘천 실레마을 문학 산책길과 쉬어가기 좋은 골목 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/chuncheon-gimyujeong-station-sille-village-half-day-rest-20260809-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/chuncheon-gimyujeong-station-sille-village-half-day-rest-20260809-1.jpg" alt="춘천 실레마을 문학 산책길과 쉬어가기 좋은 골목 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>실레마을은 큰 명소를 빠르게 찍기보다 작은 길과 안내를 천천히 보는 코스로 잡아야 장점이 살아납니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -65,7 +71,10 @@ draft: false
 비가 오는 날에는 김유정역과 실레마을의 장점이 줄어들 수 있습니다. 흙길이나 야외 구간이 불편해지면 짧게 둘러보고 춘천 시내 실내 일정으로 전환하세요. 반대로 맑고 선선한 날에는 산책 시간을 조금 늘려도 좋습니다. 다만 반나절 코스의 목적은 “가볍게 다녀오는 것”이므로, 다른 춘천 명소까지 과하게 붙이지 않는 것이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/chuncheon-gimyujeong-station-sille-village-half-day-return-20260809-1.jpg" alt="춘천 김유정역에서 저녁 귀가 교통을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/chuncheon-gimyujeong-station-sille-village-half-day-return-20260809-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/chuncheon-gimyujeong-station-sille-village-half-day-return-20260809-1.jpg" alt="춘천 김유정역에서 저녁 귀가 교통을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>춘천 반나절 여행은 마지막 열차와 식사 위치를 함께 맞춰야 당일치기 피로가 줄어듭니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -98,5 +107,7 @@ draft: false
 ## 피해야 할 일정
 
 김유정역, 실레마을, 남이섬, 소양강, 명동 닭갈비 골목을 모두 하루에 넣는 일정은 추천하지 않습니다. 지도상 춘천 안에 있어도 각 지점의 방향과 이동 시간이 다릅니다. 특히 대중교통 여행이라면 환승과 대기 시간이 누적되어 실제 체류 시간이 줄어듭니다. 이 글의 코스는 가볍게 걷고 쉬는 반나절 일정으로 보는 것이 맞습니다.
+
+출발 전에 돌아갈 열차나 버스 시간을 먼저 정해 두면, 실레마을에서 더 걸을지 카페로 줄일지 판단하기가 훨씬 쉬워집니다.
 
 또 하나 피해야 할 방식은 식사를 먼저 길게 하고 늦은 오후에 김유정역으로 이동하는 일정입니다. 해가 지면 실레마을의 작은 풍경을 보기 어렵고, 돌아가는 교통도 마음이 급해집니다. 가능하면 밝은 시간에 산책을 끝내고, 저녁은 춘천 시내에서 안정적으로 마무리하세요.

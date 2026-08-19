@@ -39,7 +39,10 @@ draft: false
 이동은 차량이 있으면 단순하지만, 대중교통이나 택시를 섞어도 가능합니다. 반나절 코스에서는 이동 횟수를 줄이는 것이 중요합니다. 덕진공원에서 오래 머문 뒤 팔복예술공장으로 넘어가고, 식사나 카페를 그 사이에 넣는 방식이 가장 안정적입니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/jeonju-deokjin-palbok-half-day-rest-20260730-1.jpg" alt="전주 덕진공원 연못 옆 그늘에서 쉬는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeonju-deokjin-palbok-half-day-rest-20260730-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeonju-deokjin-palbok-half-day-rest-20260730-1.jpg" alt="전주 덕진공원 연못 옆 그늘에서 쉬는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>덕진공원은 오래 걷기보다 연못과 그늘 주변에서 쉬어 가는 방식이 잘 맞습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -58,7 +61,10 @@ draft: false
 체류 시간은 60분에서 90분 정도가 적당합니다. 전시를 꼼꼼히 본다면 더 길어질 수 있지만, 반나절 코스에서는 전체 일정이 빡빡해지지 않도록 조절해야 합니다. 아이와 함께라면 전시 관람보다 이동 동선과 휴식 공간을 먼저 확인하세요. 사진을 찍는 여행자라면 외관, 마당, 실내 분위기를 나누어 보는 방식이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/jeonju-deokjin-palbok-half-day-palbok-20260730-1.jpg" alt="전주 팔복예술공장 내부 공간으로 들어가는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeonju-deokjin-palbok-half-day-palbok-20260730-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeonju-deokjin-palbok-half-day-palbok-20260730-1.jpg" alt="전주 팔복예술공장 내부 공간으로 들어가는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>팔복예술공장은 덕진공원과 다른 결의 전주를 보여줍니다. 전시 일정과 휴관 여부를 확인하면 방문 만족도가 높아집니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -71,7 +77,10 @@ draft: false
 혼자 여행이라면 식사는 짧게, 팔복예술공장 체류는 넉넉하게 잡는 편이 좋습니다. 가족 여행이라면 덕진공원과 식사 시간을 중심으로 놓고 팔복예술공장은 짧게 보는 일정이 편합니다. 친구와 함께라면 사진과 카페 시간을 조금 늘려도 전체 흐름이 무너지지 않습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/jeonju-deokjin-palbok-half-day-lunch-20260730-1.jpg" alt="전주 반나절 코스 중 점심으로 비빔밥과 반찬을 먹는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeonju-deokjin-palbok-half-day-lunch-20260730-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeonju-deokjin-palbok-half-day-lunch-20260730-1.jpg" alt="전주 반나절 코스 중 점심으로 비빔밥과 반찬을 먹는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>점심은 이동 중간 완충 지점으로 잡는 것이 좋습니다. 충분히 쉬어야 오후 일정이 안정됩니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -86,6 +95,8 @@ draft: false
 방문 전에는 팔복예술공장 운영일, 전시 여부, 덕진공원 주변 공사나 행사 여부를 확인하세요. 특정 전시가 목적이라면 휴관일 확인이 필수입니다. 덕진공원은 계절 풍경이 장점이지만, 계절 상태 하나에 기대면 만족도가 흔들릴 수 있습니다. 공원 산책과 휴식, 문화 공간 관람이라는 목적을 분명히 잡으면 날씨가 조금 달라져도 일정이 안정적으로 유지됩니다.
 
 전주를 이미 한 번 다녀온 사람이라면 이 코스는 한옥마을과 다른 결을 보여주는 보완 일정이 됩니다. 처음 방문하는 사람이라도 사람이 많은 대표 코스가 부담스럽다면 반나절 대안으로 충분합니다. 중요한 것은 장소를 많이 넣는 것이 아니라 덕진공원, 식사, 팔복예술공장의 호흡을 무리 없이 이어가는 것입니다.
+
+전시 관람이 목적이라면 팔복예술공장 공식 일정과 휴관 정보를 먼저 확인하고, 전시가 약한 날에는 공원과 식사 비중을 늘리는 편이 좋습니다.
 
 ## 동행별 조정법
 

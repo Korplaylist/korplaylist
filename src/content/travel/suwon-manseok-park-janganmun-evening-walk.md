@@ -39,7 +39,10 @@ draft: false
 장안문 주변에서는 성곽을 길게 욕심내지 않는 것이 좋습니다. 수원 화성은 볼거리가 많아 한 번에 다 보려 하면 일정이 늘어집니다. 오늘 코스는 만석공원과 장안문을 저녁에 가볍게 잇는 구조이므로, 장안문 주변의 성곽 분위기를 보고 쉬는 정도로 충분합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/suwon-manseok-park-janganmun-evening-walk-route-20260811-1.jpg" alt="수원 만석공원 호수길에서 저녁 산책 동선을 잡는 모습" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/suwon-manseok-park-janganmun-evening-walk-route-20260811-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/suwon-manseok-park-janganmun-evening-walk-route-20260811-1.jpg" alt="수원 만석공원 호수길에서 저녁 산책 동선을 잡는 모습" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>만석공원은 호수길이 단순해 저녁 산책 시작 지점으로 잡기 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -52,7 +55,10 @@ draft: false
 카페는 식사 전보다 식사 후에 넣는 것이 좋습니다. 만석공원에서 이미 걸었고 장안문 주변까지 이동했다면, 식사 후 카페에서 귀가 교통을 확인하는 시간이 필요합니다. 수원역 방향으로 돌아갈지, 행궁동에서 더 머물지, 숙소로 바로 갈지 이때 정하면 늦은 시간 이동이 덜 불안합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/suwon-manseok-park-janganmun-evening-walk-rest-20260811-1.jpg" alt="수원 장안문 주변 성곽길에서 쉬어가기 좋은 저녁 산책 구간" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/suwon-manseok-park-janganmun-evening-walk-rest-20260811-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/suwon-manseok-park-janganmun-evening-walk-rest-20260811-1.jpg" alt="수원 장안문 주변 성곽길에서 쉬어가기 좋은 저녁 산책 구간" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>장안문 주변은 성곽 완주보다 짧게 분위기를 보고 쉬는 방식이 저녁 일정에 맞습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -63,7 +69,10 @@ draft: false
 대중교통 여행자는 막차보다 “대기 시간”을 더 신경 써야 합니다. 막차가 남아 있어도 배차가 길면 실제 귀가가 늦어집니다. 일행이 피곤해하면 바로 택시를 쓰는 것이 전체 만족도를 지킵니다. 저녁 여행에서는 마지막 20분의 편안함이 하루 평가를 크게 바꿉니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/suwon-manseok-park-janganmun-evening-walk-return-20260811-1.jpg" alt="수원 행궁동 방향으로 이어지는 조용한 밤 귀가 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/suwon-manseok-park-janganmun-evening-walk-return-20260811-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/suwon-manseok-park-janganmun-evening-walk-return-20260811-1.jpg" alt="수원 행궁동 방향으로 이어지는 조용한 밤 귀가 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>장안문 이후에는 행궁동, 수원역, 숙소 방향 중 하나를 정해 이동을 단순하게 만드는 것이 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -100,6 +109,8 @@ draft: false
 ## 코스를 선택해야 하는 사람
 
 이 코스는 수원 화성을 하루 종일 보는 일정이 부담스럽거나, 저녁에 짧게 수원 분위기만 느끼고 싶은 사람에게 맞습니다. 화성행궁 내부 관람이나 성곽 완주가 목적이라면 별도 반나절을 잡는 것이 낫습니다. 오늘 코스는 공원, 성곽 입구, 동네 식사를 느슨하게 연결해 수원의 저녁 질감을 보는 방식입니다.
+
+만석공원에서 장안문으로 넘어가기 전에는 남은 체력과 식사 시간을 같이 확인하세요. 저녁 코스는 마지막 이동이 편해야 만족도가 높습니다.
 
 처음 수원에 온 사람이라면 만석공원을 생략하고 장안문과 행궁동만 볼 수도 있습니다. 하지만 낮 일정 뒤 몸이 지친 상태라면 평탄한 만석공원에서 먼저 걷는 편이 오히려 편합니다. 장소 선택은 유명도보다 현재 체력과 숙소 방향에 맞춰야 합니다. 이 기준을 지키면 짧은 저녁 일정도 과하게 흩어지지 않습니다.
 

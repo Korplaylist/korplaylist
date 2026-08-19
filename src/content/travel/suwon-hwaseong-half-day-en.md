@@ -124,7 +124,10 @@ Sources: [Suwon Cultural Foundation ticket guide](https://www.swcf.or.kr/english
 The route becomes much smoother when you think of it in layers: palace first, rest and food second, scenic fortress section third. That structure prevents the common mistake of spending all your energy early and then rushing the best-looking part at the end.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/suwon-haenggung-courtyard-suwon-hwaseong-half-day-1.jpg" alt="Visitors walking inside Hwaseong Haenggung courtyard during daylight" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/suwon-haenggung-courtyard-suwon-hwaseong-half-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/suwon-haenggung-courtyard-suwon-hwaseong-half-day-1.jpg" alt="Visitors walking inside Hwaseong Haenggung courtyard during daylight" width="1200" height="800" loading="lazy" decoding="async" />
+  </picture>
   <figcaption>ⓒKorea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -146,7 +149,10 @@ Here is the most useful cost logic for a first visit:
 If you are staying overnight, the most useful split is simple. Stay near Haenggung-dong or Paldalmun if this half-day route is the main event and you want the old-city atmosphere into the evening. Stay closer to Suwon Station if the next morning’s train or cross-city connection matters more than the fortress ambiance.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/suwon-haengnidan-street-suwon-hwaseong-half-day-1.jpg" alt="Late afternoon view of Haengnidan-gil street near the fortress area in Suwon" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/suwon-haengnidan-street-suwon-hwaseong-half-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/suwon-haengnidan-street-suwon-hwaseong-half-day-1.jpg" alt="Late afternoon view of Haengnidan-gil street near the fortress area in Suwon" width="1200" height="800" loading="lazy" decoding="async" />
+  </picture>
   <figcaption>ⓒKorea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -159,7 +165,10 @@ The second mistake is delaying food and rest too long. Haengnidan-gil is not jus
 The third mistake is thinking about the return to Suwon Station only at the end. Decide before you start whether your finish will be around Banghwasuryujeong, Yeonmudae, or another gate area. That single decision removes a lot of tired late-afternoon guesswork.
 
 <figure class="content-photo">
-  <img src="/images/official/suwon-hwaseong-01.jpg" alt="Fortress wall path at Suwon Hwaseong with open view over the city" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/official/suwon-hwaseong-01-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/official/suwon-hwaseong-01.jpg" alt="Fortress wall path at Suwon Hwaseong with open view over the city" width="1200" height="800" loading="lazy" decoding="async" />
+  </picture>
   <figcaption>ⓒKorea Tourism Organization Photo Korea</figcaption>
 </figure>
 

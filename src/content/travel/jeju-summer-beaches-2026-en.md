@@ -47,7 +47,10 @@ On arrival day, avoid ambitious driving if your flight lands late or if you need
 On the full day, start with the most weather-dependent place first. If you care about a beach, go in the morning. If you care about a hike, do it before the hottest hours. Use lunch and early afternoon for shade, cafes, or indoor stops. Return outdoors when the light softens.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/jeju-summer-beach-waterfall-jeju-summer-beaches-2026-1.jpg" alt="Jeju waterfall trail after summer rain with travelers using umbrellas" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeju-summer-beach-waterfall-jeju-summer-beaches-2026-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeju-summer-beach-waterfall-jeju-summer-beaches-2026-1.jpg" alt="Jeju waterfall trail after summer rain with travelers using umbrellas" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -68,7 +71,10 @@ Public transport is possible, but it shapes the itinerary. You need fewer stops,
 If you rent a car, do not plan like every map estimate will be perfect. Summer traffic near popular beaches, parking delays, and sudden rain can all add time. Keep your route modular. Choose one must-see stop and two optional stops rather than four must-see stops.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/jeju-summer-beach-cafe-jeju-summer-beaches-2026-1.jpg" alt="Jeju seaside cafe stop with travelers checking a map during a summer route" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeju-summer-beach-cafe-jeju-summer-beaches-2026-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeju-summer-beach-cafe-jeju-summer-beaches-2026-1.jpg" alt="Jeju seaside cafe stop with travelers checking a map during a summer route" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -81,7 +87,10 @@ Waterfalls can be atmospheric after rain, but safety matters. Stay on official p
 The best rainy-day strategy is to keep two lists: outdoor priorities and weather-proof backups. Each morning, look at the forecast and choose the order. Jeju weather can vary by side of the island, so a flexible driver may still find a clearer area, but do not spend the whole day chasing perfect skies.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/jeju-summer-beach-rain-road-jeju-summer-beaches-2026-1.jpg" alt="Rainy Jeju coastal road with black stone walls and travelers walking with umbrellas" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeju-summer-beach-rain-road-jeju-summer-beaches-2026-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeju-summer-beach-rain-road-jeju-summer-beaches-2026-1.jpg" alt="Rainy Jeju coastal road with black stone walls and travelers walking with umbrellas" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 

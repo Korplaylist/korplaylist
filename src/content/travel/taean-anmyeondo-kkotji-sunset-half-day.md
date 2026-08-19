@@ -37,7 +37,10 @@ draft: false
 아이와 함께라면 해변 체류 시간을 길게 잡기보다 모래가 젖은 구간과 마른 구간을 나누어 보세요. 젖은 갯벌 쪽은 사진은 좋지만 신발이 쉽게 더러워지고, 마른 모래 쪽은 쉬기는 편하지만 바람이 강하면 체감 피로가 큽니다. 부모님과 함께라면 사진 포인트까지 얼마나 걸어야 하는지, 화장실과 주차장 위치가 가까운지, 식사 장소로 바로 이동할 수 있는지가 더 중요합니다. 꽃지는 예쁜 장면보다 “기다리는 시간을 줄이는 설계”가 만족도를 좌우합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/taean-anmyeondo-kkotji-sunset-half-day-parking-20260723-1.jpg" alt="안면도 꽃지해수욕장 주변 주차와 해변 진입로를 확인하는 여행 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/taean-anmyeondo-kkotji-sunset-half-day-parking-20260723-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/taean-anmyeondo-kkotji-sunset-half-day-parking-20260723-1.jpg" alt="안면도 꽃지해수욕장 주변 주차와 해변 진입로를 확인하는 여행 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>해변 가까운 자리만 찾기보다 먼저 주차를 확정하고 걸어가는 방식이 일몰 직전에는 더 안정적입니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -54,7 +57,10 @@ draft: false
 예산은 식사비만 계산하면 실제 지출과 차이가 납니다. 태안은 이동 거리가 길어 차량 유류비나 주차비, 카페 비용, 간식 비용이 함께 붙습니다. 당일치기라면 저녁을 과하게 잡기보다 “메인 식사 하나와 쉬는 장소 하나” 정도로 정리하는 편이 좋습니다. 2인 이상이라면 메뉴를 많이 늘리는 것보다 해변 체류 후 몸을 정리할 수 있는 카페 시간을 남겨두는 쪽이 만족도가 높습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/taean-anmyeondo-kkotji-sunset-half-day-meal-20260723-1.jpg" alt="안면도 해변 여행 후 먹기 좋은 해산물 식사와 바다 전망" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/taean-anmyeondo-kkotji-sunset-half-day-meal-20260723-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/taean-anmyeondo-kkotji-sunset-half-day-meal-20260723-1.jpg" alt="안면도 해변 여행 후 먹기 좋은 해산물 식사와 바다 전망" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>식사는 노을 직후에 몰리기 쉬우므로 메뉴보다 대기 시간과 복귀 방향을 먼저 확인하는 편이 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -71,7 +77,10 @@ draft: false
 대중교통 이용자는 더 보수적으로 계획해야 합니다. 태안 시외버스터미널과 안면도 내부 이동은 시간표 영향이 크기 때문에, 일몰을 끝까지 보고 돌아가는 일정이 항상 편하지는 않습니다. 버스 시간표가 맞지 않으면 택시나 숙박이 필요할 수 있으므로, 출발 전 마지막 이동 수단을 먼저 확인하세요. 꽃지 반나절 코스는 차가 있으면 여유롭지만, 대중교통만으로는 “일몰 후 복귀”가 가장 중요한 체크 포인트입니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/taean-anmyeondo-kkotji-sunset-half-day-cafe-20260723-1.jpg" alt="꽃지해수욕장 노을 후 카페에서 복귀 시간을 정리하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/taean-anmyeondo-kkotji-sunset-half-day-cafe-20260723-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/taean-anmyeondo-kkotji-sunset-half-day-cafe-20260723-1.jpg" alt="꽃지해수욕장 노을 후 카페에서 복귀 시간을 정리하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>일몰 후 바로 운전하기 부담스럽다면 짧은 카페 휴식으로 복귀 시간을 조정하는 방법도 현실적입니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -86,6 +95,8 @@ draft: false
 시간이 남는다면 꽃지 주변에서 무리하게 다음 해변을 추가하기보다 같은 권역 안에서 쉬는 시간을 늘리는 편이 좋습니다. 안면도는 지도에서 가까워 보여도 실제 이동은 왕복 시간이 붙고, 노을 이후에는 초행 운전자가 길을 찾는 부담도 커집니다. 숙소가 태안 안쪽이라면 저녁 식사 후 바로 이동하고, 숙소가 안면도 안이라면 해변 주변 카페나 산책을 조금 더 붙여도 괜찮습니다. 핵심은 마지막 목적지를 새로 늘리지 않는 것입니다.
 
 시간이 부족하다면 해변 산책, 노을 사진, 식사 중 하나를 줄여야 합니다. 세 가지를 모두 짧게 처리하려고 하면 어느 것도 만족스럽지 않습니다. 일몰까지 40분 이하로 남았다면 주차 후 바로 사진 구간으로 이동하고, 식사는 노을 뒤 복귀 방향에서 해결하세요. 비가 오거나 바람이 강하면 사진보다 안전한 이동과 따뜻한 식사를 우선하는 편이 낫습니다. 꽃지 코스의 품질은 장소 수가 아니라, 해지는 시간을 놓치지 않고 피로를 줄였는지에서 결정됩니다.
+
+일몰 시간은 계절마다 크게 달라지므로 방문 당일 기준으로 확인하고, 주차장에서 해변까지 걷는 여유 시간을 따로 잡아야 합니다.
 
 ## 자주 묻는 질문
 

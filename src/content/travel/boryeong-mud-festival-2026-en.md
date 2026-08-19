@@ -39,7 +39,10 @@ An overnight stay is better if you want to enjoy the beach after the mud activit
 If you are traveling with children, a group, or anyone who dislikes rushed transport, stay overnight. If you are a solo traveler or a pair with limited time, a day trip can work, but book transport and decide your return time before arrival.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/boryeong-mud-festival-train-boryeong-mud-festival-2026-1.jpg" alt="Train and transport planning for Boryeong Mud Festival from Seoul" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/boryeong-mud-festival-train-boryeong-mud-festival-2026-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/boryeong-mud-festival-train-boryeong-mud-festival-2026-1.jpg" alt="Train and transport planning for Boryeong Mud Festival from Seoul" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -60,7 +63,10 @@ For your phone, think carefully. A waterproof pouch is useful, but test it befor
 Shoes matter more than many travelers expect. Flip-flops can be easy, but they may slip off in crowds or mud. Water sandals with straps are often more stable. Whatever you choose, assume they will get dirty.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/boryeong-mud-festival-packing-boryeong-mud-festival-2026-1.jpg" alt="Packing and shower preparation for Boryeong Mud Festival travelers" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/boryeong-mud-festival-packing-boryeong-mud-festival-2026-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/boryeong-mud-festival-packing-boryeong-mud-festival-2026-1.jpg" alt="Packing and shower preparation for Boryeong Mud Festival travelers" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -81,7 +87,10 @@ After activities, give yourself more time than you think for cleaning up. Everyo
 Food can be simple. You do not need to chase a famous restaurant immediately after the mud activities. Eat something convenient, hydrate, and then decide whether to stay for the beach evening. Summer heat and festival crowds can drain energy quickly.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/boryeong-mud-festival-evening-boryeong-mud-festival-2026-1.jpg" alt="Daecheon Beach evening after Boryeong Mud Festival activities" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/boryeong-mud-festival-evening-boryeong-mud-festival-2026-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/boryeong-mud-festival-evening-boryeong-mud-festival-2026-1.jpg" alt="Daecheon Beach evening after Boryeong Mud Festival activities" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 

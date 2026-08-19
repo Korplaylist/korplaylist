@@ -41,7 +41,10 @@ draft: false
 춘천역에서 바로 움직인다면 택시나 대중교통 시간을 함께 봐야 합니다. 지도상 거리만 보면 가까워 보여도 환승과 대기 시간이 합쳐지면 체감 이동이 늘어납니다. 짐이 있다면 역이나 숙소 보관 가능 여부를 먼저 확인하세요. 캐리어를 들고 호수 주변을 걷는 일정은 추천하지 않습니다. 숙소 체크인 전이라면 짐을 맡긴 뒤 가볍게 움직이는 편이 훨씬 편합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/chuncheon-samaksan-uiamho-half-day-ticket-20260721-1.jpg" alt="춘천 삼악산 케이블카 대기 구역에서 탑승 시간을 확인하는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/chuncheon-samaksan-uiamho-half-day-ticket-20260721-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/chuncheon-samaksan-uiamho-half-day-ticket-20260721-1.jpg" alt="춘천 삼악산 케이블카 대기 구역에서 탑승 시간을 확인하는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>케이블카 코스는 대기 시간 확인이 먼저입니다. 탑승이 늦어지면 의암호 산책과 카페 휴식으로 바로 전환하세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -52,7 +55,10 @@ draft: false
 공지천이나 의암호 주변을 마무리 지점으로 잡으면 복귀가 비교적 쉽습니다. 춘천역으로 돌아가야 한다면 마지막 휴식 지점을 역 방향 이동이 쉬운 쪽에 두세요. 반대로 숙소가 호수 근처라면 산책 시간을 조금 늘려도 됩니다. 여행 코스가 좋은지는 장소 수가 아니라 마지막 이동이 편한지로 결정되는 경우가 많습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/chuncheon-samaksan-uiamho-half-day-rest-20260721-1.jpg" alt="춘천 의암호 산책로 벤치에서 쉬며 호수를 보는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/chuncheon-samaksan-uiamho-half-day-rest-20260721-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/chuncheon-samaksan-uiamho-half-day-rest-20260721-1.jpg" alt="춘천 의암호 산책로 벤치에서 쉬며 호수를 보는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>의암호는 오래 걷기보다 쉬는 지점을 정해 짧게 보는 편이 좋습니다. 복귀 방향까지 함께 확인하세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -63,7 +69,10 @@ draft: false
 장마철에는 일정의 순서를 단순하게 잡으세요. 케이블카, 호수 산책, 닭갈비 식사, 카페를 모두 넣으면 비가 오는 순간 이동만 많아집니다. 반나절이라면 케이블카 또는 호수 산책 중 하나를 중심으로 잡고, 나머지는 상황에 따라 더하는 방식이 낫습니다. 아이나 부모님과 함께라면 우산을 쓰고 오래 걷는 계획보다 앉아서 쉴 수 있는 지점을 먼저 확보하세요.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/chuncheon-samaksan-uiamho-half-day-rain-20260721-1.jpg" alt="비 오는 춘천 의암호 근처 실내 공간에서 날씨와 복귀 시간을 확인하는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/chuncheon-samaksan-uiamho-half-day-rain-20260721-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/chuncheon-samaksan-uiamho-half-day-rain-20260721-1.jpg" alt="비 오는 춘천 의암호 근처 실내 공간에서 날씨와 복귀 시간을 확인하는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>비와 바람이 있으면 야외 산책을 줄이고 실내 휴식, 짧은 전망, 복귀 시간을 우선하세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -97,6 +106,8 @@ draft: false
 ## 공식 확인과 지도
 
 방문 전에는 삼악산 케이블카 공식 안내, 춘천시 관광 안내, 기상 예보, ITX 청춘 또는 시외버스 시간을 확인하세요. 케이블카는 날씨와 점검, 현장 혼잡에 따라 이용 조건이 달라질 수 있습니다. 이 글은 이동 판단 기준을 정리한 가이드이며, 실제 요금과 운영 시간은 방문 직전 공식 정보를 기준으로 확인해야 합니다.
+
+특히 바람이 강한 날에는 탑승 가능 여부뿐 아니라 정상 체류 시간과 귀가 교통까지 함께 줄여 잡는 것이 좋습니다.
 
 <a href="https://www.google.com/maps/search/?api=1&query=%EC%B6%98%EC%B2%9C%20%EC%82%BC%EC%95%85%EC%82%B0%20%EC%BC%80%EC%9D%B4%EB%B8%94%EC%B9%B4%20%EC%9D%98%EC%95%94%ED%98%B8%20%EA%B3%B5%EC%A7%80%EC%B2%9C%20%EB%B0%98%EB%82%98%EC%A0%88%20%EC%BD%94%EC%8A%A4" target="_blank" rel="noopener noreferrer">Google 지도에서 삼악산 케이블카·의암호 동선 확인하기</a>
 

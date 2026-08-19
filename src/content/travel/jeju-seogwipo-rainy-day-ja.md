@@ -51,6 +51,7 @@ draft: false
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeju-seogwipo-olle-market-rain-jeju-seogwipo-rainy-day-1-960.webp 960w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/jeju-seogwipo-olle-market-rain-jeju-seogwipo-rainy-day-1.png" alt="雨の日の西帰浦毎日オルレ市場で旅行者が食事を選ぶ様子" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>
@@ -63,6 +64,7 @@ draft: false
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeju-seogwipo-indoor-tea-gallery-jeju-seogwipo-rainy-day-1-960.webp 960w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/jeju-seogwipo-indoor-tea-gallery-jeju-seogwipo-rainy-day-1.png" alt="雨の西帰浦で旅行者が屋内展示とお茶の空間で休む様子" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>
@@ -75,6 +77,7 @@ draft: false
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeju-seogwipo-coastal-view-rain-jeju-seogwipo-rainy-day-1-960.webp 960w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/jeju-seogwipo-coastal-view-rain-jeju-seogwipo-rainy-day-1.png" alt="雨が弱まった済州西帰浦の海岸展望で旅行者が海を見る様子" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>

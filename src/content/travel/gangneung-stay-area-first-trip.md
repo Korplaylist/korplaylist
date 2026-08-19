@@ -37,7 +37,10 @@ draft: false
 단점도 분명합니다. 숙소 문을 나서자마자 바다가 보이는 여행을 기대한다면 만족도가 낮을 수 있습니다. 밤 산책 분위기도 해변 권역보다 약합니다. 그래서 강릉역 숙소는 “숙소 자체에서 머무는 시간”보다 “도착과 복귀를 편하게 만드는 기능”으로 봐야 합니다. 아이가 있거나 부모님과 함께라면 역 근처 숙소가 짐 관리와 이동 피로를 줄이는 데 유리합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/gangneung-stay-area-first-trip-station-20260724-1.jpg" alt="강릉역 주변에서 캐리어를 들고 숙소 위치를 고르는 여행자 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/gangneung-stay-area-first-trip-station-20260724-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/gangneung-stay-area-first-trip-station-20260724-1.jpg" alt="강릉역 주변에서 캐리어를 들고 숙소 위치를 고르는 여행자 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>강릉역 주변 숙소는 바다 전망보다 도착, 짐 보관, 복귀 시간을 안정시키는 장점이 큽니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -54,7 +57,10 @@ draft: false
 다만 안목은 모든 관광지를 편하게 연결하는 중심지는 아닙니다. 주문진이나 정동진까지 넓게 다닐 계획이라면 이동 시간이 늘어납니다. 또 카페 중심 권역이라 식사 선택은 취향에 따라 제한적으로 느껴질 수 있습니다. 숙소를 고를 때는 바다와 카페 접근뿐 아니라 저녁 식사를 어디서 해결할지도 같이 보세요. 늦은 시간 도착한다면 주변 영업 시간이 더 중요합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/gangneung-stay-area-first-trip-gyeongpo-20260724-1.jpg" alt="경포호 주변 숙소 권역에서 가족 여행자가 저녁 산책을 하는 모습" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/gangneung-stay-area-first-trip-gyeongpo-20260724-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/gangneung-stay-area-first-trip-gyeongpo-20260724-1.jpg" alt="경포호 주변 숙소 권역에서 가족 여행자가 저녁 산책을 하는 모습" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>경포 권역은 바다와 호수 산책을 함께 묶기 좋아 가족 여행과 첫 강릉 여행에 안정적입니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -71,7 +77,10 @@ draft: false
 1박2일은 욕심을 줄이는 위치가 좋습니다. 첫날 늦게 도착한다면 강릉역이나 안목, 둘째 날 아침 바다 산책을 중요하게 본다면 경포가 좋습니다. 2박 이상이라면 주문진이나 외곽 바다 숙소도 선택할 수 있습니다. 숙박 기간이 길수록 “숙소 주변에서 보내는 시간”의 가치가 커지고, 기간이 짧을수록 “이동 손실을 줄이는 위치”가 더 중요합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/gangneung-stay-area-first-trip-jumunjin-20260724-1.jpg" alt="주문진 항구 주변 숙소 권역과 아침 시장 분위기를 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/gangneung-stay-area-first-trip-jumunjin-20260724-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/gangneung-stay-area-first-trip-jumunjin-20260724-1.jpg" alt="주문진 항구 주변 숙소 권역과 아침 시장 분위기를 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>주문진은 북쪽 바다와 시장 분위기에 집중할 때 좋지만, 강릉 중심부 이동 시간은 별도로 계산해야 합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 

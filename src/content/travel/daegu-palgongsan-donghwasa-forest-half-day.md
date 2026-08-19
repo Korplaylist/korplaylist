@@ -36,7 +36,10 @@ adsenseReady: true
 처음부터 깊은 산길로 들어가기보다는 동화사 입구 주변에서 길의 경사와 체감 온도를 먼저 확인하세요. 초행자는 지도에서 가까워 보이는 지점을 실제 거리로 착각하기 쉽습니다. 산길은 평지보다 이동 속도가 떨어지고, 사진을 찍거나 물을 마시는 시간이 더 자주 필요합니다. 그래서 첫 20분은 “어디까지 갈지”를 결정하는 구간으로 두는 편이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/daegu-palgongsan-donghwasa-forest-half-day-route-20260814-1.jpg" alt="대구 팔공산 동화사 숲길 입구와 경로 확인 지점" loading="lazy" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/daegu-palgongsan-donghwasa-forest-half-day-route-20260814-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/daegu-palgongsan-donghwasa-forest-half-day-route-20260814-1.jpg" alt="대구 팔공산 동화사 숲길 입구와 경로 확인 지점" loading="lazy" />
+  </picture>
   <figcaption>팔공산 반나절 코스는 초반에 경사와 귀가 동선을 함께 확인하는 것이 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -51,7 +54,10 @@ adsenseReady: true
 식사는 산책 전후 중 하나로 정하면 됩니다. 오전 출발이라면 가볍게 걷고 내려와 점심을 먹는 방식이 안정적이고, 점심 직후 출발이라면 산책 중 간식과 물만 챙긴 뒤 도심으로 돌아와 저녁을 먹는 편이 좋습니다. 사찰 주변에서 식사를 해결하려면 영업 여부와 대기 시간을 현장에서 다시 확인해야 하므로, 식당 하나에 일정을 묶지 않는 것이 안전합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/daegu-palgongsan-donghwasa-forest-half-day-rest-20260814-1.jpg" alt="대구 팔공산 숲길 산책 중 쉬기 좋은 그늘 자리" loading="lazy" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/daegu-palgongsan-donghwasa-forest-half-day-rest-20260814-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/daegu-palgongsan-donghwasa-forest-half-day-rest-20260814-1.jpg" alt="대구 팔공산 숲길 산책 중 쉬기 좋은 그늘 자리" loading="lazy" />
+  </picture>
   <figcaption>반나절 일정에서는 전망보다 앉아서 회복할 수 있는 지점을 먼저 잡아야 합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -64,7 +70,10 @@ adsenseReady: true
 귀가 동선은 산책을 시작하기 전에 정해야 합니다. 특히 늦은 오후 출발이라면 해가 기울기 전에 입구 쪽으로 돌아오는 시간을 잡는 것이 좋습니다. 숲길은 밝을 때와 어두워질 때의 체감이 크게 다르고, 사진을 찍으며 걷다 보면 예상보다 늦어지기 쉽습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/daegu-palgongsan-donghwasa-forest-half-day-return-20260814-1.jpg" alt="대구 팔공산 동화사 산책 후 돌아가는 조용한 길" loading="lazy" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/daegu-palgongsan-donghwasa-forest-half-day-return-20260814-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/daegu-palgongsan-donghwasa-forest-half-day-return-20260814-1.jpg" alt="대구 팔공산 동화사 산책 후 돌아가는 조용한 길" loading="lazy" />
+  </picture>
   <figcaption>귀가 길은 해가 지기 전에 입구 방향으로 돌아오는 기준을 먼저 세우면 일정이 안정됩니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 

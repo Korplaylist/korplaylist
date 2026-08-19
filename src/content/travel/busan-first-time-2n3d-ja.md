@@ -39,7 +39,10 @@ draft: false
 既に短い釜山旅行を考えているなら、[釜山2日コース](/ja/travel/busan/busan-two-day-route/)も参考になります。夜の海を重視する場合は[海雲台・広安里夜散歩](/travel/busan/busan-haeundae-gwangalli-night/)の流れも組み合わせられます。
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/busan-gwangalli-night-busan-first-time-2n3d-1.jpg" alt="釜山2泊3日旅行で広安里の夜景を見る旅行者" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-gwangalli-night-busan-first-time-2n3d-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/busan-gwangalli-night-busan-first-time-2n3d-1.jpg" alt="釜山2泊3日旅行で広安里の夜景を見る旅行者" width="1200" height="800" loading="lazy" decoding="async" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -58,7 +61,10 @@ draft: false
 南浦洞周辺は食事、屋台、市場、買い物をまとめやすいエリアです。初めてならチャガルチ市場を見て、BIFF広場や国際市場で軽く食べ歩きするだけでも釜山らしさを感じられます。市場では現金があると安心ですが、支払い方法は店によって違うため、少額の現金とカードを両方持っておくと便利です。
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/busan-gamcheon-first-time-busan-first-time-2n3d-1.jpg" alt="釜山の甘川文化村を初めて歩く旅行者" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-gamcheon-first-time-busan-first-time-2n3d-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/busan-gamcheon-first-time-busan-first-time-2n3d-1.jpg" alt="釜山の甘川文化村を初めて歩く旅行者" width="1200" height="800" loading="lazy" decoding="async" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -97,7 +103,10 @@ draft: false
 </section>
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/busan-nampo-market-busan-first-time-2n3d-1.jpg" alt="釜山南浦洞の市場で食事を選ぶ旅行者" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-nampo-market-busan-first-time-2n3d-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/busan-nampo-market-busan-first-time-2n3d-1.jpg" alt="釜山南浦洞の市場で食事を選ぶ旅行者" width="1200" height="800" loading="lazy" decoding="async" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 

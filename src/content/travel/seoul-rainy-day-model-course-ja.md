@@ -39,7 +39,10 @@ draft: false
 既にソウルの室内コースを調べているなら、[ソウル2号線室内旅行コース](/ja/travel/seoul/seoul-line-2-indoor-rainy-day/)も参考になります。もう少し街歩きを入れたい場合は、雨が弱い時間だけ[ソウル王宮散歩コース](/ja/travel/seoul/seoul-one-day-palace-walk/)を短縮して使うのも方法です。
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/seoul-underground-mall-seoul-rainy-day-model-course-1.jpg" alt="ソウルの地下街で雨を避けながら移動する旅行者" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-underground-mall-seoul-rainy-day-model-course-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-underground-mall-seoul-rainy-day-model-course-1.jpg" alt="ソウルの地下街で雨を避けながら移動する旅行者" width="1200" height="800" loading="lazy" decoding="async" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -58,7 +61,10 @@ draft: false
 地下街は天気に左右されにくい一方、似た通路が続くため迷いやすいです。出口番号だけでなく、次に乗る地下鉄路線や向かう方向を地図アプリで確認しておくと安心です。買い物袋が増えると午後の移動が重くなるので、大きな買い物は宿へ戻る前か最後にまとめると楽です。
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/seoul-ddp-rain-seoul-rainy-day-model-course-1.jpg" alt="雨の日の東大門周辺で室内観光へ向かう旅行者" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-ddp-rain-seoul-rainy-day-model-course-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-ddp-rain-seoul-rainy-day-model-course-1.jpg" alt="雨の日の東大門周辺で室内観光へ向かう旅行者" width="1200" height="800" loading="lazy" decoding="async" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -107,7 +113,10 @@ draft: false
 </section>
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/seoul-cafe-window-seoul-rainy-day-model-course-1.jpg" alt="雨のソウルを眺めながらカフェで休憩する旅行者" width="1200" height="800" loading="lazy" decoding="async" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/seoul-cafe-window-seoul-rainy-day-model-course-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/seoul-cafe-window-seoul-rainy-day-model-course-1.jpg" alt="雨のソウルを眺めながらカフェで休憩する旅行者" width="1200" height="800" loading="lazy" decoding="async" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 

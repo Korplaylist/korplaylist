@@ -37,7 +37,10 @@ draft: false
 아이와 함께라면 케이블카 대기 시간이 지루할 수 있고, 부모님과 함께라면 정상부 이동 거리와 계단을 확인해야 합니다. 커플이나 친구 여행이라면 노을 시간에 맞추고 싶겠지만, 하산과 저녁 이동을 계산하지 않으면 마지막에 일정이 급해집니다. 이 코스는 전망을 크게 보고, 저녁에는 항구 주변에서 천천히 마무리하고 싶은 사람에게 적합합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/tongyeong-mireuksan-cable-car-sunset-route-waiting-20260723-1.jpg" alt="통영 케이블카 탑승 전 대기 시간과 동선을 확인하는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/tongyeong-mireuksan-cable-car-sunset-route-waiting-20260723-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/tongyeong-mireuksan-cable-car-sunset-route-waiting-20260723-1.jpg" alt="통영 케이블카 탑승 전 대기 시간과 동선을 확인하는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>케이블카 코스는 전망보다 먼저 대기 시간을 확인해야 이후 강구안 저녁 일정이 무너지지 않습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -54,7 +57,10 @@ draft: false
 여름에는 햇볕과 대기가 모두 변수입니다. 탑승장 주변에서 기다리는 시간이 길어지면 체감 피로가 커지고, 정상부도 그늘이 충분하지 않을 수 있습니다. 물과 모자, 얇은 겉옷을 챙기고, 전망대에서 오래 머물 계획이라면 바람을 고려하세요. 해질 무렵에는 사진은 좋지만 하산 동선이 몰릴 수 있으므로, 정상에서 시간을 끝까지 쓰기보다 내려오는 시간까지 포함해 판단해야 합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/tongyeong-mireuksan-cable-car-sunset-route-view-20260723-1.jpg" alt="미륵산 전망대에서 통영 바다와 섬 노을을 바라보는 여행 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/tongyeong-mireuksan-cable-car-sunset-route-view-20260723-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/tongyeong-mireuksan-cable-car-sunset-route-view-20260723-1.jpg" alt="미륵산 전망대에서 통영 바다와 섬 노을을 바라보는 여행 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>노을은 정상에서 오래 버티는 것보다 하산 시간을 함께 계산할 때 더 편안한 일정이 됩니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -71,7 +77,10 @@ draft: false
 예산은 케이블카, 교통, 저녁 식사, 카페나 간식으로 나누면 됩니다. 케이블카를 중심에 두면 저녁 식사 시간이 늦어질 수 있어 간식을 중간에 넣는 것도 방법입니다. 다만 간식을 많이 먹으면 저녁 선택이 애매해질 수 있으므로, 노을 전 간단한 음료와 저녁 한 끼 정도로 정리하는 편이 좋습니다. 숙소가 있다면 여유가 있지만, 당일치기라면 복귀 교통이 예산보다 더 중요한 기준입니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/tongyeong-mireuksan-cable-car-sunset-route-dinner-20260723-1.jpg" alt="통영 강구안 야경을 보며 케이블카 여행 후 저녁 식사를 하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/tongyeong-mireuksan-cable-car-sunset-route-dinner-20260723-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/tongyeong-mireuksan-cable-car-sunset-route-dinner-20260723-1.jpg" alt="통영 강구안 야경을 보며 케이블카 여행 후 저녁 식사를 하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>케이블카 이후 저녁은 전망보다 대기 시간, 좌석 편의, 복귀 방향을 기준으로 고르면 일정이 안정됩니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 

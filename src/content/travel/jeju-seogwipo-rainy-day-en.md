@@ -51,6 +51,7 @@ Many travelers make the mistake of starting with a waterfall or a coastal trail 
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeju-seogwipo-olle-market-rain-jeju-seogwipo-rainy-day-1-960.webp 960w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/jeju-seogwipo-olle-market-rain-jeju-seogwipo-rainy-day-1.png" alt="Travelers choosing food inside Seogwipo Maeil Olle Market on a rainy day" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>
@@ -63,6 +64,7 @@ Plan this section as a 40 to 70 minute stop. That is long enough to rest and adj
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeju-seogwipo-indoor-tea-gallery-jeju-seogwipo-rainy-day-1-960.webp 960w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/jeju-seogwipo-indoor-tea-gallery-jeju-seogwipo-rainy-day-1.png" alt="Travelers resting inside a warm indoor gallery in rainy Seogwipo Jeju" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>
@@ -75,6 +77,7 @@ The practical rule is simple: add one short outdoor section only if the rain wea
 
 <figure class="content-photo">
   <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeju-seogwipo-coastal-view-rain-jeju-seogwipo-rainy-day-1-960.webp 960w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/jeju-seogwipo-coastal-view-rain-jeju-seogwipo-rainy-day-1.png" alt="Travelers looking at the Seogwipo coast from a safe viewpoint after rain weakens" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
 </figure>

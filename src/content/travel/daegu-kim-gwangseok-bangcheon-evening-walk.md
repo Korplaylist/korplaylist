@@ -39,7 +39,10 @@ draft: false
 처음부터 신천 산책까지 욕심내지 말고, 김광석길과 방천시장을 먼저 기준점으로 잡으세요. 신천은 날씨와 체력에 따라 붙이는 마무리 구간으로 보는 편이 낫습니다. 이렇게 잡으면 비가 오거나 더운 날에도 코스를 쉽게 줄일 수 있습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/daegu-kim-gwangseok-bangcheon-evening-walk-route-20260803-1.jpg" alt="대구 김광석길 주변 골목에서 저녁 산책 동선을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/daegu-kim-gwangseok-bangcheon-evening-walk-route-20260803-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/daegu-kim-gwangseok-bangcheon-evening-walk-route-20260803-1.jpg" alt="대구 김광석길 주변 골목에서 저녁 산책 동선을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>김광석길은 길 자체보다 주변 골목과 식사 지점을 함께 묶어야 반나절 코스로 안정됩니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -60,7 +63,10 @@ draft: false
 카페는 목적지라기보다 일정 조절 지점입니다. 김광석길과 방천시장 주변에는 쉬어 갈 만한 곳이 있지만, 주말에는 좌석이 부족할 수 있습니다. 실내 좌석, 화장실 이용, 다음 이동 방향을 함께 보고 고르는 것이 좋습니다. 메뉴보다 쉬기 편한지가 이 코스에서는 더 중요합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/daegu-kim-gwangseok-bangcheon-evening-walk-rest-20260803-1.jpg" alt="대구 방천시장 주변 골목 카페에서 음료와 간식으로 쉬는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/daegu-kim-gwangseok-bangcheon-evening-walk-rest-20260803-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/daegu-kim-gwangseok-bangcheon-evening-walk-rest-20260803-1.jpg" alt="대구 방천시장 주변 골목 카페에서 음료와 간식으로 쉬는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>방천시장은 식사와 카페 휴식을 함께 배치하기 좋은 구간입니다. 대기 시간을 감안해 한 곳만 고집하지 않는 편이 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -73,7 +79,10 @@ draft: false
 야간 산책은 안전한 큰길과 사람이 있는 구간을 중심으로 잡으세요. 너무 늦은 시간에 외진 구간으로 들어가는 것은 추천하지 않습니다. 사진을 찍는다면 난간이나 조명이 있는 구간에서 잠깐 멈춰 찍고, 이동 중 촬영은 줄이는 것이 안전합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/daegu-kim-gwangseok-bangcheon-evening-walk-shincheon-20260803-1.jpg" alt="대구 신천 강변 산책로를 저녁에 걷는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/daegu-kim-gwangseok-bangcheon-evening-walk-shincheon-20260803-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/daegu-kim-gwangseok-bangcheon-evening-walk-shincheon-20260803-1.jpg" alt="대구 신천 강변 산책로를 저녁에 걷는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>신천 산책은 날씨가 좋을 때만 짧게 붙이는 선택 구간으로 두면 일정이 무리해지지 않습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 

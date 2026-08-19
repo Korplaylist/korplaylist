@@ -47,7 +47,10 @@ A small dry bag or plastic pouch is more useful than it looks. Use it for wet so
 Do not pack like rain means cold. Korea's summer rain is often warm and humid. The challenge is staying dry enough to continue the day, then being able to dry items overnight. Quick-dry clothes and backup socks matter more than bulky waterproof gear.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/korea-summer-packing-rain-korea-summer-packing-list-1.jpg" alt="Traveler preparing rain jacket and bag cover before leaving a Seoul hotel on a rainy day" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/korea-summer-packing-rain-korea-summer-packing-list-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/korea-summer-packing-rain-korea-summer-packing-list-1.jpg" alt="Traveler preparing rain jacket and bag cover before leaving a Seoul hotel on a rainy day" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -68,7 +71,10 @@ A portable fan is common in Korea, but do not treat it as a substitute for shade
 For electronics, bring a battery pack and the right charging setup. If your phone is used for maps, translation, payment, tickets, and photos, summer sightseeing drains it quickly. Keep cables in a small pouch so they do not disappear into your bag.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/korea-summer-packing-clothes-korea-summer-packing-list-1.jpg" alt="Travelers in breathable summer clothing walking near a Seoul subway station" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/korea-summer-packing-clothes-korea-summer-packing-list-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/korea-summer-packing-clothes-korea-summer-packing-list-1.jpg" alt="Travelers in breathable summer clothing walking near a Seoul subway station" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -89,7 +95,10 @@ Do not fill your suitcase completely before arrival. Summer shopping is tempting
 Use packing cubes or separate pouches for clean clothes, worn clothes, rain gear, and electronics. In humid weather, organization is not just neatness. It prevents damp items from affecting everything else in your bag.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/korea-summer-packing-subway-korea-summer-packing-list-1.jpg" alt="Traveler refilling a water bottle in a Seoul subway station with a portable fan in a day bag" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/korea-summer-packing-subway-korea-summer-packing-list-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/korea-summer-packing-subway-korea-summer-packing-list-1.jpg" alt="Traveler refilling a water bottle in a Seoul subway station with a portable fan in a day bag" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 

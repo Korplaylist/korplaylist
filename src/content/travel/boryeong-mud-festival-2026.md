@@ -39,7 +39,10 @@ draft: false
 1박은 축제를 더 편하게 즐기는 방식입니다. 체험 후 숙소에서 씻고 쉬었다가 저녁 해변이나 공연을 다시 볼 수 있기 때문입니다. 아이와 함께 가거나, 친구들과 사진을 많이 남기고 싶거나, 운전 피로를 줄이고 싶다면 1박이 낫습니다. 성수기에는 숙소 가격이 빠르게 오르므로 날짜가 정해졌다면 먼저 숙소를 잡는 편이 안전합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/boryeong-mud-festival-train-boryeong-mud-festival-2026-1.jpg" alt="보령머드축제 2026 대중교통과 이동 계획" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/boryeong-mud-festival-train-boryeong-mud-festival-2026-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/boryeong-mud-festival-train-boryeong-mud-festival-2026-1.jpg" alt="보령머드축제 2026 대중교통과 이동 계획" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -60,7 +63,10 @@ draft: false
 현금과 카드는 최소한만 가져갑니다. 큰 지갑, 고가 액세서리, 방수 안 되는 전자기기는 숙소나 차량에 두는 편이 낫습니다. 짐이 많으면 머드체험 자체가 불편해집니다. 축제장에서는 몸이 가벼운 사람이 가장 편합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/boryeong-mud-festival-packing-boryeong-mud-festival-2026-1.jpg" alt="보령머드축제 준비물과 방수팩 여벌 옷" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/boryeong-mud-festival-packing-boryeong-mud-festival-2026-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/boryeong-mud-festival-packing-boryeong-mud-festival-2026-1.jpg" alt="보령머드축제 준비물과 방수팩 여벌 옷" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -81,7 +87,10 @@ draft: false
 저녁에는 대천해수욕장 산책이나 식사를 넣기 좋습니다. 축제의 피크는 체험존만이 아니라 해변 분위기에도 있습니다. 다만 너무 늦게까지 움직이면 다음 날 피로가 큽니다. 운전해야 한다면 무리하지 않는 것이 우선입니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/boryeong-mud-festival-evening-boryeong-mud-festival-2026-1.jpg" alt="보령머드축제 후 대천해수욕장 저녁 산책" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/boryeong-mud-festival-evening-boryeong-mud-festival-2026-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/boryeong-mud-festival-evening-boryeong-mud-festival-2026-1.jpg" alt="보령머드축제 후 대천해수욕장 저녁 산책" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 

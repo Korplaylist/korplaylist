@@ -37,7 +37,10 @@ draft: false
 아이와 함께라면 동피랑을 오래 걷기보다 전망이 보이는 일부 골목만 보고 내려오는 편이 좋습니다. 부모님과 함께라면 오르막 시작 전 화장실과 쉬는 지점을 확인하세요. 혼자라면 사진과 시장 먹거리를 천천히 즐길 수 있지만, 시장 안에서 오래 머물수록 피로가 쌓이므로 식사 목표를 미리 정해두면 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/tongyeong-dongpirang-jungang-market-half-day-market-20260723-1.jpg" alt="통영 중앙시장 해산물 골목에서 반나절 식사 동선을 고르는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/tongyeong-dongpirang-jungang-market-half-day-market-20260723-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/tongyeong-dongpirang-jungang-market-half-day-market-20260723-1.jpg" alt="통영 중앙시장 해산물 골목에서 반나절 식사 동선을 고르는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>중앙시장은 볼거리가 많지만 통로가 좁아 식사 방식과 대기 시간을 먼저 정하는 편이 효율적입니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -54,7 +57,10 @@ draft: false
 강구안 쪽까지 걸을 계획이라면 너무 무거운 식사를 먼저 하지 않는 편이 좋습니다. 항구 산책은 짧아 보여도 사람 흐름과 사진 촬영 때문에 시간이 늘어납니다. 아이와 함께라면 매운 음식이나 해산물만 고집하지 말고, 동행자가 편하게 먹을 수 있는 대안도 준비하세요. 시장 음식은 현장성이 강하므로 방문 당일 영업 여부와 대기 상황을 지도 앱이나 현장 안내로 확인하는 것이 안전합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/tongyeong-dongpirang-jungang-market-half-day-snack-20260723-1.jpg" alt="통영 중앙시장 주변에서 간단한 먹거리로 식사 시간을 조절하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/tongyeong-dongpirang-jungang-market-half-day-snack-20260723-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/tongyeong-dongpirang-jungang-market-half-day-snack-20260723-1.jpg" alt="통영 중앙시장 주변에서 간단한 먹거리로 식사 시간을 조절하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>반나절 코스에서는 한 끼를 무겁게 먹기보다 걷는 시간과 복귀 시간을 고려해 식사량을 조절하는 편이 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -71,7 +77,10 @@ draft: false
 숙소가 시내에 있다면 강구안 주변에서 저녁을 추가해도 괜찮습니다. 당일치기라면 버스터미널 복귀 시간과 택시 수요를 먼저 보세요. 통영은 지도상 거리가 짧아 보여도 언덕과 항구 주변 도로 구조 때문에 이동 시간이 늘어날 수 있습니다. 특히 주말에는 시장 주변 차량 흐름이 느려질 수 있으므로 마지막 이동은 여유 있게 잡는 것이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/tongyeong-dongpirang-jungang-market-half-day-harbor-20260723-1.jpg" alt="통영 강구안 항구에서 중앙시장 코스를 마무리하는 저녁 산책" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/tongyeong-dongpirang-jungang-market-half-day-harbor-20260723-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/tongyeong-dongpirang-jungang-market-half-day-harbor-20260723-1.jpg" alt="통영 강구안 항구에서 중앙시장 코스를 마무리하는 저녁 산책" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>강구안은 시장과 동피랑을 본 뒤 짧게 걸으며 통영 시내 여행을 정리하기 좋은 마무리 지점입니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -92,6 +101,8 @@ draft: false
 여름에는 물과 그늘 휴식도 일정의 일부로 봐야 합니다. 동피랑에서 땀을 많이 흘린 뒤 바로 시장으로 들어가면 식사 선택이 급해지고, 사람이 많은 통로에서 더 쉽게 지칩니다. 전망을 본 뒤 10분 정도 쉬고 시장으로 내려오는 것만으로도 코스의 체감 난이도가 달라집니다.
 
 사진보다 걷는 리듬을 우선하면 반나절 일정이 훨씬 안정됩니다.
+
+동피랑에서 내려온 뒤 바로 시장으로 들어가면 대기와 혼잡이 겹칠 수 있으니, 먼저 식사 후보와 화장실 위치를 확인하면 동선이 더 편합니다.
 
 ## 자주 묻는 질문
 

@@ -39,7 +39,10 @@ draft: false
 봉평동 방향으로 이동할 때는 골목을 깊게 파고들기보다 바다와 큰길을 기준으로 걷는 편이 안정적입니다. 통영의 골목은 매력적이지만, 밤에는 길의 높낮이와 방향이 헷갈릴 수 있습니다. 처음 방문한다면 산책 범위를 넓히기보다 돌아오기 쉬운 길을 선택하세요.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/tongyeong-undersea-tunnel-bongpyeong-evening-walk-route-20260811-1.jpg" alt="통영 해저터널 주변에서 저녁 산책 동선을 확인하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/tongyeong-undersea-tunnel-bongpyeong-evening-walk-route-20260811-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/tongyeong-undersea-tunnel-bongpyeong-evening-walk-route-20260811-1.jpg" alt="통영 해저터널 주변에서 저녁 산책 동선을 확인하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>해저터널 주변은 통영 저녁 산책의 기준점으로 삼기 좋지만, 오래 머물기보다 다음 휴식 지점과 연결하는 편이 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -52,7 +55,10 @@ draft: false
 카페를 넣는다면 늦은 시간까지 머물기보다 귀가 방향을 정리하는 시간으로 쓰는 것이 좋습니다. 통영은 바다와 언덕이 가까워 밤 이동이 길게 느껴질 수 있습니다. 식사와 카페를 모두 길게 잡으면 숙소 복귀 시간이 늦어지므로, 한 곳에서 충분히 쉬고 이동을 단순하게 만드는 편이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/tongyeong-undersea-tunnel-bongpyeong-evening-walk-rest-20260811-1.jpg" alt="통영 봉평동 항구 동네에서 쉬어가기 좋은 작은 카페 거리" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/tongyeong-undersea-tunnel-bongpyeong-evening-walk-rest-20260811-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/tongyeong-undersea-tunnel-bongpyeong-evening-walk-rest-20260811-1.jpg" alt="통영 봉평동 항구 동네에서 쉬어가기 좋은 작은 카페 거리" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>봉평동은 빠르게 통과하기보다 잠시 쉬며 항구 동네의 조용한 분위기를 보는 코스로 잡기 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -63,7 +69,10 @@ draft: false
 택시 이용 가능성도 미리 생각하세요. 통영은 거리가 짧아 보여도 언덕과 항구 도로 때문에 도보 체감이 다릅니다. 일행이 피곤하거나 비가 오는 날에는 택시를 섞는 것이 현실적입니다. 여행에서 좋은 동선은 걷는 양이 많은 동선이 아니라, 걷고 난 뒤에도 편하게 돌아갈 수 있는 동선입니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/tongyeong-undersea-tunnel-bongpyeong-evening-walk-return-20260811-1.jpg" alt="통영 항구 산책로에서 밤 귀가 방향을 정하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/tongyeong-undersea-tunnel-bongpyeong-evening-walk-return-20260811-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/tongyeong-undersea-tunnel-bongpyeong-evening-walk-return-20260811-1.jpg" alt="통영 항구 산책로에서 밤 귀가 방향을 정하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>통영 밤 산책은 마지막 귀가 방향을 단순하게 잡아야 항구와 언덕 이동의 피로가 줄어듭니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 

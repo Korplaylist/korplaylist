@@ -37,7 +37,10 @@ draft: false
 추천 흐름은 영금정 도착, 바위 해안과 정자 주변 확인, 해안 산책로 이동, 항구 쪽 휴식, 짧은 야경 확인입니다. 등대전망대까지 넣을지 여부는 날씨와 체력에 따라 결정하세요. 해가 지기 전에는 바다색과 바위 질감이 잘 보이고, 해가 내려간 뒤에는 조명과 항구 분위기가 살아납니다. 두 시간대를 모두 보려면 시작 시간을 17시 전후로 잡는 것이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/sokcho-yeonggeumjeong-lighthouse-evening-walk-route-20260806-1.jpg" alt="속초 영금정 해안 산책로에서 이동 방향을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-yeonggeumjeong-lighthouse-evening-walk-route-20260806-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/sokcho-yeonggeumjeong-lighthouse-evening-walk-route-20260806-1.jpg" alt="속초 영금정 해안 산책로에서 이동 방향을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>영금정 주변은 짧은 거리 안에서도 바위 해안, 산책로, 항구 분위기가 바뀌므로 처음 기준점을 잘 잡아야 합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -48,7 +51,10 @@ draft: false
 주말에는 인기 있는 해산물 식당이나 카페가 붐빌 수 있습니다. 대기 시간이 길다면 바다 전망보다 회전이 빠르고 앉기 쉬운 곳을 우선하세요. 속초는 먹거리 선택지가 많지만 저녁 산책 코스에서는 메뉴의 유명도보다 이동 피로를 줄이는지가 더 중요합니다. 설악산이나 장거리 운전 뒤라면 무리해서 여러 메뉴를 먹기보다 가벼운 식사와 따뜻한 음료 정도로 정리하는 편이 낫습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/sokcho-yeonggeumjeong-lighthouse-evening-walk-rest-20260806-1.jpg" alt="속초 항구 주변에서 바다를 보며 해산물 간식으로 쉬는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-yeonggeumjeong-lighthouse-evening-walk-rest-20260806-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/sokcho-yeonggeumjeong-lighthouse-evening-walk-rest-20260806-1.jpg" alt="속초 항구 주변에서 바다를 보며 해산물 간식으로 쉬는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>항구 쪽 휴식은 저녁 산책의 완충 지점입니다. 식사와 간식을 짧게 넣으면 야경까지 무리 없이 이어집니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -59,7 +65,10 @@ draft: false
 비가 오면 바닥이 미끄러워지고 바위 해안 체류가 부담스러워집니다. 이때는 영금정 주변을 짧게 보고 항구 식사와 카페 중심으로 바꾸는 편이 좋습니다. 우산을 들고 계단이나 바위 구간을 오래 걷는 것은 추천하지 않습니다. 여름에는 해가 늦게 지더라도 습도와 바람이 함께 올 수 있으므로 얇은 겉옷과 물을 준비하세요.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/sokcho-yeonggeumjeong-lighthouse-evening-walk-night-20260806-1.jpg" alt="속초 영금정 해안 산책로를 블루아워에 걷는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-yeonggeumjeong-lighthouse-evening-walk-night-20260806-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/sokcho-yeonggeumjeong-lighthouse-evening-walk-night-20260806-1.jpg" alt="속초 영금정 해안 산책로를 블루아워에 걷는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>블루아워에는 바다색과 조명이 함께 살아납니다. 다만 바람이 강한 날에는 체류 시간을 짧게 잡는 것이 안전합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -94,3 +103,5 @@ draft: false
 ## 짧게 줄이는 법
 
 시간이 1시간 30분뿐이라면 영금정 주변 전망 확인, 항구 쪽 간식, 숙소 복귀 순서로만 잡으세요. 등대전망대와 시장을 모두 붙이면 이동은 가능해도 실제로 바다를 보는 시간이 줄어듭니다. 속초 첫날에는 무리한 확장보다 다음 날 일정을 위해 체력을 남기는 편이 낫습니다.
+
+해가 진 뒤에는 사진보다 안전한 귀가 동선이 우선입니다. 숙소 방향 택시 승차 위치나 큰길 접근로를 미리 확인하세요.

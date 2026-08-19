@@ -39,7 +39,10 @@ draft: false
 이 코스의 핵심은 이동 거리를 줄이는 것입니다. 행궁동은 걸을 만한 동네지만 골목을 여러 번 왕복하면 금방 피로해집니다. 먼저 보고 싶은 지점을 두 곳 정도만 정하고, 중간에 카페 휴식을 넣어 체력을 조절하세요. 특히 여름에는 그늘이 끊기는 구간도 있으므로 물을 준비하고, 걷는 속도를 평소보다 낮추는 것이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/suwon-haenggungdong-evening-walk-route-20260730-1.jpg" alt="수원 화성행궁 주변에서 저녁 산책 동선을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/suwon-haenggungdong-evening-walk-route-20260730-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/suwon-haenggungdong-evening-walk-route-20260730-1.jpg" alt="수원 화성행궁 주변에서 저녁 산책 동선을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>화성행궁 주변을 먼저 기준점으로 잡으면 행궁동 골목과 성곽 야경을 자연스럽게 이어갈 수 있습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -52,7 +55,10 @@ draft: false
 혼자 여행한다면 창가 좌석이나 조용한 골목 카페를 고르는 편이 좋고, 친구와 함께라면 이동 방향이 좋은 넓은 카페가 편합니다. 가족 여행이라면 계단이 많은 매장보다 좌석 간격이 넓고 화장실 이용이 쉬운 곳을 우선하세요. 메뉴 자체보다 머무는 시간이 편한지가 이 코스에서는 더 중요합니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/suwon-haenggungdong-evening-walk-cafe-20260730-1.jpg" alt="수원 행궁동 카페에서 저녁 산책 전 쉬는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/suwon-haenggungdong-evening-walk-cafe-20260730-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/suwon-haenggungdong-evening-walk-cafe-20260730-1.jpg" alt="수원 행궁동 카페에서 저녁 산책 전 쉬는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>행궁동 카페는 저녁 산책 중간에 넣는 것이 효율적입니다. 쉬는 시간을 확보하면 성곽 야경까지 무리 없이 이어갈 수 있습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -65,7 +71,10 @@ draft: false
 비가 오면 성곽길은 미끄럽고 사진 만족도도 떨어질 수 있습니다. 이때는 성곽을 짧게 확인하고 행궁동 식사·카페·골목 산책으로 바꾸세요. 수원 행궁동 저녁 코스는 성곽 하나에 의존하지 않아도 완성도가 유지되는 편입니다. 핵심은 야경을 "많이" 보는 것이 아니라 전체 흐름을 무리 없이 끝내는 것입니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/suwon-haenggungdong-evening-walk-night-20260730-1.jpg" alt="수원화성 성곽 조명이 켜진 밤 산책로를 걷는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/suwon-haenggungdong-evening-walk-night-20260730-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/suwon-haenggungdong-evening-walk-night-20260730-1.jpg" alt="수원화성 성곽 조명이 켜진 밤 산책로를 걷는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>반나절 코스에서는 긴 성곽 일주보다 가까운 조명 구간을 안정적으로 보는 편이 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -84,6 +93,8 @@ draft: false
 ## 동행별 조정법
 
 혼자라면 사진을 찍을 지점과 쉴 지점을 분리하는 것이 좋습니다. 행궁동 골목에서는 마음에 드는 구간만 짧게 보고, 카페에서는 다음 이동 경로를 확인하세요. 혼자 걷는 여행은 속도를 자유롭게 조절할 수 있다는 장점이 있지만, 해가 진 뒤에는 너무 외진 골목으로 들어가지 않는 편이 안전합니다.
+
+야간 조명이나 행사 여부는 시기별로 달라질 수 있으므로, 사진을 목표로 하는 날에는 출발 전에 수원시 관광 안내를 한 번 더 확인하세요.
 
 친구나 커플 여행이라면 카페와 야경 시간을 조금 더 넉넉하게 잡아도 좋습니다. 대신 성곽 전체를 길게 걷겠다는 계획은 줄이세요. 대화하면서 걷다 보면 실제 이동 속도가 느려지고, 사진을 찍는 시간도 예상보다 길어집니다. 가족 여행이라면 화성행궁 주변, 카페, 가까운 조명 구간까지만 보는 구성이 가장 안정적입니다. 부모님과 함께라면 계단 구간보다 평지 골목을 우선하고, 아이와 함께라면 식사 장소를 먼저 정해두는 것이 좋습니다.
 

@@ -39,7 +39,10 @@ draft: false
 [강릉 바다와 커피 코스](/travel/gangwon/gangneung-sea-coffee/)를 이미 봤다면, 오늘 코스는 그보다 더 짧고 실전적인 버전으로 이해하면 됩니다. 바다를 오래 보는 날이 아니라, KTX로 와서 강릉의 핵심 분위기를 무리 없이 찍고 돌아가는 날입니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/gangneung-day-trip-station-gangneung-day-trip-without-car-1.jpg" alt="강릉역에서 시작하는 KTX 당일치기 뚜벅이 여행" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/gangneung-day-trip-station-gangneung-day-trip-without-car-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/gangneung-day-trip-station-gangneung-day-trip-without-car-1.jpg" alt="강릉역에서 시작하는 KTX 당일치기 뚜벅이 여행" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -52,7 +55,10 @@ draft: false
 해변에서 물놀이를 할 계획이라면 당일치기 난도가 올라갑니다. 옷, 수건, 샤워, 젖은 짐을 모두 고려해야 하기 때문입니다. 뚜벅이 당일치기라면 해변 산책과 카페 휴식 정도로 잡는 것이 더 편합니다. 강릉은 바다를 깊게 즐기려면 1박을 하는 편이 좋고, 당일치기는 가볍게 맛보는 여행으로 설계하는 것이 맞습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/gangneung-day-trip-lake-gangneung-day-trip-without-car-1.jpg" alt="강릉 당일치기에서 오전에 걷기 좋은 경포호 산책길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/gangneung-day-trip-lake-gangneung-day-trip-without-car-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/gangneung-day-trip-lake-gangneung-day-trip-without-car-1.jpg" alt="강릉 당일치기에서 오전에 걷기 좋은 경포호 산책길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
@@ -65,7 +71,10 @@ draft: false
 기차 시간이 저녁이라면 시장 후에 강릉역 근처 카페에서 쉬는 것도 좋습니다. 강릉역 안팎은 주말 저녁에 대기 인원이 많을 수 있으니, 너무 딱 맞춰 도착하기보다 30분 정도 여유를 두세요. 당일치기는 마지막 1시간을 여유롭게 남겨야 여행 전체가 편안하게 끝납니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/gangneung-day-trip-cafe-gangneung-day-trip-without-car-1.jpg" alt="강릉 안목해변 카페거리에서 쉬어가는 당일치기 여행" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/gangneung-day-trip-cafe-gangneung-day-trip-without-car-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/gangneung-day-trip-cafe-gangneung-day-trip-without-car-1.jpg" alt="강릉 안목해변 카페거리에서 쉬어가는 당일치기 여행" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 

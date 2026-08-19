@@ -39,7 +39,10 @@ draft: false
 객사길로 넘어가는 시점은 식사 시간과 맞물립니다. 6시 30분 이후에는 인기 식당 대기가 생길 수 있으므로, 아중호수 산책을 길게 끌기보다 식사 후보를 먼저 정하고 이동하세요. 저녁 코스는 늦어질수록 선택지가 줄어듭니다. 전주는 먹거리 선택지가 많지만, 이동 시간이 애매하면 오히려 결정 피로가 커질 수 있습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/jeonju-ajung-lake-gaeksa-evening-walk-route-20260809-1.jpg" alt="전주 아중호수 저녁 산책 동선을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeonju-ajung-lake-gaeksa-evening-walk-route-20260809-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeonju-ajung-lake-gaeksa-evening-walk-route-20260809-1.jpg" alt="전주 아중호수 저녁 산책 동선을 확인하는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>아중호수는 전체 완주보다 돌아오기 쉬운 구간을 정해 걷는 편이 초행자에게 안정적입니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -52,7 +55,10 @@ draft: false
 카페를 넣는다면 식사 전보다 식사 후가 낫습니다. 아중호수에서 이미 걷고 온 상태라면 식사 전 대기 시간이 길어질 경우 체력이 떨어집니다. 식사를 먼저 마치고, 카페는 짧게 쉬며 내일 일정이나 귀가 교통을 확인하는 시간으로 쓰세요. 전주 원도심은 밤에 골목이 조용해지는 구간도 있으므로 너무 늦은 이동은 피하는 편이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/jeonju-ajung-lake-gaeksa-evening-walk-cafe-20260809-1.jpg" alt="전주 객사길에서 저녁 식사 뒤 쉬어가기 좋은 카페 거리" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeonju-ajung-lake-gaeksa-evening-walk-cafe-20260809-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeonju-ajung-lake-gaeksa-evening-walk-cafe-20260809-1.jpg" alt="전주 객사길에서 저녁 식사 뒤 쉬어가기 좋은 카페 거리" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>객사길은 식사와 카페, 숙소 복귀를 한 지점에서 정리하기 좋아 저녁 코스의 마무리로 적합합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -63,7 +69,10 @@ draft: false
 물론 시간이 넉넉하다면 한옥마을을 짧게 추가할 수 있습니다. 다만 그 경우에는 아중호수 산책을 줄이고, 객사길 식사를 가볍게 잡아야 합니다. 세 곳을 모두 충분히 보려 하면 전주 저녁의 여유가 사라집니다. 오늘 글의 기준은 “무리 없이 발행 가능한 실전 코스”이므로, 중심을 두 곳으로 좁히는 것이 더 품질 높은 일정입니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/jeonju-ajung-lake-gaeksa-evening-walk-return-20260809-1.jpg" alt="전주 원도심에서 숙소로 돌아가기 전 확인하는 밤 귀가 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeonju-ajung-lake-gaeksa-evening-walk-return-20260809-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeonju-ajung-lake-gaeksa-evening-walk-return-20260809-1.jpg" alt="전주 원도심에서 숙소로 돌아가기 전 확인하는 밤 귀가 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>전주 저녁 코스는 마지막 귀가 방향까지 함께 정해야 피로가 줄어듭니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 

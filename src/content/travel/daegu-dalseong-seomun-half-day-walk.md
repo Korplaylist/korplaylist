@@ -41,7 +41,10 @@ draft: false
 대중교통만 이용한다면 출발지에서 달성공원까지의 접근 시간을 먼저 확인하세요. 지도상 거리가 짧아 보여도 여름에는 환승과 도보가 체감 시간을 늘립니다. 공원 안에서는 모든 길을 다 걷기보다 입구 주변, 돌담길, 그늘이 있는 구간을 중심으로 잡으면 충분합니다. 이후 서문시장으로 이동해 식사를 하고, 마지막에는 시장 안쪽 깊은 골목보다 큰길 가까운 카페나 정류장 쪽으로 빠져나오는 편이 안정적입니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/daegu-dalseong-seomun-walk-route-20260720-1.jpg" alt="대구 달성공원 돌담길 옆에서 여행 동선을 확인하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/daegu-dalseong-seomun-walk-route-20260720-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/daegu-dalseong-seomun-walk-route-20260720-1.jpg" alt="대구 달성공원 돌담길 옆에서 여행 동선을 확인하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>달성공원은 오래 걷기보다 그늘, 돌담길, 시장 이동 방향을 기준으로 짧게 잡는 편이 반나절 일정에 맞습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -52,7 +55,10 @@ draft: false
 시장 식사는 현장성이 강합니다. 영업 여부, 재료 소진, 대기 줄, 결제 방식이 방문일마다 달라질 수 있습니다. 그래서 “어느 가게가 최고”라고 단정하기보다, 어떤 기준으로 고르면 실패 확률이 낮은지 설명하는 편이 실제 여행자에게 더 유용합니다. 점심 시간대가 부담스럽다면 11시대에 일찍 먹거나 14시 이후 간단히 먹는 방식이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/daegu-dalseong-seomun-walk-food-20260720-1.jpg" alt="대구 전통시장 테이블에 놓인 납작만두와 국수, 여행 지도" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/daegu-dalseong-seomun-walk-food-20260720-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/daegu-dalseong-seomun-walk-food-20260720-1.jpg" alt="대구 전통시장 테이블에 놓인 납작만두와 국수, 여행 지도" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>시장에서는 메뉴 수보다 식사 순서가 중요합니다. 메인 식사와 간식을 분리하면 이동 피로가 줄어듭니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -74,7 +80,10 @@ draft: false
 비 예보가 있다면 달성공원은 입구 주변과 돌담길 일부만 보고, 서문시장과 실내 휴식 중심으로 바꾸세요. 비가 약하더라도 우산을 든 상태로 시장 안을 오래 이동하면 사진을 찍거나 음식을 들고 먹는 일이 불편해집니다. 이럴 때는 시장을 전부 둘러보려 하지 말고, 식사할 구역과 쉬는 구역을 나눠 두는 편이 안전합니다. 아이와 함께라면 비 오는 날의 공원 산책은 과감히 줄이고, 어르신과 함께라면 시장 안쪽 깊은 골목보다 출입이 쉬운 길가 식당을 우선하는 것이 좋습니다.
 
 <figure class="content-photo">
-  <img src="/images/generated/unique/daegu-dalseong-seomun-walk-rain-20260720-1.jpg" alt="비 예보가 있는 대구 서문시장 근처에서 카페와 시장 동선을 확인하는 여행 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/daegu-dalseong-seomun-walk-rain-20260720-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/daegu-dalseong-seomun-walk-rain-20260720-1.jpg" alt="비 예보가 있는 대구 서문시장 근처에서 카페와 시장 동선을 확인하는 여행 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
   <figcaption>비가 오거나 더운 날에는 공원 산책을 줄이고 시장, 카페, 큰길 정류장을 기준으로 동선을 다시 잡는 편이 안정적입니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
@@ -97,6 +106,8 @@ draft: false
 이 코스를 실제로 쓰기 전에는 세 가지만 다시 확인하면 됩니다. 첫째, 달성공원 산책을 1시간 안팎으로 끝낼 수 있는지 확인하세요. 둘째, 서문시장 식사는 한 끼 중심으로 잡고 간식은 상황에 따라 더하는 구조로 두세요. 셋째, 마지막 이동 방향을 대구역, 동성로, 숙소 중 하나로 확실히 정해 두세요. 이 세 가지가 정리되면 반나절 일정 안에서 이동과 식사가 과하게 늘어나는 일을 막을 수 있습니다.
 
 여행 글을 보고 그대로 따라갈 때 가장 위험한 부분은 모든 장소를 같은 강도로 보려는 것입니다. 달성공원은 산책 리듬을 여는 장소이고, 서문시장은 식사와 휴식을 해결하는 장소입니다. 두 장소의 역할을 나눠 두면 일정 판단이 훨씬 쉬워집니다. 시간이 남으면 동성로 카페나 대구역 주변으로 이어가고, 시간이 부족하면 시장에서 바로 복귀해도 코스의 핵심은 충분히 본 것입니다.
+
+서문시장 방문 시간이 식사 피크와 겹친다면 먼저 좌석이 가능한 메뉴를 고르고, 간식은 이동 동선이 안정된 뒤 추가하는 편이 좋습니다.
 
 ## 자주 묻는 질문
 
