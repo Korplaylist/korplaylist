@@ -10,7 +10,7 @@ urlSlug: "gwangju-korea-itinerary-acc-yangnim-daein-market"
 tags: ["光州旅行", "韓国地方旅行", "光州モデルコース", "ACC", "楊林洞", "大仁市場"]
 publishedAt: "2026-08-20T09:10:00+09:00"
 updatedAt: "2026-08-20T09:10:00+09:00"
-heroImage: "/images/generated/unique/ja-gwangju-acc-plaza-gwangju-korea-itinerary-acc-yangnim-daein-market-1.jpg"
+heroImage: "/images/generated/unique/ja-gwangju-acc-plaza-gwangju-korea-itinerary-acc-yangnim-daein-market-1-v2.jpg"
 imageAlt: "光州旅行モデルコースの国立アジア文化殿堂前広場"
 imageCredit: "Korea Playlist Image 2.0"
 adsenseReady: true
@@ -74,8 +74,8 @@ ACC周辺は飲食店やカフェも多いので、朝早く光州に着いた�
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-gwangju-yangnim-village-gwangju-korea-itinerary-acc-yangnim-daein-market-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/ja-gwangju-yangnim-village-gwangju-korea-itinerary-acc-yangnim-daein-market-2.jpg" alt="光州楊林洞歴史文化村の韓屋とレンガ路地" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-gwangju-yangnim-village-gwangju-korea-itinerary-acc-yangnim-daein-market-2-v2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/ja-gwangju-yangnim-village-gwangju-korea-itinerary-acc-yangnim-daein-market-2-v2.jpg" alt="光州楊林洞歴史文化村の韓屋とレンガ路地" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
@@ -94,8 +94,8 @@ ACC周辺は飲食店やカフェも多いので、朝早く光州に着いた�
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-gwangju-daein-market-gwangju-korea-itinerary-acc-yangnim-daein-market-3-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/ja-gwangju-daein-market-gwangju-korea-itinerary-acc-yangnim-daein-market-3.jpg" alt="光州大仁芸術市場の屋根付き通りと食堂街" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-gwangju-daein-market-gwangju-korea-itinerary-acc-yangnim-daein-market-3-v2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/ja-gwangju-daein-market-gwangju-korea-itinerary-acc-yangnim-daein-market-3-v2.jpg" alt="光州大仁芸術市場の屋根付き通りと食堂街" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
@@ -108,8 +108,8 @@ ACC周辺は飲食店やカフェも多いので、朝早く光州に着いた�
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-gwangju-chungjang-evening-gwangju-korea-itinerary-acc-yangnim-daein-market-4-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/ja-gwangju-chungjang-evening-gwangju-korea-itinerary-acc-yangnim-daein-market-4.jpg" alt="光州忠壮路周辺の夕方の市街地" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-gwangju-chungjang-evening-gwangju-korea-itinerary-acc-yangnim-daein-market-4-v2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/ja-gwangju-chungjang-evening-gwangju-korea-itinerary-acc-yangnim-daein-market-4-v2.jpg" alt="光州忠壮路周辺の夕方の市街地" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>

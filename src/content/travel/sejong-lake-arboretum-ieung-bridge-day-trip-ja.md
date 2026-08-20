@@ -10,7 +10,7 @@ urlSlug: "sejong-lake-arboretum-ieung-bridge-day-trip"
 tags: ["世宗旅行", "韓国日帰り旅行", "世宗湖水公園", "国立世宗樹木園", "金江歩行橋", "韓国地方旅行"]
 publishedAt: "2026-08-20T09:40:00+09:00"
 updatedAt: "2026-08-20T09:40:00+09:00"
-heroImage: "/images/generated/unique/ja-sejong-lake-park-promenade-sejong-lake-arboretum-ieung-bridge-day-trip-1.jpg"
+heroImage: "/images/generated/unique/ja-sejong-lake-park-promenade-sejong-lake-arboretum-ieung-bridge-day-trip-1-v2.jpg"
 imageAlt: "世宗湖水公園の湖畔遊歩道と現代的な都市景観"
 imageCredit: "Korea Playlist Image 2.0"
 adsenseReady: true
@@ -72,8 +72,8 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-sejong-arboretum-greenhouse-sejong-lake-arboretum-ieung-bridge-day-trip-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/ja-sejong-arboretum-greenhouse-sejong-lake-arboretum-ieung-bridge-day-trip-2.jpg" alt="国立世宗樹木園の大型温室と庭園" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-sejong-arboretum-greenhouse-sejong-lake-arboretum-ieung-bridge-day-trip-2-v2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/ja-sejong-arboretum-greenhouse-sejong-lake-arboretum-ieung-bridge-day-trip-2-v2.jpg" alt="国立世宗樹木園の大型温室と庭園" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
@@ -92,8 +92,8 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-sejong-central-park-city-sejong-lake-arboretum-ieung-bridge-day-trip-4-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/ja-sejong-central-park-city-sejong-lake-arboretum-ieung-bridge-day-trip-4.jpg" alt="世宗中央公園と行政都市の広い緑地景観" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-sejong-central-park-city-sejong-lake-arboretum-ieung-bridge-day-trip-4-v2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/ja-sejong-central-park-city-sejong-lake-arboretum-ieung-bridge-day-trip-4-v2.jpg" alt="世宗中央公園と行政都市の広い緑地景観" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
@@ -106,8 +106,8 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-sejong-ieung-bridge-sunset-sejong-lake-arboretum-ieung-bridge-day-trip-3-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/ja-sejong-ieung-bridge-sunset-sejong-lake-arboretum-ieung-bridge-day-trip-3.jpg" alt="夕日の金江歩行橋と世宗市の川沿い風景" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-sejong-ieung-bridge-sunset-sejong-lake-arboretum-ieung-bridge-day-trip-3-v2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/ja-sejong-ieung-bridge-sunset-sejong-lake-arboretum-ieung-bridge-day-trip-3-v2.jpg" alt="夕日の金江歩行橋と世宗市の川沿い風景" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>

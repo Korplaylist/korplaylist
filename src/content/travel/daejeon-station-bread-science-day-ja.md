@@ -10,7 +10,7 @@ urlSlug: "daejeon-station-bread-science-day"
 tags: ["大田旅行", "ソウルから日帰り", "聖心堂", "大田中央市場", "国立中央科学館", "韓国地方旅行"]
 publishedAt: "2026-08-20T09:50:00+09:00"
 updatedAt: "2026-08-20T09:50:00+09:00"
-heroImage: "/images/generated/unique/ja-daejeon-station-plaza-daejeon-station-bread-science-day-1.jpg"
+heroImage: "/images/generated/unique/ja-daejeon-station-plaza-daejeon-station-bread-science-day-1-v2.jpg"
 imageAlt: "大田駅前広場と日帰り旅行の出発地点"
 imageCredit: "Korea Playlist Image 2.0"
 adsenseReady: true
@@ -57,8 +57,8 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-daejeon-local-bakery-line-daejeon-station-bread-science-day-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/ja-daejeon-local-bakery-line-daejeon-station-bread-science-day-2.jpg" alt="大田中心部の人気ベーカリー周辺に並ぶ旅行者の列" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-daejeon-local-bakery-line-daejeon-station-bread-science-day-2-v2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/ja-daejeon-local-bakery-line-daejeon-station-bread-science-day-2-v2.jpg" alt="大田中心部の人気ベーカリー周辺に並ぶ旅行者の列" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
@@ -77,8 +77,8 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-daejeon-jungang-market-food-daejeon-station-bread-science-day-3-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/ja-daejeon-jungang-market-food-daejeon-station-bread-science-day-3.jpg" alt="大田中央市場の食堂街とローカルフードの雰囲気" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-daejeon-jungang-market-food-daejeon-station-bread-science-day-3-v2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/ja-daejeon-jungang-market-food-daejeon-station-bread-science-day-3-v2.jpg" alt="大田中央市場の食堂街とローカルフードの雰囲気" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
@@ -91,8 +91,8 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-daejeon-science-arboretum-daejeon-station-bread-science-day-4-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/ja-daejeon-science-arboretum-daejeon-station-bread-science-day-4.jpg" alt="大田の科学館エリアと水辺のある樹木園風景" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-daejeon-science-arboretum-daejeon-station-bread-science-day-4-v2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/ja-daejeon-science-arboretum-daejeon-station-bread-science-day-4-v2.jpg" alt="大田の科学館エリアと水辺のある樹木園風景" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>

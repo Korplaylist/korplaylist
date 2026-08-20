@@ -10,7 +10,7 @@ urlSlug: "cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol"
 tags: ["清州旅行", "ソウルから日帰り", "忠清北道旅行", "清南台", "上党山城", "水岩谷"]
 publishedAt: "2026-08-20T09:30:00+09:00"
 updatedAt: "2026-08-20T09:30:00+09:00"
-heroImage: "/images/generated/unique/ja-cheongju-sangdangsanseong-wall-cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol-1.jpg"
+heroImage: "/images/generated/unique/ja-cheongju-sangdangsanseong-wall-cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol-1-v2.jpg"
 imageAlt: "清州上党山城の城壁散策路と市街地の展望"
 imageCredit: "Korea Playlist Image 2.0"
 adsenseReady: true
@@ -56,8 +56,8 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-cheongju-cheongnamdae-lake-cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/ja-cheongju-cheongnamdae-lake-cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol-2.jpg" alt="清州清南台の湖畔庭園と伝統建築" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-cheongju-cheongnamdae-lake-cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol-2-v2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/ja-cheongju-cheongnamdae-lake-cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol-2-v2.jpg" alt="清州清南台の湖畔庭園と伝統建築" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
@@ -76,8 +76,8 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-cheongju-suamgol-view-cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol-3-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/ja-cheongju-suamgol-view-cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol-3.jpg" alt="清州水岩谷から見下ろす市街地と壁画のある展望道" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-cheongju-suamgol-view-cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol-3-v2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/ja-cheongju-suamgol-view-cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol-3-v2.jpg" alt="清州水岩谷から見下ろす市街地と壁画のある展望道" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
@@ -90,8 +90,8 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-cheongju-culture-factory-evening-cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol-4-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/ja-cheongju-culture-factory-evening-cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol-4.jpg" alt="清州市内の文化施設周辺と夕方の食事エリア" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-cheongju-culture-factory-evening-cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol-4-v2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/ja-cheongju-culture-factory-evening-cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol-4-v2.jpg" alt="清州市内の文化施設周辺と夕方の食事エリア" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>

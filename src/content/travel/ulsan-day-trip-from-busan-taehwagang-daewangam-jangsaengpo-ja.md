@@ -10,7 +10,7 @@ urlSlug: "ulsan-day-trip-from-busan-taehwagang-daewangam-jangsaengpo"
 tags: ["蔚山旅行", "釜山から日帰り", "太和江国家庭園", "大王岩公園", "長生浦", "韓国地方旅行"]
 publishedAt: "2026-08-20T10:20:00+09:00"
 updatedAt: "2026-08-20T10:20:00+09:00"
-heroImage: "/images/generated/unique/ja-ulsan-taehwagang-bamboo-ulsan-day-trip-from-busan-taehwagang-daewangam-jangsaengpo-1.jpg"
+heroImage: "/images/generated/unique/ja-ulsan-taehwagang-bamboo-ulsan-day-trip-from-busan-taehwagang-daewangam-jangsaengpo-1-v2.jpg"
 imageAlt: "蔚山太和江国家庭園の竹林と川沿いの散歩道"
 imageCredit: "Korea Playlist Image 2.0"
 adsenseReady: true
@@ -56,8 +56,8 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-ulsan-daewangam-coast-ulsan-day-trip-from-busan-taehwagang-daewangam-jangsaengpo-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/ja-ulsan-daewangam-coast-ulsan-day-trip-from-busan-taehwagang-daewangam-jangsaengpo-2.jpg" alt="蔚山大王岩公園の海岸岩場と吊り橋方面の景色" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-ulsan-daewangam-coast-ulsan-day-trip-from-busan-taehwagang-daewangam-jangsaengpo-2-v2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/ja-ulsan-daewangam-coast-ulsan-day-trip-from-busan-taehwagang-daewangam-jangsaengpo-2-v2.jpg" alt="蔚山大王岩公園の海岸岩場と吊り橋方面の景色" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
@@ -76,8 +76,8 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-ulsan-jangsaengpo-whale-town-ulsan-day-trip-from-busan-taehwagang-daewangam-jangsaengpo-3-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/ja-ulsan-jangsaengpo-whale-town-ulsan-day-trip-from-busan-taehwagang-daewangam-jangsaengpo-3.jpg" alt="蔚山長生浦の港町と鯨文化エリアの風景" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-ulsan-jangsaengpo-whale-town-ulsan-day-trip-from-busan-taehwagang-daewangam-jangsaengpo-3-v2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/ja-ulsan-jangsaengpo-whale-town-ulsan-day-trip-from-busan-taehwagang-daewangam-jangsaengpo-3-v2.jpg" alt="蔚山長生浦の港町と鯨文化エリアの風景" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
@@ -90,8 +90,8 @@ draft: false
 
 <figure class="content-photo">
   <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-ulsan-riverside-evening-ulsan-day-trip-from-busan-taehwagang-daewangam-jangsaengpo-4-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/ja-ulsan-riverside-evening-ulsan-day-trip-from-busan-taehwagang-daewangam-jangsaengpo-4.jpg" alt="蔚山の川沿いに映る夕方の都市夜景" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <source type="image/webp" srcset="/images/optimized/generated/unique/ja-ulsan-riverside-evening-ulsan-day-trip-from-busan-taehwagang-daewangam-jangsaengpo-4-v2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/ja-ulsan-riverside-evening-ulsan-day-trip-from-busan-taehwagang-daewangam-jangsaengpo-4-v2.jpg" alt="蔚山の川沿いに映る夕方の都市夜景" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
