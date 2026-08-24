@@ -12,7 +12,7 @@ publishedAt: "2026-08-18T14:50:00+09:00"
 updatedAt: "2026-08-18"
 heroImage: "/images/generated/unique/chungbuk-main-photo-chungbuk-danyang-dodamsambong-mancheonha-skywalk-day-route-20260818.jpg"
 imageAlt: "단양 도담삼봉이 남한강 물 위로 솟아 있는 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/chungbuk-route-chungbuk-danyang-dodamsambong-mancheonha-skywalk-day-route-20260818-480.webp 480w, /images/optimized/generated/unique/chungbuk-route-chungbuk-danyang-dodamsambong-mancheonha-skywalk-day-route-20260818-768.webp 768w, /images/optimized/generated/unique/chungbuk-route-chungbuk-danyang-dodamsambong-mancheonha-skywalk-day-route-20260818-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/chungbuk-route-chungbuk-danyang-dodamsambong-mancheonha-skywalk-day-route-20260818.jpg" alt="단양 남한강을 따라 이어지는 산책로와 전망 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>도담삼봉은 가까이 보는 풍경이고 만천하스카이워크는 위에서 보는 풍경이라 하루 안에서 역할이 다릅니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>도담삼봉은 가까이 보는 풍경이고 만천하스카이워크는 위에서 보는 풍경이라 하루 안에서 역할이 다릅니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/chungbuk-rest-chungbuk-danyang-dodamsambong-mancheonha-skywalk-day-route-20260818-480.webp 480w, /images/optimized/generated/unique/chungbuk-rest-chungbuk-danyang-dodamsambong-mancheonha-skywalk-day-route-20260818-768.webp 768w, /images/optimized/generated/unique/chungbuk-rest-chungbuk-danyang-dodamsambong-mancheonha-skywalk-day-route-20260818-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/chungbuk-rest-chungbuk-danyang-dodamsambong-mancheonha-skywalk-day-route-20260818.jpg" alt="단양 남한강 전망대 벤치와 산 능선이 보이는 휴식 공간" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>전망형 관광지는 이동보다 대기와 휴식 시간이 더 크게 느껴질 수 있어 여유가 필요합니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>전망형 관광지는 이동보다 대기와 휴식 시간이 더 크게 느껴질 수 있어 여유가 필요합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/chungbuk-detail-chungbuk-danyang-dodamsambong-mancheonha-skywalk-day-route-20260818-480.webp 480w, /images/optimized/generated/unique/chungbuk-detail-chungbuk-danyang-dodamsambong-mancheonha-skywalk-day-route-20260818-768.webp 768w, /images/optimized/generated/unique/chungbuk-detail-chungbuk-danyang-dodamsambong-mancheonha-skywalk-day-route-20260818-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/chungbuk-detail-chungbuk-danyang-dodamsambong-mancheonha-skywalk-day-route-20260818.jpg" alt="단양 만천하스카이워크 전망 데크와 강 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>전망 데크에서는 바람과 사람 흐름을 함께 봐야 안전하고 편하게 사진을 남길 수 있습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>전망 데크에서는 바람과 사람 흐름을 함께 봐야 안전하고 편하게 사진을 남길 수 있습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

@@ -12,7 +12,7 @@ publishedAt: "2026-08-16T17:10:00+09:00"
 updatedAt: "2026-08-16"
 heroImage: "/images/generated/unique/ulsan-main-photo-jujeon-mongdol-gangdong-coast-walk-20260816.jpg"
 imageAlt: "울산 주전몽돌해변의 검은 몽돌과 푸른 바다 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ulsan-route-jujeon-mongdol-gangdong-coast-walk-20260816-480.webp 480w, /images/optimized/generated/unique/ulsan-route-jujeon-mongdol-gangdong-coast-walk-20260816-768.webp 768w, /images/optimized/generated/unique/ulsan-route-jujeon-mongdol-gangdong-coast-walk-20260816-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ulsan-route-jujeon-mongdol-gangdong-coast-walk-20260816.jpg" alt="주전몽돌해변 옆 강동 해안 산책로와 바다" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>몽돌 위를 계속 걷기보다 해안 산책로와 번갈아 이용하면 체력 부담이 줄어듭니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>몽돌 위를 계속 걷기보다 해안 산책로와 번갈아 이용하면 체력 부담이 줄어듭니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ulsan-rest-jujeon-mongdol-gangdong-coast-walk-20260816-480.webp 480w, /images/optimized/generated/unique/ulsan-rest-jujeon-mongdol-gangdong-coast-walk-20260816-768.webp 768w, /images/optimized/generated/unique/ulsan-rest-jujeon-mongdol-gangdong-coast-walk-20260816-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ulsan-rest-jujeon-mongdol-gangdong-coast-walk-20260816.jpg" alt="주전몽돌해변 바다를 바라보는 작은 쉼터와 벤치" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>주전몽돌해변은 쉬는 시간이 여행의 일부입니다. 파도 소리를 들을 수 있는 지점을 일정에 넣으세요. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>주전몽돌해변은 쉬는 시간이 여행의 일부입니다. 파도 소리를 들을 수 있는 지점을 일정에 넣으세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ulsan-detail-jujeon-mongdol-gangdong-coast-walk-20260816-480.webp 480w, /images/optimized/generated/unique/ulsan-detail-jujeon-mongdol-gangdong-coast-walk-20260816-768.webp 768w, /images/optimized/generated/unique/ulsan-detail-jujeon-mongdol-gangdong-coast-walk-20260816-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ulsan-detail-jujeon-mongdol-gangdong-coast-walk-20260816.jpg" alt="주전몽돌해변의 검은 몽돌과 하얀 파도 질감" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>몽돌 질감은 이 해변의 매력이지만, 젖은 돌과 파도 가까운 지점은 조심해야 합니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>몽돌 질감은 이 해변의 매력이지만, 젖은 돌과 파도 가까운 지점은 조심해야 합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

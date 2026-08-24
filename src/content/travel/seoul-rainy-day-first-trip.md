@@ -12,7 +12,7 @@ publishedAt: "2026-06-22"
 updatedAt: "2026-06-22"
 heroImage: "/images/generated/seoul-rainy-day-museum-arrival-generated.jpg"
 imageAlt: "여름비가 내린 서울 용산 국립중앙박물관 앞 광장으로 우산을 쓰고 들어가는 여행자들"
-imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+imageCredit: "ⓒ한국플레이리스트"
 draft: false
 ---
 
@@ -145,7 +145,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-320.webp 320w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-330.webp 330w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-360.webp 360w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-480.webp 480w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-520.webp 520w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-640.webp 640w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-680.webp 680w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-768.webp 768w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-960.webp 960w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/seoul-rainy-day-yeouido-indoor-generated.jpg" alt="서울 여의도 실내 복합공간에서 비를 피하며 쉬는 여행자들과 유리창 밖 빗줄기" width="1536" height="1024" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 한강은 옵션으로만 붙여야 실패 확률이 낮다

@@ -12,7 +12,7 @@ publishedAt: "2026-08-17T16:30:00+09:00"
 updatedAt: "2026-08-17"
 heroImage: "/images/generated/unique/sejong-main-photo-sejong-gobok-natural-park-reservoir-walk-20260817.jpg"
 imageAlt: "세종 고복저수지와 숲 능선이 보이는 수변 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/sejong-route-sejong-gobok-natural-park-reservoir-walk-20260817-480.webp 480w, /images/optimized/generated/unique/sejong-route-sejong-gobok-natural-park-reservoir-walk-20260817-768.webp 768w, /images/optimized/generated/unique/sejong-route-sejong-gobok-natural-park-reservoir-walk-20260817-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/sejong-route-sejong-gobok-natural-park-reservoir-walk-20260817.jpg" alt="세종 고복저수지 옆으로 이어지는 수변 산책로" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>고복저수지는 긴 완주보다 조용한 수변 구간을 천천히 걷는 방식이 어울립니다. 돌아올 지점을 먼저 정하세요. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>고복저수지는 긴 완주보다 조용한 수변 구간을 천천히 걷는 방식이 어울립니다. 돌아올 지점을 먼저 정하세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/sejong-rest-sejong-gobok-natural-park-reservoir-walk-20260817-480.webp 480w, /images/optimized/generated/unique/sejong-rest-sejong-gobok-natural-park-reservoir-walk-20260817-768.webp 768w, /images/optimized/generated/unique/sejong-rest-sejong-gobok-natural-park-reservoir-walk-20260817-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/sejong-rest-sejong-gobok-natural-park-reservoir-walk-20260817.jpg" alt="세종 고복자연공원 정자와 저수지 전망 휴식 공간" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>정자나 전망 쉼터를 일정의 반환점으로 잡으면 수변 코스가 훨씬 편해집니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>정자나 전망 쉼터를 일정의 반환점으로 잡으면 수변 코스가 훨씬 편해집니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/sejong-detail-sejong-gobok-natural-park-reservoir-walk-20260817-480.webp 480w, /images/optimized/generated/unique/sejong-detail-sejong-gobok-natural-park-reservoir-walk-20260817-768.webp 768w, /images/optimized/generated/unique/sejong-detail-sejong-gobok-natural-park-reservoir-walk-20260817-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/sejong-detail-sejong-gobok-natural-park-reservoir-walk-20260817.jpg" alt="고복저수지 물가와 계절 나무가 비치는 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>고복저수지는 계절 색이 좋은 곳입니다. 다만 물가 안전과 귀가 시간을 항상 먼저 계산하세요. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>고복저수지는 계절 색이 좋은 곳입니다. 다만 물가 안전과 귀가 시간을 항상 먼저 계산하세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

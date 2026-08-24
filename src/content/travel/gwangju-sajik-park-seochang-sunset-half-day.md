@@ -12,7 +12,7 @@ publishedAt: "2026-08-15T11:40:00+09:00"
 updatedAt: "2026-08-15"
 heroImage: "/images/generated/unique/gwangju-main-photo2-gwangju-sajik-park-seochang-sunset-half-day-20260815.jpg"
 imageAlt: "광주 사직공원과 서창 감성조망대 노을 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/gwangju-route-gwangju-sajik-park-seochang-sunset-half-day-1-160.webp 160w, /images/optimized/generated/unique/gwangju-route-gwangju-sajik-park-seochang-sunset-half-day-1-240.webp 240w, /images/optimized/generated/unique/gwangju-route-gwangju-sajik-park-seochang-sunset-half-day-1-320.webp 320w, /images/optimized/generated/unique/gwangju-route-gwangju-sajik-park-seochang-sunset-half-day-1-330.webp 330w, /images/optimized/generated/unique/gwangju-route-gwangju-sajik-park-seochang-sunset-half-day-1-360.webp 360w, /images/optimized/generated/unique/gwangju-route-gwangju-sajik-park-seochang-sunset-half-day-1-480.webp 480w, /images/optimized/generated/unique/gwangju-route-gwangju-sajik-park-seochang-sunset-half-day-1-520.webp 520w, /images/optimized/generated/unique/gwangju-route-gwangju-sajik-park-seochang-sunset-half-day-1-640.webp 640w, /images/optimized/generated/unique/gwangju-route-gwangju-sajik-park-seochang-sunset-half-day-1-680.webp 680w, /images/optimized/generated/unique/gwangju-route-gwangju-sajik-park-seochang-sunset-half-day-1-768.webp 768w, /images/optimized/generated/unique/gwangju-route-gwangju-sajik-park-seochang-sunset-half-day-1-960.webp 960w, /images/optimized/generated/unique/gwangju-route-gwangju-sajik-park-seochang-sunset-half-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/gwangju-route-gwangju-sajik-park-seochang-sunset-half-day-1.jpg" alt="사직공원 전망타워와 서창 감성조망대를 잇는 노을 이동 경로 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>노을 코스는 이동 거리보다 도착 시간과 귀가 기준을 먼저 정해야 안정적입니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>노을 코스는 이동 거리보다 도착 시간과 귀가 기준을 먼저 정해야 안정적입니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/gwangju-rest-gwangju-sajik-park-seochang-sunset-half-day-1-160.webp 160w, /images/optimized/generated/unique/gwangju-rest-gwangju-sajik-park-seochang-sunset-half-day-1-240.webp 240w, /images/optimized/generated/unique/gwangju-rest-gwangju-sajik-park-seochang-sunset-half-day-1-320.webp 320w, /images/optimized/generated/unique/gwangju-rest-gwangju-sajik-park-seochang-sunset-half-day-1-330.webp 330w, /images/optimized/generated/unique/gwangju-rest-gwangju-sajik-park-seochang-sunset-half-day-1-360.webp 360w, /images/optimized/generated/unique/gwangju-rest-gwangju-sajik-park-seochang-sunset-half-day-1-480.webp 480w, /images/optimized/generated/unique/gwangju-rest-gwangju-sajik-park-seochang-sunset-half-day-1-520.webp 520w, /images/optimized/generated/unique/gwangju-rest-gwangju-sajik-park-seochang-sunset-half-day-1-640.webp 640w, /images/optimized/generated/unique/gwangju-rest-gwangju-sajik-park-seochang-sunset-half-day-1-680.webp 680w, /images/optimized/generated/unique/gwangju-rest-gwangju-sajik-park-seochang-sunset-half-day-1-768.webp 768w, /images/optimized/generated/unique/gwangju-rest-gwangju-sajik-park-seochang-sunset-half-day-1-960.webp 960w, /images/optimized/generated/unique/gwangju-rest-gwangju-sajik-park-seochang-sunset-half-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/gwangju-rest-gwangju-sajik-park-seochang-sunset-half-day-1.jpg" alt="사직공원 주변에서 노을 시간을 기다리며 쉬는 여행자 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>일몰 전 여유 시간을 확보하면 사진과 귀가 판단을 동시에 챙길 수 있습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>일몰 전 여유 시간을 확보하면 사진과 귀가 판단을 동시에 챙길 수 있습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/gwangju-detail-gwangju-sajik-park-seochang-sunset-half-day-1-160.webp 160w, /images/optimized/generated/unique/gwangju-detail-gwangju-sajik-park-seochang-sunset-half-day-1-240.webp 240w, /images/optimized/generated/unique/gwangju-detail-gwangju-sajik-park-seochang-sunset-half-day-1-320.webp 320w, /images/optimized/generated/unique/gwangju-detail-gwangju-sajik-park-seochang-sunset-half-day-1-330.webp 330w, /images/optimized/generated/unique/gwangju-detail-gwangju-sajik-park-seochang-sunset-half-day-1-360.webp 360w, /images/optimized/generated/unique/gwangju-detail-gwangju-sajik-park-seochang-sunset-half-day-1-480.webp 480w, /images/optimized/generated/unique/gwangju-detail-gwangju-sajik-park-seochang-sunset-half-day-1-520.webp 520w, /images/optimized/generated/unique/gwangju-detail-gwangju-sajik-park-seochang-sunset-half-day-1-640.webp 640w, /images/optimized/generated/unique/gwangju-detail-gwangju-sajik-park-seochang-sunset-half-day-1-680.webp 680w, /images/optimized/generated/unique/gwangju-detail-gwangju-sajik-park-seochang-sunset-half-day-1-768.webp 768w, /images/optimized/generated/unique/gwangju-detail-gwangju-sajik-park-seochang-sunset-half-day-1-960.webp 960w, /images/optimized/generated/unique/gwangju-detail-gwangju-sajik-park-seochang-sunset-half-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/gwangju-detail-gwangju-sajik-park-seochang-sunset-half-day-1.jpg" alt="사직공원 전망타워 주변에서 노을 시간과 귀가 동선을 확인하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>전망 시설은 운영 시간과 접근 가능 여부가 달라질 수 있으므로 출발 전 다시 확인하세요. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>전망 시설은 운영 시간과 접근 가능 여부가 달라질 수 있으므로 출발 전 다시 확인하세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

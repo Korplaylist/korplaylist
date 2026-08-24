@@ -12,7 +12,7 @@ publishedAt: "2026-08-24T08:50:00+09:00"
 updatedAt: "2026-08-24T08:50:00+09:00"
 heroImage: "/images/generated/unique/ko-damyang-juknokwon-bamboo-damyang-juknokwon-metasequoia-autumn-walk-1-v1.jpg"
 imageAlt: "담양 죽녹원 대나무숲 산책로를 걷는 전남 여행 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -41,7 +41,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-damyang-metasequoia-road-damyang-juknokwon-metasequoia-autumn-walk-2-v1-160.webp 160w, /images/optimized/generated/unique/ko-damyang-metasequoia-road-damyang-juknokwon-metasequoia-autumn-walk-2-v1-240.webp 240w, /images/optimized/generated/unique/ko-damyang-metasequoia-road-damyang-juknokwon-metasequoia-autumn-walk-2-v1-320.webp 320w, /images/optimized/generated/unique/ko-damyang-metasequoia-road-damyang-juknokwon-metasequoia-autumn-walk-2-v1-330.webp 330w, /images/optimized/generated/unique/ko-damyang-metasequoia-road-damyang-juknokwon-metasequoia-autumn-walk-2-v1-360.webp 360w, /images/optimized/generated/unique/ko-damyang-metasequoia-road-damyang-juknokwon-metasequoia-autumn-walk-2-v1-480.webp 480w, /images/optimized/generated/unique/ko-damyang-metasequoia-road-damyang-juknokwon-metasequoia-autumn-walk-2-v1-520.webp 520w, /images/optimized/generated/unique/ko-damyang-metasequoia-road-damyang-juknokwon-metasequoia-autumn-walk-2-v1-640.webp 640w, /images/optimized/generated/unique/ko-damyang-metasequoia-road-damyang-juknokwon-metasequoia-autumn-walk-2-v1-680.webp 680w, /images/optimized/generated/unique/ko-damyang-metasequoia-road-damyang-juknokwon-metasequoia-autumn-walk-2-v1-768.webp 768w, /images/optimized/generated/unique/ko-damyang-metasequoia-road-damyang-juknokwon-metasequoia-autumn-walk-2-v1-960.webp 960w, /images/optimized/generated/unique/ko-damyang-metasequoia-road-damyang-juknokwon-metasequoia-autumn-walk-2-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-damyang-metasequoia-road-damyang-juknokwon-metasequoia-autumn-walk-2-v1.jpg" alt="담양 메타세쿼이아길의 키 큰 나무 터널과 가을빛 도로 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>메타세쿼이아길은 빛이 좋은 시간에 짧고 집중해서 보면 사진 만족도가 높습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>메타세쿼이아길은 빛이 좋은 시간에 짧고 집중해서 보면 사진 만족도가 높습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -63,7 +63,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-damyang-gwanbangjerim-stream-damyang-juknokwon-metasequoia-autumn-walk-3-v1-160.webp 160w, /images/optimized/generated/unique/ko-damyang-gwanbangjerim-stream-damyang-juknokwon-metasequoia-autumn-walk-3-v1-240.webp 240w, /images/optimized/generated/unique/ko-damyang-gwanbangjerim-stream-damyang-juknokwon-metasequoia-autumn-walk-3-v1-320.webp 320w, /images/optimized/generated/unique/ko-damyang-gwanbangjerim-stream-damyang-juknokwon-metasequoia-autumn-walk-3-v1-330.webp 330w, /images/optimized/generated/unique/ko-damyang-gwanbangjerim-stream-damyang-juknokwon-metasequoia-autumn-walk-3-v1-360.webp 360w, /images/optimized/generated/unique/ko-damyang-gwanbangjerim-stream-damyang-juknokwon-metasequoia-autumn-walk-3-v1-480.webp 480w, /images/optimized/generated/unique/ko-damyang-gwanbangjerim-stream-damyang-juknokwon-metasequoia-autumn-walk-3-v1-520.webp 520w, /images/optimized/generated/unique/ko-damyang-gwanbangjerim-stream-damyang-juknokwon-metasequoia-autumn-walk-3-v1-640.webp 640w, /images/optimized/generated/unique/ko-damyang-gwanbangjerim-stream-damyang-juknokwon-metasequoia-autumn-walk-3-v1-680.webp 680w, /images/optimized/generated/unique/ko-damyang-gwanbangjerim-stream-damyang-juknokwon-metasequoia-autumn-walk-3-v1-768.webp 768w, /images/optimized/generated/unique/ko-damyang-gwanbangjerim-stream-damyang-juknokwon-metasequoia-autumn-walk-3-v1-960.webp 960w, /images/optimized/generated/unique/ko-damyang-gwanbangjerim-stream-damyang-juknokwon-metasequoia-autumn-walk-3-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-damyang-gwanbangjerim-stream-damyang-juknokwon-metasequoia-autumn-walk-3-v1.jpg" alt="담양 관방제림 물길 옆 그늘 산책로와 숲 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>관방제림은 죽녹원과 메타세쿼이아길 사이에서 호흡을 고르는 완충 구간으로 쓰기 좋습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>관방제림은 죽녹원과 메타세쿼이아길 사이에서 호흡을 고르는 완충 구간으로 쓰기 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -83,7 +83,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-damyang-bamboo-meal-damyang-juknokwon-metasequoia-autumn-walk-4-v1-160.webp 160w, /images/optimized/generated/unique/ko-damyang-bamboo-meal-damyang-juknokwon-metasequoia-autumn-walk-4-v1-240.webp 240w, /images/optimized/generated/unique/ko-damyang-bamboo-meal-damyang-juknokwon-metasequoia-autumn-walk-4-v1-320.webp 320w, /images/optimized/generated/unique/ko-damyang-bamboo-meal-damyang-juknokwon-metasequoia-autumn-walk-4-v1-330.webp 330w, /images/optimized/generated/unique/ko-damyang-bamboo-meal-damyang-juknokwon-metasequoia-autumn-walk-4-v1-360.webp 360w, /images/optimized/generated/unique/ko-damyang-bamboo-meal-damyang-juknokwon-metasequoia-autumn-walk-4-v1-480.webp 480w, /images/optimized/generated/unique/ko-damyang-bamboo-meal-damyang-juknokwon-metasequoia-autumn-walk-4-v1-520.webp 520w, /images/optimized/generated/unique/ko-damyang-bamboo-meal-damyang-juknokwon-metasequoia-autumn-walk-4-v1-640.webp 640w, /images/optimized/generated/unique/ko-damyang-bamboo-meal-damyang-juknokwon-metasequoia-autumn-walk-4-v1-680.webp 680w, /images/optimized/generated/unique/ko-damyang-bamboo-meal-damyang-juknokwon-metasequoia-autumn-walk-4-v1-768.webp 768w, /images/optimized/generated/unique/ko-damyang-bamboo-meal-damyang-juknokwon-metasequoia-autumn-walk-4-v1-960.webp 960w, /images/optimized/generated/unique/ko-damyang-bamboo-meal-damyang-juknokwon-metasequoia-autumn-walk-4-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-damyang-bamboo-meal-damyang-juknokwon-metasequoia-autumn-walk-4-v1.jpg" alt="담양 대나무 숲 분위기의 식당에서 대나무 통밥과 한식 반찬을 먹는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>담양 여행은 걷는 시간이 길어지기 쉬우므로 점심과 휴식 지점을 미리 잡아야 하루가 편합니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>담양 여행은 걷는 시간이 길어지기 쉬우므로 점심과 휴식 지점을 미리 잡아야 하루가 편합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

@@ -12,7 +12,7 @@ publishedAt: "2026-07-06T14:23:00+09:00"
 updatedAt: "2026-07-06T14:23:00+09:00"
 heroImage: "/images/generated/unique/seoul-line-2-rain-start-seoul-line-2-indoor-rainy-day-1.jpg"
 imageAlt: "Travelers organizing umbrellas and phones outside a Seoul Line 2 exit in rainy summer weather before starting an indoor day route"
-imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+imageCredit: "ⓒ한국플레이리스트"
 draft: false
 ---
 
@@ -129,7 +129,7 @@ If what you really want is simply the most stable rainy-day Seoul plan for a fir
     <source type="image/webp" srcset="/images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-160.webp 160w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-240.webp 240w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-320.webp 320w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-330.webp 330w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-360.webp 360w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-480.webp 480w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-520.webp 520w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-640.webp 640w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-680.webp 680w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-768.webp 768w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-960.webp 960w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1.jpg" alt="Travelers browsing a factory-style indoor concept store corridor in rainy Seongsu" width="1536" height="1024" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## In Jamsil, Finish Lunch And Your Main Indoor Decision In One Zone
@@ -174,7 +174,7 @@ Jamsil is also one of the heaviest foot-traffic areas on the line, so weekend qu
     <source type="image/webp" srcset="/images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-160.webp 160w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-240.webp 240w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-320.webp 320w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-330.webp 330w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-360.webp 360w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-480.webp 480w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-520.webp 520w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-640.webp 640w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-680.webp 680w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-768.webp 768w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-960.webp 960w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1.jpg" alt="Travelers choosing their next indoor stop inside a large Jamsil complex on a rainy afternoon" width="1536" height="1024" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## Use Samseong As A Controlled Finish, Not A Second Full Attraction Stack
@@ -220,7 +220,7 @@ If the weather unexpectedly clears and becomes good enough for a real outdoor da
     <source type="image/webp" srcset="/images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-160.webp 160w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-240.webp 240w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-320.webp 320w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-330.webp 330w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-360.webp 360w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-480.webp 480w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-520.webp 520w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-640.webp 640w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-680.webp 680w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-768.webp 768w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-960.webp 960w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1.jpg" alt="Travelers resting in a library-like indoor space at Samseong while rain continues outside" width="1536" height="1024" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## Mistakes Travelers Commonly Make

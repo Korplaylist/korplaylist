@@ -12,7 +12,7 @@ publishedAt: "2026-08-18T13:10:00+09:00"
 updatedAt: "2026-08-18"
 heroImage: "/images/generated/unique/chungbuk-main-photo-chungbuk-cheongju-sangdangsanseong-suamgol-evening-walk-20260818.jpg"
 imageAlt: "청주 상당산성 성문과 성곽길이 저녁 빛을 받는 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/chungbuk-route-chungbuk-cheongju-sangdangsanseong-suamgol-evening-walk-20260818-480.webp 480w, /images/optimized/generated/unique/chungbuk-route-chungbuk-cheongju-sangdangsanseong-suamgol-evening-walk-20260818-768.webp 768w, /images/optimized/generated/unique/chungbuk-route-chungbuk-cheongju-sangdangsanseong-suamgol-evening-walk-20260818-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/chungbuk-route-chungbuk-cheongju-sangdangsanseong-suamgol-evening-walk-20260818.jpg" alt="청주 상당산성 성곽을 따라 이어지는 산책길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>성곽길은 빠르게 도는 장소보다 시야가 열리는 지점에서 천천히 쉬어 가는 장소에 가깝습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>성곽길은 빠르게 도는 장소보다 시야가 열리는 지점에서 천천히 쉬어 가는 장소에 가깝습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/chungbuk-rest-chungbuk-cheongju-sangdangsanseong-suamgol-evening-walk-20260818-480.webp 480w, /images/optimized/generated/unique/chungbuk-rest-chungbuk-cheongju-sangdangsanseong-suamgol-evening-walk-20260818-768.webp 768w, /images/optimized/generated/unique/chungbuk-rest-chungbuk-cheongju-sangdangsanseong-suamgol-evening-walk-20260818-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/chungbuk-rest-chungbuk-cheongju-sangdangsanseong-suamgol-evening-walk-20260818.jpg" alt="수암골 언덕 카페에서 청주 시내를 바라보는 저녁 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>수암골은 골목 자체보다 골목에서 열리는 시내 조망이 일정의 분위기를 바꿔 줍니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>수암골은 골목 자체보다 골목에서 열리는 시내 조망이 일정의 분위기를 바꿔 줍니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/chungbuk-detail-chungbuk-cheongju-sangdangsanseong-suamgol-evening-walk-20260818-480.webp 480w, /images/optimized/generated/unique/chungbuk-detail-chungbuk-cheongju-sangdangsanseong-suamgol-evening-walk-20260818-768.webp 768w, /images/optimized/generated/unique/chungbuk-detail-chungbuk-cheongju-sangdangsanseong-suamgol-evening-walk-20260818-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/chungbuk-detail-chungbuk-cheongju-sangdangsanseong-suamgol-evening-walk-20260818.jpg" alt="수암골 벽화 골목과 계단이 이어지는 청주 여행 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>골목 산책은 주민 공간과 겹치므로 짧고 조용하게 보는 태도가 여행 만족도를 지켜 줍니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>골목 산책은 주민 공간과 겹치므로 짧고 조용하게 보는 태도가 여행 만족도를 지켜 줍니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

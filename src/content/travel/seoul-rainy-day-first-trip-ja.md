@@ -12,7 +12,7 @@ publishedAt: "2026-06-23"
 updatedAt: "2026-06-23"
 heroImage: "/images/generated/seoul-rainy-day-museum-arrival-generated.jpg"
 imageAlt: "夏の雨が降るソウル龍山の国立中央博物館前広場に傘を差して入っていく旅行者"
-imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+imageCredit: "ⓒ한국플레이리스트"
 draft: false
 ---
 
@@ -145,7 +145,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-320.webp 320w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-330.webp 330w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-360.webp 360w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-480.webp 480w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-520.webp 520w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-640.webp 640w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-680.webp 680w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-768.webp 768w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-960.webp 960w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/seoul-rainy-day-yeouido-indoor-generated.jpg" alt="雨の汝矣島の屋内複合空間で休む旅行者とガラス越しに見える雨足" width="1536" height="1024" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 漢江は最後に短く足すオプションだけで十分

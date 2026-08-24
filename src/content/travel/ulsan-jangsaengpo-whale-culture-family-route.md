@@ -12,7 +12,7 @@ publishedAt: "2026-08-16T15:00:00+09:00"
 updatedAt: "2026-08-16"
 heroImage: "/images/generated/unique/ulsan-main-photo-jangsaengpo-whale-culture-family-route-20260816.jpg"
 imageAlt: "울산 장생포 항구와 고래문화시설이 보이는 가족 여행 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ulsan-route-jangsaengpo-whale-culture-family-route-20260816-480.webp 480w, /images/optimized/generated/unique/ulsan-route-jangsaengpo-whale-culture-family-route-20260816-768.webp 768w, /images/optimized/generated/unique/ulsan-route-jangsaengpo-whale-culture-family-route-20260816-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ulsan-route-jangsaengpo-whale-culture-family-route-20260816.jpg" alt="장생포 고래문화시설 사이를 걷는 가족 여행 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>장생포는 시설 간 거리를 짧게 묶는 것이 핵심입니다. 첫 시설과 쉬는 지점을 먼저 정하세요. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>장생포는 시설 간 거리를 짧게 묶는 것이 핵심입니다. 첫 시설과 쉬는 지점을 먼저 정하세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ulsan-rest-jangsaengpo-whale-culture-family-route-20260816-480.webp 480w, /images/optimized/generated/unique/ulsan-rest-jangsaengpo-whale-culture-family-route-20260816-768.webp 768w, /images/optimized/generated/unique/ulsan-rest-jangsaengpo-whale-culture-family-route-20260816-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ulsan-rest-jangsaengpo-whale-culture-family-route-20260816.jpg" alt="장생포 항구 앞 그늘 쉼터에서 쉬는 가족 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>아이와 함께라면 관람보다 휴식 간격이 중요합니다. 쉬는 시간을 넣어야 다음 시설을 편하게 볼 수 있습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>아이와 함께라면 관람보다 휴식 간격이 중요합니다. 쉬는 시간을 넣어야 다음 시설을 편하게 볼 수 있습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ulsan-detail-jangsaengpo-whale-culture-family-route-20260816-480.webp 480w, /images/optimized/generated/unique/ulsan-detail-jangsaengpo-whale-culture-family-route-20260816-768.webp 768w, /images/optimized/generated/unique/ulsan-detail-jangsaengpo-whale-culture-family-route-20260816-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ulsan-detail-jangsaengpo-whale-culture-family-route-20260816.jpg" alt="장생포 고래박물관 실내 전시를 둘러보는 가족" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>실내 전시를 먼저 보면 비나 폭염에도 일정이 덜 흔들립니다. 야외는 남은 체력에 맞춰 붙이세요. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>실내 전시를 먼저 보면 비나 폭염에도 일정이 덜 흔들립니다. 야외는 남은 체력에 맞춰 붙이세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

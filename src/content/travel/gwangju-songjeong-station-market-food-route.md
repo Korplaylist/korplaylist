@@ -12,7 +12,7 @@ publishedAt: "2026-08-15T10:40:00+09:00"
 updatedAt: "2026-08-15"
 heroImage: "/images/generated/unique/gwangju-main-photo2-gwangju-songjeong-station-market-food-route-20260815.jpg"
 imageAlt: "광주송정역과 1913송정역시장 먹거리 코스 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/gwangju-route-gwangju-songjeong-station-market-food-route-1-160.webp 160w, /images/optimized/generated/unique/gwangju-route-gwangju-songjeong-station-market-food-route-1-240.webp 240w, /images/optimized/generated/unique/gwangju-route-gwangju-songjeong-station-market-food-route-1-320.webp 320w, /images/optimized/generated/unique/gwangju-route-gwangju-songjeong-station-market-food-route-1-330.webp 330w, /images/optimized/generated/unique/gwangju-route-gwangju-songjeong-station-market-food-route-1-360.webp 360w, /images/optimized/generated/unique/gwangju-route-gwangju-songjeong-station-market-food-route-1-480.webp 480w, /images/optimized/generated/unique/gwangju-route-gwangju-songjeong-station-market-food-route-1-520.webp 520w, /images/optimized/generated/unique/gwangju-route-gwangju-songjeong-station-market-food-route-1-640.webp 640w, /images/optimized/generated/unique/gwangju-route-gwangju-songjeong-station-market-food-route-1-680.webp 680w, /images/optimized/generated/unique/gwangju-route-gwangju-songjeong-station-market-food-route-1-768.webp 768w, /images/optimized/generated/unique/gwangju-route-gwangju-songjeong-station-market-food-route-1-960.webp 960w, /images/optimized/generated/unique/gwangju-route-gwangju-songjeong-station-market-food-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/gwangju-route-gwangju-songjeong-station-market-food-route-1.jpg" alt="광주송정역에서 1913송정역시장과 송정 떡갈비거리로 이어지는 먹거리 경로 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>광주송정역을 기준점으로 잡으면 식사 후 다시 열차나 시내 이동으로 돌아가기 쉽습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>광주송정역을 기준점으로 잡으면 식사 후 다시 열차나 시내 이동으로 돌아가기 쉽습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/gwangju-rest-gwangju-songjeong-station-market-food-route-1-160.webp 160w, /images/optimized/generated/unique/gwangju-rest-gwangju-songjeong-station-market-food-route-1-240.webp 240w, /images/optimized/generated/unique/gwangju-rest-gwangju-songjeong-station-market-food-route-1-320.webp 320w, /images/optimized/generated/unique/gwangju-rest-gwangju-songjeong-station-market-food-route-1-330.webp 330w, /images/optimized/generated/unique/gwangju-rest-gwangju-songjeong-station-market-food-route-1-360.webp 360w, /images/optimized/generated/unique/gwangju-rest-gwangju-songjeong-station-market-food-route-1-480.webp 480w, /images/optimized/generated/unique/gwangju-rest-gwangju-songjeong-station-market-food-route-1-520.webp 520w, /images/optimized/generated/unique/gwangju-rest-gwangju-songjeong-station-market-food-route-1-640.webp 640w, /images/optimized/generated/unique/gwangju-rest-gwangju-songjeong-station-market-food-route-1-680.webp 680w, /images/optimized/generated/unique/gwangju-rest-gwangju-songjeong-station-market-food-route-1-768.webp 768w, /images/optimized/generated/unique/gwangju-rest-gwangju-songjeong-station-market-food-route-1-960.webp 960w, /images/optimized/generated/unique/gwangju-rest-gwangju-songjeong-station-market-food-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/gwangju-rest-gwangju-songjeong-station-market-food-route-1.jpg" alt="1913송정역시장 주변에서 간식과 음료를 고르는 여행자 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>시장 간식과 식사를 모두 넣을 때는 대기 시간과 열차 시간을 함께 계산해야 합니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>시장 간식과 식사를 모두 넣을 때는 대기 시간과 열차 시간을 함께 계산해야 합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 예산과 선택 기준
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/gwangju-detail-gwangju-songjeong-station-market-food-route-1-160.webp 160w, /images/optimized/generated/unique/gwangju-detail-gwangju-songjeong-station-market-food-route-1-240.webp 240w, /images/optimized/generated/unique/gwangju-detail-gwangju-songjeong-station-market-food-route-1-320.webp 320w, /images/optimized/generated/unique/gwangju-detail-gwangju-songjeong-station-market-food-route-1-330.webp 330w, /images/optimized/generated/unique/gwangju-detail-gwangju-songjeong-station-market-food-route-1-360.webp 360w, /images/optimized/generated/unique/gwangju-detail-gwangju-songjeong-station-market-food-route-1-480.webp 480w, /images/optimized/generated/unique/gwangju-detail-gwangju-songjeong-station-market-food-route-1-520.webp 520w, /images/optimized/generated/unique/gwangju-detail-gwangju-songjeong-station-market-food-route-1-640.webp 640w, /images/optimized/generated/unique/gwangju-detail-gwangju-songjeong-station-market-food-route-1-680.webp 680w, /images/optimized/generated/unique/gwangju-detail-gwangju-songjeong-station-market-food-route-1-768.webp 768w, /images/optimized/generated/unique/gwangju-detail-gwangju-songjeong-station-market-food-route-1-960.webp 960w, /images/optimized/generated/unique/gwangju-detail-gwangju-songjeong-station-market-food-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/gwangju-detail-gwangju-songjeong-station-market-food-route-1.jpg" alt="광주송정역 주변에서 시장 운영 정보와 열차 시간을 확인하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>시장 운영 시간과 열차 출발 시간을 함께 확인하면 식사 대기 때문에 일정이 흔들리는 일을 줄일 수 있습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>시장 운영 시간과 열차 출발 시간을 함께 확인하면 식사 대기 때문에 일정이 흔들리는 일을 줄일 수 있습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

@@ -12,7 +12,7 @@ publishedAt: "2026-06-18"
 updatedAt: "2026-06-18"
 heroImage: "/images/generated/busan-gimhae-airport-first-day-hero-generated.jpg"
 imageAlt: "김해공항 도착 후 경전철과 시내 교통 표지판을 확인하는 여행자"
-imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+imageCredit: "ⓒ한국플레이리스트"
 draft: false
 ---
 
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/busan-gimhae-airport-first-day-transfer-generated-320.webp 320w, /images/optimized/generated/busan-gimhae-airport-first-day-transfer-generated-330.webp 330w, /images/optimized/generated/busan-gimhae-airport-first-day-transfer-generated-360.webp 360w, /images/optimized/generated/busan-gimhae-airport-first-day-transfer-generated-480.webp 480w, /images/optimized/generated/busan-gimhae-airport-first-day-transfer-generated-520.webp 520w, /images/optimized/generated/busan-gimhae-airport-first-day-transfer-generated-640.webp 640w, /images/optimized/generated/busan-gimhae-airport-first-day-transfer-generated-680.webp 680w, /images/optimized/generated/busan-gimhae-airport-first-day-transfer-generated-768.webp 768w, /images/optimized/generated/busan-gimhae-airport-first-day-transfer-generated-960.webp 960w, /images/optimized/generated/busan-gimhae-airport-first-day-transfer-generated-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/busan-gimhae-airport-first-day-transfer-generated.jpg" alt="김해공항 도착 후 경전철 승강장에서 부산 시내 이동을 준비하는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 서면으로 먼저 가야 편한 경우

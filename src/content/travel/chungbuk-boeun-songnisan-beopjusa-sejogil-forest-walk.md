@@ -12,7 +12,7 @@ publishedAt: "2026-08-18T16:30:00+09:00"
 updatedAt: "2026-08-18"
 heroImage: "/images/generated/unique/chungbuk-main-photo-chungbuk-boeun-songnisan-beopjusa-sejogil-forest-walk-20260818.jpg"
 imageAlt: "속리산 법주사 전각과 숲이 함께 보이는 보은 여행 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/chungbuk-route-chungbuk-boeun-songnisan-beopjusa-sejogil-forest-walk-20260818-480.webp 480w, /images/optimized/generated/unique/chungbuk-route-chungbuk-boeun-songnisan-beopjusa-sejogil-forest-walk-20260818-768.webp 768w, /images/optimized/generated/unique/chungbuk-route-chungbuk-boeun-songnisan-beopjusa-sejogil-forest-walk-20260818-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/chungbuk-route-chungbuk-boeun-songnisan-beopjusa-sejogil-forest-walk-20260818.jpg" alt="속리산 세조길 숲길과 계곡을 따라 걷는 산책 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>세조길은 빠르게 통과하는 길보다 숲의 온도와 소리를 천천히 느끼는 길에 가깝습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>세조길은 빠르게 통과하는 길보다 숲의 온도와 소리를 천천히 느끼는 길에 가깝습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/chungbuk-rest-chungbuk-boeun-songnisan-beopjusa-sejogil-forest-walk-20260818-480.webp 480w, /images/optimized/generated/unique/chungbuk-rest-chungbuk-boeun-songnisan-beopjusa-sejogil-forest-walk-20260818-768.webp 768w, /images/optimized/generated/unique/chungbuk-rest-chungbuk-boeun-songnisan-beopjusa-sejogil-forest-walk-20260818-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/chungbuk-rest-chungbuk-boeun-songnisan-beopjusa-sejogil-forest-walk-20260818.jpg" alt="속리산 숲길 옆 벤치와 물소리가 들리는 휴식 공간" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>부모님 동행 일정은 걷는 거리보다 쉬는 지점을 잘 고르는 것이 훨씬 중요합니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>부모님 동행 일정은 걷는 거리보다 쉬는 지점을 잘 고르는 것이 훨씬 중요합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/chungbuk-detail-chungbuk-boeun-songnisan-beopjusa-sejogil-forest-walk-20260818-480.webp 480w, /images/optimized/generated/unique/chungbuk-detail-chungbuk-boeun-songnisan-beopjusa-sejogil-forest-walk-20260818-768.webp 768w, /images/optimized/generated/unique/chungbuk-detail-chungbuk-boeun-songnisan-beopjusa-sejogil-forest-walk-20260818-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/chungbuk-detail-chungbuk-boeun-songnisan-beopjusa-sejogil-forest-walk-20260818.jpg" alt="속리산 법주사 처마와 등불이 보이는 사찰 산책 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>법주사는 여행지이면서 실제 사찰 공간이므로 사진보다 관람 예절을 먼저 생각해야 합니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>법주사는 여행지이면서 실제 사찰 공간이므로 사진보다 관람 예절을 먼저 생각해야 합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

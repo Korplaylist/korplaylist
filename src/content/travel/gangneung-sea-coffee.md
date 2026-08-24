@@ -12,7 +12,7 @@ publishedAt: "2026-05-22"
 updatedAt: "2026-05-22"
 heroImage: "/images/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-1.jpg"
 imageAlt: "강릉 바다 앞 커피거리 풍경"
-imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+imageCredit: "ⓒ한국플레이리스트"
 draft: false
 ---
 
@@ -164,7 +164,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/gangneung-two-day-content-gangneung-sea-coffee-day-trip-1-160.webp 160w, /images/optimized/generated/unique/gangneung-two-day-content-gangneung-sea-coffee-day-trip-1-240.webp 240w, /images/optimized/generated/unique/gangneung-two-day-content-gangneung-sea-coffee-day-trip-1-320.webp 320w, /images/optimized/generated/unique/gangneung-two-day-content-gangneung-sea-coffee-day-trip-1-330.webp 330w, /images/optimized/generated/unique/gangneung-two-day-content-gangneung-sea-coffee-day-trip-1-360.webp 360w, /images/optimized/generated/unique/gangneung-two-day-content-gangneung-sea-coffee-day-trip-1-480.webp 480w, /images/optimized/generated/unique/gangneung-two-day-content-gangneung-sea-coffee-day-trip-1-520.webp 520w, /images/optimized/generated/unique/gangneung-two-day-content-gangneung-sea-coffee-day-trip-1-640.webp 640w, /images/optimized/generated/unique/gangneung-two-day-content-gangneung-sea-coffee-day-trip-1-680.webp 680w, /images/optimized/generated/unique/gangneung-two-day-content-gangneung-sea-coffee-day-trip-1-768.webp 768w, /images/optimized/generated/unique/gangneung-two-day-content-gangneung-sea-coffee-day-trip-1-960.webp 960w, /images/optimized/generated/unique/gangneung-two-day-content-gangneung-sea-coffee-day-trip-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/gangneung-two-day-content-gangneung-sea-coffee-day-trip-1.jpg" alt="gangneung sea coffee travel guide image - gangneung two day content gangneung sea coffee day trip 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 시간대별로 짜는 방법
@@ -212,7 +212,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-2-160.webp 160w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-2-240.webp 240w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-2-320.webp 320w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-2-330.webp 330w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-2-360.webp 360w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-2-480.webp 480w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-2-520.webp 520w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-2-640.webp 640w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-2-680.webp 680w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-2-768.webp 768w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-2-960.webp 960w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-2.jpg" alt="gangneung sea coffee travel guide image - gangneung coffee street generated gangneung sea coffee day trip 2" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 숙소 위치와 식사 타이밍
@@ -232,7 +232,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-3-160.webp 160w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-3-240.webp 240w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-3-320.webp 320w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-3-330.webp 330w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-3-360.webp 360w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-3-480.webp 480w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-3-520.webp 520w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-3-640.webp 640w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-3-680.webp 680w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-3-768.webp 768w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-3-960.webp 960w, /images/optimized/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-3-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/gangneung-coffee-street-generated-gangneung-sea-coffee-day-trip-3.jpg" alt="gangneung sea coffee travel guide image - gangneung coffee street generated gangneung sea coffee day trip 3" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 계절별 주의사항

@@ -12,7 +12,7 @@ publishedAt: "2026-06-17"
 updatedAt: "2026-06-17"
 heroImage: "/images/generated/busan-station-luggage-generated.png"
 imageAlt: "부산역 도착 후 캐리어를 맡기기 위해 짐 보관함으로 이동하는 여행자"
-imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+imageCredit: "ⓒ한국플레이리스트"
 draft: false
 ---
 
@@ -59,7 +59,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/busan-station-route-generated-busan-station-luggage-first-day-1-160.webp 160w, /images/optimized/generated/unique/busan-station-route-generated-busan-station-luggage-first-day-1-240.webp 240w, /images/optimized/generated/unique/busan-station-route-generated-busan-station-luggage-first-day-1-320.webp 320w, /images/optimized/generated/unique/busan-station-route-generated-busan-station-luggage-first-day-1-330.webp 330w, /images/optimized/generated/unique/busan-station-route-generated-busan-station-luggage-first-day-1-360.webp 360w, /images/optimized/generated/unique/busan-station-route-generated-busan-station-luggage-first-day-1-480.webp 480w, /images/optimized/generated/unique/busan-station-route-generated-busan-station-luggage-first-day-1-520.webp 520w, /images/optimized/generated/unique/busan-station-route-generated-busan-station-luggage-first-day-1-640.webp 640w, /images/optimized/generated/unique/busan-station-route-generated-busan-station-luggage-first-day-1-680.webp 680w, /images/optimized/generated/unique/busan-station-route-generated-busan-station-luggage-first-day-1-768.webp 768w, /images/optimized/generated/unique/busan-station-route-generated-busan-station-luggage-first-day-1-960.webp 960w, /images/optimized/generated/unique/busan-station-route-generated-busan-station-luggage-first-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/busan-station-route-generated-busan-station-luggage-first-day-1.jpg" alt="busan station luggage first day travel guide image - busan station route generated busan station luggage first day 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 남포동으로 바로 갈지, 해운대로 바로 갈지 고르는 기준
@@ -140,7 +140,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/busan-market-food-generated-busan-station-luggage-first-day-1-160.webp 160w, /images/optimized/generated/unique/busan-market-food-generated-busan-station-luggage-first-day-1-240.webp 240w, /images/optimized/generated/unique/busan-market-food-generated-busan-station-luggage-first-day-1-320.webp 320w, /images/optimized/generated/unique/busan-market-food-generated-busan-station-luggage-first-day-1-330.webp 330w, /images/optimized/generated/unique/busan-market-food-generated-busan-station-luggage-first-day-1-360.webp 360w, /images/optimized/generated/unique/busan-market-food-generated-busan-station-luggage-first-day-1-480.webp 480w, /images/optimized/generated/unique/busan-market-food-generated-busan-station-luggage-first-day-1-520.webp 520w, /images/optimized/generated/unique/busan-market-food-generated-busan-station-luggage-first-day-1-640.webp 640w, /images/optimized/generated/unique/busan-market-food-generated-busan-station-luggage-first-day-1-680.webp 680w, /images/optimized/generated/unique/busan-market-food-generated-busan-station-luggage-first-day-1-768.webp 768w, /images/optimized/generated/unique/busan-market-food-generated-busan-station-luggage-first-day-1-960.webp 960w, /images/optimized/generated/unique/busan-market-food-generated-busan-station-luggage-first-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/busan-market-food-generated-busan-station-luggage-first-day-1.jpg" alt="busan station luggage first day travel guide image - busan market food generated busan station luggage first day 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 장마철과 여름 저녁에는 무엇을 먼저 포기해야 하나

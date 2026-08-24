@@ -12,7 +12,7 @@ publishedAt: "2026-08-16T16:00:00+09:00"
 updatedAt: "2026-08-16"
 heroImage: "/images/generated/unique/ulsan-main-photo-ganjeolgot-jinha-beach-sunrise-route-20260816.jpg"
 imageAlt: "울산 간절곶 해안에서 해가 떠오르는 일출 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ulsan-route-ganjeolgot-jinha-beach-sunrise-route-20260816-480.webp 480w, /images/optimized/generated/unique/ulsan-route-ganjeolgot-jinha-beach-sunrise-route-20260816-768.webp 768w, /images/optimized/generated/unique/ulsan-route-ganjeolgot-jinha-beach-sunrise-route-20260816-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ulsan-route-ganjeolgot-jinha-beach-sunrise-route-20260816.jpg" alt="간절곶 해안 산책로와 등대 주변 일출 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>간절곶은 해 뜨는 순간보다 전후 대기와 이동이 길어집니다. 산책로와 쉬는 지점을 함께 봐야 합니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>간절곶은 해 뜨는 순간보다 전후 대기와 이동이 길어집니다. 산책로와 쉬는 지점을 함께 봐야 합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ulsan-rest-ganjeolgot-jinha-beach-sunrise-route-20260816-480.webp 480w, /images/optimized/generated/unique/ulsan-rest-ganjeolgot-jinha-beach-sunrise-route-20260816-768.webp 768w, /images/optimized/generated/unique/ulsan-rest-ganjeolgot-jinha-beach-sunrise-route-20260816-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ulsan-rest-ganjeolgot-jinha-beach-sunrise-route-20260816.jpg" alt="진하해수욕장 아침 해변 산책로와 벤치" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>일출 뒤 진하해수욕장으로 내려오면 해변 산책과 아침 휴식을 자연스럽게 붙일 수 있습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>일출 뒤 진하해수욕장으로 내려오면 해변 산책과 아침 휴식을 자연스럽게 붙일 수 있습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ulsan-detail-ganjeolgot-jinha-beach-sunrise-route-20260816-480.webp 480w, /images/optimized/generated/unique/ulsan-detail-ganjeolgot-jinha-beach-sunrise-route-20260816-768.webp 768w, /images/optimized/generated/unique/ulsan-detail-ganjeolgot-jinha-beach-sunrise-route-20260816-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ulsan-detail-ganjeolgot-jinha-beach-sunrise-route-20260816.jpg" alt="간절곶 해안길과 바위 위로 비치는 아침 햇빛" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>해안길은 풍경이 좋은 만큼 바람과 파도에 민감합니다. 현장 통제와 안전선을 우선하세요. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>해안길은 풍경이 좋은 만큼 바람과 파도에 민감합니다. 현장 통제와 안전선을 우선하세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

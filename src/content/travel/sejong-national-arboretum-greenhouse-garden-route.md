@@ -12,7 +12,7 @@ publishedAt: "2026-08-17T14:00:00+09:00"
 updatedAt: "2026-08-17"
 heroImage: "/images/generated/unique/sejong-main-photo-sejong-national-arboretum-greenhouse-garden-route-20260817.jpg"
 imageAlt: "국립세종수목원 유리온실과 정원이 보이는 여름 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/sejong-route-sejong-national-arboretum-greenhouse-garden-route-20260817-480.webp 480w, /images/optimized/generated/unique/sejong-route-sejong-national-arboretum-greenhouse-garden-route-20260817-768.webp 768w, /images/optimized/generated/unique/sejong-route-sejong-national-arboretum-greenhouse-garden-route-20260817-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/sejong-route-sejong-national-arboretum-greenhouse-garden-route-20260817.jpg" alt="국립세종수목원 꽃길과 한국정원 분위기의 산책로" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>수목원은 온실만 보고 끝내기보다 야외 정원으로 조금 확장할 때 만족도가 높습니다. 다만 깊이는 체력에 맞게 조절하세요. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>수목원은 온실만 보고 끝내기보다 야외 정원으로 조금 확장할 때 만족도가 높습니다. 다만 깊이는 체력에 맞게 조절하세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/sejong-rest-sejong-national-arboretum-greenhouse-garden-route-20260817-480.webp 480w, /images/optimized/generated/unique/sejong-rest-sejong-national-arboretum-greenhouse-garden-route-20260817-768.webp 768w, /images/optimized/generated/unique/sejong-rest-sejong-national-arboretum-greenhouse-garden-route-20260817-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/sejong-rest-sejong-national-arboretum-greenhouse-garden-route-20260817.jpg" alt="국립세종수목원 정원 옆 그늘 벤치와 휴식 공간" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>정원 관람은 쉬는 시간을 넣어야 오래 기억에 남습니다. 온실과 야외 사이에 한 번 쉬는 흐름을 권합니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>정원 관람은 쉬는 시간을 넣어야 오래 기억에 남습니다. 온실과 야외 사이에 한 번 쉬는 흐름을 권합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/sejong-detail-sejong-national-arboretum-greenhouse-garden-route-20260817-480.webp 480w, /images/optimized/generated/unique/sejong-detail-sejong-national-arboretum-greenhouse-garden-route-20260817-768.webp 768w, /images/optimized/generated/unique/sejong-detail-sejong-national-arboretum-greenhouse-garden-route-20260817-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/sejong-detail-sejong-national-arboretum-greenhouse-garden-route-20260817.jpg" alt="국립세종수목원 온실 안 식물과 전통 정자 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>사계절전시온실은 날씨가 애매한 날에도 핵심 관람을 지켜주는 구간입니다. 입장마감 시간만 놓치지 마세요. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>사계절전시온실은 날씨가 애매한 날에도 핵심 관람을 지켜주는 구간입니다. 입장마감 시간만 놓치지 마세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

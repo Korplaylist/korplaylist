@@ -12,7 +12,7 @@ publishedAt: "2026-08-18T14:00:00+09:00"
 updatedAt: "2026-08-18"
 heroImage: "/images/generated/unique/chungbuk-main-photo-chungbuk-cheongnamdae-daecheongho-presidential-villa-day-route-20260818.jpg"
 imageAlt: "청남대 건물과 대청호가 함께 보이는 충북 청주 여행 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/chungbuk-route-chungbuk-cheongnamdae-daecheongho-presidential-villa-day-route-20260818-480.webp 480w, /images/optimized/generated/unique/chungbuk-route-chungbuk-cheongnamdae-daecheongho-presidential-villa-day-route-20260818-768.webp 768w, /images/optimized/generated/unique/chungbuk-route-chungbuk-cheongnamdae-daecheongho-presidential-villa-day-route-20260818-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/chungbuk-route-chungbuk-cheongnamdae-daecheongho-presidential-villa-day-route-20260818.jpg" alt="청남대 숲길과 대청호를 따라 이어지는 산책 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>청남대는 건물 관람과 호수 산책을 분리해서 생각하면 시간 조절이 쉬워집니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>청남대는 건물 관람과 호수 산책을 분리해서 생각하면 시간 조절이 쉬워집니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/chungbuk-rest-chungbuk-cheongnamdae-daecheongho-presidential-villa-day-route-20260818-480.webp 480w, /images/optimized/generated/unique/chungbuk-rest-chungbuk-cheongnamdae-daecheongho-presidential-villa-day-route-20260818-768.webp 768w, /images/optimized/generated/unique/chungbuk-rest-chungbuk-cheongnamdae-daecheongho-presidential-villa-day-route-20260818-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/chungbuk-rest-chungbuk-cheongnamdae-daecheongho-presidential-villa-day-route-20260818.jpg" alt="대청호가 내려다보이는 청남대 벤치와 휴식 공간" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>대청호 조망은 청남대 일정의 핵심입니다. 쉬는 시간을 풍경이 열리는 곳에 배치하면 만족도가 높습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>대청호 조망은 청남대 일정의 핵심입니다. 쉬는 시간을 풍경이 열리는 곳에 배치하면 만족도가 높습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/chungbuk-detail-chungbuk-cheongnamdae-daecheongho-presidential-villa-day-route-20260818-480.webp 480w, /images/optimized/generated/unique/chungbuk-detail-chungbuk-cheongnamdae-daecheongho-presidential-villa-day-route-20260818-768.webp 768w, /images/optimized/generated/unique/chungbuk-detail-chungbuk-cheongnamdae-daecheongho-presidential-villa-day-route-20260818-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/chungbuk-detail-chungbuk-cheongnamdae-daecheongho-presidential-villa-day-route-20260818.jpg" alt="청남대 모노레일과 숲길이 이어지는 가족 여행 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>모노레일은 이동 피로를 줄여 주지만 운행 시간과 현장 대기를 함께 계산해야 합니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>모노레일은 이동 피로를 줄여 주지만 운행 시간과 현장 대기를 함께 계산해야 합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

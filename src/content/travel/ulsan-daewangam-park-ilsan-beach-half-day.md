@@ -12,7 +12,7 @@ publishedAt: "2026-08-16T14:10:00+09:00"
 updatedAt: "2026-08-16"
 heroImage: "/images/generated/unique/ulsan-main-photo-daewangam-park-ilsan-beach-half-day-20260816.jpg"
 imageAlt: "울산 대왕암공원 해안 절벽과 푸른 바다 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ulsan-route-daewangam-park-ilsan-beach-half-day-20260816-480.webp 480w, /images/optimized/generated/unique/ulsan-route-daewangam-park-ilsan-beach-half-day-20260816-768.webp 768w, /images/optimized/generated/unique/ulsan-route-daewangam-park-ilsan-beach-half-day-20260816-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ulsan-route-daewangam-park-ilsan-beach-half-day-20260816.jpg" alt="대왕암공원 소나무 숲길과 바다 산책로" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>대왕암공원은 숲길과 해안길을 나누어 걸어야 체력 부담이 줄어듭니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>대왕암공원은 숲길과 해안길을 나누어 걸어야 체력 부담이 줄어듭니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ulsan-rest-daewangam-park-ilsan-beach-half-day-20260816-480.webp 480w, /images/optimized/generated/unique/ulsan-rest-daewangam-park-ilsan-beach-half-day-20260816-768.webp 768w, /images/optimized/generated/unique/ulsan-rest-daewangam-park-ilsan-beach-half-day-20260816-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ulsan-rest-daewangam-park-ilsan-beach-half-day-20260816.jpg" alt="일산해수욕장 해변 산책로와 벤치" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>일산해수욕장은 대왕암공원 산책 뒤 쉬면서 식사까지 연결하기 좋은 마무리 지점입니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>일산해수욕장은 대왕암공원 산책 뒤 쉬면서 식사까지 연결하기 좋은 마무리 지점입니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ulsan-detail-daewangam-park-ilsan-beach-half-day-20260816-480.webp 480w, /images/optimized/generated/unique/ulsan-detail-daewangam-park-ilsan-beach-half-day-20260816-768.webp 768w, /images/optimized/generated/unique/ulsan-detail-daewangam-park-ilsan-beach-half-day-20260816-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ulsan-detail-daewangam-park-ilsan-beach-half-day-20260816.jpg" alt="대왕암공원 해안 난간과 바위 위로 부서지는 파도" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>해안 전망은 좋지만 바람과 파도에 따라 체류 시간이 달라지므로 현장 판단이 필요합니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>해안 전망은 좋지만 바람과 파도에 따라 체류 시간이 달라지므로 현장 판단이 필요합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

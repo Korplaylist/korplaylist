@@ -12,7 +12,7 @@ publishedAt: "2026-08-24T08:10:00+09:00"
 updatedAt: "2026-08-24T08:10:00+09:00"
 heroImage: "/images/generated/unique/ko-andong-hahoe-village-andong-hahoe-woryeonggyo-heritage-night-route-1-v1.jpg"
 imageAlt: "안동 하회마을 전통 한옥과 낙동강 주변 산세가 보이는 경북 여행 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -41,7 +41,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-andong-byeongsan-seowon-andong-hahoe-woryeonggyo-heritage-night-route-2-v1-160.webp 160w, /images/optimized/generated/unique/ko-andong-byeongsan-seowon-andong-hahoe-woryeonggyo-heritage-night-route-2-v1-240.webp 240w, /images/optimized/generated/unique/ko-andong-byeongsan-seowon-andong-hahoe-woryeonggyo-heritage-night-route-2-v1-320.webp 320w, /images/optimized/generated/unique/ko-andong-byeongsan-seowon-andong-hahoe-woryeonggyo-heritage-night-route-2-v1-330.webp 330w, /images/optimized/generated/unique/ko-andong-byeongsan-seowon-andong-hahoe-woryeonggyo-heritage-night-route-2-v1-360.webp 360w, /images/optimized/generated/unique/ko-andong-byeongsan-seowon-andong-hahoe-woryeonggyo-heritage-night-route-2-v1-480.webp 480w, /images/optimized/generated/unique/ko-andong-byeongsan-seowon-andong-hahoe-woryeonggyo-heritage-night-route-2-v1-520.webp 520w, /images/optimized/generated/unique/ko-andong-byeongsan-seowon-andong-hahoe-woryeonggyo-heritage-night-route-2-v1-640.webp 640w, /images/optimized/generated/unique/ko-andong-byeongsan-seowon-andong-hahoe-woryeonggyo-heritage-night-route-2-v1-680.webp 680w, /images/optimized/generated/unique/ko-andong-byeongsan-seowon-andong-hahoe-woryeonggyo-heritage-night-route-2-v1-768.webp 768w, /images/optimized/generated/unique/ko-andong-byeongsan-seowon-andong-hahoe-woryeonggyo-heritage-night-route-2-v1-960.webp 960w, /images/optimized/generated/unique/ko-andong-byeongsan-seowon-andong-hahoe-woryeonggyo-heritage-night-route-2-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-andong-byeongsan-seowon-andong-hahoe-woryeonggyo-heritage-night-route-2-v1.jpg" alt="안동 병산서원처럼 자연을 향해 열린 전통 서원 마루와 산 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>병산서원은 하회마을과 결이 맞지만 이동이 추가되므로 하루 코스에서는 선택 일정으로 두는 편이 안정적입니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>병산서원은 하회마을과 결이 맞지만 이동이 추가되므로 하루 코스에서는 선택 일정으로 두는 편이 안정적입니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -63,7 +63,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-andong-woryeonggyo-night-andong-hahoe-woryeonggyo-heritage-night-route-3-v1-160.webp 160w, /images/optimized/generated/unique/ko-andong-woryeonggyo-night-andong-hahoe-woryeonggyo-heritage-night-route-3-v1-240.webp 240w, /images/optimized/generated/unique/ko-andong-woryeonggyo-night-andong-hahoe-woryeonggyo-heritage-night-route-3-v1-320.webp 320w, /images/optimized/generated/unique/ko-andong-woryeonggyo-night-andong-hahoe-woryeonggyo-heritage-night-route-3-v1-330.webp 330w, /images/optimized/generated/unique/ko-andong-woryeonggyo-night-andong-hahoe-woryeonggyo-heritage-night-route-3-v1-360.webp 360w, /images/optimized/generated/unique/ko-andong-woryeonggyo-night-andong-hahoe-woryeonggyo-heritage-night-route-3-v1-480.webp 480w, /images/optimized/generated/unique/ko-andong-woryeonggyo-night-andong-hahoe-woryeonggyo-heritage-night-route-3-v1-520.webp 520w, /images/optimized/generated/unique/ko-andong-woryeonggyo-night-andong-hahoe-woryeonggyo-heritage-night-route-3-v1-640.webp 640w, /images/optimized/generated/unique/ko-andong-woryeonggyo-night-andong-hahoe-woryeonggyo-heritage-night-route-3-v1-680.webp 680w, /images/optimized/generated/unique/ko-andong-woryeonggyo-night-andong-hahoe-woryeonggyo-heritage-night-route-3-v1-768.webp 768w, /images/optimized/generated/unique/ko-andong-woryeonggyo-night-andong-hahoe-woryeonggyo-heritage-night-route-3-v1-960.webp 960w, /images/optimized/generated/unique/ko-andong-woryeonggyo-night-andong-hahoe-woryeonggyo-heritage-night-route-3-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-andong-woryeonggyo-night-andong-hahoe-woryeonggyo-heritage-night-route-3-v1.jpg" alt="안동 월영교 목책교와 강물 위 야경이 보이는 저녁 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>월영교는 긴 체류보다 해 질 무렵부터 짧고 선명하게 보는 방식이 하루 코스 마무리에 좋습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>월영교는 긴 체류보다 해 질 무렵부터 짧고 선명하게 보는 방식이 하루 코스 마무리에 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -83,12 +83,12 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-andong-local-alley-andong-hahoe-woryeonggyo-heritage-night-route-4-v1-160.webp 160w, /images/optimized/generated/unique/ko-andong-local-alley-andong-hahoe-woryeonggyo-heritage-night-route-4-v1-240.webp 240w, /images/optimized/generated/unique/ko-andong-local-alley-andong-hahoe-woryeonggyo-heritage-night-route-4-v1-320.webp 320w, /images/optimized/generated/unique/ko-andong-local-alley-andong-hahoe-woryeonggyo-heritage-night-route-4-v1-330.webp 330w, /images/optimized/generated/unique/ko-andong-local-alley-andong-hahoe-woryeonggyo-heritage-night-route-4-v1-360.webp 360w, /images/optimized/generated/unique/ko-andong-local-alley-andong-hahoe-woryeonggyo-heritage-night-route-4-v1-480.webp 480w, /images/optimized/generated/unique/ko-andong-local-alley-andong-hahoe-woryeonggyo-heritage-night-route-4-v1-520.webp 520w, /images/optimized/generated/unique/ko-andong-local-alley-andong-hahoe-woryeonggyo-heritage-night-route-4-v1-640.webp 640w, /images/optimized/generated/unique/ko-andong-local-alley-andong-hahoe-woryeonggyo-heritage-night-route-4-v1-680.webp 680w, /images/optimized/generated/unique/ko-andong-local-alley-andong-hahoe-woryeonggyo-heritage-night-route-4-v1-768.webp 768w, /images/optimized/generated/unique/ko-andong-local-alley-andong-hahoe-woryeonggyo-heritage-night-route-4-v1-960.webp 960w, /images/optimized/generated/unique/ko-andong-local-alley-andong-hahoe-woryeonggyo-heritage-night-route-4-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-andong-local-alley-andong-hahoe-woryeonggyo-heritage-night-route-4-v1.jpg" alt="안동 전통 골목과 저녁 식사 분위기가 어우러진 지역 여행 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>저녁 식사는 월영교 직전 또는 직후로 단순하게 잡아야 야경 시간이 흐트러지지 않습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>저녁 식사는 월영교 직전 또는 직후로 단순하게 잡아야 야경 시간이 흐트러지지 않습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트
 
-하회마을 관람, 안동 관광지 요금, 월영교 정보, 병산서원 관람 안내는 방문 직전 다시 확인하세요. 문화유산 여행지는 행사, 보수, 해설 운영, 셔틀 안내가 달라질 수 있습니다.
+하회마을 관람, 안동 관광지 요금, 월영교 정보, 병산서원 관람 안내는 방문 직전 다시 확인하세요. 문화유산 여행지는 행사, 보수, 해설 운영, 셔틀 안내가 달라질 수 있습니다. 특히 야간 조명과 셔틀 운영은 계절별로 달라질 수 있어 당일 안내를 보는 편이 안전합니다.
 
 - [안동시 관광지 안내](https://www.andong.go.kr/portal/contents.do?mId=0612040000)
 - [안동관광 관람요금 안내](https://www.tourandong.com/public/sub5/sub2.cshtml)

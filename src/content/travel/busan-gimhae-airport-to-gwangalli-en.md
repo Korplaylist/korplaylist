@@ -12,7 +12,7 @@ publishedAt: "2026-06-25"
 updatedAt: "2026-06-25"
 heroImage: "/images/generated/busan-gimhae-airport-to-gwangalli-hero-generated.jpg"
 imageAlt: "Travelers rolling suitcases along the Gwangalli beachfront walkway in early summer evening light"
-imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+imageCredit: "ⓒ한국플레이리스트"
 draft: false
 ---
 
@@ -91,7 +91,7 @@ The advantages are clear. Frequency is stable, road congestion matters less, and
     <source type="image/webp" srcset="/images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-160.webp 160w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-240.webp 240w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-320.webp 320w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-330.webp 330w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-360.webp 360w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-480.webp 480w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-520.webp 520w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-640.webp 640w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-680.webp 680w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-768.webp 768w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-960.webp 960w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated.jpg" alt="A traveler with a suitcase moving toward the subway platform after arriving at Gimhae Airport in Busan" width="1536" height="1024" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## If You Have More Luggage, The Airport Limousine Often Feels Easier
@@ -107,7 +107,7 @@ There is one clear caution. Visit Busan notes that no transit-card transfer disc
     <source type="image/webp" srcset="/images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-160.webp 160w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-240.webp 240w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-320.webp 320w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-330.webp 330w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-360.webp 360w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-480.webp 480w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-520.webp 520w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-640.webp 640w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-680.webp 680w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-768.webp 768w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-960.webp 960w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated.jpg" alt="A traveler with luggage preparing to get off near an airport limousine stop in the wider Gwangalli area" width="1536" height="1024" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## For Late Arrivals Or Two People, Taxi Becomes Easier To Justify

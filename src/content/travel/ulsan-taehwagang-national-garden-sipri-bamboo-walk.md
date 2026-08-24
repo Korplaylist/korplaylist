@@ -12,7 +12,7 @@ publishedAt: "2026-08-16T13:20:00+09:00"
 updatedAt: "2026-08-16"
 heroImage: "/images/generated/unique/ulsan-main-photo-taehwagang-national-garden-sipri-bamboo-walk-20260816.jpg"
 imageAlt: "울산 태화강 국가정원과 십리대숲이 이어지는 강변 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ulsan-route-taehwagang-national-garden-sipri-bamboo-walk-20260816-480.webp 480w, /images/optimized/generated/unique/ulsan-route-taehwagang-national-garden-sipri-bamboo-walk-20260816-768.webp 768w, /images/optimized/generated/unique/ulsan-route-taehwagang-national-garden-sipri-bamboo-walk-20260816-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ulsan-route-taehwagang-national-garden-sipri-bamboo-walk-20260816.jpg" alt="태화강 국가정원 강변길과 십리대숲 방향 산책로" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>강변길과 대숲을 한 번에 길게 잡기보다 중간 휴식 지점을 먼저 정하면 반나절 산책이 안정적입니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>강변길과 대숲을 한 번에 길게 잡기보다 중간 휴식 지점을 먼저 정하면 반나절 산책이 안정적입니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ulsan-rest-taehwagang-national-garden-sipri-bamboo-walk-20260816-480.webp 480w, /images/optimized/generated/unique/ulsan-rest-taehwagang-national-garden-sipri-bamboo-walk-20260816-768.webp 768w, /images/optimized/generated/unique/ulsan-rest-taehwagang-national-garden-sipri-bamboo-walk-20260816-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ulsan-rest-taehwagang-national-garden-sipri-bamboo-walk-20260816.jpg" alt="태화강 국가정원 그늘 쉼터와 벤치" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>그늘 쉼터를 일정 안에 넣어야 대숲 산책이 급한 체크리스트처럼 느껴지지 않습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>그늘 쉼터를 일정 안에 넣어야 대숲 산책이 급한 체크리스트처럼 느껴지지 않습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ulsan-detail-taehwagang-national-garden-sipri-bamboo-walk-20260816-480.webp 480w, /images/optimized/generated/unique/ulsan-detail-taehwagang-national-garden-sipri-bamboo-walk-20260816-768.webp 768w, /images/optimized/generated/unique/ulsan-detail-taehwagang-national-garden-sipri-bamboo-walk-20260816-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ulsan-detail-taehwagang-national-garden-sipri-bamboo-walk-20260816.jpg" alt="울산 십리대숲 안쪽 대나무 산책길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>십리대숲은 깊이보다 돌아 나올 기준점이 중요합니다. 처음 방문이라면 짧은 왕복이 더 만족스러울 수 있습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>십리대숲은 깊이보다 돌아 나올 기준점이 중요합니다. 처음 방문이라면 짧은 왕복이 더 만족스러울 수 있습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

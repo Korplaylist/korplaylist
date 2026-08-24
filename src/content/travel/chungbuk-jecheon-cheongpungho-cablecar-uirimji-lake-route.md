@@ -12,7 +12,7 @@ publishedAt: "2026-08-18T15:40:00+09:00"
 updatedAt: "2026-08-18"
 heroImage: "/images/generated/unique/chungbuk-main-photo-chungbuk-jecheon-cheongpungho-cablecar-uirimji-lake-route-20260818.jpg"
 imageAlt: "제천 청풍호 위를 지나는 케이블카와 산 능선 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/chungbuk-route-chungbuk-jecheon-cheongpungho-cablecar-uirimji-lake-route-20260818-480.webp 480w, /images/optimized/generated/unique/chungbuk-route-chungbuk-jecheon-cheongpungho-cablecar-uirimji-lake-route-20260818-768.webp 768w, /images/optimized/generated/unique/chungbuk-route-chungbuk-jecheon-cheongpungho-cablecar-uirimji-lake-route-20260818-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/chungbuk-route-chungbuk-jecheon-cheongpungho-cablecar-uirimji-lake-route-20260818.jpg" alt="제천 청풍호반케이블카 승강장과 호수 전망 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>청풍호반케이블카는 탑승 전후 대기와 전망대 체류 시간을 함께 계산해야 일정이 편합니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>청풍호반케이블카는 탑승 전후 대기와 전망대 체류 시간을 함께 계산해야 일정이 편합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/chungbuk-rest-chungbuk-jecheon-cheongpungho-cablecar-uirimji-lake-route-20260818-480.webp 480w, /images/optimized/generated/unique/chungbuk-rest-chungbuk-jecheon-cheongpungho-cablecar-uirimji-lake-route-20260818-768.webp 768w, /images/optimized/generated/unique/chungbuk-rest-chungbuk-jecheon-cheongpungho-cablecar-uirimji-lake-route-20260818-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/chungbuk-rest-chungbuk-jecheon-cheongpungho-cablecar-uirimji-lake-route-20260818.jpg" alt="제천 의림지 물가 산책로와 쉬어 가는 공간" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>의림지는 케이블카 이후 속도를 낮추는 마무리 장소로 쓰면 하루의 균형이 좋아집니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>의림지는 케이블카 이후 속도를 낮추는 마무리 장소로 쓰면 하루의 균형이 좋아집니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/chungbuk-detail-chungbuk-jecheon-cheongpungho-cablecar-uirimji-lake-route-20260818-480.webp 480w, /images/optimized/generated/unique/chungbuk-detail-chungbuk-jecheon-cheongpungho-cablecar-uirimji-lake-route-20260818-768.webp 768w, /images/optimized/generated/unique/chungbuk-detail-chungbuk-jecheon-cheongpungho-cablecar-uirimji-lake-route-20260818-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/chungbuk-detail-chungbuk-jecheon-cheongpungho-cablecar-uirimji-lake-route-20260818.jpg" alt="제천 의림지 주변 산책로와 물길이 이어지는 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>물가 산책은 풍경이 편안한 만큼 젖은 길과 야간 시야를 함께 고려해야 합니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>물가 산책은 풍경이 편안한 만큼 젖은 길과 야간 시야를 함께 고려해야 합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

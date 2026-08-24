@@ -12,7 +12,7 @@ publishedAt: "2026-06-16"
 updatedAt: "2026-06-16"
 heroImage: "/images/generated/busan-stay-area-generated.jpg"
 imageAlt: "부산 해변 숙소 권역과 도심 풍경"
-imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+imageCredit: "ⓒ한국플레이리스트"
 draft: false
 ---
 
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-160.webp 160w, /images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-240.webp 240w, /images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-320.webp 320w, /images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-330.webp 330w, /images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-360.webp 360w, /images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-480.webp 480w, /images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-520.webp 520w, /images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-640.webp 640w, /images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-680.webp 680w, /images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-768.webp 768w, /images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-960.webp 960w, /images/optimized/generated/unique/busan-station-busan-stay-area-first-trip-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/busan-station-busan-stay-area-first-trip-1.jpg" alt="busan stay area first trip travel guide image - busan station busan stay area first trip 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 부산역 권역이 맞는 경우
@@ -85,7 +85,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-160.webp 160w, /images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-240.webp 240w, /images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-320.webp 320w, /images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-330.webp 330w, /images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-360.webp 360w, /images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-480.webp 480w, /images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-520.webp 520w, /images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-640.webp 640w, /images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-680.webp 680w, /images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-768.webp 768w, /images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-960.webp 960w, /images/optimized/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/busan-jagalchi-market-busan-stay-area-first-trip-1.jpg" alt="busan stay area first trip travel guide image - busan jagalchi market busan stay area first trip 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 해운대·광안리 권역이 맞는 경우
@@ -101,7 +101,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/busan-night-coast-generated-160.webp 160w, /images/optimized/generated/busan-night-coast-generated-240.webp 240w, /images/optimized/generated/busan-night-coast-generated-320.webp 320w, /images/optimized/generated/busan-night-coast-generated-330.webp 330w, /images/optimized/generated/busan-night-coast-generated-360.webp 360w, /images/optimized/generated/busan-night-coast-generated-480.webp 480w, /images/optimized/generated/busan-night-coast-generated-520.webp 520w, /images/optimized/generated/busan-night-coast-generated-640.webp 640w, /images/optimized/generated/busan-night-coast-generated-680.webp 680w, /images/optimized/generated/busan-night-coast-generated-768.webp 768w, /images/optimized/generated/busan-night-coast-generated-960.webp 960w, /images/optimized/generated/busan-night-coast-generated-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/busan-night-coast-generated.jpg" alt="busan stay area first trip travel guide image - busan night coast generated" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 일정별로 권역을 고르는 가장 쉬운 기준

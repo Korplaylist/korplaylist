@@ -12,7 +12,7 @@ publishedAt: "2026-06-25"
 updatedAt: "2026-06-25"
 heroImage: "/images/generated/busan-gimhae-airport-to-gwangalli-hero-generated.jpg"
 imageAlt: "초여름 저녁 광안리 해변 산책로로 여행자들이 캐리어를 끌고 이동하는 모습"
-imageCredit: "한국플레이리스트 이미지 2.0"
+imageCredit: "ⓒ한국플레이리스트"
 draft: false
 ---
 
@@ -91,7 +91,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-160.webp 160w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-240.webp 240w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-320.webp 320w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-330.webp 330w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-360.webp 360w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-480.webp 480w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-520.webp 520w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-640.webp 640w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-680.webp 680w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-768.webp 768w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-960.webp 960w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/busan-gimhae-airport-to-gwangalli-subway-transfer-generated.jpg" alt="김해공항에서 부산 지하철 환승을 위해 승강장으로 이동하는 여행자와 캐리어" width="1536" height="1024" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 짐이 많으면 공항리무진이 체감상 편하다
@@ -107,7 +107,7 @@ Visit Busan은 김해공항에서 해운대 신도시로 가는 공항리무진�
     <source type="image/webp" srcset="/images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-160.webp 160w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-240.webp 240w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-320.webp 320w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-330.webp 330w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-360.webp 360w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-480.webp 480w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-520.webp 520w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-640.webp 640w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-680.webp 680w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-768.webp 768w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-960.webp 960w, /images/optimized/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/busan-gimhae-airport-to-gwangalli-limousine-stop-generated.jpg" alt="광안리 생활권 도로변 공항리무진 정차 지점에서 캐리어를 든 여행자가 내릴 준비를 하는 모습" width="1536" height="1024" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 늦은 도착이거나 2인 이상이면 택시가 계산이 쉬워진다

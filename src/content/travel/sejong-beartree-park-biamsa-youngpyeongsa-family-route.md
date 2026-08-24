@@ -12,7 +12,7 @@ publishedAt: "2026-08-17T18:10:00+09:00"
 updatedAt: "2026-08-17"
 heroImage: "/images/generated/unique/sejong-main-photo-sejong-beartree-park-biamsa-youngpyeongsa-family-route-20260817.jpg"
 imageAlt: "세종 베어트리파크 정원과 숲길이 보이는 가족 나들이 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/sejong-route-sejong-beartree-park-biamsa-youngpyeongsa-family-route-20260817-480.webp 480w, /images/optimized/generated/unique/sejong-route-sejong-beartree-park-biamsa-youngpyeongsa-family-route-20260817-768.webp 768w, /images/optimized/generated/unique/sejong-route-sejong-beartree-park-biamsa-youngpyeongsa-family-route-20260817-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/sejong-route-sejong-beartree-park-biamsa-youngpyeongsa-family-route-20260817.jpg" alt="세종 베어트리파크 연못과 나무 그늘 산책로" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>가족 나들이는 메인 장소 하나를 깊게 보고 나머지는 짧게 붙이는 편이 안정적입니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>가족 나들이는 메인 장소 하나를 깊게 보고 나머지는 짧게 붙이는 편이 안정적입니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/sejong-rest-sejong-beartree-park-biamsa-youngpyeongsa-family-route-20260817-480.webp 480w, /images/optimized/generated/unique/sejong-rest-sejong-beartree-park-biamsa-youngpyeongsa-family-route-20260817-768.webp 768w, /images/optimized/generated/unique/sejong-rest-sejong-beartree-park-biamsa-youngpyeongsa-family-route-20260817-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/sejong-rest-sejong-beartree-park-biamsa-youngpyeongsa-family-route-20260817.jpg" alt="세종 북부 숲길의 그늘 벤치와 가족 나들이 휴식 지점" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>아이와 함께라면 휴식 지점이 코스의 핵심입니다. 다음 장소를 붙이기 전 체력을 먼저 확인하세요. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>아이와 함께라면 휴식 지점이 코스의 핵심입니다. 다음 장소를 붙이기 전 체력을 먼저 확인하세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/sejong-detail-sejong-beartree-park-biamsa-youngpyeongsa-family-route-20260817-480.webp 480w, /images/optimized/generated/unique/sejong-detail-sejong-beartree-park-biamsa-youngpyeongsa-family-route-20260817-768.webp 768w, /images/optimized/generated/unique/sejong-detail-sejong-beartree-park-biamsa-youngpyeongsa-family-route-20260817-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/sejong-detail-sejong-beartree-park-biamsa-youngpyeongsa-family-route-20260817.jpg" alt="세종 북부 사찰 마당과 숲이 어우러진 조용한 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>비암사와 영평사는 조용히 걷는 장소입니다. 가족 코스라도 사찰에서는 속도를 낮추는 편이 좋습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>비암사와 영평사는 조용히 걷는 장소입니다. 가족 코스라도 사찰에서는 속도를 낮추는 편이 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

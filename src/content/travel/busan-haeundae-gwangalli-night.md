@@ -12,7 +12,7 @@ publishedAt: "2026-06-16"
 updatedAt: "2026-06-16"
 heroImage: "/images/generated/unique/busan-night-coast-generated-busan-haeundae-gwangalli-night-1.jpg"
 imageAlt: "부산 해운대와 광안리를 잇는 저녁 해안 산책로"
-imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+imageCredit: "ⓒ한국플레이리스트"
 draft: false
 ---
 
@@ -119,7 +119,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/busan-haeundae-walk-busan-haeundae-gwangalli-night-1-160.webp 160w, /images/optimized/generated/unique/busan-haeundae-walk-busan-haeundae-gwangalli-night-1-240.webp 240w, /images/optimized/generated/unique/busan-haeundae-walk-busan-haeundae-gwangalli-night-1-320.webp 320w, /images/optimized/generated/unique/busan-haeundae-walk-busan-haeundae-gwangalli-night-1-330.webp 330w, /images/optimized/generated/unique/busan-haeundae-walk-busan-haeundae-gwangalli-night-1-360.webp 360w, /images/optimized/generated/unique/busan-haeundae-walk-busan-haeundae-gwangalli-night-1-480.webp 480w, /images/optimized/generated/unique/busan-haeundae-walk-busan-haeundae-gwangalli-night-1-520.webp 520w, /images/optimized/generated/unique/busan-haeundae-walk-busan-haeundae-gwangalli-night-1-640.webp 640w, /images/optimized/generated/unique/busan-haeundae-walk-busan-haeundae-gwangalli-night-1-680.webp 680w, /images/optimized/generated/unique/busan-haeundae-walk-busan-haeundae-gwangalli-night-1-768.webp 768w, /images/optimized/generated/unique/busan-haeundae-walk-busan-haeundae-gwangalli-night-1-960.webp 960w, /images/optimized/generated/unique/busan-haeundae-walk-busan-haeundae-gwangalli-night-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/busan-haeundae-walk-busan-haeundae-gwangalli-night-1.jpg" alt="busan haeundae gwangalli night travel guide image - busan haeundae walk busan haeundae gwangalli night 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 교통과 동선, 어디서 시간이 가장 많이 새나
@@ -135,7 +135,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/busan-gwangan-night-walk-generated-320.webp 320w, /images/optimized/generated/busan-gwangan-night-walk-generated-330.webp 330w, /images/optimized/generated/busan-gwangan-night-walk-generated-360.webp 360w, /images/optimized/generated/busan-gwangan-night-walk-generated-480.webp 480w, /images/optimized/generated/busan-gwangan-night-walk-generated-520.webp 520w, /images/optimized/generated/busan-gwangan-night-walk-generated-640.webp 640w, /images/optimized/generated/busan-gwangan-night-walk-generated-680.webp 680w, /images/optimized/generated/busan-gwangan-night-walk-generated-768.webp 768w, /images/optimized/generated/busan-gwangan-night-walk-generated-960.webp 960w, /images/optimized/generated/busan-gwangan-night-walk-generated-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/busan-gwangan-night-walk-generated.png" alt="busan haeundae gwangalli night travel guide image - busan gwangan night walk generated" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 숙소 위치, 비용, 체류 시간은 어떻게 잡아야 하나

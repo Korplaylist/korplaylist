@@ -12,7 +12,7 @@ publishedAt: "2026-08-15T11:10:00+09:00"
 updatedAt: "2026-08-15"
 heroImage: "/images/generated/unique/gwangju-main-photo2-gwangju-biennale-jungoe-park-art-walk-20260815.jpg"
 imageAlt: "광주비엔날레전시관과 중외공원 예술 산책 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/gwangju-route-gwangju-biennale-jungoe-park-art-walk-1-160.webp 160w, /images/optimized/generated/unique/gwangju-route-gwangju-biennale-jungoe-park-art-walk-1-240.webp 240w, /images/optimized/generated/unique/gwangju-route-gwangju-biennale-jungoe-park-art-walk-1-320.webp 320w, /images/optimized/generated/unique/gwangju-route-gwangju-biennale-jungoe-park-art-walk-1-330.webp 330w, /images/optimized/generated/unique/gwangju-route-gwangju-biennale-jungoe-park-art-walk-1-360.webp 360w, /images/optimized/generated/unique/gwangju-route-gwangju-biennale-jungoe-park-art-walk-1-480.webp 480w, /images/optimized/generated/unique/gwangju-route-gwangju-biennale-jungoe-park-art-walk-1-520.webp 520w, /images/optimized/generated/unique/gwangju-route-gwangju-biennale-jungoe-park-art-walk-1-640.webp 640w, /images/optimized/generated/unique/gwangju-route-gwangju-biennale-jungoe-park-art-walk-1-680.webp 680w, /images/optimized/generated/unique/gwangju-route-gwangju-biennale-jungoe-park-art-walk-1-768.webp 768w, /images/optimized/generated/unique/gwangju-route-gwangju-biennale-jungoe-park-art-walk-1-960.webp 960w, /images/optimized/generated/unique/gwangju-route-gwangju-biennale-jungoe-park-art-walk-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/gwangju-route-gwangju-biennale-jungoe-park-art-walk-1.jpg" alt="광주비엔날레전시관과 중외공원을 잇는 예술 산책 경로 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>전시관을 먼저 확인하고 중외공원 휴식을 뒤에 붙이면 관람 피로를 줄이기 쉽습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>전시관을 먼저 확인하고 중외공원 휴식을 뒤에 붙이면 관람 피로를 줄이기 쉽습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/gwangju-rest-gwangju-biennale-jungoe-park-art-walk-1-160.webp 160w, /images/optimized/generated/unique/gwangju-rest-gwangju-biennale-jungoe-park-art-walk-1-240.webp 240w, /images/optimized/generated/unique/gwangju-rest-gwangju-biennale-jungoe-park-art-walk-1-320.webp 320w, /images/optimized/generated/unique/gwangju-rest-gwangju-biennale-jungoe-park-art-walk-1-330.webp 330w, /images/optimized/generated/unique/gwangju-rest-gwangju-biennale-jungoe-park-art-walk-1-360.webp 360w, /images/optimized/generated/unique/gwangju-rest-gwangju-biennale-jungoe-park-art-walk-1-480.webp 480w, /images/optimized/generated/unique/gwangju-rest-gwangju-biennale-jungoe-park-art-walk-1-520.webp 520w, /images/optimized/generated/unique/gwangju-rest-gwangju-biennale-jungoe-park-art-walk-1-640.webp 640w, /images/optimized/generated/unique/gwangju-rest-gwangju-biennale-jungoe-park-art-walk-1-680.webp 680w, /images/optimized/generated/unique/gwangju-rest-gwangju-biennale-jungoe-park-art-walk-1-768.webp 768w, /images/optimized/generated/unique/gwangju-rest-gwangju-biennale-jungoe-park-art-walk-1-960.webp 960w, /images/optimized/generated/unique/gwangju-rest-gwangju-biennale-jungoe-park-art-walk-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/gwangju-rest-gwangju-biennale-jungoe-park-art-walk-1.jpg" alt="중외공원 주변에서 전시 관람 후 쉬는 여행자 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>전시를 본 뒤 바로 다음 장소로 이동하지 말고 공원 휴식을 넣으면 코스의 밀도가 좋아집니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>전시를 본 뒤 바로 다음 장소로 이동하지 말고 공원 휴식을 넣으면 코스의 밀도가 좋아집니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/gwangju-detail-gwangju-biennale-jungoe-park-art-walk-1-160.webp 160w, /images/optimized/generated/unique/gwangju-detail-gwangju-biennale-jungoe-park-art-walk-1-240.webp 240w, /images/optimized/generated/unique/gwangju-detail-gwangju-biennale-jungoe-park-art-walk-1-320.webp 320w, /images/optimized/generated/unique/gwangju-detail-gwangju-biennale-jungoe-park-art-walk-1-330.webp 330w, /images/optimized/generated/unique/gwangju-detail-gwangju-biennale-jungoe-park-art-walk-1-360.webp 360w, /images/optimized/generated/unique/gwangju-detail-gwangju-biennale-jungoe-park-art-walk-1-480.webp 480w, /images/optimized/generated/unique/gwangju-detail-gwangju-biennale-jungoe-park-art-walk-1-520.webp 520w, /images/optimized/generated/unique/gwangju-detail-gwangju-biennale-jungoe-park-art-walk-1-640.webp 640w, /images/optimized/generated/unique/gwangju-detail-gwangju-biennale-jungoe-park-art-walk-1-680.webp 680w, /images/optimized/generated/unique/gwangju-detail-gwangju-biennale-jungoe-park-art-walk-1-768.webp 768w, /images/optimized/generated/unique/gwangju-detail-gwangju-biennale-jungoe-park-art-walk-1-960.webp 960w, /images/optimized/generated/unique/gwangju-detail-gwangju-biennale-jungoe-park-art-walk-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/gwangju-detail-gwangju-biennale-jungoe-park-art-walk-1.jpg" alt="광주비엔날레전시관 주변에서 전시 일정과 동선을 확인하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>전시 기간과 휴관일은 변동될 수 있으므로 공식 일정과 월별 행사를 함께 확인하세요. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>전시 기간과 휴관일은 변동될 수 있으므로 공식 일정과 월별 행사를 함께 확인하세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

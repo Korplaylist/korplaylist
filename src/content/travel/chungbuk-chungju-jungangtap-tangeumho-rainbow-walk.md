@@ -12,7 +12,7 @@ publishedAt: "2026-08-18T17:20:00+09:00"
 updatedAt: "2026-08-18"
 heroImage: "/images/generated/unique/chungbuk-main-photo-chungbuk-chungju-jungangtap-tangeumho-rainbow-walk-20260818.jpg"
 imageAlt: "충주 중앙탑사적공원 칠층석탑과 탄금호가 보이는 저녁 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/chungbuk-route-chungbuk-chungju-jungangtap-tangeumho-rainbow-walk-20260818-480.webp 480w, /images/optimized/generated/unique/chungbuk-route-chungbuk-chungju-jungangtap-tangeumho-rainbow-walk-20260818-768.webp 768w, /images/optimized/generated/unique/chungbuk-route-chungbuk-chungju-jungangtap-tangeumho-rainbow-walk-20260818-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/chungbuk-route-chungbuk-chungju-jungangtap-tangeumho-rainbow-walk-20260818.jpg" alt="충주 탄금호 무지개길이 물 위로 이어지는 산책 동선" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>무지개길은 단순 이동로가 아니라 물빛과 조명을 보며 천천히 걷는 산책 포인트입니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>무지개길은 단순 이동로가 아니라 물빛과 조명을 보며 천천히 걷는 산책 포인트입니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/chungbuk-rest-chungbuk-chungju-jungangtap-tangeumho-rainbow-walk-20260818-480.webp 480w, /images/optimized/generated/unique/chungbuk-rest-chungbuk-chungju-jungangtap-tangeumho-rainbow-walk-20260818-768.webp 768w, /images/optimized/generated/unique/chungbuk-rest-chungbuk-chungju-jungangtap-tangeumho-rainbow-walk-20260818-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/chungbuk-rest-chungbuk-chungju-jungangtap-tangeumho-rainbow-walk-20260818.jpg" alt="충주 탄금호 물가 벤치와 산책자가 쉬어 가는 공간" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>탄금호 주변은 잠깐 쉬어 가는 지점을 잘 잡으면 짧은 일정도 여유롭게 느껴집니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>탄금호 주변은 잠깐 쉬어 가는 지점을 잘 잡으면 짧은 일정도 여유롭게 느껴집니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/chungbuk-detail-chungbuk-chungju-jungangtap-tangeumho-rainbow-walk-20260818-480.webp 480w, /images/optimized/generated/unique/chungbuk-detail-chungbuk-chungju-jungangtap-tangeumho-rainbow-walk-20260818-768.webp 768w, /images/optimized/generated/unique/chungbuk-detail-chungbuk-chungju-jungangtap-tangeumho-rainbow-walk-20260818-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/chungbuk-detail-chungbuk-chungju-jungangtap-tangeumho-rainbow-walk-20260818.jpg" alt="충주 탄금호 무지개길 야간 조명이 물 위에 비치는 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>야경은 어두워진 뒤보다 해가 진 직후에 보면 길 구조와 조명이 함께 보여 안전합니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>야경은 어두워진 뒤보다 해가 진 직후에 보면 길 구조와 조명이 함께 보여 안전합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

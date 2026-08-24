@@ -12,7 +12,7 @@ publishedAt: "2026-06-26"
 updatedAt: "2026-06-26"
 heroImage: "/images/generated/unique/suwon-banghwasuryujeong-suwon-hwaseong-half-day-1.jpg"
 imageAlt: "초여름 오전 수원 화성 방화수류정과 성곽 연못 풍경"
-imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+imageCredit: "ⓒ한국플레이리스트"
 draft: false
 ---
 
@@ -125,7 +125,7 @@ VISITKOREA 기준으로 화성행궁은 조선 시대 행궁 가운데 가장 �
     <source type="image/webp" srcset="/images/optimized/generated/unique/suwon-haenggung-courtyard-suwon-hwaseong-half-day-1-160.webp 160w, /images/optimized/generated/unique/suwon-haenggung-courtyard-suwon-hwaseong-half-day-1-240.webp 240w, /images/optimized/generated/unique/suwon-haenggung-courtyard-suwon-hwaseong-half-day-1-320.webp 320w, /images/optimized/generated/unique/suwon-haenggung-courtyard-suwon-hwaseong-half-day-1-330.webp 330w, /images/optimized/generated/unique/suwon-haenggung-courtyard-suwon-hwaseong-half-day-1-360.webp 360w, /images/optimized/generated/unique/suwon-haenggung-courtyard-suwon-hwaseong-half-day-1-480.webp 480w, /images/optimized/generated/unique/suwon-haenggung-courtyard-suwon-hwaseong-half-day-1-520.webp 520w, /images/optimized/generated/unique/suwon-haenggung-courtyard-suwon-hwaseong-half-day-1-640.webp 640w, /images/optimized/generated/unique/suwon-haenggung-courtyard-suwon-hwaseong-half-day-1-680.webp 680w, /images/optimized/generated/unique/suwon-haenggung-courtyard-suwon-hwaseong-half-day-1-768.webp 768w, /images/optimized/generated/unique/suwon-haenggung-courtyard-suwon-hwaseong-half-day-1-960.webp 960w, /images/optimized/generated/unique/suwon-haenggung-courtyard-suwon-hwaseong-half-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/suwon-haenggung-courtyard-suwon-hwaseong-half-day-1.jpg" alt="초여름 낮 방문객이 걷는 수원 화성행궁 안뜰 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 반나절 동선을 이렇게 끊으면 무리하지 않는다
@@ -159,7 +159,7 @@ VISITKOREA는 화성어차를 화성행궁 출발 관광 코스와 연무대 출
     <source type="image/webp" srcset="/images/optimized/generated/unique/suwon-haengnidan-street-suwon-hwaseong-half-day-1-160.webp 160w, /images/optimized/generated/unique/suwon-haengnidan-street-suwon-hwaseong-half-day-1-240.webp 240w, /images/optimized/generated/unique/suwon-haengnidan-street-suwon-hwaseong-half-day-1-320.webp 320w, /images/optimized/generated/unique/suwon-haengnidan-street-suwon-hwaseong-half-day-1-330.webp 330w, /images/optimized/generated/unique/suwon-haengnidan-street-suwon-hwaseong-half-day-1-360.webp 360w, /images/optimized/generated/unique/suwon-haengnidan-street-suwon-hwaseong-half-day-1-480.webp 480w, /images/optimized/generated/unique/suwon-haengnidan-street-suwon-hwaseong-half-day-1-520.webp 520w, /images/optimized/generated/unique/suwon-haengnidan-street-suwon-hwaseong-half-day-1-640.webp 640w, /images/optimized/generated/unique/suwon-haengnidan-street-suwon-hwaseong-half-day-1-680.webp 680w, /images/optimized/generated/unique/suwon-haengnidan-street-suwon-hwaseong-half-day-1-768.webp 768w, /images/optimized/generated/unique/suwon-haengnidan-street-suwon-hwaseong-half-day-1-960.webp 960w, /images/optimized/generated/unique/suwon-haengnidan-street-suwon-hwaseong-half-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/suwon-haengnidan-street-suwon-hwaseong-half-day-1.jpg" alt="초여름 늦은 오후 수원 행리단길 골목과 성곽 언덕 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 처음 가는 사람이 많이 하는 실수

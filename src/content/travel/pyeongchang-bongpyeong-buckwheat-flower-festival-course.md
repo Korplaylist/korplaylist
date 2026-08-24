@@ -12,7 +12,7 @@ publishedAt: "2026-08-24T07:30:00+09:00"
 updatedAt: "2026-08-24T07:30:00+09:00"
 heroImage: "/images/generated/unique/ko-pyeongchang-buckwheat-field-pyeongchang-bongpyeong-buckwheat-flower-festival-course-1-v1.jpg"
 imageAlt: "평창 봉평의 하얀 메밀꽃밭과 낮은 산이 보이는 가을 여행 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -41,7 +41,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-pyeongchang-hyoseok-village-pyeongchang-bongpyeong-buckwheat-flower-festival-course-2-v1-160.webp 160w, /images/optimized/generated/unique/ko-pyeongchang-hyoseok-village-pyeongchang-bongpyeong-buckwheat-flower-festival-course-2-v1-240.webp 240w, /images/optimized/generated/unique/ko-pyeongchang-hyoseok-village-pyeongchang-bongpyeong-buckwheat-flower-festival-course-2-v1-320.webp 320w, /images/optimized/generated/unique/ko-pyeongchang-hyoseok-village-pyeongchang-bongpyeong-buckwheat-flower-festival-course-2-v1-330.webp 330w, /images/optimized/generated/unique/ko-pyeongchang-hyoseok-village-pyeongchang-bongpyeong-buckwheat-flower-festival-course-2-v1-360.webp 360w, /images/optimized/generated/unique/ko-pyeongchang-hyoseok-village-pyeongchang-bongpyeong-buckwheat-flower-festival-course-2-v1-480.webp 480w, /images/optimized/generated/unique/ko-pyeongchang-hyoseok-village-pyeongchang-bongpyeong-buckwheat-flower-festival-course-2-v1-520.webp 520w, /images/optimized/generated/unique/ko-pyeongchang-hyoseok-village-pyeongchang-bongpyeong-buckwheat-flower-festival-course-2-v1-640.webp 640w, /images/optimized/generated/unique/ko-pyeongchang-hyoseok-village-pyeongchang-bongpyeong-buckwheat-flower-festival-course-2-v1-680.webp 680w, /images/optimized/generated/unique/ko-pyeongchang-hyoseok-village-pyeongchang-bongpyeong-buckwheat-flower-festival-course-2-v1-768.webp 768w, /images/optimized/generated/unique/ko-pyeongchang-hyoseok-village-pyeongchang-bongpyeong-buckwheat-flower-festival-course-2-v1-960.webp 960w, /images/optimized/generated/unique/ko-pyeongchang-hyoseok-village-pyeongchang-bongpyeong-buckwheat-flower-festival-course-2-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-pyeongchang-hyoseok-village-pyeongchang-bongpyeong-buckwheat-flower-festival-course-2-v1.jpg" alt="평창 봉평 효석문화마을 주변을 걷는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>봉평은 꽃밭만 찍고 끝내기보다 마을길과 문학 공간을 함께 걸을 때 여행의 밀도가 좋아집니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>봉평은 꽃밭만 찍고 끝내기보다 마을길과 문학 공간을 함께 걸을 때 여행의 밀도가 좋아집니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -63,7 +63,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-pyeongchang-bongpyeong-stream-pyeongchang-bongpyeong-buckwheat-flower-festival-course-3-v1-160.webp 160w, /images/optimized/generated/unique/ko-pyeongchang-bongpyeong-stream-pyeongchang-bongpyeong-buckwheat-flower-festival-course-3-v1-240.webp 240w, /images/optimized/generated/unique/ko-pyeongchang-bongpyeong-stream-pyeongchang-bongpyeong-buckwheat-flower-festival-course-3-v1-320.webp 320w, /images/optimized/generated/unique/ko-pyeongchang-bongpyeong-stream-pyeongchang-bongpyeong-buckwheat-flower-festival-course-3-v1-330.webp 330w, /images/optimized/generated/unique/ko-pyeongchang-bongpyeong-stream-pyeongchang-bongpyeong-buckwheat-flower-festival-course-3-v1-360.webp 360w, /images/optimized/generated/unique/ko-pyeongchang-bongpyeong-stream-pyeongchang-bongpyeong-buckwheat-flower-festival-course-3-v1-480.webp 480w, /images/optimized/generated/unique/ko-pyeongchang-bongpyeong-stream-pyeongchang-bongpyeong-buckwheat-flower-festival-course-3-v1-520.webp 520w, /images/optimized/generated/unique/ko-pyeongchang-bongpyeong-stream-pyeongchang-bongpyeong-buckwheat-flower-festival-course-3-v1-640.webp 640w, /images/optimized/generated/unique/ko-pyeongchang-bongpyeong-stream-pyeongchang-bongpyeong-buckwheat-flower-festival-course-3-v1-680.webp 680w, /images/optimized/generated/unique/ko-pyeongchang-bongpyeong-stream-pyeongchang-bongpyeong-buckwheat-flower-festival-course-3-v1-768.webp 768w, /images/optimized/generated/unique/ko-pyeongchang-bongpyeong-stream-pyeongchang-bongpyeong-buckwheat-flower-festival-course-3-v1-960.webp 960w, /images/optimized/generated/unique/ko-pyeongchang-bongpyeong-stream-pyeongchang-bongpyeong-buckwheat-flower-festival-course-3-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-pyeongchang-bongpyeong-stream-pyeongchang-bongpyeong-buckwheat-flower-festival-course-3-v1.jpg" alt="평창 봉평 마을의 개울과 작은 다리 주변 가을 산책 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>꽃밭 사이 일정이 붐비면 개울과 마을길처럼 낮은 속도의 산책 구간을 넣어 피로를 줄일 수 있습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>꽃밭 사이 일정이 붐비면 개울과 마을길처럼 낮은 속도의 산책 구간을 넣어 피로를 줄일 수 있습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -83,7 +83,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-pyeongchang-buckwheat-food-pyeongchang-bongpyeong-buckwheat-flower-festival-course-4-v1-160.webp 160w, /images/optimized/generated/unique/ko-pyeongchang-buckwheat-food-pyeongchang-bongpyeong-buckwheat-flower-festival-course-4-v1-240.webp 240w, /images/optimized/generated/unique/ko-pyeongchang-buckwheat-food-pyeongchang-bongpyeong-buckwheat-flower-festival-course-4-v1-320.webp 320w, /images/optimized/generated/unique/ko-pyeongchang-buckwheat-food-pyeongchang-bongpyeong-buckwheat-flower-festival-course-4-v1-330.webp 330w, /images/optimized/generated/unique/ko-pyeongchang-buckwheat-food-pyeongchang-bongpyeong-buckwheat-flower-festival-course-4-v1-360.webp 360w, /images/optimized/generated/unique/ko-pyeongchang-buckwheat-food-pyeongchang-bongpyeong-buckwheat-flower-festival-course-4-v1-480.webp 480w, /images/optimized/generated/unique/ko-pyeongchang-buckwheat-food-pyeongchang-bongpyeong-buckwheat-flower-festival-course-4-v1-520.webp 520w, /images/optimized/generated/unique/ko-pyeongchang-buckwheat-food-pyeongchang-bongpyeong-buckwheat-flower-festival-course-4-v1-640.webp 640w, /images/optimized/generated/unique/ko-pyeongchang-buckwheat-food-pyeongchang-bongpyeong-buckwheat-flower-festival-course-4-v1-680.webp 680w, /images/optimized/generated/unique/ko-pyeongchang-buckwheat-food-pyeongchang-bongpyeong-buckwheat-flower-festival-course-4-v1-768.webp 768w, /images/optimized/generated/unique/ko-pyeongchang-buckwheat-food-pyeongchang-bongpyeong-buckwheat-flower-festival-course-4-v1-960.webp 960w, /images/optimized/generated/unique/ko-pyeongchang-buckwheat-food-pyeongchang-bongpyeong-buckwheat-flower-festival-course-4-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-pyeongchang-buckwheat-food-pyeongchang-bongpyeong-buckwheat-flower-festival-course-4-v1.jpg" alt="평창 봉평 메밀국수와 지역 먹거리를 준비하는 음식거리 분위기" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>봉평 코스는 식사 시간이 밀리면 전체 일정이 흔들리므로 꽃밭만큼 점심 동선을 미리 잡는 것이 중요합니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>봉평 코스는 식사 시간이 밀리면 전체 일정이 흔들리므로 꽃밭만큼 점심 동선을 미리 잡는 것이 중요합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트
@@ -112,7 +112,7 @@ draft: false
 
 출발 전에는 축제 날짜, 주차 안내, 꽃밭 개방 구간, 식사 후보를 차례로 확인하세요. 봉평은 축제 분위기가 좋지만, 현장에 도착한 뒤 정보를 찾기 시작하면 가장 좋은 시간을 놓치기 쉽습니다. 지도에는 가까워 보이는 지점도 사람 흐름과 임시 동선 때문에 오래 걸릴 수 있으므로 첫 방문자는 이동 시간을 넉넉히 잡는 편이 좋습니다.
 
-메밀꽃이 기대보다 덜 피었을 때의 대안도 미리 생각해 두세요. 효석문화마을 산책, 문학 공간, 메밀 음식, 카페를 연결하면 꽃 상태 하나에 일정이 흔들리지 않습니다. 반대로 꽃이 좋다면 전시와 체험을 줄이고 꽃밭 체류 시간을 늘리는 방식으로 조정하면 됩니다.
+메밀꽃이 기대보다 덜 피었을 때의 대안도 미리 생각해 두세요. 효석문화마을 산책, 문학 공간, 메밀 음식, 카페를 연결하면 꽃 상태 하나에 일정이 흔들리지 않습니다. 반대로 꽃이 좋다면 전시와 체험을 줄이고 꽃밭 체류 시간을 늘리는 방식으로 조정하면 됩니다. 현장 대기가 길면 식사와 카페를 먼저 넣어도 전체 흐름이 크게 깨지지 않습니다.
 
 ## 함께 보면 좋은 글
 

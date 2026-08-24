@@ -12,7 +12,7 @@ publishedAt: "2026-06-16"
 updatedAt: "2026-06-16"
 heroImage: "/images/generated/unique/busan-station-route-generated-busan-station-half-day-1.jpg"
 imageAlt: "부산역 주변 도심 출발 동선"
-imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+imageCredit: "ⓒ한국플레이리스트"
 draft: false
 ---
 
@@ -119,7 +119,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/busan-hillside-village-generated-busan-station-half-day-1-160.webp 160w, /images/optimized/generated/unique/busan-hillside-village-generated-busan-station-half-day-1-240.webp 240w, /images/optimized/generated/unique/busan-hillside-village-generated-busan-station-half-day-1-320.webp 320w, /images/optimized/generated/unique/busan-hillside-village-generated-busan-station-half-day-1-330.webp 330w, /images/optimized/generated/unique/busan-hillside-village-generated-busan-station-half-day-1-360.webp 360w, /images/optimized/generated/unique/busan-hillside-village-generated-busan-station-half-day-1-480.webp 480w, /images/optimized/generated/unique/busan-hillside-village-generated-busan-station-half-day-1-520.webp 520w, /images/optimized/generated/unique/busan-hillside-village-generated-busan-station-half-day-1-640.webp 640w, /images/optimized/generated/unique/busan-hillside-village-generated-busan-station-half-day-1-680.webp 680w, /images/optimized/generated/unique/busan-hillside-village-generated-busan-station-half-day-1-768.webp 768w, /images/optimized/generated/unique/busan-hillside-village-generated-busan-station-half-day-1-960.webp 960w, /images/optimized/generated/unique/busan-hillside-village-generated-busan-station-half-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/busan-hillside-village-generated-busan-station-half-day-1.jpg" alt="busan station half day travel guide image - busan hillside village generated busan station half day 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 짐 보관, 이동, 도착 시간대별 운영 팁

@@ -12,7 +12,7 @@ publishedAt: "2026-08-24T07:50:00+09:00"
 updatedAt: "2026-08-24T07:50:00+09:00"
 heroImage: "/images/generated/unique/ko-suncheonman-garden-path-suncheonman-garden-wetland-reed-day-route-1-v1.jpg"
 imageAlt: "순천만 국가정원 산책로와 꽃밭을 걷는 전남 여행 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -41,7 +41,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-suncheonman-wetland-boardwalk-suncheonman-garden-wetland-reed-day-route-2-v1-160.webp 160w, /images/optimized/generated/unique/ko-suncheonman-wetland-boardwalk-suncheonman-garden-wetland-reed-day-route-2-v1-240.webp 240w, /images/optimized/generated/unique/ko-suncheonman-wetland-boardwalk-suncheonman-garden-wetland-reed-day-route-2-v1-320.webp 320w, /images/optimized/generated/unique/ko-suncheonman-wetland-boardwalk-suncheonman-garden-wetland-reed-day-route-2-v1-330.webp 330w, /images/optimized/generated/unique/ko-suncheonman-wetland-boardwalk-suncheonman-garden-wetland-reed-day-route-2-v1-360.webp 360w, /images/optimized/generated/unique/ko-suncheonman-wetland-boardwalk-suncheonman-garden-wetland-reed-day-route-2-v1-480.webp 480w, /images/optimized/generated/unique/ko-suncheonman-wetland-boardwalk-suncheonman-garden-wetland-reed-day-route-2-v1-520.webp 520w, /images/optimized/generated/unique/ko-suncheonman-wetland-boardwalk-suncheonman-garden-wetland-reed-day-route-2-v1-640.webp 640w, /images/optimized/generated/unique/ko-suncheonman-wetland-boardwalk-suncheonman-garden-wetland-reed-day-route-2-v1-680.webp 680w, /images/optimized/generated/unique/ko-suncheonman-wetland-boardwalk-suncheonman-garden-wetland-reed-day-route-2-v1-768.webp 768w, /images/optimized/generated/unique/ko-suncheonman-wetland-boardwalk-suncheonman-garden-wetland-reed-day-route-2-v1-960.webp 960w, /images/optimized/generated/unique/ko-suncheonman-wetland-boardwalk-suncheonman-garden-wetland-reed-day-route-2-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-suncheonman-wetland-boardwalk-suncheonman-garden-wetland-reed-day-route-2-v1.jpg" alt="순천만습지 갈대밭 사이 데크길을 걷는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>순천만습지는 갈대길과 노을 시간이 핵심이므로 늦은 오후 체력과 입장마감 시간을 함께 계산해야 합니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>순천만습지는 갈대길과 노을 시간이 핵심이므로 늦은 오후 체력과 입장마감 시간을 함께 계산해야 합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -63,7 +63,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-suncheonman-reed-sunset-suncheonman-garden-wetland-reed-day-route-3-v1-160.webp 160w, /images/optimized/generated/unique/ko-suncheonman-reed-sunset-suncheonman-garden-wetland-reed-day-route-3-v1-240.webp 240w, /images/optimized/generated/unique/ko-suncheonman-reed-sunset-suncheonman-garden-wetland-reed-day-route-3-v1-320.webp 320w, /images/optimized/generated/unique/ko-suncheonman-reed-sunset-suncheonman-garden-wetland-reed-day-route-3-v1-330.webp 330w, /images/optimized/generated/unique/ko-suncheonman-reed-sunset-suncheonman-garden-wetland-reed-day-route-3-v1-360.webp 360w, /images/optimized/generated/unique/ko-suncheonman-reed-sunset-suncheonman-garden-wetland-reed-day-route-3-v1-480.webp 480w, /images/optimized/generated/unique/ko-suncheonman-reed-sunset-suncheonman-garden-wetland-reed-day-route-3-v1-520.webp 520w, /images/optimized/generated/unique/ko-suncheonman-reed-sunset-suncheonman-garden-wetland-reed-day-route-3-v1-640.webp 640w, /images/optimized/generated/unique/ko-suncheonman-reed-sunset-suncheonman-garden-wetland-reed-day-route-3-v1-680.webp 680w, /images/optimized/generated/unique/ko-suncheonman-reed-sunset-suncheonman-garden-wetland-reed-day-route-3-v1-768.webp 768w, /images/optimized/generated/unique/ko-suncheonman-reed-sunset-suncheonman-garden-wetland-reed-day-route-3-v1-960.webp 960w, /images/optimized/generated/unique/ko-suncheonman-reed-sunset-suncheonman-garden-wetland-reed-day-route-3-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-suncheonman-reed-sunset-suncheonman-garden-wetland-reed-day-route-3-v1.jpg" alt="순천만 갈대밭과 물길 위로 해가 지는 노을 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>노을은 보장되는 장면이 아니므로 날씨가 흐리면 갈대 산책 자체를 목표로 바꾸는 편이 좋습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>노을은 보장되는 장면이 아니므로 날씨가 흐리면 갈대 산책 자체를 목표로 바꾸는 편이 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -83,7 +83,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-suncheonman-transfer-rest-suncheonman-garden-wetland-reed-day-route-4-v1-160.webp 160w, /images/optimized/generated/unique/ko-suncheonman-transfer-rest-suncheonman-garden-wetland-reed-day-route-4-v1-240.webp 240w, /images/optimized/generated/unique/ko-suncheonman-transfer-rest-suncheonman-garden-wetland-reed-day-route-4-v1-320.webp 320w, /images/optimized/generated/unique/ko-suncheonman-transfer-rest-suncheonman-garden-wetland-reed-day-route-4-v1-330.webp 330w, /images/optimized/generated/unique/ko-suncheonman-transfer-rest-suncheonman-garden-wetland-reed-day-route-4-v1-360.webp 360w, /images/optimized/generated/unique/ko-suncheonman-transfer-rest-suncheonman-garden-wetland-reed-day-route-4-v1-480.webp 480w, /images/optimized/generated/unique/ko-suncheonman-transfer-rest-suncheonman-garden-wetland-reed-day-route-4-v1-520.webp 520w, /images/optimized/generated/unique/ko-suncheonman-transfer-rest-suncheonman-garden-wetland-reed-day-route-4-v1-640.webp 640w, /images/optimized/generated/unique/ko-suncheonman-transfer-rest-suncheonman-garden-wetland-reed-day-route-4-v1-680.webp 680w, /images/optimized/generated/unique/ko-suncheonman-transfer-rest-suncheonman-garden-wetland-reed-day-route-4-v1-768.webp 768w, /images/optimized/generated/unique/ko-suncheonman-transfer-rest-suncheonman-garden-wetland-reed-day-route-4-v1-960.webp 960w, /images/optimized/generated/unique/ko-suncheonman-transfer-rest-suncheonman-garden-wetland-reed-day-route-4-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-suncheonman-transfer-rest-suncheonman-garden-wetland-reed-day-route-4-v1.jpg" alt="순천만 국가정원 안에서 이동 전 벤치와 셔틀 주변에서 쉬는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>국가정원과 습지를 하루에 묶을 때는 중간 휴식이 일정 성공률을 좌우합니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>국가정원과 습지를 하루에 묶을 때는 중간 휴식이 일정 성공률을 좌우합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

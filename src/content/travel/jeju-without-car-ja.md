@@ -164,7 +164,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/jeju-three-day-first-content-jeju-without-car-guide-1-160.webp 160w, /images/optimized/generated/unique/jeju-three-day-first-content-jeju-without-car-guide-1-240.webp 240w, /images/optimized/generated/unique/jeju-three-day-first-content-jeju-without-car-guide-1-320.webp 320w, /images/optimized/generated/unique/jeju-three-day-first-content-jeju-without-car-guide-1-330.webp 330w, /images/optimized/generated/unique/jeju-three-day-first-content-jeju-without-car-guide-1-360.webp 360w, /images/optimized/generated/unique/jeju-three-day-first-content-jeju-without-car-guide-1-480.webp 480w, /images/optimized/generated/unique/jeju-three-day-first-content-jeju-without-car-guide-1-520.webp 520w, /images/optimized/generated/unique/jeju-three-day-first-content-jeju-without-car-guide-1-640.webp 640w, /images/optimized/generated/unique/jeju-three-day-first-content-jeju-without-car-guide-1-680.webp 680w, /images/optimized/generated/unique/jeju-three-day-first-content-jeju-without-car-guide-1-768.webp 768w, /images/optimized/generated/unique/jeju-three-day-first-content-jeju-without-car-guide-1-960.webp 960w, /images/optimized/generated/unique/jeju-three-day-first-content-jeju-without-car-guide-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/jeju-three-day-first-content-jeju-without-car-guide-1.jpg" alt="jeju without car travel guide image - jeju three day first content jeju without car guide 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 時間帯ごとの考え方
@@ -180,7 +180,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/jeju-west-coast-sunset-generated-160.webp 160w, /images/optimized/generated/jeju-west-coast-sunset-generated-240.webp 240w, /images/optimized/generated/jeju-west-coast-sunset-generated-320.webp 320w, /images/optimized/generated/jeju-west-coast-sunset-generated-330.webp 330w, /images/optimized/generated/jeju-west-coast-sunset-generated-360.webp 360w, /images/optimized/generated/jeju-west-coast-sunset-generated-480.webp 480w, /images/optimized/generated/jeju-west-coast-sunset-generated-520.webp 520w, /images/optimized/generated/jeju-west-coast-sunset-generated-640.webp 640w, /images/optimized/generated/jeju-west-coast-sunset-generated-680.webp 680w, /images/optimized/generated/jeju-west-coast-sunset-generated-768.webp 768w, /images/optimized/generated/jeju-west-coast-sunset-generated-960.webp 960w, /images/optimized/generated/jeju-west-coast-sunset-generated-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/jeju-west-coast-sunset-generated.jpg" alt="jeju without car travel guide image - jeju west coast sunset generated" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 公共交通・タクシー・レンタカーの選び方
@@ -213,7 +213,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/jeju-2-jeju-without-car-guide-1-160.webp 160w, /images/optimized/generated/unique/jeju-2-jeju-without-car-guide-1-240.webp 240w, /images/optimized/generated/unique/jeju-2-jeju-without-car-guide-1-320.webp 320w, /images/optimized/generated/unique/jeju-2-jeju-without-car-guide-1-330.webp 330w, /images/optimized/generated/unique/jeju-2-jeju-without-car-guide-1-360.webp 360w, /images/optimized/generated/unique/jeju-2-jeju-without-car-guide-1-480.webp 480w, /images/optimized/generated/unique/jeju-2-jeju-without-car-guide-1-520.webp 520w, /images/optimized/generated/unique/jeju-2-jeju-without-car-guide-1-640.webp 640w, /images/optimized/generated/unique/jeju-2-jeju-without-car-guide-1-680.webp 680w, /images/optimized/generated/unique/jeju-2-jeju-without-car-guide-1-768.webp 768w, /images/optimized/generated/unique/jeju-2-jeju-without-car-guide-1-960.webp 960w, /images/optimized/generated/unique/jeju-2-jeju-without-car-guide-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/jeju-2-jeju-without-car-guide-1.jpg" alt="jeju without car travel guide image - jeju 2 jeju without car guide 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 宿泊エリアと食事のタイミング
@@ -233,7 +233,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-without-car-guide-2-160.webp 160w, /images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-without-car-guide-2-240.webp 240w, /images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-without-car-guide-2-320.webp 320w, /images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-without-car-guide-2-330.webp 330w, /images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-without-car-guide-2-360.webp 360w, /images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-without-car-guide-2-480.webp 480w, /images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-without-car-guide-2-520.webp 520w, /images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-without-car-guide-2-640.webp 640w, /images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-without-car-guide-2-680.webp 680w, /images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-without-car-guide-2-768.webp 768w, /images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-without-car-guide-2-960.webp 960w, /images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-without-car-guide-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/jeju-east-coast-route-generated-jeju-without-car-guide-2.jpg" alt="jeju without car travel guide image - jeju east coast route generated jeju without car guide 2" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 季節別の注意点

@@ -12,7 +12,7 @@ publishedAt: "2026-08-24T08:30:00+09:00"
 updatedAt: "2026-08-24T08:30:00+09:00"
 heroImage: "/images/generated/unique/ko-pocheon-sanjeong-lake-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-1-v1.jpg"
 imageAlt: "포천 산정호수 산책로와 가을 산이 물에 비치는 경기 여행 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -41,7 +41,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-pocheon-myeongseongsan-silvergrass-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-2-v1-160.webp 160w, /images/optimized/generated/unique/ko-pocheon-myeongseongsan-silvergrass-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-2-v1-240.webp 240w, /images/optimized/generated/unique/ko-pocheon-myeongseongsan-silvergrass-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-2-v1-320.webp 320w, /images/optimized/generated/unique/ko-pocheon-myeongseongsan-silvergrass-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-2-v1-330.webp 330w, /images/optimized/generated/unique/ko-pocheon-myeongseongsan-silvergrass-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-2-v1-360.webp 360w, /images/optimized/generated/unique/ko-pocheon-myeongseongsan-silvergrass-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-2-v1-480.webp 480w, /images/optimized/generated/unique/ko-pocheon-myeongseongsan-silvergrass-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-2-v1-520.webp 520w, /images/optimized/generated/unique/ko-pocheon-myeongseongsan-silvergrass-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-2-v1-640.webp 640w, /images/optimized/generated/unique/ko-pocheon-myeongseongsan-silvergrass-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-2-v1-680.webp 680w, /images/optimized/generated/unique/ko-pocheon-myeongseongsan-silvergrass-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-2-v1-768.webp 768w, /images/optimized/generated/unique/ko-pocheon-myeongseongsan-silvergrass-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-2-v1-960.webp 960w, /images/optimized/generated/unique/ko-pocheon-myeongseongsan-silvergrass-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-2-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-pocheon-myeongseongsan-silvergrass-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-2-v1.jpg" alt="포천 명성산 억새 능선길을 따라 걷는 가을 등산객들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>명성산 억새길은 풍경이 크지만 체력과 장비가 필요한 구간이므로 호수 산책과 같은 기준으로 보면 안 됩니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>명성산 억새길은 풍경이 크지만 체력과 장비가 필요한 구간이므로 호수 산책과 같은 기준으로 보면 안 됩니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -63,7 +63,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-pocheon-autumn-trail-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-3-v1-160.webp 160w, /images/optimized/generated/unique/ko-pocheon-autumn-trail-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-3-v1-240.webp 240w, /images/optimized/generated/unique/ko-pocheon-autumn-trail-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-3-v1-320.webp 320w, /images/optimized/generated/unique/ko-pocheon-autumn-trail-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-3-v1-330.webp 330w, /images/optimized/generated/unique/ko-pocheon-autumn-trail-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-3-v1-360.webp 360w, /images/optimized/generated/unique/ko-pocheon-autumn-trail-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-3-v1-480.webp 480w, /images/optimized/generated/unique/ko-pocheon-autumn-trail-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-3-v1-520.webp 520w, /images/optimized/generated/unique/ko-pocheon-autumn-trail-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-3-v1-640.webp 640w, /images/optimized/generated/unique/ko-pocheon-autumn-trail-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-3-v1-680.webp 680w, /images/optimized/generated/unique/ko-pocheon-autumn-trail-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-3-v1-768.webp 768w, /images/optimized/generated/unique/ko-pocheon-autumn-trail-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-3-v1-960.webp 960w, /images/optimized/generated/unique/ko-pocheon-autumn-trail-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-3-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-pocheon-autumn-trail-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-3-v1.jpg" alt="포천 명성산 주변 가을 숲길과 쉬어가는 산책 계단" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>억새길로 들어가기 전에는 길 상태와 동행자 체력을 확인하고, 무리하면 호수 산책으로 줄이는 기준을 세우세요. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>억새길로 들어가기 전에는 길 상태와 동행자 체력을 확인하고, 무리하면 호수 산책으로 줄이는 기준을 세우세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -83,7 +83,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-pocheon-lakeside-rest-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-4-v1-160.webp 160w, /images/optimized/generated/unique/ko-pocheon-lakeside-rest-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-4-v1-240.webp 240w, /images/optimized/generated/unique/ko-pocheon-lakeside-rest-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-4-v1-320.webp 320w, /images/optimized/generated/unique/ko-pocheon-lakeside-rest-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-4-v1-330.webp 330w, /images/optimized/generated/unique/ko-pocheon-lakeside-rest-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-4-v1-360.webp 360w, /images/optimized/generated/unique/ko-pocheon-lakeside-rest-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-4-v1-480.webp 480w, /images/optimized/generated/unique/ko-pocheon-lakeside-rest-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-4-v1-520.webp 520w, /images/optimized/generated/unique/ko-pocheon-lakeside-rest-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-4-v1-640.webp 640w, /images/optimized/generated/unique/ko-pocheon-lakeside-rest-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-4-v1-680.webp 680w, /images/optimized/generated/unique/ko-pocheon-lakeside-rest-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-4-v1-768.webp 768w, /images/optimized/generated/unique/ko-pocheon-lakeside-rest-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-4-v1-960.webp 960w, /images/optimized/generated/unique/ko-pocheon-lakeside-rest-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-4-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-pocheon-lakeside-rest-pocheon-sanjeong-lake-myeongseongsan-silvergrass-course-4-v1.jpg" alt="포천 산정호수 주변 호수 전망 휴식 공간에서 쉬는 여행자들" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>산정호수 주변 휴식 시간을 남겨두면 억새길을 줄여도 하루 여행의 만족도가 유지됩니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>산정호수 주변 휴식 시간을 남겨두면 억새길을 줄여도 하루 여행의 만족도가 유지됩니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트
@@ -114,7 +114,7 @@ draft: false
 
 명성산을 넣을 때는 사진 욕심보다 하산 시간을 먼저 정하세요. 억새길은 빛이 좋을수록 더 걷고 싶어지지만, 돌아오는 길까지 계산해야 안전합니다. 날씨가 흐리거나 바람이 강하면 산정호수 주변 산책, 식사, 카페 중심으로 줄여도 가을 여행의 분위기는 충분히 남습니다.
 
-초행자라면 등산 앱의 예상 시간만 믿지 말고 휴식과 사진 시간을 따로 더하세요. 억새가 많은 시기에는 같은 길도 더 천천히 움직이게 됩니다.
+초행자라면 등산 앱의 예상 시간만 믿지 말고 휴식과 사진 시간을 따로 더하세요. 억새가 많은 시기에는 같은 길도 더 천천히 움직이게 됩니다. 내려온 뒤 식사나 카페까지 붙일 예정이라면 하산 기준 시간을 더 보수적으로 잡으세요.
 
 ## 함께 보면 좋은 글
 

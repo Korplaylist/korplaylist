@@ -12,7 +12,7 @@ publishedAt: "2026-07-06T07:57:00+09:00"
 updatedAt: "2026-07-06T07:57:00+09:00"
 heroImage: "/images/generated/unique/seoul-line-2-rain-start-seoul-line-2-indoor-rainy-day-1.jpg"
 imageAlt: "여름비가 내리는 서울 성수역 2호선 출구 앞에서 우산과 휴대폰을 정리하며 실내 여행을 시작하는 여행자들"
-imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+imageCredit: "ⓒ한국플레이리스트"
 draft: false
 ---
 
@@ -129,7 +129,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-160.webp 160w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-240.webp 240w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-320.webp 320w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-330.webp 330w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-360.webp 360w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-480.webp 480w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-520.webp 520w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-640.webp 640w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-680.webp 680w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-768.webp 768w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-960.webp 960w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1.jpg" alt="비 오는 성수의 공장형 실내 편집숍 복도에서 쇼핑하는 여행자들" width="1536" height="1024" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 잠실은 한 구역에서 점심과 핵심 체류를 끝내야 만족도가 높다
@@ -174,7 +174,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-160.webp 160w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-240.webp 240w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-320.webp 320w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-330.webp 330w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-360.webp 360w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-480.webp 480w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-520.webp 520w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-640.webp 640w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-680.webp 680w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-768.webp 768w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-960.webp 960w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1.jpg" alt="비 내리는 잠실 대형 실내 복합공간에서 다음 일정 선택지를 살피는 여행자들" width="1536" height="1024" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 삼성은 코엑스몰에서 쉬고 정리하는 마무리 구간으로 쓰는 편이 낫다
@@ -222,7 +222,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-160.webp 160w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-240.webp 240w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-320.webp 320w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-330.webp 330w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-360.webp 360w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-480.webp 480w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-520.webp 520w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-640.webp 640w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-680.webp 680w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-768.webp 768w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-960.webp 960w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1.jpg" alt="비 오는 저녁 삼성 코엑스의 도서관형 휴식 공간에서 잠시 쉬는 여행자들" width="1536" height="1024" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 자주 하는 실수

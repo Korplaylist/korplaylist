@@ -12,7 +12,7 @@ publishedAt: "2026-08-16T18:00:00+09:00"
 updatedAt: "2026-08-16"
 heroImage: "/images/generated/unique/ulsan-main-photo-oegosan-onggi-village-half-day-20260816.jpg"
 imageAlt: "울산 외고산 옹기마을의 장독대와 전통 건물 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ulsan-route-oegosan-onggi-village-half-day-20260816-480.webp 480w, /images/optimized/generated/unique/ulsan-route-oegosan-onggi-village-half-day-20260816-768.webp 768w, /images/optimized/generated/unique/ulsan-route-oegosan-onggi-village-half-day-20260816-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ulsan-route-oegosan-onggi-village-half-day-20260816.jpg" alt="외고산 옹기마을 전통 건물과 옹기 전시 사이 산책로" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>외고산 옹기마을은 전시와 마을길을 한 방향으로 묶어야 동선이 산만해지지 않습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>외고산 옹기마을은 전시와 마을길을 한 방향으로 묶어야 동선이 산만해지지 않습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ulsan-rest-oegosan-onggi-village-half-day-20260816-480.webp 480w, /images/optimized/generated/unique/ulsan-rest-oegosan-onggi-village-half-day-20260816-768.webp 768w, /images/optimized/generated/unique/ulsan-rest-oegosan-onggi-village-half-day-20260816-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ulsan-rest-oegosan-onggi-village-half-day-20260816.jpg" alt="외고산 옹기마을 장독대 옆 그늘 쉼터" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>마을 산책 중간에 앉을 곳을 정해 두면 아이와 부모님 동행 모두 훨씬 편해집니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>마을 산책 중간에 앉을 곳을 정해 두면 아이와 부모님 동행 모두 훨씬 편해집니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ulsan-detail-oegosan-onggi-village-half-day-20260816-480.webp 480w, /images/optimized/generated/unique/ulsan-detail-oegosan-onggi-village-half-day-20260816-768.webp 768w, /images/optimized/generated/unique/ulsan-detail-oegosan-onggi-village-half-day-20260816-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ulsan-detail-oegosan-onggi-village-half-day-20260816.jpg" alt="외고산 옹기마을의 옹기와 흙가마 질감 close-up" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>옹기마을의 매력은 큰 전망보다 흙과 옹기 질감에 있습니다. 천천히 가까운 디테일을 보는 코스가 좋습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>옹기마을의 매력은 큰 전망보다 흙과 옹기 질감에 있습니다. 천천히 가까운 디테일을 보는 코스가 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

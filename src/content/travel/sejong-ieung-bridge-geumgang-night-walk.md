@@ -12,7 +12,7 @@ publishedAt: "2026-08-17T14:50:00+09:00"
 updatedAt: "2026-08-17"
 heroImage: "/images/generated/unique/sejong-main-photo-sejong-ieung-bridge-geumgang-night-walk-20260817.jpg"
 imageAlt: "세종 이응다리 금강보행교가 해질 무렵 조명과 함께 보이는 야경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/sejong-route-sejong-ieung-bridge-geumgang-night-walk-20260817-480.webp 480w, /images/optimized/generated/unique/sejong-route-sejong-ieung-bridge-geumgang-night-walk-20260817-768.webp 768w, /images/optimized/generated/unique/sejong-route-sejong-ieung-bridge-geumgang-night-walk-20260817-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/sejong-route-sejong-ieung-bridge-geumgang-night-walk-20260817.jpg" alt="세종 이응다리 보행 데크와 야간 조명이 이어지는 길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>이응다리는 걷는 길 자체가 전망대처럼 이어집니다. 해가 완전히 지기 전 진입하면 길과 도시가 함께 살아납니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>이응다리는 걷는 길 자체가 전망대처럼 이어집니다. 해가 완전히 지기 전 진입하면 길과 도시가 함께 살아납니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/sejong-rest-sejong-ieung-bridge-geumgang-night-walk-20260817-480.webp 480w, /images/optimized/generated/unique/sejong-rest-sejong-ieung-bridge-geumgang-night-walk-20260817-768.webp 768w, /images/optimized/generated/unique/sejong-rest-sejong-ieung-bridge-geumgang-night-walk-20260817-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/sejong-rest-sejong-ieung-bridge-geumgang-night-walk-20260817.jpg" alt="세종 이응다리 근처 야간 벤치와 강 전망 휴식 공간" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>야간 산책은 쉬는 지점을 미리 잡아야 합니다. 사진을 찍을 때도 통행 흐름을 막지 않는 곳에서 멈추세요. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>야간 산책은 쉬는 지점을 미리 잡아야 합니다. 사진을 찍을 때도 통행 흐름을 막지 않는 곳에서 멈추세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/sejong-detail-sejong-ieung-bridge-geumgang-night-walk-20260817-480.webp 480w, /images/optimized/generated/unique/sejong-detail-sejong-ieung-bridge-geumgang-night-walk-20260817-768.webp 768w, /images/optimized/generated/unique/sejong-detail-sejong-ieung-bridge-geumgang-night-walk-20260817-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/sejong-detail-sejong-ieung-bridge-geumgang-night-walk-20260817.jpg" alt="세종 금강보행교 조명이 강물에 비치는 야경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>강물 반영은 이응다리 야경의 핵심입니다. 하늘빛이 조금 남아 있을 때가 사진과 산책 모두 가장 좋습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>강물 반영은 이응다리 야경의 핵심입니다. 하늘빛이 조금 남아 있을 때가 사진과 산책 모두 가장 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

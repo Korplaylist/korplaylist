@@ -12,7 +12,7 @@ publishedAt: "2026-08-21T09:50:00+09:00"
 updatedAt: "2026-08-21T09:50:00+09:00"
 heroImage: "/images/generated/unique/ko-jeju-saebyeol-silvergrass-jeju-autumn-silvergrass-oreum-route-1-v1.jpg"
 imageAlt: "새별오름 억새길을 따라 걷는 제주 가을 여행자"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-jeju-sangumburi-crater-jeju-autumn-silvergrass-oreum-route-2-v1-160.webp 160w, /images/optimized/generated/unique/ko-jeju-sangumburi-crater-jeju-autumn-silvergrass-oreum-route-2-v1-240.webp 240w, /images/optimized/generated/unique/ko-jeju-sangumburi-crater-jeju-autumn-silvergrass-oreum-route-2-v1-320.webp 320w, /images/optimized/generated/unique/ko-jeju-sangumburi-crater-jeju-autumn-silvergrass-oreum-route-2-v1-330.webp 330w, /images/optimized/generated/unique/ko-jeju-sangumburi-crater-jeju-autumn-silvergrass-oreum-route-2-v1-360.webp 360w, /images/optimized/generated/unique/ko-jeju-sangumburi-crater-jeju-autumn-silvergrass-oreum-route-2-v1-480.webp 480w, /images/optimized/generated/unique/ko-jeju-sangumburi-crater-jeju-autumn-silvergrass-oreum-route-2-v1-520.webp 520w, /images/optimized/generated/unique/ko-jeju-sangumburi-crater-jeju-autumn-silvergrass-oreum-route-2-v1-640.webp 640w, /images/optimized/generated/unique/ko-jeju-sangumburi-crater-jeju-autumn-silvergrass-oreum-route-2-v1-680.webp 680w, /images/optimized/generated/unique/ko-jeju-sangumburi-crater-jeju-autumn-silvergrass-oreum-route-2-v1-768.webp 768w, /images/optimized/generated/unique/ko-jeju-sangumburi-crater-jeju-autumn-silvergrass-oreum-route-2-v1-960.webp 960w, /images/optimized/generated/unique/ko-jeju-sangumburi-crater-jeju-autumn-silvergrass-oreum-route-2-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-jeju-sangumburi-crater-jeju-autumn-silvergrass-oreum-route-2-v1.jpg" alt="산굼부리 분화구와 억새 너머로 제주 중산간을 바라보는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>산굼부리는 오름 산행보다 분화구 전망 산책에 가까워 가족 여행이나 초행자 일정에 넣기 쉽습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>산굼부리는 오름 산행보다 분화구 전망 산책에 가까워 가족 여행이나 초행자 일정에 넣기 쉽습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-jeju-ttarabi-oreum-trail-jeju-autumn-silvergrass-oreum-route-3-v1-160.webp 160w, /images/optimized/generated/unique/ko-jeju-ttarabi-oreum-trail-jeju-autumn-silvergrass-oreum-route-3-v1-240.webp 240w, /images/optimized/generated/unique/ko-jeju-ttarabi-oreum-trail-jeju-autumn-silvergrass-oreum-route-3-v1-320.webp 320w, /images/optimized/generated/unique/ko-jeju-ttarabi-oreum-trail-jeju-autumn-silvergrass-oreum-route-3-v1-330.webp 330w, /images/optimized/generated/unique/ko-jeju-ttarabi-oreum-trail-jeju-autumn-silvergrass-oreum-route-3-v1-360.webp 360w, /images/optimized/generated/unique/ko-jeju-ttarabi-oreum-trail-jeju-autumn-silvergrass-oreum-route-3-v1-480.webp 480w, /images/optimized/generated/unique/ko-jeju-ttarabi-oreum-trail-jeju-autumn-silvergrass-oreum-route-3-v1-520.webp 520w, /images/optimized/generated/unique/ko-jeju-ttarabi-oreum-trail-jeju-autumn-silvergrass-oreum-route-3-v1-640.webp 640w, /images/optimized/generated/unique/ko-jeju-ttarabi-oreum-trail-jeju-autumn-silvergrass-oreum-route-3-v1-680.webp 680w, /images/optimized/generated/unique/ko-jeju-ttarabi-oreum-trail-jeju-autumn-silvergrass-oreum-route-3-v1-768.webp 768w, /images/optimized/generated/unique/ko-jeju-ttarabi-oreum-trail-jeju-autumn-silvergrass-oreum-route-3-v1-960.webp 960w, /images/optimized/generated/unique/ko-jeju-ttarabi-oreum-trail-jeju-autumn-silvergrass-oreum-route-3-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-jeju-ttarabi-oreum-trail-jeju-autumn-silvergrass-oreum-route-3-v1.jpg" alt="따라비오름 억새 능선과 제주 돌담길을 걷는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>따라비오름은 동부 억새 풍경이 강하지만 위치상 숙소와 귀가 방향을 먼저 계산해야 합니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>따라비오름은 동부 억새 풍경이 강하지만 위치상 숙소와 귀가 방향을 먼저 계산해야 합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-jeju-coastal-sunset-jeju-autumn-silvergrass-oreum-route-4-v1-160.webp 160w, /images/optimized/generated/unique/ko-jeju-coastal-sunset-jeju-autumn-silvergrass-oreum-route-4-v1-240.webp 240w, /images/optimized/generated/unique/ko-jeju-coastal-sunset-jeju-autumn-silvergrass-oreum-route-4-v1-320.webp 320w, /images/optimized/generated/unique/ko-jeju-coastal-sunset-jeju-autumn-silvergrass-oreum-route-4-v1-330.webp 330w, /images/optimized/generated/unique/ko-jeju-coastal-sunset-jeju-autumn-silvergrass-oreum-route-4-v1-360.webp 360w, /images/optimized/generated/unique/ko-jeju-coastal-sunset-jeju-autumn-silvergrass-oreum-route-4-v1-480.webp 480w, /images/optimized/generated/unique/ko-jeju-coastal-sunset-jeju-autumn-silvergrass-oreum-route-4-v1-520.webp 520w, /images/optimized/generated/unique/ko-jeju-coastal-sunset-jeju-autumn-silvergrass-oreum-route-4-v1-640.webp 640w, /images/optimized/generated/unique/ko-jeju-coastal-sunset-jeju-autumn-silvergrass-oreum-route-4-v1-680.webp 680w, /images/optimized/generated/unique/ko-jeju-coastal-sunset-jeju-autumn-silvergrass-oreum-route-4-v1-768.webp 768w, /images/optimized/generated/unique/ko-jeju-coastal-sunset-jeju-autumn-silvergrass-oreum-route-4-v1-960.webp 960w, /images/optimized/generated/unique/ko-jeju-coastal-sunset-jeju-autumn-silvergrass-oreum-route-4-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-jeju-coastal-sunset-jeju-autumn-silvergrass-oreum-route-4-v1.jpg" alt="오름 산책 뒤 제주 해안 노을을 바라보며 쉬는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>억새 오름을 본 뒤에는 가까운 해안이나 카페를 마지막 휴식 지점으로 잡아 운전 피로를 줄이세요. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>억새 오름을 본 뒤에는 가까운 해안이나 카페를 마지막 휴식 지점으로 잡아 운전 피로를 줄이세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

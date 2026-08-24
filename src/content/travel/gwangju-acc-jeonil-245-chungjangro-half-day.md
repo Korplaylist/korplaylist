@@ -12,7 +12,7 @@ publishedAt: "2026-08-15T09:10:00+09:00"
 updatedAt: "2026-08-15"
 heroImage: "/images/generated/unique/gwangju-main-photo2-gwangju-acc-jeonil-245-chungjangro-half-day-20260815.jpg"
 imageAlt: "광주 ACC와 전일빌딩245를 중심으로 걷는 원도심 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/gwangju-route-gwangju-acc-jeonil-245-chungjangro-half-day-1-160.webp 160w, /images/optimized/generated/unique/gwangju-route-gwangju-acc-jeonil-245-chungjangro-half-day-1-240.webp 240w, /images/optimized/generated/unique/gwangju-route-gwangju-acc-jeonil-245-chungjangro-half-day-1-320.webp 320w, /images/optimized/generated/unique/gwangju-route-gwangju-acc-jeonil-245-chungjangro-half-day-1-330.webp 330w, /images/optimized/generated/unique/gwangju-route-gwangju-acc-jeonil-245-chungjangro-half-day-1-360.webp 360w, /images/optimized/generated/unique/gwangju-route-gwangju-acc-jeonil-245-chungjangro-half-day-1-480.webp 480w, /images/optimized/generated/unique/gwangju-route-gwangju-acc-jeonil-245-chungjangro-half-day-1-520.webp 520w, /images/optimized/generated/unique/gwangju-route-gwangju-acc-jeonil-245-chungjangro-half-day-1-640.webp 640w, /images/optimized/generated/unique/gwangju-route-gwangju-acc-jeonil-245-chungjangro-half-day-1-680.webp 680w, /images/optimized/generated/unique/gwangju-route-gwangju-acc-jeonil-245-chungjangro-half-day-1-768.webp 768w, /images/optimized/generated/unique/gwangju-route-gwangju-acc-jeonil-245-chungjangro-half-day-1-960.webp 960w, /images/optimized/generated/unique/gwangju-route-gwangju-acc-jeonil-245-chungjangro-half-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/gwangju-route-gwangju-acc-jeonil-245-chungjangro-half-day-1.jpg" alt="ACC, 전일빌딩245, 충장로를 잇는 광주 원도심 이동 경로 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ACC를 첫 기준점으로 잡으면 전시와 전망, 식사 동선을 한 방향으로 정리하기 쉽습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>ACC를 첫 기준점으로 잡으면 전시와 전망, 식사 동선을 한 방향으로 정리하기 쉽습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/gwangju-rest-gwangju-acc-jeonil-245-chungjangro-half-day-1-160.webp 160w, /images/optimized/generated/unique/gwangju-rest-gwangju-acc-jeonil-245-chungjangro-half-day-1-240.webp 240w, /images/optimized/generated/unique/gwangju-rest-gwangju-acc-jeonil-245-chungjangro-half-day-1-320.webp 320w, /images/optimized/generated/unique/gwangju-rest-gwangju-acc-jeonil-245-chungjangro-half-day-1-330.webp 330w, /images/optimized/generated/unique/gwangju-rest-gwangju-acc-jeonil-245-chungjangro-half-day-1-360.webp 360w, /images/optimized/generated/unique/gwangju-rest-gwangju-acc-jeonil-245-chungjangro-half-day-1-480.webp 480w, /images/optimized/generated/unique/gwangju-rest-gwangju-acc-jeonil-245-chungjangro-half-day-1-520.webp 520w, /images/optimized/generated/unique/gwangju-rest-gwangju-acc-jeonil-245-chungjangro-half-day-1-640.webp 640w, /images/optimized/generated/unique/gwangju-rest-gwangju-acc-jeonil-245-chungjangro-half-day-1-680.webp 680w, /images/optimized/generated/unique/gwangju-rest-gwangju-acc-jeonil-245-chungjangro-half-day-1-768.webp 768w, /images/optimized/generated/unique/gwangju-rest-gwangju-acc-jeonil-245-chungjangro-half-day-1-960.webp 960w, /images/optimized/generated/unique/gwangju-rest-gwangju-acc-jeonil-245-chungjangro-half-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/gwangju-rest-gwangju-acc-jeonil-245-chungjangro-half-day-1.jpg" alt="광주 원도심 카페와 광장 주변에서 쉬는 여행자 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>원도심 코스는 중간 휴식 지점을 정해두어야 전시와 식사 시간이 자연스럽게 이어집니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>원도심 코스는 중간 휴식 지점을 정해두어야 전시와 식사 시간이 자연스럽게 이어집니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/gwangju-detail-gwangju-acc-jeonil-245-chungjangro-half-day-1-160.webp 160w, /images/optimized/generated/unique/gwangju-detail-gwangju-acc-jeonil-245-chungjangro-half-day-1-240.webp 240w, /images/optimized/generated/unique/gwangju-detail-gwangju-acc-jeonil-245-chungjangro-half-day-1-320.webp 320w, /images/optimized/generated/unique/gwangju-detail-gwangju-acc-jeonil-245-chungjangro-half-day-1-330.webp 330w, /images/optimized/generated/unique/gwangju-detail-gwangju-acc-jeonil-245-chungjangro-half-day-1-360.webp 360w, /images/optimized/generated/unique/gwangju-detail-gwangju-acc-jeonil-245-chungjangro-half-day-1-480.webp 480w, /images/optimized/generated/unique/gwangju-detail-gwangju-acc-jeonil-245-chungjangro-half-day-1-520.webp 520w, /images/optimized/generated/unique/gwangju-detail-gwangju-acc-jeonil-245-chungjangro-half-day-1-640.webp 640w, /images/optimized/generated/unique/gwangju-detail-gwangju-acc-jeonil-245-chungjangro-half-day-1-680.webp 680w, /images/optimized/generated/unique/gwangju-detail-gwangju-acc-jeonil-245-chungjangro-half-day-1-768.webp 768w, /images/optimized/generated/unique/gwangju-detail-gwangju-acc-jeonil-245-chungjangro-half-day-1-960.webp 960w, /images/optimized/generated/unique/gwangju-detail-gwangju-acc-jeonil-245-chungjangro-half-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/gwangju-detail-gwangju-acc-jeonil-245-chungjangro-half-day-1.jpg" alt="ACC 주변에서 지도와 전시 정보를 확인하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>전시와 공연은 날짜별 변동이 있으므로 출발 전 공식 안내와 지도 위치를 함께 확인하세요. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>전시와 공연은 날짜별 변동이 있으므로 출발 전 공식 안내와 지도 위치를 함께 확인하세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

@@ -12,7 +12,7 @@ publishedAt: "2026-08-17T13:10:00+09:00"
 updatedAt: "2026-08-17"
 heroImage: "/images/generated/unique/sejong-main-photo-sejong-lake-central-park-half-day-walk-20260817.jpg"
 imageAlt: "세종호수공원 호수와 도심 건물이 보이는 여름 산책 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/sejong-route-sejong-lake-central-park-half-day-walk-20260817-480.webp 480w, /images/optimized/generated/unique/sejong-route-sejong-lake-central-park-half-day-walk-20260817-768.webp 768w, /images/optimized/generated/unique/sejong-route-sejong-lake-central-park-half-day-walk-20260817-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/sejong-route-sejong-lake-central-park-half-day-walk-20260817.jpg" alt="세종호수공원 갈대와 수변 산책로가 이어지는 길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>호수공원은 걷는 거리를 먼저 정해야 일정이 무거워지지 않습니다. 수변길과 그늘 구간을 나누어 잡는 편이 좋습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>호수공원은 걷는 거리를 먼저 정해야 일정이 무거워지지 않습니다. 수변길과 그늘 구간을 나누어 잡는 편이 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/sejong-rest-sejong-lake-central-park-half-day-walk-20260817-480.webp 480w, /images/optimized/generated/unique/sejong-rest-sejong-lake-central-park-half-day-walk-20260817-768.webp 768w, /images/optimized/generated/unique/sejong-rest-sejong-lake-central-park-half-day-walk-20260817-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/sejong-rest-sejong-lake-central-park-half-day-walk-20260817.jpg" alt="세종호수공원 나무 그늘과 벤치가 있는 휴식 공간" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>반나절 산책에서는 쉬는 지점을 일정 안에 넣어야 합니다. 벤치와 그늘을 기준으로 다음 구간을 결정하세요. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>반나절 산책에서는 쉬는 지점을 일정 안에 넣어야 합니다. 벤치와 그늘을 기준으로 다음 구간을 결정하세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/sejong-detail-sejong-lake-central-park-half-day-walk-20260817-480.webp 480w, /images/optimized/generated/unique/sejong-detail-sejong-lake-central-park-half-day-walk-20260817-768.webp 768w, /images/optimized/generated/unique/sejong-detail-sejong-lake-central-park-half-day-walk-20260817-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/sejong-detail-sejong-lake-central-park-half-day-walk-20260817.jpg" alt="세종호수공원 수상무대섬과 호수 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>수상무대섬 주변은 세종호수공원의 첫인상을 만들기 좋은 지점입니다. 행사 여부에 따라 체류 방식이 달라질 수 있습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>수상무대섬 주변은 세종호수공원의 첫인상을 만들기 좋은 지점입니다. 행사 여부에 따라 체류 방식이 달라질 수 있습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

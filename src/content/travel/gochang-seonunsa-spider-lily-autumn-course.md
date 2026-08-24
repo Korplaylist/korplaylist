@@ -12,7 +12,7 @@ publishedAt: "2026-08-24T07:10:00+09:00"
 updatedAt: "2026-08-24T07:10:00+09:00"
 heroImage: "/images/generated/unique/ko-gochang-seonunsa-path-gochang-seonunsa-spider-lily-autumn-course-1-v1.jpg"
 imageAlt: "고창 선운산 도립공원 숲길과 선운사 주변에 꽃무릇이 핀 가을 여행 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -41,7 +41,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-gochang-seonunsa-gate-gochang-seonunsa-spider-lily-autumn-course-2-v1-160.webp 160w, /images/optimized/generated/unique/ko-gochang-seonunsa-gate-gochang-seonunsa-spider-lily-autumn-course-2-v1-240.webp 240w, /images/optimized/generated/unique/ko-gochang-seonunsa-gate-gochang-seonunsa-spider-lily-autumn-course-2-v1-320.webp 320w, /images/optimized/generated/unique/ko-gochang-seonunsa-gate-gochang-seonunsa-spider-lily-autumn-course-2-v1-330.webp 330w, /images/optimized/generated/unique/ko-gochang-seonunsa-gate-gochang-seonunsa-spider-lily-autumn-course-2-v1-360.webp 360w, /images/optimized/generated/unique/ko-gochang-seonunsa-gate-gochang-seonunsa-spider-lily-autumn-course-2-v1-480.webp 480w, /images/optimized/generated/unique/ko-gochang-seonunsa-gate-gochang-seonunsa-spider-lily-autumn-course-2-v1-520.webp 520w, /images/optimized/generated/unique/ko-gochang-seonunsa-gate-gochang-seonunsa-spider-lily-autumn-course-2-v1-640.webp 640w, /images/optimized/generated/unique/ko-gochang-seonunsa-gate-gochang-seonunsa-spider-lily-autumn-course-2-v1-680.webp 680w, /images/optimized/generated/unique/ko-gochang-seonunsa-gate-gochang-seonunsa-spider-lily-autumn-course-2-v1-768.webp 768w, /images/optimized/generated/unique/ko-gochang-seonunsa-gate-gochang-seonunsa-spider-lily-autumn-course-2-v1-960.webp 960w, /images/optimized/generated/unique/ko-gochang-seonunsa-gate-gochang-seonunsa-spider-lily-autumn-course-2-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-gochang-seonunsa-gate-gochang-seonunsa-spider-lily-autumn-course-2-v1.jpg" alt="고창 선운사 입구의 전통 사찰 문과 가을 숲길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>선운사는 꽃무릇만 보는 장소가 아니라 숲길, 계곡, 사찰 분위기를 함께 보는 코스로 잡아야 동선이 자연스럽습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>선운사는 꽃무릇만 보는 장소가 아니라 숲길, 계곡, 사찰 분위기를 함께 보는 코스로 잡아야 동선이 자연스럽습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -63,7 +63,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-gochang-seonun-stream-gochang-seonunsa-spider-lily-autumn-course-3-v1-160.webp 160w, /images/optimized/generated/unique/ko-gochang-seonun-stream-gochang-seonunsa-spider-lily-autumn-course-3-v1-240.webp 240w, /images/optimized/generated/unique/ko-gochang-seonun-stream-gochang-seonunsa-spider-lily-autumn-course-3-v1-320.webp 320w, /images/optimized/generated/unique/ko-gochang-seonun-stream-gochang-seonunsa-spider-lily-autumn-course-3-v1-330.webp 330w, /images/optimized/generated/unique/ko-gochang-seonun-stream-gochang-seonunsa-spider-lily-autumn-course-3-v1-360.webp 360w, /images/optimized/generated/unique/ko-gochang-seonun-stream-gochang-seonunsa-spider-lily-autumn-course-3-v1-480.webp 480w, /images/optimized/generated/unique/ko-gochang-seonun-stream-gochang-seonunsa-spider-lily-autumn-course-3-v1-520.webp 520w, /images/optimized/generated/unique/ko-gochang-seonun-stream-gochang-seonunsa-spider-lily-autumn-course-3-v1-640.webp 640w, /images/optimized/generated/unique/ko-gochang-seonun-stream-gochang-seonunsa-spider-lily-autumn-course-3-v1-680.webp 680w, /images/optimized/generated/unique/ko-gochang-seonun-stream-gochang-seonunsa-spider-lily-autumn-course-3-v1-768.webp 768w, /images/optimized/generated/unique/ko-gochang-seonun-stream-gochang-seonunsa-spider-lily-autumn-course-3-v1-960.webp 960w, /images/optimized/generated/unique/ko-gochang-seonun-stream-gochang-seonunsa-spider-lily-autumn-course-3-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-gochang-seonun-stream-gochang-seonunsa-spider-lily-autumn-course-3-v1.jpg" alt="선운산 계곡 옆 꽃무릇 산책로를 따라 걷는 가을 여행 길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>계곡 옆 낮은 산책로는 긴 산행을 하지 않아도 선운산의 분위기를 느낄 수 있어 초행자에게 적합합니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>계곡 옆 낮은 산책로는 긴 산행을 하지 않아도 선운산의 분위기를 느낄 수 있어 초행자에게 적합합니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -83,7 +83,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-gochang-seonunsa-rest-gochang-seonunsa-spider-lily-autumn-course-4-v1-160.webp 160w, /images/optimized/generated/unique/ko-gochang-seonunsa-rest-gochang-seonunsa-spider-lily-autumn-course-4-v1-240.webp 240w, /images/optimized/generated/unique/ko-gochang-seonunsa-rest-gochang-seonunsa-spider-lily-autumn-course-4-v1-320.webp 320w, /images/optimized/generated/unique/ko-gochang-seonunsa-rest-gochang-seonunsa-spider-lily-autumn-course-4-v1-330.webp 330w, /images/optimized/generated/unique/ko-gochang-seonunsa-rest-gochang-seonunsa-spider-lily-autumn-course-4-v1-360.webp 360w, /images/optimized/generated/unique/ko-gochang-seonunsa-rest-gochang-seonunsa-spider-lily-autumn-course-4-v1-480.webp 480w, /images/optimized/generated/unique/ko-gochang-seonunsa-rest-gochang-seonunsa-spider-lily-autumn-course-4-v1-520.webp 520w, /images/optimized/generated/unique/ko-gochang-seonunsa-rest-gochang-seonunsa-spider-lily-autumn-course-4-v1-640.webp 640w, /images/optimized/generated/unique/ko-gochang-seonunsa-rest-gochang-seonunsa-spider-lily-autumn-course-4-v1-680.webp 680w, /images/optimized/generated/unique/ko-gochang-seonunsa-rest-gochang-seonunsa-spider-lily-autumn-course-4-v1-768.webp 768w, /images/optimized/generated/unique/ko-gochang-seonunsa-rest-gochang-seonunsa-spider-lily-autumn-course-4-v1-960.webp 960w, /images/optimized/generated/unique/ko-gochang-seonunsa-rest-gochang-seonunsa-spider-lily-autumn-course-4-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-gochang-seonunsa-rest-gochang-seonunsa-spider-lily-autumn-course-4-v1.jpg" alt="선운사 주변 낮은 산과 전통 담장 앞에서 쉬어가는 가을 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>꽃무릇 시즌에는 쉬는 지점을 먼저 정해 두어야 사진과 산책이 급한 일정처럼 느껴지지 않습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>꽃무릇 시즌에는 쉬는 지점을 먼저 정해 두어야 사진과 산책이 급한 일정처럼 느껴지지 않습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

@@ -12,7 +12,7 @@ publishedAt: "2026-08-21T09:10:00+09:00"
 updatedAt: "2026-08-21T09:10:00+09:00"
 heroImage: "/images/generated/unique/ko-seoul-gyeongbokgung-foliage-seoul-autumn-foliage-palace-namsan-walk-1-v1.jpg"
 imageAlt: "경복궁 담장과 노란 은행나무가 보이는 서울 단풍 여행 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-seoul-deoksugung-wall-seoul-autumn-foliage-palace-namsan-walk-2-v1-160.webp 160w, /images/optimized/generated/unique/ko-seoul-deoksugung-wall-seoul-autumn-foliage-palace-namsan-walk-2-v1-240.webp 240w, /images/optimized/generated/unique/ko-seoul-deoksugung-wall-seoul-autumn-foliage-palace-namsan-walk-2-v1-320.webp 320w, /images/optimized/generated/unique/ko-seoul-deoksugung-wall-seoul-autumn-foliage-palace-namsan-walk-2-v1-330.webp 330w, /images/optimized/generated/unique/ko-seoul-deoksugung-wall-seoul-autumn-foliage-palace-namsan-walk-2-v1-360.webp 360w, /images/optimized/generated/unique/ko-seoul-deoksugung-wall-seoul-autumn-foliage-palace-namsan-walk-2-v1-480.webp 480w, /images/optimized/generated/unique/ko-seoul-deoksugung-wall-seoul-autumn-foliage-palace-namsan-walk-2-v1-520.webp 520w, /images/optimized/generated/unique/ko-seoul-deoksugung-wall-seoul-autumn-foliage-palace-namsan-walk-2-v1-640.webp 640w, /images/optimized/generated/unique/ko-seoul-deoksugung-wall-seoul-autumn-foliage-palace-namsan-walk-2-v1-680.webp 680w, /images/optimized/generated/unique/ko-seoul-deoksugung-wall-seoul-autumn-foliage-palace-namsan-walk-2-v1-768.webp 768w, /images/optimized/generated/unique/ko-seoul-deoksugung-wall-seoul-autumn-foliage-palace-namsan-walk-2-v1-960.webp 960w, /images/optimized/generated/unique/ko-seoul-deoksugung-wall-seoul-autumn-foliage-palace-namsan-walk-2-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-seoul-deoksugung-wall-seoul-autumn-foliage-palace-namsan-walk-2-v1.jpg" alt="덕수궁 돌담길을 따라 노란 은행나무 아래를 걷는 서울 가을 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>덕수궁 돌담길은 짧지만 대기와 보행 흐름이 몰릴 수 있어 점심 전후처럼 빛이 안정적인 시간대가 좋습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>덕수궁 돌담길은 짧지만 대기와 보행 흐름이 몰릴 수 있어 점심 전후처럼 빛이 안정적인 시간대가 좋습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-seoul-cheonggyecheon-stream-seoul-autumn-foliage-palace-namsan-walk-3-v1-160.webp 160w, /images/optimized/generated/unique/ko-seoul-cheonggyecheon-stream-seoul-autumn-foliage-palace-namsan-walk-3-v1-240.webp 240w, /images/optimized/generated/unique/ko-seoul-cheonggyecheon-stream-seoul-autumn-foliage-palace-namsan-walk-3-v1-320.webp 320w, /images/optimized/generated/unique/ko-seoul-cheonggyecheon-stream-seoul-autumn-foliage-palace-namsan-walk-3-v1-330.webp 330w, /images/optimized/generated/unique/ko-seoul-cheonggyecheon-stream-seoul-autumn-foliage-palace-namsan-walk-3-v1-360.webp 360w, /images/optimized/generated/unique/ko-seoul-cheonggyecheon-stream-seoul-autumn-foliage-palace-namsan-walk-3-v1-480.webp 480w, /images/optimized/generated/unique/ko-seoul-cheonggyecheon-stream-seoul-autumn-foliage-palace-namsan-walk-3-v1-520.webp 520w, /images/optimized/generated/unique/ko-seoul-cheonggyecheon-stream-seoul-autumn-foliage-palace-namsan-walk-3-v1-640.webp 640w, /images/optimized/generated/unique/ko-seoul-cheonggyecheon-stream-seoul-autumn-foliage-palace-namsan-walk-3-v1-680.webp 680w, /images/optimized/generated/unique/ko-seoul-cheonggyecheon-stream-seoul-autumn-foliage-palace-namsan-walk-3-v1-768.webp 768w, /images/optimized/generated/unique/ko-seoul-cheonggyecheon-stream-seoul-autumn-foliage-palace-namsan-walk-3-v1-960.webp 960w, /images/optimized/generated/unique/ko-seoul-cheonggyecheon-stream-seoul-autumn-foliage-palace-namsan-walk-3-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-seoul-cheonggyecheon-stream-seoul-autumn-foliage-palace-namsan-walk-3-v1.jpg" alt="가을빛이 든 청계천 산책로와 도심 사이를 걷는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>청계천은 길게 걷기보다 남산으로 넘어가기 전 쉬는 구간으로 잡으면 하루 동선이 덜 빡빡해집니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>청계천은 길게 걷기보다 남산으로 넘어가기 전 쉬는 구간으로 잡으면 하루 동선이 덜 빡빡해집니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-seoul-namsan-path-seoul-autumn-foliage-palace-namsan-walk-4-v1-160.webp 160w, /images/optimized/generated/unique/ko-seoul-namsan-path-seoul-autumn-foliage-palace-namsan-walk-4-v1-240.webp 240w, /images/optimized/generated/unique/ko-seoul-namsan-path-seoul-autumn-foliage-palace-namsan-walk-4-v1-320.webp 320w, /images/optimized/generated/unique/ko-seoul-namsan-path-seoul-autumn-foliage-palace-namsan-walk-4-v1-330.webp 330w, /images/optimized/generated/unique/ko-seoul-namsan-path-seoul-autumn-foliage-palace-namsan-walk-4-v1-360.webp 360w, /images/optimized/generated/unique/ko-seoul-namsan-path-seoul-autumn-foliage-palace-namsan-walk-4-v1-480.webp 480w, /images/optimized/generated/unique/ko-seoul-namsan-path-seoul-autumn-foliage-palace-namsan-walk-4-v1-520.webp 520w, /images/optimized/generated/unique/ko-seoul-namsan-path-seoul-autumn-foliage-palace-namsan-walk-4-v1-640.webp 640w, /images/optimized/generated/unique/ko-seoul-namsan-path-seoul-autumn-foliage-palace-namsan-walk-4-v1-680.webp 680w, /images/optimized/generated/unique/ko-seoul-namsan-path-seoul-autumn-foliage-palace-namsan-walk-4-v1-768.webp 768w, /images/optimized/generated/unique/ko-seoul-namsan-path-seoul-autumn-foliage-palace-namsan-walk-4-v1-960.webp 960w, /images/optimized/generated/unique/ko-seoul-namsan-path-seoul-autumn-foliage-palace-namsan-walk-4-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-seoul-namsan-path-seoul-autumn-foliage-palace-namsan-walk-4-v1.jpg" alt="남산공원 단풍 산책로와 서울 시내 전망을 함께 보는 여행자" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>남산은 정상 완주보다 해 질 무렵 산책로 일부를 걷는 방식이 초행자에게 더 안정적입니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>남산은 정상 완주보다 해 질 무렵 산책로 일부를 걷는 방식이 초행자에게 더 안정적입니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

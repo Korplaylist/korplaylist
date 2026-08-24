@@ -12,7 +12,7 @@ publishedAt: "2026-08-17T15:40:00+09:00"
 updatedAt: "2026-08-17"
 heroImage: "/images/generated/unique/sejong-main-photo-sejong-government-complex-rooftop-garden-reservation-20260817.jpg"
 imageAlt: "정부세종청사 옥상정원과 세종 도심이 내려다보이는 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/sejong-route-sejong-government-complex-rooftop-garden-reservation-20260817-480.webp 480w, /images/optimized/generated/unique/sejong-route-sejong-government-complex-rooftop-garden-reservation-20260817-768.webp 768w, /images/optimized/generated/unique/sejong-route-sejong-government-complex-rooftop-garden-reservation-20260817-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/sejong-route-sejong-government-complex-rooftop-garden-reservation-20260817.jpg" alt="정부세종청사 옥상정원 산책로와 조경이 이어지는 길" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>옥상정원은 일반 공원보다 관람 회차와 동선이 중요합니다. 접수처와 이동 방향을 먼저 확인하세요. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>옥상정원은 일반 공원보다 관람 회차와 동선이 중요합니다. 접수처와 이동 방향을 먼저 확인하세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/sejong-rest-sejong-government-complex-rooftop-garden-reservation-20260817-480.webp 480w, /images/optimized/generated/unique/sejong-rest-sejong-government-complex-rooftop-garden-reservation-20260817-768.webp 768w, /images/optimized/generated/unique/sejong-rest-sejong-government-complex-rooftop-garden-reservation-20260817-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/sejong-rest-sejong-government-complex-rooftop-garden-reservation-20260817.jpg" alt="정부세종청사 옥상정원의 그늘 쉼터와 벤치" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>관람형 코스는 대기와 이동을 포함해 시간을 넉넉히 잡아야 합니다. 쉬는 지점도 회차 동선 안에서 확인하세요. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>관람형 코스는 대기와 이동을 포함해 시간을 넉넉히 잡아야 합니다. 쉬는 지점도 회차 동선 안에서 확인하세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/sejong-detail-sejong-government-complex-rooftop-garden-reservation-20260817-480.webp 480w, /images/optimized/generated/unique/sejong-detail-sejong-government-complex-rooftop-garden-reservation-20260817-768.webp 768w, /images/optimized/generated/unique/sejong-detail-sejong-government-complex-rooftop-garden-reservation-20260817-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/sejong-detail-sejong-government-complex-rooftop-garden-reservation-20260817.jpg" alt="정부세종청사 옥상정원 조형 정원과 세종 도심 전망" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>옥상정원의 장점은 도시를 높은 시선에서 볼 수 있다는 점입니다. 다만 날씨와 회차 운영이 가장 큰 변수입니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>옥상정원의 장점은 도시를 높은 시선에서 볼 수 있다는 점입니다. 다만 날씨와 회차 운영이 가장 큰 변수입니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

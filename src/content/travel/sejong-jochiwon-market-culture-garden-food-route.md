@@ -12,7 +12,7 @@ publishedAt: "2026-08-17T17:20:00+09:00"
 updatedAt: "2026-08-17"
 heroImage: "/images/generated/unique/sejong-main-photo-sejong-jochiwon-market-culture-garden-food-route-20260817.jpg"
 imageAlt: "세종 조치원 전통시장 골목과 채소 가게가 이어지는 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/sejong-route-sejong-jochiwon-market-culture-garden-food-route-20260817-480.webp 480w, /images/optimized/generated/unique/sejong-route-sejong-jochiwon-market-culture-garden-food-route-20260817-768.webp 768w, /images/optimized/generated/unique/sejong-route-sejong-jochiwon-market-culture-garden-food-route-20260817-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/sejong-route-sejong-jochiwon-market-culture-garden-food-route-20260817.jpg" alt="세종전통시장 분식과 시장 먹거리가 놓인 가게 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>시장 코스는 간식과 식사를 나누어 잡아야 과하게 먹거나 오래 서 있는 시간을 줄일 수 있습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>시장 코스는 간식과 식사를 나누어 잡아야 과하게 먹거나 오래 서 있는 시간을 줄일 수 있습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/sejong-rest-sejong-jochiwon-market-culture-garden-food-route-20260817-480.webp 480w, /images/optimized/generated/unique/sejong-rest-sejong-jochiwon-market-culture-garden-food-route-20260817-768.webp 768w, /images/optimized/generated/unique/sejong-rest-sejong-jochiwon-market-culture-garden-food-route-20260817-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/sejong-rest-sejong-jochiwon-market-culture-garden-food-route-20260817.jpg" alt="조치원문화정원 마당과 나무 그늘의 휴식 공간" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>시장 뒤 문화정원을 붙이면 코스가 먹기만 하는 일정으로 흐르지 않고, 구도심 산책의 균형이 생깁니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>시장 뒤 문화정원을 붙이면 코스가 먹기만 하는 일정으로 흐르지 않고, 구도심 산책의 균형이 생깁니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/sejong-detail-sejong-jochiwon-market-culture-garden-food-route-20260817-480.webp 480w, /images/optimized/generated/unique/sejong-detail-sejong-jochiwon-market-culture-garden-food-route-20260817-768.webp 768w, /images/optimized/generated/unique/sejong-detail-sejong-jochiwon-market-culture-garden-food-route-20260817-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/sejong-detail-sejong-jochiwon-market-culture-garden-food-route-20260817.jpg" alt="조치원문화정원의 붉은 벽돌 건물과 옛 산업시설 질감" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>조치원문화정원은 시장의 활기 뒤에 걷는 속도를 낮추기 좋은 재생 공간입니다. 행사 여부를 확인하세요. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>조치원문화정원은 시장의 활기 뒤에 걷는 속도를 낮추기 좋은 재생 공간입니다. 행사 여부를 확인하세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트

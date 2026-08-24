@@ -164,7 +164,7 @@ This route separates arrival, photo time, food breaks, and the final stop so you
     <source type="image/webp" srcset="/images/optimized/generated/unique/busan-station-busan-market-food-route-1-160.webp 160w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-240.webp 240w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-320.webp 320w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-330.webp 330w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-360.webp 360w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-480.webp 480w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-520.webp 520w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-640.webp 640w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-680.webp 680w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-768.webp 768w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-960.webp 960w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/busan-station-busan-market-food-route-1.jpg" alt="busan market food travel guide image - busan station busan market food route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## How to Plan the Day
@@ -213,7 +213,7 @@ For accommodation, choose an area near the last evening stop or the next morning
     <source type="image/webp" srcset="/images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-160.webp 160w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-240.webp 240w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-320.webp 320w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-330.webp 330w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-360.webp 360w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-480.webp 480w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-520.webp 520w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-640.webp 640w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-680.webp 680w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-768.webp 768w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-960.webp 960w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/busan-market-food-generated-busan-market-food-route-1.jpg" alt="busan market food travel guide image - busan market food generated busan market food route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## Stay Area and Food Timing
@@ -233,7 +233,7 @@ Use the rest of the day for food and rest. In summer, avoid long midday walks. I
     <source type="image/webp" srcset="/images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-160.webp 160w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-240.webp 240w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-320.webp 320w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-330.webp 330w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-360.webp 360w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-480.webp 480w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-520.webp 520w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-640.webp 640w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-680.webp 680w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-768.webp 768w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-960.webp 960w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/busan-haeundae-view-busan-market-food-route-1.jpg" alt="busan market food travel guide image - busan haeundae view busan market food route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## Seasonal Notes

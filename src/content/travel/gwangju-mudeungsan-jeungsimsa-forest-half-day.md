@@ -12,7 +12,7 @@ publishedAt: "2026-08-15T09:40:00+09:00"
 updatedAt: "2026-08-15"
 heroImage: "/images/generated/unique/gwangju-main-photo2-gwangju-mudeungsan-jeungsimsa-forest-half-day-20260815.jpg"
 imageAlt: "광주 무등산과 증심사 숲길 풍경"
-imageCredit: "ⓒ한국플레이리스트 제작 이미지"
+imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -39,7 +39,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/gwangju-route-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-160.webp 160w, /images/optimized/generated/unique/gwangju-route-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-240.webp 240w, /images/optimized/generated/unique/gwangju-route-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-320.webp 320w, /images/optimized/generated/unique/gwangju-route-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-330.webp 330w, /images/optimized/generated/unique/gwangju-route-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-360.webp 360w, /images/optimized/generated/unique/gwangju-route-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-480.webp 480w, /images/optimized/generated/unique/gwangju-route-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-520.webp 520w, /images/optimized/generated/unique/gwangju-route-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-640.webp 640w, /images/optimized/generated/unique/gwangju-route-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-680.webp 680w, /images/optimized/generated/unique/gwangju-route-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-768.webp 768w, /images/optimized/generated/unique/gwangju-route-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-960.webp 960w, /images/optimized/generated/unique/gwangju-route-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/gwangju-route-gwangju-mudeungsan-jeungsimsa-forest-half-day-1.jpg" alt="무등산국립공원과 증심사 숲길을 잇는 반나절 산책 경로 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>증심사 입구를 기준으로 숲길 깊이를 조절하면 초행자도 반나절 안에 무리 없이 다녀올 수 있습니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>증심사 입구를 기준으로 숲길 깊이를 조절하면 초행자도 반나절 안에 무리 없이 다녀올 수 있습니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/gwangju-rest-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-160.webp 160w, /images/optimized/generated/unique/gwangju-rest-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-240.webp 240w, /images/optimized/generated/unique/gwangju-rest-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-320.webp 320w, /images/optimized/generated/unique/gwangju-rest-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-330.webp 330w, /images/optimized/generated/unique/gwangju-rest-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-360.webp 360w, /images/optimized/generated/unique/gwangju-rest-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-480.webp 480w, /images/optimized/generated/unique/gwangju-rest-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-520.webp 520w, /images/optimized/generated/unique/gwangju-rest-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-640.webp 640w, /images/optimized/generated/unique/gwangju-rest-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-680.webp 680w, /images/optimized/generated/unique/gwangju-rest-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-768.webp 768w, /images/optimized/generated/unique/gwangju-rest-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-960.webp 960w, /images/optimized/generated/unique/gwangju-rest-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/gwangju-rest-gwangju-mudeungsan-jeungsimsa-forest-half-day-1.jpg" alt="증심사 입구 주변에서 쉬는 여행자 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>숲길 코스는 산책 시간만큼 내려오는 시간과 쉬는 시간을 함께 계산해야 일정이 안정됩니다. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>숲길 코스는 산책 시간만큼 내려오는 시간과 쉬는 시간을 함께 계산해야 일정이 안정됩니다. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/gwangju-detail-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-160.webp 160w, /images/optimized/generated/unique/gwangju-detail-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-240.webp 240w, /images/optimized/generated/unique/gwangju-detail-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-320.webp 320w, /images/optimized/generated/unique/gwangju-detail-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-330.webp 330w, /images/optimized/generated/unique/gwangju-detail-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-360.webp 360w, /images/optimized/generated/unique/gwangju-detail-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-480.webp 480w, /images/optimized/generated/unique/gwangju-detail-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-520.webp 520w, /images/optimized/generated/unique/gwangju-detail-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-640.webp 640w, /images/optimized/generated/unique/gwangju-detail-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-680.webp 680w, /images/optimized/generated/unique/gwangju-detail-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-768.webp 768w, /images/optimized/generated/unique/gwangju-detail-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-960.webp 960w, /images/optimized/generated/unique/gwangju-detail-gwangju-mudeungsan-jeungsimsa-forest-half-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/gwangju-detail-gwangju-mudeungsan-jeungsimsa-forest-half-day-1.jpg" alt="무등산 탐방 안내와 숲길 방향을 확인하는 장면" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>국립공원은 날씨와 탐방로 상태가 중요하므로 출발 전 공지와 현장 안내판을 함께 확인하세요. ⓒ한국플레이리스트 제작 이미지</figcaption>
+  <figcaption>국립공원은 날씨와 탐방로 상태가 중요하므로 출발 전 공지와 현장 안내판을 함께 확인하세요. ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트
@@ -111,7 +111,7 @@ draft: false
 
 출발 전에는 날씨, 탐방로 공지, 귀가 교통을 확인하세요. 산책 전에는 화장실 위치와 물 준비를 확인하고, 산책 중에는 체력보다 일몰 시간을 더 먼저 보세요. 반나절 코스에서 가장 흔한 실패는 올라갈 때는 괜찮았지만 내려오는 시간과 귀가 시간을 놓치는 경우입니다.
 
-오래된 후기에서 가능하다고 나온 구간이라도 현재는 통제될 수 있습니다. 이 글은 초행자가 안전하게 판단하기 위한 기본 동선이며, 실제 방문일에는 공식 공지와 현장 안내를 우선해야 합니다.
+오래된 후기에서 가능하다고 나온 구간이라도 현재는 통제될 수 있습니다. 이 글은 초행자가 안전하게 판단하기 위한 기본 동선이며, 실제 방문일에는 공식 공지와 현장 안내를 우선해야 합니다. 안내판의 통제 문구가 보이면 우회보다 코스 축소를 먼저 선택하세요.
 
 ## 함께 보면 좋은 광주 글
 

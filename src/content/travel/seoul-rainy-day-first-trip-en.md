@@ -12,7 +12,7 @@ publishedAt: "2026-06-23"
 updatedAt: "2026-06-23"
 heroImage: "/images/generated/seoul-rainy-day-museum-arrival-generated.jpg"
 imageAlt: "Travelers entering the National Museum of Korea plaza in Yongsan on a summer rainy day with umbrellas"
-imageCredit: "ⓒ한국플레이리스트 이미지 2.0"
+imageCredit: "ⓒ한국플레이리스트"
 draft: false
 ---
 
@@ -145,7 +145,7 @@ Yeouido is also manageable for first-time visitors because the subway connection
     <source type="image/webp" srcset="/images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-320.webp 320w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-330.webp 330w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-360.webp 360w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-480.webp 480w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-520.webp 520w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-640.webp 640w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-680.webp 680w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-768.webp 768w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-960.webp 960w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/seoul-rainy-day-yeouido-indoor-generated.jpg" alt="Travelers resting inside a Yeouido mixed-use indoor space while rain falls outside the glass windows" width="1536" height="1024" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>ⓒ한국플레이리스트 이미지 2.0</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## Keep The Han River As An Optional Finish Only
