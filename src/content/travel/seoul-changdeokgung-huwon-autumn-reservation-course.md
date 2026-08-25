@@ -10,7 +10,7 @@ urlSlug: "seoul-changdeokgung-huwon-autumn-reservation-course"
 tags: ["창덕궁후원", "서울가을여행", "궁궐예약", "북촌산책", "서울단풍"]
 publishedAt: "2026-08-25T09:10:00+09:00"
 updatedAt: "2026-08-25T09:10:00+09:00"
-heroImage: "/images/generated/seoul-changdeokgung-huwon-autumn-hero.jpg"
+heroImage: "/images/generated/seoul-changdeokgung-huwon-autumn-hero-v2.jpg"
 imageAlt: "가을 단풍이 든 창덕궁 후원 연못과 정자가 보이는 서울 궁궐 여행 풍경"
 imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true

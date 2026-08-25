@@ -10,7 +10,7 @@ urlSlug: "incheon-soraepogu-blue-crab-wetland-day-trip"
 tags: ["소래포구", "소래포구꽃게", "인천당일치기", "소래습지생태공원", "인천가을여행"]
 publishedAt: "2026-08-25T09:30:00+09:00"
 updatedAt: "2026-08-25T09:30:00+09:00"
-heroImage: "/images/generated/incheon-soraepogu-blue-crab-market-hero.jpg"
+heroImage: "/images/generated/incheon-soraepogu-blue-crab-market-hero-v2.jpg"
 imageAlt: "인천 소래포구 항구 앞에 꽃게 바구니와 어선이 놓인 가을 여행 풍경"
 imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true

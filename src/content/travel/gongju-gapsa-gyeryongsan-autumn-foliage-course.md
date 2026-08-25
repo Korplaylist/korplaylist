@@ -10,7 +10,7 @@ urlSlug: "gongju-gapsa-gyeryongsan-autumn-foliage-course"
 tags: ["공주갑사", "계룡산단풍", "충남가을여행", "갑사오리숲", "계룡산국립공원"]
 publishedAt: "2026-08-25T09:50:00+09:00"
 updatedAt: "2026-08-25T09:50:00+09:00"
-heroImage: "/images/generated/gongju-gapsa-gyeryongsan-autumn-hero.jpg"
+heroImage: "/images/generated/gongju-gapsa-gyeryongsan-autumn-hero-v2.jpg"
 imageAlt: "가을 단풍이 든 공주 갑사 사찰과 계룡산 능선이 보이는 충남 여행 풍경"
 imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
