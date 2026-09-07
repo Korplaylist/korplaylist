@@ -208,13 +208,6 @@ ITXで行く春川の日帰り旅行として、湖畔散歩、タッカルビ�
   <div><span>予備費</span><strong>20,000〜40,000ウォン</strong><p>雨、終バス、荷物移動でタクシーが必要になる場合に備えます。</p></div>
 </section>
 
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/image/images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1.jpg alt=-160.webp 160w, /image/images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1.jpg alt=-240.webp 240w, /image/images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1.jpg alt=-320.webp 320w, /image/images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1.jpg alt=-330.webp 330w, /image/images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1.jpg alt=-360.webp 360w, /image/images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1.jpg alt=-480.webp 480w, /image/images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1.jpg alt=-520.webp 520w, /image/images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1.jpg alt=-640.webp 640w, /image/images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1.jpg alt=-680.webp 680w, /image/images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1.jpg alt=-768.webp 768w, /image/images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1.jpg alt=-960.webp 960w, /image/images/optimized/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1.jpg alt=-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/image/images/generated/unique/sokcho-without-car-content-chuncheon-lake-day-trip-1.jpg alt=" alt="春川日帰り旅行コース：ITXで湖とタッカルビを楽しむ1日旅 旅行ガイド画像" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒKorea Playlist Image 2.0</figcaption>
-</figure>
 
 ## 宿泊エリアと食事のタイミング
 
