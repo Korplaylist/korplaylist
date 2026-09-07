@@ -1,5 +1,5 @@
 ---
-title: "한국 3박4일 여행코스 2026: 서울·경주·부산 처음 방문 모델 일정"
+title: "한국 3박4일 여행코스 2026: 서울·경주·부산 처음 여행 일정"
 description: "한국 3박4일 여행코스를 처음 짜는 사람을 위해 서울, 경주, 부산을 KTX로 연결하는 현실적인 일정과 도시별 체류 시간, 짐 관리, 공식 확인 포인트를 정리했습니다."
 category: "여행코스"
 region: "서울"
@@ -41,7 +41,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-korea-3n4d-seoul-evening-korea-3n4d-model-course-20260906-evening-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-korea-3n4d-seoul-evening-korea-3n4d-model-course-20260906-evening.jpg" alt="서울 도심의 저녁 거리와 궁궐 주변 산책 분위기" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>서울 첫날은 궁궐과 도심 산책으로 가볍게 시작해야 다음 도시 이동 피로가 줄어듭니다. ⓒ한국플레이리스트</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 1일차 서울
@@ -61,7 +61,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-korea-3n4d-ktx-korea-3n4d-model-course-20260906-ktx-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-korea-3n4d-ktx-korea-3n4d-model-course-20260906-ktx.jpg" alt="한국 고속철도 KTX와 역 플랫폼 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>3박4일 전국 이동은 KTX 시간표를 먼저 고정해야 숙소와 관광지가 자연스럽게 정리됩니다. ⓒ한국플레이리스트</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 3일차 경주에서 부산
@@ -81,7 +81,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-korea-3n4d-busan-night-korea-3n4d-model-course-20260906-busan-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-korea-3n4d-busan-night-korea-3n4d-model-course-20260906-busan.jpg" alt="부산 바다와 도시 야경이 보이는 저녁 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>부산은 마지막 도시로 두면 바다와 야경으로 여행의 마무리 인상이 선명해집니다. ⓒ한국플레이리스트</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 공식 확인 포인트
@@ -118,3 +118,5 @@ KTX 시간표와 운임, 좌석 상황은 코레일에서 확인해야 합니다
 한국 3박4일 여행 글은 흔한 일정표처럼 보이기 쉽기 때문에 선택 이유와 조정 기준이 필요합니다. 이 글은 도시별 역할, KTX 이동, 숙소 위치, 줄이는 대안, 실수 방지까지 넣어 사용자가 실제로 예약 순서를 정할 수 있게 구성했습니다. 단순 추천 목록이 아니라 일정 설계 가이드가 되어야 가치가 낮은 콘텐츠로 보일 가능성이 줄어듭니다.
 
 예약 순서는 열차, 숙소, 도시별 핵심 명소, 식사 후보 순서가 좋습니다. 열차 시간이 흔들리면 숙소 체크인과 짐 보관이 함께 흔들리고, 그다음 관광지가 줄줄이 밀립니다. 짧은 여행일수록 먼저 고정해야 할 것과 현장에서 골라도 되는 것을 나누는 판단이 필요합니다.
+
+서울, 경주, 부산은 서로 다른 역할을 맡길 때 일정이 선명해집니다. 서울은 첫 도착과 궁궐, 경주는 역사 유적과 야경, 부산은 바다와 시장으로 정리하세요. 이 기준을 세우면 3박4일 안에서도 장소가 겹쳐 보이지 않고 이동 이유가 분명해집니다.

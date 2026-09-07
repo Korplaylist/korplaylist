@@ -41,7 +41,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-gwangju-yangnim-gwangju-korea-itinerary-acc-yangnim-daein-market-20260906-village-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-gwangju-yangnim-gwangju-korea-itinerary-acc-yangnim-daein-market-20260906-village.jpg" alt="광주 양림동 골목과 근대문화마을 분위기" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>양림동은 천천히 걷는 골목 여행지라 식사 전후 여유 시간에 넣으면 만족도가 높습니다. ⓒ한국플레이리스트</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -65,7 +65,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-gwangju-daein-gwangju-korea-itinerary-acc-yangnim-daein-market-20260906-market-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-gwangju-daein-gwangju-korea-itinerary-acc-yangnim-daein-market-20260906-market.jpg" alt="광주 대인시장 골목과 저녁 먹거리 분위기" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>대인시장과 충장로는 하루 마지막 식사와 산책을 묶기 좋은 도심권 마무리 지점입니다. ⓒ한국플레이리스트</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 비용과 준비물
@@ -88,7 +88,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-gwangju-chungjang-gwangju-korea-itinerary-acc-yangnim-daein-market-20260906-evening-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-gwangju-chungjang-gwangju-korea-itinerary-acc-yangnim-daein-market-20260906-evening.jpg" alt="광주 충장로의 저녁 거리와 도심 산책 분위기" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>광주 도심 코스는 저녁 시간을 비워 두면 시장, 충장로, 카페 중 현장 분위기에 맞게 고르기 쉽습니다. ⓒ한국플레이리스트</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 현장에서 바로 판단하는 기준
@@ -122,3 +122,5 @@ ACC 관람이 길어지면 양림동을 한두 골목만 보고, 대인시장은
 광주송정역 복귀 시간이 빠르면 저녁을 도심에서 길게 먹는 것보다 역 이동을 먼저 하는 편이 안전합니다. 반대로 숙박 없이 밤 기차를 탄다면 충장로와 대인시장 권역에서 시간을 보내다가 역으로 이동하면 됩니다. 식사 위치를 미리 정해 두면 당일치기에서 가장 많이 생기는 “배고픈데 어디로 가야 할지 모르는 시간”을 줄일 수 있습니다.
 
 마지막으로 광주 당일치기에서는 점심과 저녁을 모두 유명 식당으로 고정하지 않는 편이 좋습니다. 전시 종료 시간, 시장 분위기, 골목 체류 시간이 달라질 수 있으므로 한 끼만 확정하고 나머지는 도착 시간에 맞춰 고르세요. 이렇게 해야 일정이 밀려도 여행 전체가 무너지지 않습니다.
+
+광주는 도시의 결을 느끼는 여행지라 이동 순서가 콘텐츠의 핵심입니다. ACC에서 현재의 문화 공간을 보고, 양림동에서 오래된 골목을 걷고, 시장과 충장로에서 저녁 생활감을 보면 하루 안에서도 흐름이 생깁니다. 이 순서를 지키면 짧은 방문이라도 정보의 밀도가 충분해집니다.

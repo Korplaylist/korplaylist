@@ -41,7 +41,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-cheongju-cheongnamdae-cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol-20260906-lake-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-cheongju-cheongnamdae-cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol-20260906-lake.jpg" alt="청남대 호수와 산책로 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>청남대는 오전에 먼저 넣어야 관람 흐름이 덜 밀리고 오후 일정을 조정하기 쉽습니다. ⓒ한국플레이리스트</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 추천 동선
@@ -71,7 +71,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-cheongju-suamgol-cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol-20260906-view-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-cheongju-suamgol-cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol-20260906-view.jpg" alt="청주 수암골에서 내려다보는 도심 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>수암골은 하루 마지막에 넣으면 산책, 사진, 식사를 한 번에 정리하기 좋습니다. ⓒ한국플레이리스트</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 날씨와 안전 대응
@@ -94,7 +94,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-cheongju-culture-cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol-20260906-evening-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-cheongju-culture-cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol-20260906-evening.jpg" alt="청주 문화 공간과 저녁 산책 분위기" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>청주 당일치기는 자연과 도심 산책을 섞어야 하루가 지루하지 않습니다. ⓒ한국플레이리스트</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 현장에서 바로 판단하는 기준
@@ -120,3 +120,5 @@ draft: false
 ## 애드센스 관점의 정보 보강
 
 청주 당일치기 글이 얇아 보이지 않으려면 단순히 “청남대가 좋다, 상당산성이 좋다”에서 끝나면 안 됩니다. 출발 시간, 줄일 수 있는 지점, 날씨별 판단, 동행자별 조정이 있어야 검색 사용자가 실제로 일정을 짤 수 있습니다. 이 글은 장소 설명보다 선택 기준을 앞세워 초행자가 현장에서 바로 바꿀 수 있게 구성했습니다.
+
+또한 청주는 같은 충북 안에서도 호수, 산성, 골목의 분위기가 분명히 갈립니다. 그래서 사진만 보고 목적지를 고르기보다 걷는 거리와 머무는 시간을 함께 봐야 합니다. 이 기준을 넣어야 실제 방문자가 일정표를 바로 수정할 수 있습니다.

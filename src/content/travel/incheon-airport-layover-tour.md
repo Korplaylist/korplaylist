@@ -41,7 +41,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-incheon-layover-skyline-incheon-airport-layover-tour-20260906-skyline-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-incheon-layover-skyline-incheon-airport-layover-tour-20260906-skyline.jpg" alt="인천 송도 고층 건물과 도심 스카이라인" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>송도는 공항에서 비교적 동선이 단순하고 짧은 도시 산책을 만들기 좋은 선택지입니다. ⓒ한국플레이리스트</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 경유 시간별 선택
@@ -65,7 +65,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-incheon-layover-openport-incheon-airport-layover-tour-20260906-openport-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-incheon-layover-openport-incheon-airport-layover-tour-20260906-openport.jpg" alt="인천 개항장 거리의 오래된 건물과 골목 풍경" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>개항장은 시간이 넉넉할 때 짧은 역사 산책으로 만족도가 높은 코스입니다. ⓒ한국플레이리스트</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 준비물과 주의사항
@@ -89,7 +89,7 @@ draft: false
     <source type="image/webp" srcset="/images/optimized/generated/unique/ko-incheon-layover-tribowl-incheon-airport-layover-tour-20260906-tribowl-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
     <img src="/images/generated/unique/ko-incheon-layover-tribowl-incheon-airport-layover-tour-20260906-tribowl.jpg" alt="송도 트라이볼과 주변 산책 공간" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
-  <figcaption>환승 시간이 충분하다면 송도 산책은 짧고 선명한 인천 첫인상을 만들기 좋습니다. ⓒ한국플레이리스트</figcaption>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>
 
 ## 현장에서 바로 판단하는 기준
@@ -123,3 +123,5 @@ draft: false
 개항장은 한국의 오래된 항구 도시 분위기와 골목 산책을 보고 싶은 사람에게 맞습니다. 차이나타운, 개항장 거리, 오래된 건물들이 이어져 짧은 역사 산책으로 좋습니다. 다만 이동과 걷는 시간이 송도보다 더 복잡하게 느껴질 수 있으므로 환승 시간이 빠듯하면 추천하지 않습니다. 처음 방문이고 실패 확률을 낮추고 싶다면 송도, 시간이 넉넉하고 골목 분위기를 원한다면 개항장이 낫습니다.
 
 두 코스 모두 다음 비행 3시간 전에는 공항 복귀 방향으로 움직이는 계획이 안전합니다. 도로 정체, 터미널 이동, 보안검색 대기까지 고려하면 여유 시간이 곧 보험입니다.
+
+환승 여행은 일반 당일치기와 다르게 실패 비용이 큽니다. 관광지를 하나 더 보는 것보다 탑승 시간을 지키는 판단이 중요합니다. 그래서 이 글에서는 도시 매력보다 경유 시간, 터미널, 등록 시간, 복귀 여유를 먼저 설명했습니다.
