@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T00:40:00.000Z",
+  "updatedAt": "2026-09-07T05:45:47.554Z",
   "posts": [
     "andong-hahoe-woryeonggyo-heritage-night-route-en.md|2026-09-01T02:10:00.000Z",
     "andong-hahoe-woryeonggyo-heritage-night-route-ja.md|2026-09-02T00:10:00.000Z",
@@ -49,6 +49,7 @@
     "busan-two-day-route.md|2026-05-18T00:00:00.000Z",
     "cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol-en.md|2026-08-19T02:30:00.000Z",
     "cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol-ja.md|2026-08-20T00:30:00.000Z",
+    "cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol.md|2026-09-06T00:10:00.000Z",
     "chuncheon-animation-museum-uiamho-half-day.md|2026-08-14T01:00:00.000Z",
     "chuncheon-dakgalbi-makguksu-food-route.md|2026-07-19T04:00:00.000Z",
     "chuncheon-gimyujeong-station-sille-village-half-day.md|2026-08-09T10:50:00.000Z",
@@ -104,6 +105,7 @@
     "gwangju-biennale-jungoe-park-art-walk.md|2026-08-15T02:10:00.000Z",
     "gwangju-korea-itinerary-acc-yangnim-daein-market-en.md|2026-08-19T00:10:00.000Z",
     "gwangju-korea-itinerary-acc-yangnim-daein-market-ja.md|2026-08-20T00:10:00.000Z",
+    "gwangju-korea-itinerary-acc-yangnim-daein-market.md|2026-09-06T00:20:00.000Z",
     "gwangju-mudeungsan-jeungsimsa-forest-half-day.md|2026-08-15T00:40:00.000Z",
     "gwangju-sajik-park-seochang-sunset-half-day.md|2026-08-15T02:40:00.000Z",
     "gwangju-songjeong-station-market-food-route.md|2026-08-15T01:40:00.000Z",
@@ -121,6 +123,7 @@
     "gyeongju-hwangnidan-gil-food-cost.md|2026-07-19T05:50:00.000Z",
     "incheon-airport-layover-tour-en.md|2026-07-11T23:40:00.000Z",
     "incheon-airport-layover-tour-ja.md|2026-07-10T00:10:00.000Z",
+    "incheon-airport-layover-tour.md|2026-09-06T00:30:00.000Z",
     "incheon-airport-to-seoul-arex-bus-taxi-guide-en.md|2026-08-26T00:05:00.000Z",
     "incheon-airport-to-seoul-arex-bus-taxi-guide-ja.md|2026-08-27T00:05:00.000Z",
     "incheon-airport-to-seoul-arex-bus-taxi-guide.md|2026-08-28T00:05:00.000Z",
@@ -166,6 +169,7 @@
     "jeonju-nambu-market-evening-food-route.md|2026-07-20T06:40:00.000Z",
     "jeonju-wansan-park-seohakdong-half-day.md|2026-08-14T00:05:00.000Z",
     "korea-3n4d-model-course-ja.md|2026-07-13T05:05:00.000Z",
+    "korea-3n4d-model-course.md|2026-09-06T00:40:00.000Z",
     "korea-7-day-summer-itinerary-en.md|2026-07-12T09:20:00.000Z",
     "korea-rainy-season-travel-en.md|2026-07-15T03:20:00.000Z",
     "korea-rainy-season-travel-ja.md|2026-07-16T03:20:00.000Z",
@@ -268,26 +272,6 @@
     "yeosu-odongdo-expo-station-half-day.md|2026-07-27T05:10:00.000Z",
     "yeosu-ungcheon-jangdo-evening-walk.md|2026-08-11T00:30:00.000Z",
     "yeouido-hangang-summer-picnic-en.md|2026-09-04T01:00:00.000Z",
-    "yeouido-hangang-summer-picnic.md|2026-07-11T09:40:00.000Z",
-    {
-      "slug": "cheongju-day-trip-from-seoul-cheongnamdae-sangdangsanseong-suamgol.md",
-      "publishedAt": "2026-09-06T00:10:00.000Z",
-      "locale": "ko"
-    },
-    {
-      "slug": "gwangju-korea-itinerary-acc-yangnim-daein-market.md",
-      "publishedAt": "2026-09-06T00:20:00.000Z",
-      "locale": "ko"
-    },
-    {
-      "slug": "incheon-airport-layover-tour.md",
-      "publishedAt": "2026-09-06T00:30:00.000Z",
-      "locale": "ko"
-    },
-    {
-      "slug": "korea-3n4d-model-course.md",
-      "publishedAt": "2026-09-06T00:40:00.000Z",
-      "locale": "ko"
-    }
+    "yeouido-hangang-summer-picnic.md|2026-07-11T09:40:00.000Z"
   ]
 }
