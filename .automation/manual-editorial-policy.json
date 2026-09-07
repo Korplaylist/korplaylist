@@ -36,6 +36,7 @@
     "Use one locale per requested day: Korean day, then English day, then Japanese day.",
     "Select keywords separately for each locale instead of translating the same Korean keyword.",
     "Use English URL slugs for every locale.",
+    "Do not add a year to article titles unless a date-specific event, rule, price change, or edition makes it essential.",
     "Keep body source lists out of articles. Keep only legally required image attribution captions.",
     "Each article must pass content integrity, image existence, image duplicate, AdSense readiness, automation health, and Astro build checks before commit.",
     "Do not stage unrelated dirty files."

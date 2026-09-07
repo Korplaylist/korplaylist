@@ -1,0 +1,175 @@
+{
+  "date": "2026-09-07",
+  "locale": "en",
+  "tool": "built-in image_gen",
+  "note": "Original generated editorial illustrations, not on-location photographs. Captions use requested copyright. No measured keyword-volume or ranking claims.",
+  "keywords": [
+    {
+      "keyword": "Seongsu-dong guide",
+      "slug": "seongsu-dong-shopping-cafes-seoul-forest",
+      "intent": "Dedicated neighborhood shopping/cafe/park route; existing Line 2 article addresses rain, not this route."
+    },
+    {
+      "keyword": "Ikseon-dong guide",
+      "slug": "ikseon-dong-hanok-cafes-walking-route",
+      "intent": "Hanok cafe visit and Insadong route."
+    },
+    {
+      "keyword": "Mangwon Market food",
+      "slug": "mangwon-market-food-guide",
+      "intent": "Food choices, ordering and optional river picnic."
+    },
+    {
+      "keyword": "National Museum of Korea guide",
+      "slug": "national-museum-korea-visitor-guide",
+      "intent": "Current hours, maintenance closures and a selective gallery visit."
+    },
+    {
+      "keyword": "how to get to N Seoul Tower",
+      "slug": "n-seoul-tower-cable-car-bus-walking",
+      "intent": "Transport comparison and separate admission costs."
+    }
+  ],
+  "assets": [
+    {
+      "topic": "seongsu",
+      "role": "hero",
+      "prompt": "A photorealistic editorial travel illustration of a renovated red brick industrial street in Seongsu Seoul, low-rise cafe facades, a few adult travelers walking, broad midday view, muted actual brick and green foliage, no readable text, no logos. Not an invented named business. Single landscape photograph composition 3:2, sharp realistic detail, no collage, no border.",
+      "source": "C:\\Users\\Hong\\.codex\\generated_images\\019ffe81-1438-7253-8ae8-d035516586f4\\exec-2df36d32-010c-4f82-86cc-e645bb0d3cc6.png",
+      "destination": "public/images/generated/en-seongsu-hero-20260907.jpg"
+    },
+    {
+      "topic": "seongsu",
+      "role": "forest",
+      "prompt": "Photorealistic travel illustration, Seoul Forest broad level tree-lined pedestrian path, tall fresh green trees and benches, distant modern Seoul skyline, two adults strolling, early September soft daylight. Single landscape 3:2 frame, no text or labels, no collage, natural documentary color.",
+      "source": "C:\\Users\\Hong\\.codex\\generated_images\\019ffe81-1438-7253-8ae8-d035516586f4\\exec-828672b3-3edd-489a-b73b-8193d8ce1fd0.png",
+      "destination": "public/images/generated/en-seongsu-forest-20260907.jpg"
+    },
+    {
+      "topic": "seongsu",
+      "role": "cafe",
+      "prompt": "Photorealistic travel illustration of coffee and a pastry at a window table in an unnamed converted industrial cafe, exposed brick, concrete floor, spacious natural light, urban Seoul side street outside. Do not depict a named venue or brand. Landscape 3:2, single photograph, no lettering, no watermarks.",
+      "source": "C:\\Users\\Hong\\.codex\\generated_images\\019ffe81-1438-7253-8ae8-d035516586f4\\exec-b38a054d-09fe-4d57-b3d4-0b03047cdf58.png",
+      "destination": "public/images/generated/en-seongsu-cafe-20260907.jpg"
+    },
+    {
+      "topic": "seongsu",
+      "role": "shopping",
+      "prompt": "Photorealistic travel illustration of adult travelers with modest plain shopping bags walking along a Seongsu-style low-rise street, red brick workshops and small unbranded storefronts, afternoon natural sunlight, full scene with comfortable sidewalks. Landscape 3:2 single image, no readable signs, no collage.",
+      "source": "C:\\Users\\Hong\\.codex\\generated_images\\019ffe81-1438-7253-8ae8-d035516586f4\\exec-b9715a03-41c9-48eb-85ff-c40a47dcbf26.png",
+      "destination": "public/images/generated/en-seongsu-shopping-20260907.jpg"
+    },
+    {
+      "topic": "ikseon",
+      "role": "hero",
+      "prompt": "Photorealistic editorial travel illustration of a narrow Ikseon-dong style hanok alley in central Seoul, tiled eaves, timber doors, tiny unbranded cafes, warm late morning light, a few adult visitors, no staged posing. Landscape 3:2 single photo, no readable lettering, no collage.",
+      "source": "C:\\Users\\Hong\\.codex\\generated_images\\019ffe81-1438-7253-8ae8-d035516586f4\\exec-cc9adc62-dffe-4294-b6a9-6e187867d1e2.png",
+      "destination": "public/images/generated/en-ikseon-hero-20260907.jpg"
+    },
+    {
+      "topic": "ikseon",
+      "role": "tea",
+      "prompt": "Photorealistic editorial illustration of Korean tea in ceramic cups and a small dessert on a wooden table in an anonymous hanok courtyard cafe, tiled eaves and a leafy planter, no business branding, gentle daylight. Landscape 3:2 single photograph, crisp realistic texture, no text.",
+      "source": "C:\\Users\\Hong\\.codex\\generated_images\\019ffe81-1438-7253-8ae8-d035516586f4\\exec-05622590-b8d3-4cf2-a6b8-1f1adac9372b.png",
+      "destination": "public/images/generated/en-ikseon-tea-20260907.jpg"
+    },
+    {
+      "topic": "ikseon",
+      "role": "lane",
+      "prompt": "Photorealistic editorial travel illustration of adults strolling through an Ikseon-dong-style Seoul hanok lane at dusk, low tiled roofs, warm shop windows, open central walking space, no readable text or identifiable businesses. Landscape 3:2 single wide photograph, no collage.",
+      "source": "C:\\Users\\Hong\\.codex\\generated_images\\019ffe81-1438-7253-8ae8-d035516586f4\\exec-867a2762-cde8-4395-95bf-d04ba626c97b.png",
+      "destination": "public/images/generated/en-ikseon-lane-20260907.jpg"
+    },
+    {
+      "topic": "ikseon",
+      "role": "crafts",
+      "prompt": "Photorealistic editorial illustration, Korean traditional craft shopping in a small unnamed Insadong-style shop, ceramic bowls and folded handmade paper goods neatly arranged, soft window light, no readable signs, no logos, no invented labeled prices. Landscape 3:2, one photograph.",
+      "source": "C:\\Users\\Hong\\.codex\\generated_images\\019ffe81-1438-7253-8ae8-d035516586f4\\exec-bdd24c52-588d-4105-ba80-bc605966db92.png",
+      "destination": "public/images/generated/en-ikseon-crafts-20260907.jpg"
+    },
+    {
+      "topic": "mangwon",
+      "role": "hero",
+      "prompt": "Photorealistic editorial travel illustration of an everyday covered Korean neighborhood food market aisle inspired by Mangwon, colorful fresh produce and prepared snack counters, local shoppers, realistic clean bright lighting, no readable signs, no fake branded stalls. Single wide landscape 3:2 photograph, not collage.",
+      "source": "C:\\Users\\Hong\\.codex\\generated_images\\019ffe81-1438-7253-8ae8-d035516586f4\\exec-76bc6f81-fe33-466b-9ab1-1fbd7c0addd4.png",
+      "destination": "public/images/generated/en-mangwon-hero-20260907.jpg"
+    },
+    {
+      "topic": "mangwon",
+      "role": "chicken",
+      "prompt": "Photorealistic editorial illustration, small paper tray of glossy Korean dakgangjeong bite sized fried chicken with sesame seeds at an anonymous market counter, appetizing realistic textures, plain packaging, no readable text, no logo. Single landscape 3:2 food photograph.",
+      "source": "C:\\Users\\Hong\\.codex\\generated_images\\019ffe81-1438-7253-8ae8-d035516586f4\\exec-e0bd4c52-ea24-4a43-8591-2b15a31aaf81.png",
+      "destination": "public/images/generated/en-mangwon-chicken-20260907.jpg"
+    },
+    {
+      "topic": "mangwon",
+      "role": "snacks",
+      "prompt": "Photorealistic editorial illustration of a modest shared market meal, two golden croquettes and a small bowl of red tteokbokki with chopsticks on a simple stainless counter, portion sizes realistic, no signs or branding. Single landscape 3:2 photo, natural market lighting.",
+      "source": "C:\\Users\\Hong\\.codex\\generated_images\\019ffe81-1438-7253-8ae8-d035516586f4\\exec-1d700701-2316-45e8-b8b8-c8aec758b53d.png",
+      "destination": "public/images/generated/en-mangwon-snacks-20260907.jpg"
+    },
+    {
+      "topic": "mangwon",
+      "role": "river",
+      "prompt": "Photorealistic editorial travel illustration of a small picnic on a mat beside the Han River in western Seoul, a couple seated with plain takeaway containers, bicycles on separate distant path, wide river and low bridge, late afternoon clear light. Single landscape 3:2 image, no words or logos.",
+      "source": "C:\\Users\\Hong\\.codex\\generated_images\\019ffe81-1438-7253-8ae8-d035516586f4\\exec-42c0d0ca-0dd6-4a85-b2c7-0602b14ff6c6.png",
+      "destination": "public/images/generated/en-mangwon-river-20260907.jpg"
+    },
+    {
+      "topic": "museum",
+      "role": "hero",
+      "prompt": "Photorealistic editorial travel illustration of National Museum of Korea exterior in Yongsan Seoul, broad pale stone horizontal building with its large open central passage, reflecting pond and landscaped public grounds, clear daylight, visitors at normal scale, no text. Single landscape 3:2 photograph, no collage.",
+      "source": "C:\\Users\\Hong\\.codex\\generated_images\\019ffe81-1438-7253-8ae8-d035516586f4\\exec-edeeddf4-5d72-4a5a-ac52-ea58e95f92da.png",
+      "destination": "public/images/generated/en-museum-hero-20260907.jpg"
+    },
+    {
+      "topic": "museum",
+      "role": "ceramic",
+      "prompt": "Photorealistic editorial illustrative still life of a plain white Korean moon jar and a celadon bowl, neutral museum-like background, soft side lighting. These are generic educational ceramic forms, not reproductions of any specific museum artifact or current exhibition. Single landscape 3:2 photo, no text or labels.",
+      "source": "C:\\Users\\Hong\\.codex\\generated_images\\019ffe81-1438-7253-8ae8-d035516586f4\\exec-27ae0621-6b2f-4001-b570-267723eded98.png",
+      "destination": "public/images/generated/en-museum-ceramic-20260907.jpg"
+    },
+    {
+      "topic": "museum",
+      "role": "gallery",
+      "prompt": "Photorealistic editorial conceptual illustration of adult visitors quietly looking at generic ceramic display cases in a spacious modern Korean museum gallery, no recognizable artworks, no legible labels, neutral walls and soft lighting. Not a depiction of a specific gallery. Single landscape 3:2 photograph.",
+      "source": "C:\\Users\\Hong\\.codex\\generated_images\\019ffe81-1438-7253-8ae8-d035516586f4\\exec-cca9b0d3-cab1-488d-91f0-fd57ad002e65.png",
+      "destination": "public/images/generated/en-museum-gallery-20260907.jpg"
+    },
+    {
+      "topic": "museum",
+      "role": "garden",
+      "prompt": "Photorealistic editorial travel illustration of a quiet Yongsan public garden path with trees and a pond, stone seating, two visitors resting after a museum trip, soft afternoon daylight, no readable signage or commercial branding. Single landscape 3:2 photograph.",
+      "source": "C:\\Users\\Hong\\.codex\\generated_images\\019ffe81-1438-7253-8ae8-d035516586f4\\exec-15ebc761-d480-499a-882b-482750d9b094.png",
+      "destination": "public/images/generated/en-museum-garden-20260907.jpg"
+    },
+    {
+      "topic": "namsan",
+      "role": "hero",
+      "prompt": "Photorealistic editorial travel illustration of N Seoul Tower on Namsan hill seen from its public plaza, recognizable white cylindrical tower and observation deck, green trees, clear late afternoon light, a few visitors. Landscape 3:2 single photograph, no words, no fake signs, no collage.",
+      "source": "C:\\Users\\Hong\\.codex\\generated_images\\019ffe81-1438-7253-8ae8-d035516586f4\\exec-72b92fb9-b601-4f3b-84d0-17c3524b081a.png",
+      "destination": "public/images/generated/en-namsan-hero-20260907.jpg"
+    },
+    {
+      "topic": "namsan",
+      "role": "cable",
+      "prompt": "Photorealistic editorial travel illustration of a Namsan cable car suspended above green forest with Seoul buildings in background, daylight, realistically modest cabin and support cables, no brand or readable text. Landscape 3:2 single photograph, no collage.",
+      "source": "C:\\Users\\Hong\\.codex\\generated_images\\019ffe81-1438-7253-8ae8-d035516586f4\\exec-ea9b02bf-bbc3-40f4-b139-f3d423a35719.png",
+      "destination": "public/images/generated/en-namsan-cable-20260907.jpg"
+    },
+    {
+      "topic": "namsan",
+      "role": "walk",
+      "prompt": "Photorealistic editorial travel illustration of a paved uphill path on Namsan Seoul with a section of stone steps and handrail, two adults wearing walking shoes, green trees and distant city view, natural daylight. Landscape 3:2 single photograph, no text, no diagram.",
+      "source": "C:\\Users\\Hong\\.codex\\generated_images\\019ffe81-1438-7253-8ae8-d035516586f4\\exec-ce3e002b-ac06-4d2c-a68b-4fb39ce135ba.png",
+      "destination": "public/images/generated/en-namsan-walk-20260907.jpg"
+    },
+    {
+      "topic": "namsan",
+      "role": "skyline",
+      "prompt": "Photorealistic editorial travel illustration of the central Seoul skyline seen from Namsan at blue hour, dense city buildings with realistic glowing windows, distant layered hills, clear evening with gentle color, no exaggerated landmarks. Single landscape 3:2 photo, no text or collage.",
+      "source": "C:\\Users\\Hong\\.codex\\generated_images\\019ffe81-1438-7253-8ae8-d035516586f4\\exec-dfad3e6b-6593-4eff-909a-4571c41421b4.png",
+      "destination": "public/images/generated/en-namsan-skyline-20260907.jpg"
+    }
+  ]
+}
