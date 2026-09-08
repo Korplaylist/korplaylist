@@ -1,0 +1,126 @@
+{
+  "date": "2026-09-08",
+  "locale": "ja",
+  "tool": "built-in image_gen",
+  "note": "Original generated editorial illustrations, not on-location photographs. Japanese alt text identifies illustrations. Captions follow requested credit. Keywords chosen for distinct travel intent, not measured search volume. No dedicated existing Japanese article for these topics found in title/slug review.",
+  "keywords": [
+    {
+      "keyword": "金浦空港から明洞",
+      "slug": "gimpo-airport-to-myeongdong",
+      "intent": "GMP arrivals route and hotel-side station choice"
+    },
+    {
+      "keyword": "通仁市場 お弁当カフェ",
+      "slug": "tongin-market-lunch-seochon-walk",
+      "intent": "Coin lunch mechanics and Seochon half day"
+    },
+    {
+      "keyword": "徳寿宮 石垣道",
+      "slug": "deoksugung-stone-wall-evening-walk",
+      "intent": "Separate palace admission, exhibition reservations and public walking route"
+    },
+    {
+      "keyword": "釜山 松島海上ケーブルカー",
+      "slug": "busan-songdo-cable-car-guide",
+      "intent": "Cabin and ticket comparison with return transport"
+    }
+  ],
+  "assets": [
+    {
+      "topic": "gimpo",
+      "role": "hero",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-027947d9-e75c-4abf-afca-c94d3bd3f59c.png",
+      "destination": "public/images/generated/ja-gimpo-hero-20260908.jpg"
+    },
+    {
+      "topic": "gimpo",
+      "role": "rail",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-52c8337e-0396-461a-bfda-d41527020bdf.png",
+      "destination": "public/images/generated/ja-gimpo-rail-20260908.jpg"
+    },
+    {
+      "topic": "gimpo",
+      "role": "bags",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-17a6516f-150e-413d-85c3-961fe79e7113.png",
+      "destination": "public/images/generated/ja-gimpo-bags-20260908.jpg"
+    },
+    {
+      "topic": "gimpo",
+      "role": "myeongdong",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-2ae35abf-a1e8-4e63-b7d1-47150bb07587.png",
+      "destination": "public/images/generated/ja-gimpo-myeongdong-20260908.jpg"
+    },
+    {
+      "topic": "tongin",
+      "role": "hero",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-07f5665a-c902-4fc1-ba9a-c30878ef6f9e.png",
+      "destination": "public/images/generated/ja-tongin-hero-20260908.jpg"
+    },
+    {
+      "topic": "tongin",
+      "role": "lunch",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-2af02db2-c132-4c2a-b267-13274aebddda.png",
+      "destination": "public/images/generated/ja-tongin-lunch-20260908.jpg"
+    },
+    {
+      "topic": "tongin",
+      "role": "tteok",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-66c7c8f6-6386-4c79-a809-ef36b33c9a61.png",
+      "destination": "public/images/generated/ja-tongin-tteok-20260908.jpg"
+    },
+    {
+      "topic": "tongin",
+      "role": "seochon",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-582ba879-1d74-497a-8cb2-5a6cee05de1b.png",
+      "destination": "public/images/generated/ja-tongin-seochon-20260908.jpg"
+    },
+    {
+      "topic": "deoksu",
+      "role": "hero",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-dbe49d07-5383-4a8e-8df6-a1e6f4e9d7ba.png",
+      "destination": "public/images/generated/ja-deoksu-hero-20260908.jpg"
+    },
+    {
+      "topic": "deoksu",
+      "role": "wall",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-970521fc-845d-4fcf-a1ef-c97f72e79c29.png",
+      "destination": "public/images/generated/ja-deoksu-wall-20260908.jpg"
+    },
+    {
+      "topic": "deoksu",
+      "role": "stonehall",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-9b79c193-c276-42ce-a86b-c02bbc0e637d.png",
+      "destination": "public/images/generated/ja-deoksu-stonehall-20260908.jpg"
+    },
+    {
+      "topic": "deoksu",
+      "role": "evening",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-bd7881ce-6e0d-47f4-92a1-d18911495734.png",
+      "destination": "public/images/generated/ja-deoksu-evening-20260908.jpg"
+    },
+    {
+      "topic": "songdo",
+      "role": "hero",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-12ff1f42-b981-4a91-863a-22d07a629238.png",
+      "destination": "public/images/generated/ja-songdo-hero-20260908.jpg"
+    },
+    {
+      "topic": "songdo",
+      "role": "cabin",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-339a196d-aff8-4a83-9968-dc203929cd14.png",
+      "destination": "public/images/generated/ja-songdo-cabin-20260908.jpg"
+    },
+    {
+      "topic": "songdo",
+      "role": "beach",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-6f5b2086-cef4-43bf-bf27-a1d05d11edd3.png",
+      "destination": "public/images/generated/ja-songdo-beach-20260908.jpg"
+    },
+    {
+      "topic": "songdo",
+      "role": "park",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-3525e97b-67cd-4a13-af1f-dc1bdb9c3522.png",
+      "destination": "public/images/generated/ja-songdo-park-20260908.jpg"
+    }
+  ]
+}
