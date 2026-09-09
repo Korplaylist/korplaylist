@@ -1,0 +1,175 @@
+{
+  "date": "2026-09-09",
+  "locale": "ko",
+  "tool": "built-in image_gen",
+  "note": "Generated editorial illustrations, not on-location photographs. KTO API key unavailable. Official image copyright cannot be replaced with own credit. Five subjects absent in existing Korean title/body search; selection based on visitor intent, no measured traffic/ranking claims.",
+  "keywords": [
+    {
+      "keyword": "화담숲 예약 모노레일",
+      "slug": "gwangju-hwadam-forest-reservation-monorail-guide",
+      "region": "gyeonggi"
+    },
+    {
+      "keyword": "서울식물원 온실 입장료 주차",
+      "slug": "seoul-botanic-park-greenhouse-magok-guide",
+      "region": "seoul"
+    },
+    {
+      "keyword": "광명동굴 입장료 관람시간",
+      "slug": "gwangmyeong-cave-tickets-parking-family-guide",
+      "region": "gyeonggi"
+    },
+    {
+      "keyword": "임진각 평화곤돌라 신분증",
+      "slug": "paju-imjingak-peace-gondola-id-guide",
+      "region": "gyeonggi"
+    },
+    {
+      "keyword": "국립과천과학관 예약 아이랑",
+      "slug": "gwacheon-science-museum-family-reservation-guide",
+      "region": "gyeonggi"
+    }
+  ],
+  "assets": [
+    {
+      "topic": "hwadam",
+      "role": "hero",
+      "prompt": "A gently winding accessible wooden boardwalk through a lush Korean hillside botanical garden, varied deciduous trees with a few early autumn leaves, clear daylight, family walkers small in distance, realistic planted landscape inspired by Hwadam forest, no signature buildings. Single horizontal 3:2 photorealistic editorial illustration, natural restrained colors, sharp realistic detail. No collage, no watermark, no text overlays, no fake brand names. This is an illustrative image not a documentary claim.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-e5798e61-9e2e-4a81-9f2b-6d51fc24d11e.png",
+      "destination": "public/images/generated/ko-hwadam-hero-20260909.jpg"
+    },
+    {
+      "topic": "hwadam",
+      "role": "rail",
+      "prompt": "Small enclosed modern garden monorail vehicle on a single elevated rail through a dense Korean hillside arboretum. Side view, natural green foliage and hints of yellow, realistic slow tourist transport, no logos or signs. Single horizontal 3:2 photorealistic editorial illustration, natural restrained colors, sharp realistic detail. No collage, no watermark, no text overlays, no fake brand names. This is an illustrative image not a documentary claim.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-e6118806-e8ae-412b-8783-94d23e110da2.png",
+      "destination": "public/images/generated/ko-hwadam-rail-20260909.jpg"
+    },
+    {
+      "topic": "hwadam",
+      "role": "moss",
+      "prompt": "Close low-angle botanical photograph-like illustration of soft bright green moss covering stones beside a shaded woodland footpath in a Korean arboretum, tiny ferns, natural filtered daylight. Single horizontal 3:2 photorealistic editorial illustration, natural restrained colors, sharp realistic detail. No collage, no watermark, no text overlays, no fake brand names. This is an illustrative image not a documentary claim.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-9be757c7-d079-499d-97fa-235b69561c78.png",
+      "destination": "public/images/generated/ko-hwadam-moss-20260909.jpg"
+    },
+    {
+      "topic": "hwadam",
+      "role": "walk",
+      "prompt": "Korean older couple in comfortable walking shoes walking up a very gentle broad wooden ramp with railings through a leafy garden, eye-level editorial travel illustration, no mobility promises implied. Single horizontal 3:2 photorealistic editorial illustration, natural restrained colors, sharp realistic detail. No collage, no watermark, no text overlays, no fake brand names. This is an illustrative image not a documentary claim.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-9cf9a382-1955-45c3-9993-f81ca1fed82c.png",
+      "destination": "public/images/generated/ko-hwadam-walk-20260909.jpg"
+    },
+    {
+      "topic": "botanic",
+      "role": "hero",
+      "prompt": "Bright contemporary Korean public botanical conservatory interior inspired by Seoul Botanic Park, gently curved broad glass-and-steel roof with hexagonal geometric glazing, tall palms and huge tropical leaves, people on a wide concrete walkway. No domed Victorian greenhouse, no invented signs. Single horizontal 3:2 photorealistic editorial illustration, natural restrained colors, sharp realistic detail. No collage, no watermark, no text overlays, no fake brand names. This is an illustrative image not a documentary claim.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-7dea1edd-80dd-4afe-b090-29816123c900.png",
+      "destination": "public/images/generated/ko-botanic-hero-20260909.jpg"
+    },
+    {
+      "topic": "botanic",
+      "role": "leaf",
+      "prompt": "Close-up of tropical banana and monstera leaves with humid light droplets inside a modern botanical glasshouse, detailed natural plants and diffuse daylight, no text. Single horizontal 3:2 photorealistic editorial illustration, natural restrained colors, sharp realistic detail. No collage, no watermark, no text overlays, no fake brand names. This is an illustrative image not a documentary claim.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-fd012ef0-8514-46b7-ae78-03382e7e0ecc.png",
+      "destination": "public/images/generated/ko-botanic-leaf-20260909.jpg"
+    },
+    {
+      "topic": "botanic",
+      "role": "dry",
+      "prompt": "Mediterranean dry climate plants including small olive tree and agave in pale gravel beds inside modern Korean public conservatory, broad clean pedestrian path, no tropical palms in this view. Single horizontal 3:2 photorealistic editorial illustration, natural restrained colors, sharp realistic detail. No collage, no watermark, no text overlays, no fake brand names. This is an illustrative image not a documentary claim.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-ec1052d3-85b9-48ef-981b-a7315e6afd87.png",
+      "destination": "public/images/generated/ko-botanic-dry-20260909.jpg"
+    },
+    {
+      "topic": "botanic",
+      "role": "lake",
+      "prompt": "Modern Seoul urban botanical park lake promenade, reeds and trees, distant mid-rise city buildings, bright early autumn daytime, small group walking, no recognizable fabricated landmark. Single horizontal 3:2 photorealistic editorial illustration, natural restrained colors, sharp realistic detail. No collage, no watermark, no text overlays, no fake brand names. This is an illustrative image not a documentary claim.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-e3648c90-0ef9-40d6-b5f5-94f57a3c7b32.png",
+      "destination": "public/images/generated/ko-botanic-lake-20260909.jpg"
+    },
+    {
+      "topic": "cave",
+      "role": "hero",
+      "prompt": "Realistic former mine visitor tunnel in South Korea, rough stone walls, level pedestrian walkway with metal railings and subtle warm white safety lighting, no fantasy cavern, no crystals, no stalactites, no text. Day-trip editorial illustration inspired by Gwangmyeong converted mine. Single horizontal 3:2 photorealistic editorial illustration, natural restrained colors, sharp realistic detail. No collage, no watermark, no text overlays, no fake brand names. This is an illustrative image not a documentary claim.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-54517d39-fba5-442c-a4ad-cccc5e7e4081.png",
+      "destination": "public/images/generated/ko-cave-hero-20260909.jpg"
+    },
+    {
+      "topic": "cave",
+      "role": "jacket",
+      "prompt": "Close view of an adult visitor wearing a light zip jacket and grippy walking shoes in a cool converted mine corridor, subtle safety railing, realistic rough rock background, not posed fashion. Single horizontal 3:2 photorealistic editorial illustration, natural restrained colors, sharp realistic detail. No collage, no watermark, no text overlays, no fake brand names. This is an illustrative image not a documentary claim.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-089de552-6eb6-4a67-ad92-d6420e6422ec.png",
+      "destination": "public/images/generated/ko-cave-jacket-20260909.jpg"
+    },
+    {
+      "topic": "cave",
+      "role": "stairs",
+      "prompt": "A short flight of visitor stairs with metal handrails inside a converted Korean mine, modest warm safety lights illuminating damp textured rock, realistic human scale, no dramatic dangerous abyss, no stalactites. Single horizontal 3:2 photorealistic editorial illustration, natural restrained colors, sharp realistic detail. No collage, no watermark, no text overlays, no fake brand names. This is an illustrative image not a documentary claim.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-2d1ddce8-142d-4e5b-ba94-6c3c0601f5e5.png",
+      "destination": "public/images/generated/ko-cave-stairs-20260909.jpg"
+    },
+    {
+      "topic": "cave",
+      "role": "outside",
+      "prompt": "Leafy paved uphill path outside a Korean hillside tourist attraction with benches and two walkers in daylight, Gwangmyeong day-trip atmosphere, no invented attraction facade, no signage. Single horizontal 3:2 photorealistic editorial illustration, natural restrained colors, sharp realistic detail. No collage, no watermark, no text overlays, no fake brand names. This is an illustrative image not a documentary claim.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-48f6697e-fcc4-4621-9915-5feb0a61c656.png",
+      "destination": "public/images/generated/ko-cave-outside-20260909.jpg"
+    },
+    {
+      "topic": "imjin",
+      "role": "hero",
+      "prompt": "Tourist cable gondolas crossing a broad muddy blue-green river in rural Paju South Korea, green flat banks and low wooded hills, soft clear daylight, realistic scale. Imjin River travel editorial illustration, NOT ocean, NO coastal skyscrapers, no text. Single horizontal 3:2 photorealistic editorial illustration, natural restrained colors, sharp realistic detail. No collage, no watermark, no text overlays, no fake brand names. This is an illustrative image not a documentary claim.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-e1ca407a-3832-4565-8370-d47a4b396a00.png",
+      "destination": "public/images/generated/ko-imjin-hero-20260909.jpg"
+    },
+    {
+      "topic": "imjin",
+      "role": "field",
+      "prompt": "Paju Imjingak Peace Nuri inspired open green rolling lawn with scattered small colorful pinwheels on slender stakes on one side, expansive open sky, families walking at distance, no giant sculptures, no flags or text. Single horizontal 3:2 photorealistic editorial illustration, natural restrained colors, sharp realistic detail. No collage, no watermark, no text overlays, no fake brand names. This is an illustrative image not a documentary claim.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-b82dc5df-563a-4dfd-afee-2156e96f2a45.png",
+      "destination": "public/images/generated/ko-imjin-field-20260909.jpg"
+    },
+    {
+      "topic": "imjin",
+      "role": "cabin",
+      "prompt": "View through the window of a tourist cable-car cabin over a broad Korean river with low green banks and farmland, two adults quietly looking out, feet on opaque ordinary floor, no oceans, no logos. Single horizontal 3:2 photorealistic editorial illustration, natural restrained colors, sharp realistic detail. No collage, no watermark, no text overlays, no fake brand names. This is an illustrative image not a documentary claim.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-795bece4-f37e-4cc5-9af9-b29421506fa6.png",
+      "destination": "public/images/generated/ko-imjin-cabin-20260909.jpg"
+    },
+    {
+      "topic": "imjin",
+      "role": "path",
+      "prompt": "Quiet marked pedestrian path with railing on a green low hill overlooking a broad Korean river in Paju, leafy trees, a few walkers remaining on the path, no military installation, no barbed-wire foreground, no signs. Single horizontal 3:2 photorealistic editorial illustration, natural restrained colors, sharp realistic detail. No collage, no watermark, no text overlays, no fake brand names. This is an illustrative image not a documentary claim.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-f761366f-86ef-4da6-9469-c09eb4378b3d.png",
+      "destination": "public/images/generated/ko-imjin-path-20260909.jpg"
+    },
+    {
+      "topic": "science",
+      "role": "hero",
+      "prompt": "Bright modern Korean family science museum gallery, parents and primary-school children examining a simple hands-on mechanical gears exhibit, spacious clean interior, realistic education venue, no readable text, no made-up corporate logo. Single horizontal 3:2 photorealistic editorial illustration, natural restrained colors, sharp realistic detail. No collage, no watermark, no text overlays, no fake brand names. This is an illustrative image not a documentary claim.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-6ea08e1c-36d8-4aa9-9082-32bb663d4da0.png",
+      "destination": "public/images/generated/ko-science-hero-20260909.jpg"
+    },
+    {
+      "topic": "science",
+      "role": "gears",
+      "prompt": "Close detailed science museum hands-on exhibit with large interlocking colored gears behind a transparent protective panel and a hand turning an external knob, mechanically coherent gears, child accompanied by adult, no text. Single horizontal 3:2 photorealistic editorial illustration, natural restrained colors, sharp realistic detail. No collage, no watermark, no text overlays, no fake brand names. This is an illustrative image not a documentary claim.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-a773d823-e784-4bb7-b743-414052557172.png",
+      "destination": "public/images/generated/ko-science-gears-20260909.jpg"
+    },
+    {
+      "topic": "science",
+      "role": "fossil",
+      "prompt": "A realistic scientifically plausible mounted dinosaur skeleton in a large natural history science museum gallery, side view, human visitors small in background for scale, Korean family museum atmosphere, no readable plaques. Single horizontal 3:2 photorealistic editorial illustration, natural restrained colors, sharp realistic detail. No collage, no watermark, no text overlays, no fake brand names. This is an illustrative image not a documentary claim.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-fc808f26-d334-4e48-91e3-dbb4b74cb460.png",
+      "destination": "public/images/generated/ko-science-fossil-20260909.jpg"
+    },
+    {
+      "topic": "science",
+      "role": "park",
+      "prompt": "A family taking a seated snack break on a bench in a tree-lined outdoor garden near a modern low-rise Korean science museum, stroller parked without blocking walkway, bright mild daylight, no readable signs. Single horizontal 3:2 photorealistic editorial illustration, natural restrained colors, sharp realistic detail. No collage, no watermark, no text overlays, no fake brand names. This is an illustrative image not a documentary claim.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-9ad5eef4-dfd6-4d7b-aff0-72c0920ab789.png",
+      "destination": "public/images/generated/ko-science-park-20260909.jpg"
+    }
+  ]
+}
