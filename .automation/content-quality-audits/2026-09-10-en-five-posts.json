@@ -1,0 +1,175 @@
+{
+  "date": "2026-09-10",
+  "locale": "en",
+  "keywords": [
+    {
+      "title": "Gwangjang Market Food Guide: What to Eat, Opening Hours and Ordering Tips",
+      "slug": "gwangjang-market-food-ordering-guide",
+      "region": "seoul"
+    },
+    {
+      "title": "Naksan Seoul City Wall Walk: Route, Sunset Timing and Subway Access",
+      "slug": "naksan-seoul-city-wall-walking-route",
+      "region": "seoul"
+    },
+    {
+      "title": "Bongeunsa Temple and COEX: A Half-Day Gangnam Route for First-Time Visitors",
+      "slug": "bongeunsa-temple-coex-half-day-guide",
+      "region": "seoul"
+    },
+    {
+      "title": "Haedong Yonggungsa Temple Guide: How to Get There and Plan Your Visit",
+      "slug": "haedong-yonggungsa-temple-busan-transport-guide",
+      "region": "busan"
+    },
+    {
+      "title": "Busan Songdo Cable Car Guide: Tickets, Glass Floors and a Half-Day Route",
+      "slug": "busan-songdo-cable-car-tickets-route-guide",
+      "region": "busan"
+    }
+  ],
+  "note": "Original editorial illustrations, not documentary photos. KTO API key unavailable; no verified own-credit-only reuse license for inspected official photos. Existing English standalone topics reviewed; Gwangjang and Songdo only had brief itinerary mentions. No measured search-volume or ranking claims.",
+  "assets": [
+    {
+      "topic": "gwangjang",
+      "role": "hero",
+      "prompt": "An inviting Korean covered food market aisle with stainless steel counters and modest stools, vendors preparing hot food, no readable signs. Single horizontal 3:2 photorealistic editorial illustration for a travel explainer. Natural realistic lighting and anatomy, detailed authentic materials. No collage, no text, no watermark, no brand names. Illustrative not an on-location documentary photograph.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-fee0e9bb-9c61-4390-8363-844f24ca4b5e.png",
+      "destination": "public/images/generated/en-gwangjang-hero-20260910.jpg"
+    },
+    {
+      "topic": "gwangjang",
+      "role": "body1",
+      "prompt": "Crisp golden Korean mung bean pancake cut into wedges on a plain plate with onion dipping sauce, Korean market counter. Single horizontal 3:2 photorealistic editorial illustration for a travel explainer. Natural realistic lighting and anatomy, detailed authentic materials. No collage, no text, no watermark, no brand names. Illustrative not an on-location documentary photograph.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-1f519d33-40c0-400b-a881-d5c42fb0ad61.png",
+      "destination": "public/images/generated/en-gwangjang-body1-20260910.jpg"
+    },
+    {
+      "topic": "gwangjang",
+      "role": "body2",
+      "prompt": "Small seaweed rice rolls with carrot and greens served with mustard dipping sauce, close-up on metal counter. Single horizontal 3:2 photorealistic editorial illustration for a travel explainer. Natural realistic lighting and anatomy, detailed authentic materials. No collage, no text, no watermark, no brand names. Illustrative not an on-location documentary photograph.",
+      "revisionNote": "Regenerated after visual QA to show whole thin mini gimbap rather than sliced thick rolls; natural editorial food illustration with mustard sauce, no text or branding.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-28a4cdbe-dbc2-48d5-a91f-f3be2dff5cb0.png",
+      "destination": "public/images/generated/en-gwangjang-body2-20260910.jpg"
+    },
+    {
+      "topic": "gwangjang",
+      "role": "body3",
+      "prompt": "Freshly cooked Korean knife-cut noodle soup with zucchini and dumplings at a simple market stall table. Single horizontal 3:2 photorealistic editorial illustration for a travel explainer. Natural realistic lighting and anatomy, detailed authentic materials. No collage, no text, no watermark, no brand names. Illustrative not an on-location documentary photograph.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-8e9ede27-c620-475a-9459-59222c125b35.png",
+      "destination": "public/images/generated/en-gwangjang-body3-20260910.jpg"
+    },
+    {
+      "topic": "naksan",
+      "role": "hero",
+      "prompt": "Seoul hillside granite city wall winding above residential rooftops in clear late-afternoon light, a few hikers on the public path. Single horizontal 3:2 photorealistic editorial illustration for a travel explainer. Natural realistic lighting and anatomy, detailed authentic materials. No collage, no text, no watermark, no brand names. Illustrative not an on-location documentary photograph.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-1de719bf-bb1a-42a4-8ffa-5364b06cff34.png",
+      "destination": "public/images/generated/en-naksan-hero-20260910.jpg"
+    },
+    {
+      "topic": "naksan",
+      "role": "body1",
+      "prompt": "Close-up of varied weathered granite blocks of a Korean historic defensive city wall beside a maintained path. Single horizontal 3:2 photorealistic editorial illustration for a travel explainer. Natural realistic lighting and anatomy, detailed authentic materials. No collage, no text, no watermark, no brand names. Illustrative not an on-location documentary photograph.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-afde7c6e-ca6d-45e6-9cbc-55e474688c3c.png",
+      "destination": "public/images/generated/en-naksan-body1-20260910.jpg"
+    },
+    {
+      "topic": "naksan",
+      "role": "body2",
+      "prompt": "Travelers in comfortable shoes walking up a gentle stepped hillside path beside Seoul stone fortress wall in daylight. Single horizontal 3:2 photorealistic editorial illustration for a travel explainer. Natural realistic lighting and anatomy, detailed authentic materials. No collage, no text, no watermark, no brand names. Illustrative not an on-location documentary photograph.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-69dbcfff-d347-493c-8d45-a0d1b619cfba.png",
+      "destination": "public/images/generated/en-naksan-body2-20260910.jpg"
+    },
+    {
+      "topic": "naksan",
+      "role": "body3",
+      "prompt": "Warm early evening light on a Korean tiled gate and city wall with modern Seoul buildings in distance, wide urban landscape. Single horizontal 3:2 photorealistic editorial illustration for a travel explainer. Natural realistic lighting and anatomy, detailed authentic materials. No collage, no text, no watermark, no brand names. Illustrative not an on-location documentary photograph.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-d54aaae9-b516-45b6-8ece-7ba9b5f1a0d2.png",
+      "destination": "public/images/generated/en-naksan-body3-20260910.jpg"
+    },
+    {
+      "topic": "bongeunsa",
+      "role": "hero",
+      "prompt": "Quiet Korean Buddhist temple courtyard and tiled eaves with modern Gangnam high rises beyond trees, daytime, respectful visitors. Single horizontal 3:2 photorealistic editorial illustration for a travel explainer. Natural realistic lighting and anatomy, detailed authentic materials. No collage, no text, no watermark, no brand names. Illustrative not an on-location documentary photograph.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-da62a960-42c8-47e1-b4bc-e60468233ad4.png",
+      "destination": "public/images/generated/en-bongeunsa-hero-20260910.jpg"
+    },
+    {
+      "topic": "bongeunsa",
+      "role": "body1",
+      "prompt": "Close-up of traditional Korean temple painted wooden eaves with green red blue floral patterns, natural detail. Single horizontal 3:2 photorealistic editorial illustration for a travel explainer. Natural realistic lighting and anatomy, detailed authentic materials. No collage, no text, no watermark, no brand names. Illustrative not an on-location documentary photograph.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-a8512ded-a1d9-40f3-9f39-e5470dd42706.png",
+      "destination": "public/images/generated/en-bongeunsa-body1-20260910.jpg"
+    },
+    {
+      "topic": "bongeunsa",
+      "role": "body2",
+      "prompt": "Traveler sitting reading an open book at an airy contemporary public library table, tall shelves softly visible, no readable text. Single horizontal 3:2 photorealistic editorial illustration for a travel explainer. Natural realistic lighting and anatomy, detailed authentic materials. No collage, no text, no watermark, no brand names. Illustrative not an on-location documentary photograph.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-ff99f450-d0e4-4027-837c-563114af4134.png",
+      "destination": "public/images/generated/en-bongeunsa-body2-20260910.jpg"
+    },
+    {
+      "topic": "bongeunsa",
+      "role": "body3",
+      "prompt": "Simple Korean lunch tray with rice vegetable side dishes and hot soup at an unbranded modern mall restaurant. Single horizontal 3:2 photorealistic editorial illustration for a travel explainer. Natural realistic lighting and anatomy, detailed authentic materials. No collage, no text, no watermark, no brand names. Illustrative not an on-location documentary photograph.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-90b7d5ad-d1d4-4004-8fbf-2deb3056d099.png",
+      "destination": "public/images/generated/en-bongeunsa-body3-20260910.jpg"
+    },
+    {
+      "topic": "yonggungsa",
+      "role": "hero",
+      "prompt": "Traditional Korean Buddhist temple rooftops on rocky Busan coastline overlooking blue sea in clear morning light, respectful wide view. Single horizontal 3:2 photorealistic editorial illustration for a travel explainer. Natural realistic lighting and anatomy, detailed authentic materials. No collage, no text, no watermark, no brand names. Illustrative not an on-location documentary photograph.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-16643789-ce39-4b63-8567-95fc5cec60da.png",
+      "destination": "public/images/generated/en-yonggungsa-hero-20260910.jpg"
+    },
+    {
+      "topic": "yonggungsa",
+      "role": "body1",
+      "prompt": "Stone stairway descending through coastal Korean temple grounds, visitors using handrail, trees and partial ocean view. Single horizontal 3:2 photorealistic editorial illustration for a travel explainer. Natural realistic lighting and anatomy, detailed authentic materials. No collage, no text, no watermark, no brand names. Illustrative not an on-location documentary photograph.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-531ab4d0-62ca-454f-958f-3f959571c352.png",
+      "destination": "public/images/generated/en-yonggungsa-body1-20260910.jpg"
+    },
+    {
+      "topic": "yonggungsa",
+      "role": "body2",
+      "prompt": "Coastal Korean Buddhist temple stone lantern with ocean waves and natural rocks beyond, no text or carvings legible. Single horizontal 3:2 photorealistic editorial illustration for a travel explainer. Natural realistic lighting and anatomy, detailed authentic materials. No collage, no text, no watermark, no brand names. Illustrative not an on-location documentary photograph.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-0161148e-61d5-4d5e-97aa-6e3ecc421896.png",
+      "destination": "public/images/generated/en-yonggungsa-body2-20260910.jpg"
+    },
+    {
+      "topic": "yonggungsa",
+      "role": "body3",
+      "prompt": "Travelers waiting at a clean modest Korean coastal bus stop in daylight, no logos route numbers or readable signs. Single horizontal 3:2 photorealistic editorial illustration for a travel explainer. Natural realistic lighting and anatomy, detailed authentic materials. No collage, no text, no watermark, no brand names. Illustrative not an on-location documentary photograph.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-20d94ee4-3da8-49e1-a244-2f76feefceb2.png",
+      "destination": "public/images/generated/en-yonggungsa-body3-20260910.jpg"
+    },
+    {
+      "topic": "songdo",
+      "role": "hero",
+      "prompt": "Enclosed sightseeing cable cars crossing a blue Busan coastal bay between green headland and sandy city beach, bright clear day. Single horizontal 3:2 photorealistic editorial illustration for a travel explainer. Natural realistic lighting and anatomy, detailed authentic materials. No collage, no text, no watermark, no brand names. Illustrative not an on-location documentary photograph.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-f6416b2b-3065-4616-b6f6-b26068e7f8e3.png",
+      "destination": "public/images/generated/en-songdo-hero-20260910.jpg"
+    },
+    {
+      "topic": "songdo",
+      "role": "body1",
+      "prompt": "View through a glass-floored cable car cabin toward blue seawater below with seated travelers shoes at edges, realistic safety glass. Single horizontal 3:2 photorealistic editorial illustration for a travel explainer. Natural realistic lighting and anatomy, detailed authentic materials. No collage, no text, no watermark, no brand names. Illustrative not an on-location documentary photograph.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-ae29ca51-b75e-4024-91f2-23250646a00c.png",
+      "destination": "public/images/generated/en-songdo-body1-20260910.jpg"
+    },
+    {
+      "topic": "songdo",
+      "role": "body2",
+      "prompt": "Quiet Korean coastal park walking path with pine trees and rock shore below, daylight clear safe railing. Single horizontal 3:2 photorealistic editorial illustration for a travel explainer. Natural realistic lighting and anatomy, detailed authentic materials. No collage, no text, no watermark, no brand names. Illustrative not an on-location documentary photograph.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-1348b287-c0b3-4c5e-b8ad-3fc090599fb9.png",
+      "destination": "public/images/generated/en-songdo-body2-20260910.jpg"
+    },
+    {
+      "topic": "songdo",
+      "role": "body3",
+      "prompt": "Wide sandy urban Busan beach promenade with small groups walking and coastal apartments distant, soft afternoon light. Single horizontal 3:2 photorealistic editorial illustration for a travel explainer. Natural realistic lighting and anatomy, detailed authentic materials. No collage, no text, no watermark, no brand names. Illustrative not an on-location documentary photograph.",
+      "source": "C:/Users/Hong/.codex/generated_images/019ffe81-1438-7253-8ae8-d035516586f4/exec-2b3fc9c3-14e6-4f82-bc83-ce07613b7fa9.png",
+      "destination": "public/images/generated/en-songdo-body3-20260910.jpg"
+    }
+  ]
+}

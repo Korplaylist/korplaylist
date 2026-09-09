@@ -157,6 +157,7 @@ function slugify(value: string) {
 export function formatDate(date: Date, locale = "ko") {
   const dateLocale = locale === "en" ? "en-US" : locale === "ja" ? "ja-JP" : "ko-KR";
   return new Intl.DateTimeFormat(dateLocale, {
+    timeZone: "Asia/Seoul",
     year: "numeric",
     month: "long",
     day: "numeric"
