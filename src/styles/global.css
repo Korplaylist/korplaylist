@@ -336,6 +336,10 @@ h3 {
   grid-template-columns: minmax(0, 1fr);
 }
 
+.popular-slide:not(:has(.popular-slide-image)) {
+  align-items: start;
+}
+
 .article-content table {
   display: block;
   width: 100%;

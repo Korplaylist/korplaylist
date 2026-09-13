@@ -36,12 +36,6 @@
     "repeatedParagraphs": 0
   },
   {
-    "url": "/en/travel/busan/busan-market-food/",
-    "bodyCharacters": 8288,
-    "externalSources": 0,
-    "repeatedParagraphs": 34
-  },
-  {
     "url": "/en/travel/busan/busan-rainy-day-course/",
     "bodyCharacters": 6059,
     "externalSources": 3,
@@ -64,12 +58,6 @@
     "bodyCharacters": 8107,
     "externalSources": 0,
     "repeatedParagraphs": 0
-  },
-  {
-    "url": "/en/travel/busan/busan-two-day-route/",
-    "bodyCharacters": 8627,
-    "externalSources": 0,
-    "repeatedParagraphs": 35
   },
   {
     "url": "/en/travel/busan/haedong-yonggungsa-temple-busan-transport-guide/",
@@ -132,18 +120,6 @@
     "repeatedParagraphs": 0
   },
   {
-    "url": "/en/travel/gangwon/gangneung-sea-coffee/",
-    "bodyCharacters": 8114,
-    "externalSources": 0,
-    "repeatedParagraphs": 35
-  },
-  {
-    "url": "/en/travel/gangwon/gangneung-two-day/",
-    "bodyCharacters": 8226,
-    "externalSources": 0,
-    "repeatedParagraphs": 34
-  },
-  {
     "url": "/en/travel/gangwon/nami-island-autumn-day-trip-from-seoul/",
     "bodyCharacters": 6812,
     "externalSources": 4,
@@ -154,12 +130,6 @@
     "bodyCharacters": 5529,
     "externalSources": 1,
     "repeatedParagraphs": 0
-  },
-  {
-    "url": "/en/travel/gangwon/sokcho-seoraksan-market/",
-    "bodyCharacters": 8336,
-    "externalSources": 0,
-    "repeatedParagraphs": 35
   },
   {
     "url": "/en/travel/gwangju/gwangju-korea-itinerary-acc-yangnim-daein-market/",
@@ -180,12 +150,6 @@
     "repeatedParagraphs": 0
   },
   {
-    "url": "/en/travel/gyeongbuk/gyeongju-history-two-day/",
-    "bodyCharacters": 8725,
-    "externalSources": 0,
-    "repeatedParagraphs": 34
-  },
-  {
     "url": "/en/travel/gyeongbuk/gyeongju-hwangnidan-gil-food-cost/",
     "bodyCharacters": 6047,
     "externalSources": 1,
@@ -196,18 +160,6 @@
     "bodyCharacters": 7600,
     "externalSources": 4,
     "repeatedParagraphs": 0
-  },
-  {
-    "url": "/en/travel/gyeongnam/tongyeong-island-view/",
-    "bodyCharacters": 8285,
-    "externalSources": 0,
-    "repeatedParagraphs": 34
-  },
-  {
-    "url": "/en/travel/gyeongnam/tongyeong-two-day/",
-    "bodyCharacters": 8194,
-    "externalSources": 0,
-    "repeatedParagraphs": 35
   },
   {
     "url": "/en/travel/incheon/incheon-airport-layover-tour/",
@@ -324,12 +276,6 @@
     "repeatedParagraphs": 0
   },
   {
-    "url": "/en/travel/seoul/korea-season-travel-calendar/",
-    "bodyCharacters": 8227,
-    "externalSources": 0,
-    "repeatedParagraphs": 35
-  },
-  {
     "url": "/en/travel/seoul/korea-summer-packing-list/",
     "bodyCharacters": 8145,
     "externalSources": 0,
@@ -390,22 +336,10 @@
     "repeatedParagraphs": 0
   },
   {
-    "url": "/en/travel/seoul/seoul-hangang-evening/",
-    "bodyCharacters": 8317,
-    "externalSources": 0,
-    "repeatedParagraphs": 35
-  },
-  {
     "url": "/en/travel/seoul/seoul-line-2-indoor-rainy-day/",
     "bodyCharacters": 11449,
     "externalSources": 0,
     "repeatedParagraphs": 0
-  },
-  {
-    "url": "/en/travel/seoul/seoul-one-day-palace-walk/",
-    "bodyCharacters": 8266,
-    "externalSources": 0,
-    "repeatedParagraphs": 36
   },
   {
     "url": "/en/travel/seoul/seoul-rainy-day-first-trip/",
@@ -462,22 +396,10 @@
     "repeatedParagraphs": 0
   },
   {
-    "url": "/ja/travel/busan/busan-market-food/",
-    "bodyCharacters": 3339,
-    "externalSources": 0,
-    "repeatedParagraphs": 10
-  },
-  {
     "url": "/ja/travel/busan/busan-songdo-cable-car-guide/",
     "bodyCharacters": 3269,
     "externalSources": 4,
     "repeatedParagraphs": 0
-  },
-  {
-    "url": "/ja/travel/busan/busan-two-day-route/",
-    "bodyCharacters": 3502,
-    "externalSources": 0,
-    "repeatedParagraphs": 11
   },
   {
     "url": "/ja/travel/busan/seoul-to-busan-ktx-itinerary/",
@@ -510,18 +432,6 @@
     "repeatedParagraphs": 0
   },
   {
-    "url": "/ja/travel/gangwon/gangneung-sea-coffee/",
-    "bodyCharacters": 3252,
-    "externalSources": 0,
-    "repeatedParagraphs": 12
-  },
-  {
-    "url": "/ja/travel/gangwon/gangneung-two-day/",
-    "bodyCharacters": 3268,
-    "externalSources": 0,
-    "repeatedParagraphs": 11
-  },
-  {
     "url": "/ja/travel/gangwon/nami-island-autumn-day-trip-from-seoul/",
     "bodyCharacters": 3138,
     "externalSources": 4,
@@ -532,12 +442,6 @@
     "bodyCharacters": 3312,
     "externalSources": 4,
     "repeatedParagraphs": 0
-  },
-  {
-    "url": "/ja/travel/gangwon/sokcho-seoraksan-market/",
-    "bodyCharacters": 3347,
-    "externalSources": 0,
-    "repeatedParagraphs": 12
   },
   {
     "url": "/ja/travel/gwangju/gwangju-korea-itinerary-acc-yangnim-daein-market/",
@@ -556,24 +460,6 @@
     "bodyCharacters": 3120,
     "externalSources": 4,
     "repeatedParagraphs": 0
-  },
-  {
-    "url": "/ja/travel/gyeongbuk/gyeongju-history-two-day/",
-    "bodyCharacters": 3392,
-    "externalSources": 0,
-    "repeatedParagraphs": 12
-  },
-  {
-    "url": "/ja/travel/gyeongnam/tongyeong-island-view/",
-    "bodyCharacters": 3294,
-    "externalSources": 0,
-    "repeatedParagraphs": 11
-  },
-  {
-    "url": "/ja/travel/gyeongnam/tongyeong-two-day/",
-    "bodyCharacters": 3309,
-    "externalSources": 0,
-    "repeatedParagraphs": 12
   },
   {
     "url": "/ja/travel/incheon/incheon-airport-layover-tour/",
@@ -654,12 +540,6 @@
     "repeatedParagraphs": 0
   },
   {
-    "url": "/ja/travel/seoul/korea-season-travel-calendar/",
-    "bodyCharacters": 3250,
-    "externalSources": 0,
-    "repeatedParagraphs": 12
-  },
-  {
     "url": "/ja/travel/seoul/seoul-3-day-summer-itinerary/",
     "bodyCharacters": 3162,
     "externalSources": 0,
@@ -672,22 +552,10 @@
     "repeatedParagraphs": 0
   },
   {
-    "url": "/ja/travel/seoul/seoul-hangang-evening/",
-    "bodyCharacters": 3305,
-    "externalSources": 0,
-    "repeatedParagraphs": 11
-  },
-  {
     "url": "/ja/travel/seoul/seoul-line-2-indoor-rainy-day/",
     "bodyCharacters": 4229,
     "externalSources": 0,
     "repeatedParagraphs": 0
-  },
-  {
-    "url": "/ja/travel/seoul/seoul-one-day-palace-walk/",
-    "bodyCharacters": 3241,
-    "externalSources": 0,
-    "repeatedParagraphs": 12
   },
   {
     "url": "/ja/travel/seoul/seoul-rainy-day-first-trip/",
@@ -768,12 +636,6 @@
     "repeatedParagraphs": 3
   },
   {
-    "url": "/travel/busan/busan-market-food/",
-    "bodyCharacters": 4352,
-    "externalSources": 0,
-    "repeatedParagraphs": 18
-  },
-  {
     "url": "/travel/busan/busan-rainy-day-course/",
     "bodyCharacters": 4048,
     "externalSources": 0,
@@ -814,12 +676,6 @@
     "bodyCharacters": 4014,
     "externalSources": 2,
     "repeatedParagraphs": 0
-  },
-  {
-    "url": "/travel/busan/busan-two-day-route/",
-    "bodyCharacters": 4557,
-    "externalSources": 0,
-    "repeatedParagraphs": 19
   },
   {
     "url": "/travel/busan/seoul-to-busan-ktx-itinerary/",
@@ -874,12 +730,6 @@
     "bodyCharacters": 3936,
     "externalSources": 0,
     "repeatedParagraphs": 0
-  },
-  {
-    "url": "/travel/chungnam/boryeong-daecheon-beach-seafood-cost/",
-    "bodyCharacters": 4795,
-    "externalSources": 0,
-    "repeatedParagraphs": 11
   },
   {
     "url": "/travel/chungnam/boryeong-mud-festival-2026/",
@@ -942,12 +792,6 @@
     "repeatedParagraphs": 0
   },
   {
-    "url": "/travel/daegu/daegu-seomun-market-food-cost/",
-    "bodyCharacters": 4791,
-    "externalSources": 0,
-    "repeatedParagraphs": 11
-  },
-  {
     "url": "/travel/daegu/daegu-suseongmot-apsan-evening-walk/",
     "bodyCharacters": 3933,
     "externalSources": 0,
@@ -984,12 +828,6 @@
     "repeatedParagraphs": 0
   },
   {
-    "url": "/travel/gangwon/chuncheon-dakgalbi-makguksu-food-route/",
-    "bodyCharacters": 4760,
-    "externalSources": 0,
-    "repeatedParagraphs": 11
-  },
-  {
     "url": "/travel/gangwon/chuncheon-gimyujeong-station-sille-village-half-day/",
     "bodyCharacters": 3891,
     "externalSources": 0,
@@ -1020,22 +858,10 @@
     "repeatedParagraphs": 0
   },
   {
-    "url": "/travel/gangwon/gangneung-sea-coffee/",
-    "bodyCharacters": 4257,
-    "externalSources": 0,
-    "repeatedParagraphs": 20
-  },
-  {
     "url": "/travel/gangwon/gangneung-stay-area-first-trip/",
     "bodyCharacters": 4157,
     "externalSources": 0,
     "repeatedParagraphs": 0
-  },
-  {
-    "url": "/travel/gangwon/gangneung-two-day/",
-    "bodyCharacters": 4322,
-    "externalSources": 0,
-    "repeatedParagraphs": 19
   },
   {
     "url": "/travel/gangwon/nami-island-autumn-day-trip-from-seoul/",
@@ -1066,12 +892,6 @@
     "bodyCharacters": 4073,
     "externalSources": 0,
     "repeatedParagraphs": 0
-  },
-  {
-    "url": "/travel/gangwon/sokcho-seoraksan-market/",
-    "bodyCharacters": 4371,
-    "externalSources": 0,
-    "repeatedParagraphs": 19
   },
   {
     "url": "/travel/gangwon/sokcho-summer-1n2d-course/",
@@ -1140,18 +960,6 @@
     "repeatedParagraphs": 0
   },
   {
-    "url": "/travel/gyeongbuk/gyeongju-history-two-day/",
-    "bodyCharacters": 4499,
-    "externalSources": 0,
-    "repeatedParagraphs": 19
-  },
-  {
-    "url": "/travel/gyeongbuk/gyeongju-hwangnidan-gil-food-cost/",
-    "bodyCharacters": 4745,
-    "externalSources": 0,
-    "repeatedParagraphs": 11
-  },
-  {
     "url": "/travel/gyeonggi/gwacheon-science-museum-family-reservation-guide/",
     "bodyCharacters": 5243,
     "externalSources": 5,
@@ -1200,12 +1008,6 @@
     "repeatedParagraphs": 1
   },
   {
-    "url": "/travel/gyeonggi/suwon-hwaseong-market-food-route/",
-    "bodyCharacters": 4778,
-    "externalSources": 0,
-    "repeatedParagraphs": 11
-  },
-  {
     "url": "/travel/gyeonggi/suwon-hwaseong-wall-evening-walk/",
     "bodyCharacters": 3937,
     "externalSources": 0,
@@ -1224,12 +1026,6 @@
     "repeatedParagraphs": 0
   },
   {
-    "url": "/travel/gyeongnam/tongyeong-island-view/",
-    "bodyCharacters": 4361,
-    "externalSources": 0,
-    "repeatedParagraphs": 19
-  },
-  {
     "url": "/travel/gyeongnam/tongyeong-mireuksan-cable-car-sunset-route/",
     "bodyCharacters": 3845,
     "externalSources": 0,
@@ -1240,12 +1036,6 @@
     "bodyCharacters": 3900,
     "externalSources": 0,
     "repeatedParagraphs": 0
-  },
-  {
-    "url": "/travel/gyeongnam/tongyeong-two-day/",
-    "bodyCharacters": 4322,
-    "externalSources": 0,
-    "repeatedParagraphs": 20
   },
   {
     "url": "/travel/gyeongnam/tongyeong-undersea-tunnel-bongpyeong-evening-walk/",
@@ -1440,12 +1230,6 @@
     "repeatedParagraphs": 0
   },
   {
-    "url": "/travel/seoul/korea-season-travel-calendar/",
-    "bodyCharacters": 4360,
-    "externalSources": 0,
-    "repeatedParagraphs": 19
-  },
-  {
     "url": "/travel/seoul/seoul-3-day-summer-itinerary/",
     "bodyCharacters": 4100,
     "externalSources": 2,
@@ -1470,22 +1254,10 @@
     "repeatedParagraphs": 0
   },
   {
-    "url": "/travel/seoul/seoul-hangang-evening/",
-    "bodyCharacters": 4313,
-    "externalSources": 0,
-    "repeatedParagraphs": 19
-  },
-  {
     "url": "/travel/seoul/seoul-line-2-indoor-rainy-day/",
     "bodyCharacters": 5523,
     "externalSources": 0,
     "repeatedParagraphs": 0
-  },
-  {
-    "url": "/travel/seoul/seoul-one-day-palace-walk/",
-    "bodyCharacters": 4276,
-    "externalSources": 0,
-    "repeatedParagraphs": 20
   },
   {
     "url": "/travel/seoul/seoul-rainy-day-date-course/",
