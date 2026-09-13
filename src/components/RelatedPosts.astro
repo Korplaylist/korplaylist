@@ -10,11 +10,11 @@ const labels = {
   },
   en: {
     title: "Related Korea travel guides",
-    description: "Continue with guides that match this region, theme, or search intent."
+    description: "More travel guides for this area."
   },
   ja: {
     title: "あわせて読みたい記事",
-    description: "地域、テーマ、検索意図が近い韓国旅行ガイドを続けて確認できます。"
+    description: "同じ地域の旅行ガイド。"
   }
 }[locale] ?? {
   title: "함께 보면 좋은 글",
@@ -33,10 +33,10 @@ const labels = {
     <div class="related-grid">
       {posts.map((post) => (
         <a class="related-card" href={getPostUrl(post)}>
-          <picture>
+          {post.data.imageVerified && <picture>
             <source type="image/webp" srcset={getWebpSrcSet(post.data.heroImage, [160, 240, 320])} sizes="(max-width: 760px) 96px, 174px" />
             <img src={post.data.heroImage} alt={getImageAlt(post)} width="360" height="220" loading="lazy" decoding="async" sizes="(max-width: 760px) 96px, 174px" />
-          </picture>
+          </picture>}
           <div>
             <span>{post.data.region} · {post.data.category}</span>
             <strong>{post.data.title}</strong>

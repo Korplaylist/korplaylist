@@ -1,0 +1,23 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import PostCard from "../../../components/PostCard.astro";
+import { getPublishedTravelPosts } from "../../../lib/travel";
+import { categories, categorySlugMap, localizedCategories } from "../../../site.config";
+export async function getStaticPaths() {
+  const paths = [];
+  for (const locale of ["en", "ja"]) {
+    const all = await getPublishedTravelPosts(locale);
+    for (const [i, category] of categories.entries()) {
+      const label = localizedCategories[locale][i];
+      const posts = all.filter((post) => post.data.category === label);
+      if (posts.length) paths.push({ params: { locale, category: categorySlugMap[category] }, props: { locale, slug: categorySlugMap[category], posts, label } });
+    }
+  }
+  return paths;
+}
+const { locale, slug, posts, label } = Astro.props;
+---
+<BaseLayout title={label} description={label} canonical={`/${locale}/categories/${slug}/`} locale={locale}>
+  <section class="page-shell"><h1>{label}</h1></section>
+  <section class="section"><div class="post-grid">{posts.map(post => <PostCard post={post} />)}</div></section>
+</BaseLayout>

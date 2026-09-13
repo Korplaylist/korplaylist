@@ -1,5 +1,5 @@
 ---
-title: "ソウル地下鉄屋内旅行 2026: 聖水・蚕室・三成を2号線でつなぐ雨の日コース"
+title: "ソウル地下鉄屋内旅行: 聖水・蚕室・三成を2号線でつなぐ雨の日コース"
 description: "ソウル2号線の東側エリアで、雨に大きく振り回されずに聖水、蚕室、三成を1日で回りたい人向けに、屋内中心ルート、移動順、費用、代替案、宿泊の考え方を整理します。"
 category: "モデルコース"
 region: "ソウル"
@@ -14,6 +14,7 @@ heroImage: "/images/generated/unique/seoul-line-2-rain-start-seoul-line-2-indoor
 imageAlt: "夏の雨の中、ソウル2号線の出口前で傘とスマートフォンを整えながら屋内旅行を始める旅行者たち"
 imageCredit: "ⓒ한국플레이리스트"
 draft: false
+imageVerified: false
 ---
 
 ソウル2号線の東側エリアで、雨に大きく振り回されずに聖水、蚕室、三成を1日でつなぎたい人向けに、屋内中心の動線、現実的な時間配分、予算、交通、代替案をまとめます。
@@ -47,8 +48,6 @@ draft: false
     </ul>
   </div>
 </div>
-
-## ルート概要
 
 <div class="map-route">
   <div class="map-route-head">
@@ -108,31 +107,17 @@ draft: false
   </div>
 </section>
 
-## なぜ雨の日は聖水→蚕室→三成の順番が使いやすいのか
-
 聖水を先に置く理由は、「最高の屋内観光地だから」ではなく `短く切り上げても損をしにくい区間` だからです。延武場キルはトゥクソム駅と聖水駅の間を通る通りで、カフェや手作り靴工房、個性のある店舗が集まる場所として知られています。雨の日はこのエリアを長い散歩コースとして考えるより、ソウル東側の空気感をつかむ出発区間として短く使う方が安定します。  
 
 そのあと蚕室を長く取ると、昼食、トイレ、カフェ、休憩、有料屋内の選択肢まで同じエリアで処理できます。公式観光情報でも、ロッテワールドタワー＆モールは展望台、ギャラリー、カフェ、ホテル、商業施設が入る大型複合空間として紹介されており、天候が不安定な日に時間を吸収する力が強いです。  
 
 三成はコエックスモールの屋内構造が分かりやすく、スターフィールド・ライブラリーのように無料で座って整え直せる空間があるため、最後の整理区間に向いています。観光をもう一度始める場所ではなく、崩れた体力と時間を戻す区間として見る方が現実的です。  
 
-## 聖水は「長く粘る場所」ではなく「短く見る場所」
-
 雨の日の聖水でよくある失敗は、「ポップアップやセレクトショップが多いから半日くらいは余裕で回せる」と思い込むことです。実際には、行列、店と店の間の地上移動、濡れた傘の扱いで、想像以上にテンポが落ちます。延武場キルは確かに聖水らしさが出る通りですが、雨の日は駅から離れるほど疲れやすくなります。
 
 だから聖水では目的を三つに絞る方がうまくいきます。ひとつ目は、屋内で見たい店を1〜2か所だけ先に決めること。ふたつ目は、カフェの待ち時間が長いなら無理をしないこと。三つ目は、昼食まで聖水で完結させようとせず、蚕室へ素直に渡すことです。
 
 もし「とにかく雨の日でも失敗しにくいソウル1日プラン」を優先するなら、[ソウル雨の日モデルコース 2026: 初めての旅行でも崩れにくい屋内中心ルート](/ja/travel/seoul/seoul-rainy-day-first-trip/)の方が安定しやすいです。この2号線ルートは、博物館よりもトレンド感を見たい人向けです。
-
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-160.webp 160w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-240.webp 240w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-320.webp 320w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-330.webp 330w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-360.webp 360w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-480.webp 480w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-520.webp 520w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-640.webp 640w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-680.webp 680w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-768.webp 768w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-960.webp 960w, /images/optimized/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/seongsu-concept-store-seoul-line-2-indoor-rainy-day-1.jpg" alt="雨の聖水で工場型の屋内セレクトショップを見て回る旅行者" width="1536" height="1024" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
-
-## 蚕室では昼食と主役になる屋内選択を同じエリアで終える
 
 蚕室に着いたら最初に決めるべきことは、「有料の主役を一つにする」ことです。ソウルスカイは雨が弱まり視界が開く日に向いていて、一般大人券は33,000ウォンです。逆に霧や雨が強い日は、眺望の価値が落ちやすいです。一方、水族館は天候の影響を受けにくく、子ども連れにも合わせやすいですが、滞在時間が長くなりやすく三成が薄くなります。  
 
@@ -169,21 +154,9 @@ draft: false
 
 蚕室はもともと人の流れが大きい駅圏でもあるので、食事や館内移動に想定以上の時間がかかることがあります。だからこそ、雨の日の石村湖散歩は「本当に天気が回復したら20分ほど足す」くらいのオプションに留める方が現実的です。
 
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-160.webp 160w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-240.webp 240w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-320.webp 320w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-330.webp 330w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-360.webp 360w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-480.webp 480w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-520.webp 520w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-640.webp 640w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-680.webp 680w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-768.webp 768w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-960.webp 960w, /images/optimized/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/jamsil-indoor-complex-seoul-line-2-indoor-rainy-day-1.jpg" alt="雨の午後、蚕室の大型屋内複合空間で次の選択肢を考える旅行者" width="1536" height="1024" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
-
-## 三成は「もう一度観光を始める場所」ではなく「整えて終える場所」
-
 蚕室から三成までは2号線で分かりやすく移動できますが、問題は移動時間そのものではありません。問題は、そこでまた新しい観光を組み立てる必要があるかどうかです。雨の日は、観光地を追加するよりも、無料で座れて気持ちを立て直せる場所の価値が高くなります。
 
 スターフィールド・ライブラリーはコエックスモールの中央にある開放型空間なので、座って休み、スマートフォンの充電を確認し、濡れた荷物を整え、夕食候補を決め直すのに向いています。コエックスアクアリウムは毎日10:00〜20:00、最終入場19:00なので、夕方以降でも入れますが、蚕室ですでに有料屋内を使ったなら無理に足さない方が全体の完成度は上がります。  
-
-## 交通は「最安」より「選択回数を減らす」ことが大事
 
 屋内中心の地下鉄ルートだから交通費が単純に安いと思いがちですが、実際には `短いタクシー1回`, `雨待ちのカフェ`, `濡れた傘で動きが遅くなる時間` が予算を押し上げます。地下鉄とバスだけでも十分回せるルートですが、靴が厳しくなってきたら、蚕室と三成の間で一度ペースを落とす方が結果的に楽です。
 
@@ -199,13 +172,9 @@ draft: false
   <div><span>予備費</span><strong>10,000〜25,000ウォン</strong><p>タクシー、追加の傘、濡れた荷物整理に備えます。</p></div>
 </section>
 
-## 宿泊は「最初の駅」ではなく「翌朝の動き」で決める
-
 このコースだけを見ると、蚕室や三成に泊まるのがいちばん楽に見えます。実際そうなる場合もあります。ただし、判断材料は翌朝の予定です。コエックスのイベント、江南方面の予定、野球観戦、東南側の用事が続くなら、三成や蚕室の宿は終盤の疲れを大きく減らします。逆に、この日だけ東側を回って翌朝はソウル駅、KTX、空港鉄道が重要なら、無理に東側へ寄せる必要はありません。
 
 大切なのは、最後の夕食のあとにさらに40分以上濡れながら移動するかどうかです。雨の日は、その最後の移動が旅全体の印象を左右します。だから、出発が聖水でも宿は終点側を優先した方が実用的です。
-
-## 雨・暑さ・遅れが強くなったときの縮め方
 
 7月のソウルは雨だけでなく湿気も強い時期です。気象庁の統計でも、ソウルは7月の降水量が最も多く、相対湿度も最も高くなります。つまり、雨が少し弱まっても路面移動は楽になりきりません。だからこそ、縮め方を先に決めておくとルートが崩れにくくなります。
 
@@ -215,36 +184,16 @@ draft: false
 
 もし途中で天気がきれいに回復し、歩く価値が出てきたなら、屋内ルートを無理に維持しない方が賢明です。[ソウル日帰り徒歩コース: 景福宮・北村・仁寺洞を回る1日ルート](/ja/travel/seoul/seoul-one-day-palace-walk/)のように、晴れでこそ満足度が高いコースへ切り替える方が自然です。
 
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-160.webp 160w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-240.webp 240w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-320.webp 320w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-330.webp 330w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-360.webp 360w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-480.webp 480w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-520.webp 520w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-640.webp 640w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-680.webp 680w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-768.webp 768w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-960.webp 960w, /images/optimized/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/samseong-library-break-seoul-line-2-indoor-rainy-day-1.jpg" alt="雨が続く三成のライブラリー風休憩空間で一息つく旅行者" width="1536" height="1024" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
-
-## よくある失敗
-
 一つ目は、雨の日の聖水に期待をかけすぎることです。聖水は確かに面白いですが、雨の日は短く鋭く見る方が満足度が高くなります。
 
 二つ目は、蚕室で有料屋内を詰め込みすぎることです。ソウルスカイ、水族館、書店、食事、カフェを全部入れると、その日の後半はほぼ消えます。
 
 三つ目は、三成をもう一度観光のスタート地点として扱うことです。多くの場合、三成は体力を戻してきれいに締める区間です。
 
-## よくある質問
-
-### 雨の日でも聖水を入れる価値はありますか？
-
 聖水の雰囲気自体が目的ならあります。ただし60〜90分程度に抑え、雨が強ければさらに短くする方がよいです。
-
-### 蚕室ではソウルスカイと水族館のどちらが無難ですか？
 
 視界が良くなればソウルスカイ、強い雨や子ども連れなら水族館の方が失敗しにくいです。
 
-### 三成でも水族館を追加した方がいいですか？
-
 通常は不要です。蚕室ですでに有料屋内を使ったなら、三成は無料休憩と夕食中心で締める方が全体のバランスが良くなります。
-
-### 宿は聖水・蚕室・三成のどこが便利ですか？
 
 その夜だけ見れば蚕室か三成が楽です。ただし、本当の正解は翌朝どこへ向かうかで決まります。最後の濡れた移動を一番短くできる場所を優先してください。

@@ -1,5 +1,5 @@
 ---
-title: "Daejeon Station Bread and Science Day 2026: Seongsimdang, Hanbat Arboretum, and Expo Science Park"
+title: "Daejeon Station Bread and Science Day: Seongsimdang, Hanbat Arboretum, and Expo Science Park"
 description: "A practical Daejeon day route from Daejeon Station through Seongsimdang, Hanbat Arboretum, and Expo Science Park, with transport flow, costs, timing, stay-area choices, and seasonal cautions."
 category: "Itineraries"
 region: "Daejeon"
@@ -49,15 +49,11 @@ This guide is written for searches like `Daejeon Station itinerary`, `Seongsimda
   </div>
 </div>
 
-## Why this route works better than stopping at the bakery only
-
 Seongsimdang is the strongest reason many travelers add Daejeon to the itinerary, but that does not mean it should consume the whole day. The official Seongsimdang main-store page confirms the location near Jung-gu and current daily hours of 08:00 to 22:00. That gives a wide operating window, but the practical issue is still line management, not opening time.
 
 For a first visit, the easiest logic is to handle the bakery stop before the day becomes crowded and before you are carrying fatigue from later outdoor walking. Once the bread purchase and first meal are settled, the route becomes much easier to shape.
 
 Hanbat Arboretum then works as a deliberate reset. Instead of chaining only dense downtown streets together, you introduce a slower middle section that reduces heat and crowd pressure before moving to the Expo area. The Daejeon tourism article about Doryong-dong also describes Hanbit Tower and Expo Bridge as signature city landmarks and notes that Hanbit Tower functions as a symbolic tower and observatory area inside Expo Science Park.
-
-## A practical sequence from station to evening
 
 The route is simplest when treated as three layers. First, clear the bakery and first meal question near Seongsimdang. Second, move to Hanbat Arboretum or the surrounding calmer green zone for a slower middle section. Third, finish around Expo Science Park, Hanbit Tower, and the riverside atmosphere.
 
@@ -72,8 +68,6 @@ If you already know you want to stay in the Expo zone longer after sunset, compa
   </picture>
   <figcaption>Daejeon Tourism Organization</figcaption>
 </figure>
-
-## Transport, costs, and what to expect from the middle of the day
 
 This route is rarely about admission fees. It is mostly about how much you spend on transport, bakery shopping, meal breaks, and whether you use one or two short taxi segments to protect the timetable.
 
@@ -110,8 +104,6 @@ The Doryong-dong tourism page also notes that Hanbit Tower's observatory area is
   </div>
 </section>
 
-## Budget and stay-area choices that keep the route stable
-
 The day usually feels moderate in cost unless you let Seongsimdang become both a shopping stop and a full lunch replacement plus extra snack detours. Bakery budgets vary fast because the city landmark itself invites extra buying. Keep the bread purchase and the actual meal separate if you want to avoid spending more than planned and carrying too much weight through the route.
 
 For accommodation, the best district depends on the next morning. If the next day starts with rail travel, Busan-style station logic applies here too: staying closer to Daejeon Station reduces morning stress. If your next day is more Yuseong- or Expo-oriented, a base closer to that side can be more practical than returning all the way west.
@@ -125,8 +117,6 @@ For accommodation, the best district depends on the next morning. If the next da
   <div><span>Expo-side extras</span><strong>Low to moderate</strong><p>The outdoor zone itself can stay inexpensive, but cafes and taxis raise the total.</p></div>
   <div><span>Backup budget</span><strong>KRW 10,000-20,000</strong><p>Keep room for rain adjustment, extra drinks, or a direct return to your hotel or station.</p></div>
 </section>
-
-## Mistakes first-time travelers make
 
 The first mistake is treating Seongsimdang like a tiny stop. Even with long opening hours, the practical time cost comes from lines, browsing, and the tendency to keep adding one more purchase.
 
@@ -142,11 +132,9 @@ The third mistake is reaching the Expo side too late and expecting the whole are
   <figcaption>Daejeon Tourism Organization</figcaption>
 </figure>
 
-## Seasonal cautions and how to keep the route useful
-
 In high summer, the route feels longer because the bakery stop happens indoors but the Expo finish happens in an open area. Carry water and move your longest outdoor pause closer to late afternoon. On rainy days, do not force a full green-space walk if the ground conditions are poor. Use the arboretum section more as a lighter transition and protect the cleaner parts of the Expo finish.
 
-If your whole Korea trip is being organized by season first, compare [Korea Seasonal Travel Calendar 2026: Cherry Blossoms, Summer Coasts, Foliage, and Winter Trips](/en/travel/korea/korea-season-travel-calendar/) before deciding how long to hold the outdoor sections.
+If your whole Korea trip is being organized by season first, compare [Korea Seasonal Travel Calendar 2026: Cherry Blossoms, Summer Coasts, Foliage, and Winter Trips](/en/travel/seoul/korea-season-travel-calendar/) before deciding how long to hold the outdoor sections.
 
 <figure class="content-photo">
   <picture>
@@ -156,20 +144,10 @@ If your whole Korea trip is being organized by season first, compare [Korea Seas
   <figcaption>Daejeon Tourism Organization</figcaption>
 </figure>
 
-## FAQ
-
-### Should I go to Seongsimdang first if I arrive through Daejeon Station?
-
 Usually yes. It is the least flexible time block, so clearing it early protects the rest of the route.
-
-### Is Hanbat Arboretum necessary?
 
 Not mandatory, but it improves the route a lot by adding a calmer middle section before Expo Science Park.
 
-### Can this work as a day trip without staying overnight?
-
 Yes. It is one of the better Daejeon station-based day routes because the start and finish can both stay rail-friendly.
-
-### What matters most if I am choosing where to stay?
 
 Pick your base by the next morning's transport needs. Station-side stays help early departures, while Expo- or Yuseong-side stays help a slower second day.

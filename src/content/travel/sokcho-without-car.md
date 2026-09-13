@@ -1,6 +1,6 @@
 ---
-title: "뚜벅이 속초 여행 가이드: 버스만으로 바다·시장·설악산 가는 법"
-description: "차 없이 속초를 여행하는 사람을 위해 버스터미널, 속초중앙시장, 바다, 설악산을 연결하는 대중교통 기준을 정리했습니다."
+title: "속초 뚜벅이 여행: 터미널별 시작점과 설악산을 분리하는 방법"
+description: "고속·시외버스터미널을 구분해 속초해변, 관광수산시장, 아바이마을을 연결하고 설악산을 넣을 수 있는 조건을 설명합니다."
 category: "교통 준비"
 region: "속초"
 locale: "ko"
@@ -9,264 +9,52 @@ regionSlug: "gangwon"
 urlSlug: "sokcho-without-car"
 tags: ["속초", "뚜벅이", "교통", "버스"]
 publishedAt: "2026-05-25"
-updatedAt: "2026-05-25"
+updatedAt: "2026-09-13"
 heroImage: "/images/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-1.jpg"
 imageAlt: "속초 시장 골목과 설악산 여행 동선"
 imageCredit: "ⓒ한국플레이리스트"
 draft: false
+imageVerified: false
 ---
 
-차 없이 속초를 여행하는 사람을 위해 버스터미널, 속초중앙시장, 바다, 설악산을 연결하는 대중교통 기준을 정리했습니다.
+속초에서 차 없이 여행할 때 가장 먼저 확인할 것은 도착 터미널입니다. **고속버스터미널과 시외버스터미널은 다른 장소**이고, 어느 쪽에 도착하느냐에 따라 해변과 시장 중 먼저 볼 곳이 달라집니다. 이 안내는 속초시 관광·버스 자료를 바탕으로 구성한 계획안이며 현장 답사 기록은 아닙니다. 교통 자료 확인일은 2026년 9월 13일입니다.
 
-이 글은 검색자가 가장 많이 궁금해하는 이동 순서, 대중교통 가능 여부, 숙소 위치, 예상 비용, 계절별 주의사항을 기준으로 정리했습니다. 단순히 유명한 곳을 나열하지 않고 실제 일정에 넣었을 때 피로도가 적은 순서로 설명합니다.
+## 승차권의 터미널 이름부터 확인하기
 
-<div class="article-summary">
-  <strong>핵심 요약</strong>
-  <ul>
-    <li>처음 방문한다면 장소를 많이 넣기보다 권역을 나눠 이동 시간을 줄이는 것이 중요합니다.</li>
-    <li>숙소나 도착 지점은 첫 일정과 마지막 일정 사이의 이동 시간을 기준으로 고르는 편이 안전합니다.</li>
-    <li>성수기, 우천, 야간 이동 여부에 따라 택시와 대중교통을 섞을지 미리 정해야 합니다.</li>
-  </ul>
-</div>
+속초시 교통 안내는 고속버스터미널을 동해대로 3994로 안내합니다. 고속터미널 쪽은 속초해변을 시작점으로 잡기 좋고, 시외터미널 쪽은 관광수산시장과 영금정 방향을 먼저 비교할 만합니다. 지도에 단순히 “속초터미널”을 검색하고 처음 나온 결과를 선택하지 마세요. 돌아가는 표에도 같은 터미널이 적혀 있는지 확인해야 합니다. [속초시 교통 안내](https://www.sokcho.go.kr/ct/tour/tour_guide/traffic)
 
-<div class="decision-grid">
-  <div>
-    <h2>이 일정이 잘 맞는 사람</h2>
-    <ul>
-      <li>속초시외버스터미널에서 시작해 설악산소공원까지 큰 방향만 정하고 움직이고 싶은 첫 방문자</li>
-      <li>사진, 식사, 이동을 모두 넣되 하루를 너무 촘촘하게 만들고 싶지 않은 사람</li>
-      <li>숙소 위치와 마지막 이동까지 함께 보고 여행 피로도를 줄이고 싶은 사람</li>
-    </ul>
-  </div>
-  <div>
-    <h2>다시 조정하면 좋은 경우</h2>
-    <ul>
-      <li>아이 또는 부모님과 함께 움직여 한 번에 40분 이상 걷는 일정이 부담스러운 경우</li>
-      <li>비가 많이 오거나 강풍 예보가 있어 야외 사진과 해변·전망 동선이 어려운 경우</li>
-      <li>당일 도착 시간이 오후라면 앞쪽 장소를 줄이고 식사와 숙소 이동을 우선해야 합니다.</li>
-    </ul>
-  </div>
-</div>
+| 도착 조건 | 먼저 할 일 | 뒤에 연결할 곳 |
+| --- | --- | --- |
+| 고속터미널 도착, 짐 적음 | 해변 쪽에서 식사 또는 산책 | 시장·아바이마을로 별도 이동 |
+| 시외터미널 도착 | 시장권에서 식사 | 아바이마을 또는 영금정 중 하나 |
+| 캐리어가 큼 | 숙소 보관 가능 여부 확인 | 짐을 맡긴 뒤 가까운 권역부터 |
+| 오후 늦게 도착 | 귀가 터미널 또는 숙소와 같은 쪽 선택 | 산행은 다음 날로 분리 |
 
-## 추천 동선 한눈에 보기
+위 표의 순서는 동선 제안입니다. 터미널에서 각 장소까지의 실제 버스 도착시간은 [속초 버스정보시스템](https://bis.sokcho.go.kr/search?type=route)에서 출발 정류장과 진행 방향을 선택해 확인하세요.
 
-<div class="map-route">
-  <div class="map-route-head">
-    <strong>Google Maps 동선</strong>
-    <a href="https://www.google.com/maps/dir/?api=1&origin=%EC%86%8D%EC%B4%88%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90&destination=%EC%84%A4%EC%95%85%EC%82%B0%EC%86%8C%EA%B3%B5%EC%9B%90&waypoints=%EC%86%8D%EC%B4%88%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5%7C%EC%86%8D%EC%B4%88%EA%B4%80%EA%B4%91%EC%88%98%EC%82%B0%EC%8B%9C%EC%9E%A5&travelmode=transit" target="_blank" rel="noopener noreferrer">전체 동선 열기</a>
-  </div>
-  <ol class="map-stop-list">
-    <li>
-      <span>1</span>
-      <strong>속초시외버스터미널</strong>
-      <a href="https://www.google.com/maps/search/?api=1&query=%EC%86%8D%EC%B4%88%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90" target="_blank" rel="noopener noreferrer">지도에서 보기</a>
-    </li>
-    <li>
-      <span>2</span>
-      <strong>속초해수욕장</strong>
-      <a href="https://www.google.com/maps/search/?api=1&query=%EC%86%8D%EC%B4%88%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5" target="_blank" rel="noopener noreferrer">지도에서 보기</a>
-    </li>
-    <li>
-      <span>3</span>
-      <strong>속초관광수산시장</strong>
-      <a href="https://www.google.com/maps/search/?api=1&query=%EC%86%8D%EC%B4%88%EA%B4%80%EA%B4%91%EC%88%98%EC%82%B0%EC%8B%9C%EC%9E%A5" target="_blank" rel="noopener noreferrer">지도에서 보기</a>
-    </li>
-    <li>
-      <span>4</span>
-      <strong>설악산소공원</strong>
-      <a href="https://www.google.com/maps/search/?api=1&query=%EC%84%A4%EC%95%85%EC%82%B0%EC%86%8C%EA%B3%B5%EC%9B%90" target="_blank" rel="noopener noreferrer">지도에서 보기</a>
-    </li>
-  </ol>
-</div>
+## 하루라면 해변·시장·아바이마을로 범위 줄이기
 
-<div class="route-cards" aria-label="route summary">
-  <div>
-    <span>1</span>
-    <strong>속초시외버스터미널</strong>
-    <p>도착 직후 동선을 시작하기 좋은 기준점입니다.</p>
-  </div>
-  <div>
-    <span>2</span>
-    <strong>속초해수욕장</strong>
-    <p>사진과 산책 시간을 넉넉히 잡기 좋은 구간입니다.</p>
-  </div>
-  <div>
-    <span>3</span>
-    <strong>속초관광수산시장</strong>
-    <p>식사나 휴식 시간을 넣기 좋은 중간 지점입니다.</p>
-  </div>
-  <div>
-    <span>4</span>
-    <strong>설악산소공원</strong>
-    <p>귀가 전 마지막으로 묶기 좋은 장소입니다.</p>
-  </div>
-</div>
+고속터미널에 오전 도착했다면 속초해변을 먼저 보고 시장권으로 옮기는 순서가 단순합니다. 해변과 시장 사이를 “바닷길 산책의 연장”으로 생각해 전부 걷기보다, 짐과 날씨에 맞춰 버스나 택시 구간을 따로 잡으세요. 시장에서는 식사와 포장을 구분해야 합니다. 포장 음식을 먼저 많이 사면 이후 해변 산책 동안 계속 들고 다녀야 합니다.
 
-<div class="place-checklist">
-  <h2>장소별 체크 포인트</h2>
-  <ul>
-  <li>
-    <strong>속초시외버스터미널</strong>
-    <p>첫 목적지이므로 도착 시간, 짐 보관, 식사 전후 동선을 함께 확인하세요.</p>
-  </li>
-  <li>
-    <strong>속초해수욕장</strong>
-    <p>도보 시간이 늘어날 수 있어 사진 촬영과 휴식 시간을 30분 이상 남겨두는 편이 좋습니다.</p>
-  </li>
-  <li>
-    <strong>속초관광수산시장</strong>
-    <p>점심 또는 카페 시간을 넣기 좋은 지점입니다. 주말에는 대기 시간을 일정에 포함하세요.</p>
-  </li>
-  <li>
-    <strong>설악산소공원</strong>
-    <p>해가 지기 전 방문이 필요한지, 야경이 좋은지에 따라 순서를 조정하면 좋습니다.</p>
-  </li>
-  </ul>
-</div>
+아바이마을을 붙일 때는 갯배 이용 자체를 체험으로 넣을지 결정합니다. 갯배가 쉬거나 대기가 길다면 마을 방문을 무조건 포기할 필요는 없지만, 교량을 이용하는 대체 경로는 지도에서 다시 검색해야 합니다. 짧은 수로를 건너는 거리와 육상 우회 거리는 같지 않습니다. 마을과 시장을 본 뒤 영금정까지 더할지는 귀가 시간을 보고 판단하세요. 장소 소개와 관광안내는 [속초시 관광포털](https://www.sokcho.go.kr/ct/tour)에서 대조할 수 있습니다.
 
-<section class="planning-table">
-  <h2>시간대별 추천 일정</h2>
-  <div class="planning-table-head">
-    <span>시간</span>
-    <span>장소</span>
-    <span>확인할 점</span>
-  </div>
-  <div>
-    <span>09:30</span>
-    <strong>속초시외버스터미널</strong>
-    <p>도착 직후 방향을 잡고 화장실, 짐 보관, 첫 식사 후보를 확인합니다.</p>
-  </div>
-  <div>
-    <span>11:00</span>
-    <strong>속초해수욕장</strong>
-    <p>가장 사진을 많이 찍는 구간입니다. 이동보다 체류 시간을 넉넉히 둡니다.</p>
-  </div>
-  <div>
-    <span>13:00</span>
-    <strong>속초관광수산시장</strong>
-    <p>점심, 카페, 시장을 넣기 좋은 시간입니다. 대기 시간을 일정 안에 포함합니다.</p>
-  </div>
-  <div>
-    <span>15:30</span>
-    <strong>설악산소공원</strong>
-    <p>해가 지기 전 봐야 하는 장소인지, 야경이 좋은 장소인지 판단해 순서를 조정합니다.</p>
-  </div>
-</section>
+## 설악산은 도심 산책의 한 정거장이 아니다
 
-## 사람들이 가장 궁금해하는 포인트
+설악산 소공원 방문은 산 쪽으로 왕복하는 교통과 현장 보행 시간을 따로 요구합니다. 속초시 안내의 7·7-1 계통을 검색하되, 같은 노선 번호라도 출발지·방향·운행표를 확인해야 합니다. 버스정보시스템 시간표에 나오는 **기점 출발 시각을 소공원에서 돌아오는 막차로 읽으면 안 됩니다.** [속초 공식 노선 시간표](https://bis.sokcho.go.kr/schedule)
 
-가장 먼저 확인할 것은 “하루에 가능한가”가 아니라 “어느 구간에서 시간이 새는가”입니다. 역이나 터미널에서 첫 목적지까지 멀고, 중간에 식사 대기가 생기면 일정 만족도가 떨어집니다.
+산이 목적이라면 오전에 소공원으로 이동하고 오후에 시장 식사를 붙이는 안을 권합니다. 반대로 점심 무렵 속초 도착이라면 해변·시장으로 하루를 끝내세요. 케이블카 대기와 긴 등산 코스까지 같은 반나절에 넣는 계획은 추천하지 않습니다. “설악산 방문”이 소공원 산책인지, 케이블카인지, 등산인지 먼저 정해야 귀가 버스를 계산할 수 있습니다.
 
-마지막 장소에서 다시 숙소나 역으로 돌아오는 시간도 중요합니다. 그래서 이 코스는 시작 지점, 사진을 찍는 구간, 식사나 휴식 구간, 귀가 전 마지막 구간을 분리해 잡는 방식이 좋습니다.
+## 1박 2일의 두 가지 숙소 선택
 
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-160.webp 160w, /images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-240.webp 240w, /images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-320.webp 320w, /images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-330.webp 330w, /images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-360.webp 360w, /images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-480.webp 480w, /images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-520.webp 520w, /images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-640.webp 640w, /images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-680.webp 680w, /images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-768.webp 768w, /images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-960.webp 960w, /images/optimized/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/sokcho-seoraksan-market-content-sokcho-without-car-guide-1.jpg" alt="sokcho without car travel guide image - sokcho seoraksan market content sokcho without car guide 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
+**바다 중심:** 고속터미널·해변 쪽에 숙소를 잡으면 도착일 해변, 다음 날 시장 방문 뒤 귀가하는 구성이 가능합니다. 다만 출발편이 시외터미널이면 마지막 이동을 별도로 남겨두세요.
 
-## 시간대별로 짜는 방법
+**산 중심:** 다음 날 아침 설악산행 정류장 접근과 짐 보관을 먼저 확인합니다. 숙소 이름에 “설악”이 들어간다는 이유만으로 소공원과 가깝다고 판단하지 마세요. 체크아웃 후 짐을 맡길 수 있는지, 산에서 돌아와 짐을 회수한 뒤 어느 터미널로 갈지가 중요합니다.
 
-오전에는 이동이 길거나 사람이 몰리기 쉬운 장소를 먼저 넣는 편이 좋습니다. 점심 이후에는 걷기 좋은 구간과 실내 대체지를 함께 생각해두면 날씨 변화에 대응하기 쉽습니다.
+## 시간을 잃기 쉬운 지점과 대안
 
-저녁 일정이 있다면 야경이나 시장처럼 체류 시간이 자연스럽게 길어지는 장소를 마지막에 두는 것이 안정적입니다.
+- 시장 포장 대기가 길면 주문 전에 예상 시간을 묻고, 출발 직전에 줄을 서는 계획은 피합니다.
+- 비와 강풍이 있으면 해변의 긴 보행 구간을 줄입니다. 시장의 모든 골목이 실내라는 전제로 우천 코스를 만들지는 마세요.
+- 귀가 전 마지막 장소는 터미널 반대편이 아닌 회수할 짐과 같은 권역으로 정합니다.
+- 산에서 버스가 지연되면 추가 관광지를 빼세요. 예정한 도심 식사를 지키기 위해 돌아오는 교통 여유를 줄이지 않습니다.
 
-관련 글은 지역, 교통수단, 체류 시간이 실제로 겹칠 때만 함께 보는 것이 좋습니다. 유명한 장소를 더 넣기보다 같은 권역 안에서 우선순위를 정하는 편이 일정 만족도를 높입니다.
-
-
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/gangneung-two-day-content-160.webp 160w, /images/optimized/kto/gangneung-two-day-content-240.webp 240w, /images/optimized/kto/gangneung-two-day-content-320.webp 320w, /images/optimized/kto/gangneung-two-day-content-330.webp 330w, /images/optimized/kto/gangneung-two-day-content-360.webp 360w, /images/optimized/kto/gangneung-two-day-content-480.webp 480w, /images/optimized/kto/gangneung-two-day-content-520.webp 520w, /images/optimized/kto/gangneung-two-day-content-640.webp 640w, /images/optimized/kto/gangneung-two-day-content-680.webp 680w, /images/optimized/kto/gangneung-two-day-content-768.webp 768w, /images/optimized/kto/gangneung-two-day-content-960.webp 960w, /images/optimized/kto/gangneung-two-day-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/gangneung-two-day-content.jpg" alt="sokcho without car travel guide image - gangneung two day content" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아</figcaption>
-</figure>
-
-## 대중교통, 택시, 렌터카 선택 기준
-
-속초시외버스터미널에서 설악산소공원까지 한 번에 이어 보면 지도상 거리는 짧아 보여도 실제 이동은 환승, 배차 간격, 짐 이동 때문에 달라질 수 있습니다.
-
-도심형 코스는 대중교통과 짧은 택시 조합이 가장 안정적입니다. 해변·산·섬·외곽 전망대가 들어가면 렌터카나 택시 비중을 높이는 편이 좋습니다.
-
-대중교통을 쓴다면 첫 목적지까지의 이동 시간보다 마지막 장소에서 숙소로 돌아오는 시간을 더 중요하게 보세요. 여행 만족도는 마지막 1시간에 크게 갈립니다.
-
-렌터카를 쓰는 경우에는 주차장 위치, 야간 운전, 음주 가능성, 성수기 정체를 함께 고려해야 합니다. 택시는 2~3명이 함께 움직이면 효율적이지만, 축제·해변·막차 시간대에는 호출이 늦어질 수 있습니다.
-
-## 교통, 숙소 위치, 예상 비용
-
-뚜벅이 여행이라면 역과 터미널에서 첫 목적지까지의 시간을 먼저 확인하세요. 버스로 한 번에 이동할 수 있어도 배차 간격이 길면 실제 체감 시간은 크게 늘어납니다.
-
-숙소는 가장 늦게 끝나는 일정 근처에 잡거나, 다음 날 출발지로 돌아가기 쉬운 곳을 고르는 편이 좋습니다. 식비와 카페, 지역 내 교통, 짧은 택시, 짐 보관까지 포함하면 당일치기는 1인 5만~9만 원 정도를 기본 범위로 보면 무난합니다.
-
-<section class="planning-table compact">
-  <h2>예상 비용과 예산 잡는 법</h2>
-  <div class="planning-table-head"><span>항목</span><span>1인 기준</span><span>체크 포인트</span></div>
-  <div><span>지역 내 교통</span><strong>8,000~25,000원</strong><p>지하철·버스 중심이면 낮고, 짧은 택시를 2회 이상 넣으면 올라갑니다.</p></div>
-  <div><span>식사·카페</span><strong>35,000~70,000원</strong><p>시장 간식과 카페를 넣으면 만족도는 높지만 지출이 쉽게 늘어납니다.</p></div>
-  <div><span>입장·체험</span><strong>0~30,000원</strong><p>무료 산책지 중심인지, 전망대·케이블카·박물관을 넣는지에 따라 달라집니다.</p></div>
-  <div><span>비상 예산</span><strong>20,000~40,000원</strong><p>우천, 막차, 짐 이동 때문에 택시를 타야 할 상황을 대비합니다.</p></div>
-</section>
-
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-160.webp 160w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-240.webp 240w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-320.webp 320w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-330.webp 330w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-360.webp 360w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-480.webp 480w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-520.webp 520w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-640.webp 640w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-680.webp 680w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-768.webp 768w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-960.webp 960w, /images/optimized/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/sokcho-market-route-generated-sokcho-without-car-guide-1-sokcho-without-car-guide-2.jpg" alt="sokcho without car travel guide image - sokcho market route generated sokcho without car guide 1 sokcho without car guide 2" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
-
-## 숙소 위치와 식사 타이밍
-
-숙소는 무조건 저렴한 곳보다 “마지막 일정 이후 돌아가기 쉬운 곳”이 좋습니다. 설악산소공원 근처에서 저녁을 마치거나 야경을 본다면 숙소가 너무 멀지 않아야 다음 날 피로가 줄어듭니다. 반대로 다음 날 아침 이동이 빠르다면 터미널, 역, 공항 접근성이 좋은 곳을 고르는 편이 안전합니다.
-
-식사는 속초해수욕장 이후에 한 번 길게 넣거나, 설악산소공원 근처에서 저녁을 먹는 방식이 무난합니다. 인기 식당 하나에 일정을 맞추기보다 같은 권역의 후보를 2~3개 저장해두세요. 웨이팅이 길면 카페나 시장 간식으로 먼저 체력을 회복하고, 본 식사는 다음 권역에서 해결하는 편이 낫습니다.
-
-## 비 오는 날과 더운 날 대체 운영
-
-비가 오면 야외 체류 시간을 줄이고 실내 전시, 시장, 카페, 짧은 택시 이동을 섞어야 합니다. 특히 사진 목적의 장소는 만족도가 떨어질 수 있으므로 낮 시간의 핵심 장소 1~2개만 남기는 편이 좋습니다.
-
-나머지는 식사와 실내 휴식으로 바꾸면 일정이 덜 흔들립니다. 여름에는 한낮 이동을 줄이고, 겨울에는 해가 짧으니 야외 사진 장소를 오전과 이른 오후로 당기세요.
-
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-160.webp 160w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-240.webp 240w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-320.webp 320w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-330.webp 330w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-360.webp 360w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-480.webp 480w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-520.webp 520w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-640.webp 640w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-680.webp 680w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-768.webp 768w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-960.webp 960w, /images/optimized/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/sokcho-market-food-generated-sokcho-without-car-guide-1.jpg" alt="sokcho without car travel guide image - sokcho market food generated sokcho without car guide 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
-
-## 계절별 주의사항
-
-여름에는 해변과 야외 이동 시간이 길어져 체력 소모가 큽니다. 우산보다 가벼운 우비와 여분 양말이 더 유용할 때가 많습니다.
-
-겨울에는 해가 짧아 사진을 찍을 수 있는 시간이 줄어드니 야외 명소를 앞쪽에 두세요. 연휴와 주말에는 식당 대기, 주차, 택시 호출 시간이 길어질 수 있으므로 Google Maps에서 장소별 위치를 미리 저장해두는 것을 추천합니다.
-
-## 처음 가는 사람이 자주 하는 실수
-
-가장 흔한 실수는 속초시외버스터미널, 속초해수욕장, 속초관광수산시장, 설악산소공원 같은 장소를 모두 같은 무게로 보는 것입니다. 실제 일정에서는 반드시 오래 머무를 장소와 짧게 확인할 장소를 나눠야 합니다. 모든 장소에서 사진, 식사, 카페를 다 넣으면 이동 시간보다 체류 시간이 길어져 마지막 일정이 밀립니다.
-
-두 번째 실수는 숙소를 먼저 정하고 코스를 끼워 맞추는 것입니다. 숙소는 가격보다 마지막 일정, 다음 날 출발지, 짐 보관 가능성을 함께 봐야 합니다.
-
-세 번째는 지도상 이동 시간만 믿는 것입니다. 주말, 성수기, 비 오는 날에는 대기와 호출 시간이 늘어나므로 최소 20~30분의 여유를 남겨두세요.
-
-## 사진 찍기 좋은 시간과 저장해둘 것
-
-바다와 전망은 오전 또는 해 질 무렵이 좋고, 시장과 야경은 저녁에 분위기가 살아납니다. 단, 겨울에는 해가 빨리 지므로 야외 사진 장소를 너무 늦게 두지 마세요.
-
-출발 전에는 Google Maps에 각 장소를 저장하고, 대체 식당, 근처 카페, 숙소 복귀 경로까지 같이 저장해두면 현장에서 흔들리지 않습니다.
-
-## 자주 묻는 질문
-
-### 이 코스는 처음 가는 사람에게도 괜찮나요?
-네. 처음 방문하는 사람이 길을 헤매기 쉬운 구간을 줄이고, 이동 순서를 단순하게 만드는 데 초점을 맞췄습니다.
-
-### 렌터카가 꼭 필요한가요?
-대부분의 도심형 코스는 대중교통과 짧은 택시 조합으로 가능합니다. 다만 섬, 산, 외곽 해변이 포함되면 배차 간격과 마지막 차 시간을 먼저 확인해야 합니다.
-
-### 숙소는 어느 기준으로 고르면 좋나요?
-가장 늦게 끝나는 일정과 다음 날 출발지를 기준으로 고르는 편이 좋습니다. 가격이 조금 저렴해도 밤에 돌아오기 어렵거나 짐 이동이 불편하면 전체 만족도가 떨어질 수 있습니다.
-
-### 비가 오면 일정을 그대로 진행해도 되나요?
-야외 사진과 해변, 전망 위주의 일정은 과감히 줄이는 것이 좋습니다. 시장, 실내 전시, 카페, 짧은 택시 이동을 섞어 핵심 장소만 남기면 실패 확률이 낮아집니다.
+교통비는 일행 수에 따라 달라집니다. 버스 총액과 택시 견적을 **같은 출발·도착 지점으로** 비교하세요. 이 글은 확인하지 않은 고정 택시요금이나 배차간격을 제시하지 않습니다. 상세 산·시장 구성은 [설악산과 시장 일정](/travel/gangwon/sokcho-seoraksan-market/)을 함께 보세요.

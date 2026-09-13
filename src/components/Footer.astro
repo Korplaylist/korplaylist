@@ -13,7 +13,7 @@ const localizedPath = (path: string) => (locale === "ko" ? path : `/${locale}${p
     <p>{labels.footerText}</p>
   </div>
   <nav aria-label={labels.navLabel}>
-    <a href={locale === "ko" ? "/about/" : `/${locale}/#about`}>{labels.about}</a>
+    <a href={locale === "ko" ? "/about/" : `/${locale}/about/`}>{labels.about}</a>
     <a href={localizedPath("/privacy/")}>{labels.privacy}</a>
     <a href={localizedPath("/terms/")}>{labels.terms}</a>
     <a href={localizedPath("/contact/")}>{labels.contact}</a>

@@ -1,6 +1,6 @@
 ---
-title: "제주 2박3일 여행 코스 2026: 첫 제주라면 동쪽·서쪽 이렇게 나누세요"
-description: "제주 첫 여행자가 렌터카 동선을 덜 꼬이게 잡을 수 있도록 동쪽과 서쪽을 나누는 2박3일 기본 일정을 정리했습니다."
+title: "제주 첫 2박3일: 동쪽에 집중할지 서쪽에 집중할지 정하는 법"
+description: "공항 도착·출발 시간을 제외한 실제 관광일을 계산하고, 한 권역에 머무는 2박3일 계획을 교통수단별로 조정합니다."
 category: "여행 코스"
 region: "제주"
 locale: "ko"
@@ -9,282 +9,34 @@ regionSlug: "jeju"
 urlSlug: "jeju-three-day-first"
 tags: ["제주", "2박3일", "렌터카", "국내여행"]
 publishedAt: "2026-05-20"
-updatedAt: "2026-05-20"
+updatedAt: "2026-09-13"
 heroImage: "/images/generated/unique/jeju-three-day-first-content-jeju-three-day-first-trip-1.jpg"
 imageAlt: "제주 올레길"
 imageCredit: "ⓒ한국관광공사 포토코리아-김지호"
 draft: false
+imageVerified: false
 ---
 
-제주 첫 여행자가 렌터카 동선을 덜 꼬이게 잡을 수 있도록 동쪽과 서쪽을 나누는 2박3일 기본 일정을 정리했습니다.
+2박3일은 온전한 관광일 세 번이 아닙니다. 늦은 도착과 이른 출발이라면 가운데 하루만 길게 쓸 수 있습니다. 먼저 항공편에서 **숙소 도착 예상 시각과 숙소를 나서야 하는 시각**을 빼고, 동쪽 또는 서쪽 한 권역을 정하세요.
 
-이 글은 검색자가 가장 많이 궁금해하는 이동 순서, 대중교통 가능 여부, 숙소 위치, 예상 비용, 계절별 주의사항을 기준으로 정리했습니다. 단순히 유명한 곳을 나열하지 않고 실제 일정에 넣었을 때 피로도가 적은 순서로 설명합니다.
+## 동쪽과 서쪽을 고르는 기준
 
-<div class="article-summary">
-  <strong>핵심 요약</strong>
-  <ul>
-    <li>처음 방문한다면 장소를 많이 넣기보다 권역을 나눠 이동 시간을 줄이는 것이 중요합니다.</li>
-    <li>숙소나 도착 지점은 첫 일정과 마지막 일정 사이의 이동 시간을 기준으로 고르는 편이 안전합니다.</li>
-    <li>성수기, 우천, 야간 이동 여부에 따라 택시와 대중교통을 섞을지 미리 정해야 합니다.</li>
-  </ul>
-</div>
+동쪽은 성산을 중심으로 해안과 주변 마을에 시간을 쓰고 싶은 경우, 서쪽은 애월·한림 방향의 해안 체류를 우선하는 경우에 비교할 만합니다. 이것은 순위가 아니라 이동 범위를 고르는 기준입니다. 장소 정보는 [제주관광공사 비짓제주](https://www.visitjeju.net/kr/main/index.do)에서 확인하고, 지도에 실제 방문할 곳 두세 개만 먼저 저장하세요.
 
-<div class="decision-grid">
-  <div>
-    <h2>이 일정이 잘 맞는 사람</h2>
-    <ul>
-      <li>제주공항에서 시작해 동문시장까지 큰 방향만 정하고 움직이고 싶은 첫 방문자</li>
-      <li>사진, 식사, 이동을 모두 넣되 하루를 너무 촘촘하게 만들고 싶지 않은 사람</li>
-      <li>숙소 위치와 마지막 이동까지 함께 보고 여행 피로도를 줄이고 싶은 사람</li>
-    </ul>
-  </div>
-  <div>
-    <h2>다시 조정하면 좋은 경우</h2>
-    <ul>
-      <li>아이 또는 부모님과 함께 움직여 한 번에 40분 이상 걷는 일정이 부담스러운 경우</li>
-      <li>비가 많이 오거나 강풍 예보가 있어 야외 사진과 해변·전망 동선이 어려운 경우</li>
-      <li>당일 도착 시간이 오후라면 앞쪽 장소를 줄이고 식사와 숙소 이동을 우선해야 합니다.</li>
-    </ul>
-  </div>
-</div>
+| 날짜 | 권장 역할 | 넣지 않을 것 |
+| --- | --- | --- |
+| 도착일 | 숙소 이동과 근처 식사 | 도착이 늦은데 섬 반대편 관광 |
+| 가운데 날 | 선택 권역의 주목적지와 인근 한 곳 | 동·서쪽을 모두 왕복하는 체크리스트 |
+| 출발일 | 짐 회수와 공항 이동 | 배편이나 긴 외곽 산행을 끼우기 |
 
-## 추천 동선 한눈에 보기
+## 버스와 렌터카는 같은 시간표를 쓰지 않기
 
-<div class="map-route">
-  <div class="map-route-head">
-    <strong>Google Maps 동선</strong>
-    <a href="https://www.google.com/maps/dir/?api=1&origin=%EC%A0%9C%EC%A3%BC%EA%B5%AD%EC%A0%9C%EA%B3%B5%ED%95%AD&destination=%EC%A0%9C%EC%A3%BC+%EB%8F%99%EB%AC%B8%EC%8B%9C%EC%9E%A5&waypoints=%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89%7C%EC%9B%94%EC%A0%95%EB%A6%AC%ED%95%B4%EB%B3%80%7C%ED%98%91%EC%9E%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5&travelmode=transit" target="_blank" rel="noopener noreferrer">전체 동선 열기</a>
-  </div>
-  <ol class="map-stop-list">
-    <li>
-      <span>1</span>
-      <strong>제주공항</strong>
-      <a href="https://www.google.com/maps/search/?api=1&query=%EC%A0%9C%EC%A3%BC%EA%B5%AD%EC%A0%9C%EA%B3%B5%ED%95%AD" target="_blank" rel="noopener noreferrer">지도에서 보기</a>
-    </li>
-    <li>
-      <span>2</span>
-      <strong>성산일출봉</strong>
-      <a href="https://www.google.com/maps/search/?api=1&query=%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89" target="_blank" rel="noopener noreferrer">지도에서 보기</a>
-    </li>
-    <li>
-      <span>3</span>
-      <strong>월정리해변</strong>
-      <a href="https://www.google.com/maps/search/?api=1&query=%EC%9B%94%EC%A0%95%EB%A6%AC%ED%95%B4%EB%B3%80" target="_blank" rel="noopener noreferrer">지도에서 보기</a>
-    </li>
-    <li>
-      <span>4</span>
-      <strong>협재해수욕장</strong>
-      <a href="https://www.google.com/maps/search/?api=1&query=%ED%98%91%EC%9E%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5" target="_blank" rel="noopener noreferrer">지도에서 보기</a>
-    </li>
-    <li>
-      <span>5</span>
-      <strong>동문시장</strong>
-      <a href="https://www.google.com/maps/search/?api=1&query=%EC%A0%9C%EC%A3%BC+%EB%8F%99%EB%AC%B8%EC%8B%9C%EC%9E%A5" target="_blank" rel="noopener noreferrer">지도에서 보기</a>
-    </li>
-  </ol>
-</div>
+버스 여행이라면 각 관광지를 잇는 실제 정류장과 다음 출발편을 확인해야 합니다. 공식 노선표의 201은 동쪽, 202는 서쪽 일반간선이지만, 모든 숙소 앞까지 가는 것은 아닙니다. [제주 공식 버스 시간표](https://bus.jeju.go.kr/publicTrafficInformation/generalBusSchedule)
 
-<div class="route-cards" aria-label="route summary">
-  <div>
-    <span>1</span>
-    <strong>제주공항</strong>
-    <p>도착 직후 동선을 시작하기 좋은 기준점입니다.</p>
-  </div>
-  <div>
-    <span>2</span>
-    <strong>성산일출봉</strong>
-    <p>사진과 산책 시간을 넉넉히 잡기 좋은 구간입니다.</p>
-  </div>
-  <div>
-    <span>3</span>
-    <strong>월정리해변</strong>
-    <p>식사나 휴식 시간을 넣기 좋은 중간 지점입니다.</p>
-  </div>
-  <div>
-    <span>4</span>
-    <strong>협재해수욕장</strong>
-    <p>귀가 전 마지막으로 묶기 좋은 장소입니다.</p>
-  </div>
-  <div>
-    <span>5</span>
-    <strong>동문시장</strong>
-    <p>시간이 남을 때 추가하기 좋은 보조 코스입니다.</p>
-  </div>
-</div>
+렌터카를 이용해도 차량 인수·반납과 주차가 관광시간을 차지합니다. 지도 주행시간만 합산해 계획을 채우지 마세요. 우도처럼 배를 이용하는 방문을 추가한다면 승선·귀환·결항 대안을 별도 하루 요소로 취급합니다. 렌터카 여행이라는 이유로 모든 섬에 바로 차를 가져갈 수 있다고 가정하지 않습니다.
 
-<div class="place-checklist">
-  <h2>장소별 체크 포인트</h2>
-  <ul>
-  <li>
-    <strong>제주공항</strong>
-    <p>첫 목적지이므로 도착 시간, 짐 보관, 식사 전후 동선을 함께 확인하세요.</p>
-  </li>
-  <li>
-    <strong>성산일출봉</strong>
-    <p>도보 시간이 늘어날 수 있어 사진 촬영과 휴식 시간을 30분 이상 남겨두는 편이 좋습니다.</p>
-  </li>
-  <li>
-    <strong>월정리해변</strong>
-    <p>점심 또는 카페 시간을 넣기 좋은 지점입니다. 주말에는 대기 시간을 일정에 포함하세요.</p>
-  </li>
-  <li>
-    <strong>협재해수욕장</strong>
-    <p>해가 지기 전 방문이 필요한지, 야경이 좋은지에 따라 순서를 조정하면 좋습니다.</p>
-  </li>
-  <li>
-    <strong>동문시장</strong>
-    <p>마지막 장소는 귀가 교통과 가까운지 확인하고, 시간이 부족하면 과감히 빼도 됩니다.</p>
-  </li>
-  </ul>
-</div>
+## 숙소를 한 번만 정하면 유리한 경우
 
-<section class="planning-table">
-  <h2>시간대별 추천 일정</h2>
-  <div class="planning-table-head">
-    <span>시간</span>
-    <span>장소</span>
-    <span>확인할 점</span>
-  </div>
-  <div>
-    <span>09:30</span>
-    <strong>제주공항</strong>
-    <p>도착 직후 방향을 잡고 화장실, 짐 보관, 첫 식사 후보를 확인합니다.</p>
-  </div>
-  <div>
-    <span>11:00</span>
-    <strong>성산일출봉</strong>
-    <p>가장 사진을 많이 찍는 구간입니다. 이동보다 체류 시간을 넉넉히 둡니다.</p>
-  </div>
-  <div>
-    <span>13:00</span>
-    <strong>월정리해변</strong>
-    <p>점심, 카페, 시장을 넣기 좋은 시간입니다. 대기 시간을 일정 안에 포함합니다.</p>
-  </div>
-  <div>
-    <span>15:30</span>
-    <strong>협재해수욕장</strong>
-    <p>해가 지기 전 봐야 하는 장소인지, 야경이 좋은 장소인지 판단해 순서를 조정합니다.</p>
-  </div>
-  <div>
-    <span>18:00</span>
-    <strong>동문시장</strong>
-    <p>숙소나 역으로 돌아가기 쉬운 마지막 장소만 남겨 이동 피로를 줄입니다.</p>
-  </div>
-</section>
+첫 여행이고 짐이 많거나 대중교통을 이용한다면 한 권역 연박이 단순합니다. 호텔을 바꾸는 날의 체크아웃, 짐 보관, 체크인 공백을 줄일 수 있기 때문입니다. 반면 동쪽에서 시작해 남쪽으로 이어가는 목적이 명확하다면 숙소 변경이 도움이 될 수 있으나, 마지막 공항 이동까지 포함해 비교하세요.
 
-## 사람들이 가장 궁금해하는 포인트
-
-가장 먼저 확인할 것은 “하루에 가능한가”가 아니라 “어느 구간에서 시간이 새는가”입니다. 역이나 터미널에서 첫 목적지까지 멀고, 중간에 식사 대기가 생기면 일정 만족도가 떨어집니다.
-
-마지막 장소에서 다시 숙소나 역으로 돌아오는 시간도 중요합니다. 그래서 이 코스는 시작 지점, 사진을 찍는 구간, 식사나 휴식 구간, 귀가 전 마지막 구간을 분리해 잡는 방식이 좋습니다.
-
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/kto/jeju-without-car-content-160.webp 160w, /images/optimized/kto/jeju-without-car-content-240.webp 240w, /images/optimized/kto/jeju-without-car-content-320.webp 320w, /images/optimized/kto/jeju-without-car-content-330.webp 330w, /images/optimized/kto/jeju-without-car-content-360.webp 360w, /images/optimized/kto/jeju-without-car-content-480.webp 480w, /images/optimized/kto/jeju-without-car-content-520.webp 520w, /images/optimized/kto/jeju-without-car-content-640.webp 640w, /images/optimized/kto/jeju-without-car-content-680.webp 680w, /images/optimized/kto/jeju-without-car-content-768.webp 768w, /images/optimized/kto/jeju-without-car-content-960.webp 960w, /images/optimized/kto/jeju-without-car-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/kto/jeju-without-car-content.jpg" alt="jeju three day first travel guide image - jeju without car content" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국관광공사 포토코리아</figcaption>
-</figure>
-
-## 시간대별로 짜는 방법
-
-오전에는 이동이 길거나 사람이 몰리기 쉬운 장소를 먼저 넣는 편이 좋습니다. 점심 이후에는 걷기 좋은 구간과 실내 대체지를 함께 생각해두면 날씨 변화에 대응하기 쉽습니다.
-
-저녁 일정이 있다면 야경이나 시장처럼 체류 시간이 자연스럽게 길어지는 장소를 마지막에 두는 것이 안정적입니다.
-
-동선이 비슷한 고민이라면 [렌터카 없이 제주 여행 가능할까? 버스·택시·투어 조합 가이드](/travel/jeju/jeju-without-car/)을 먼저 비교하고, 식비나 교통처럼 세부 조건이 중요할 때는 [국내여행 언제 갈까? 계절별 추천 여행지와 준비 포인트 2026](/travel/seoul/korea-season-travel-calendar/)도 함께 확인하면 계획이 더 현실적입니다.
-
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/jeju-west-coast-sunset-generated-jeju-three-day-first-trip-1-160.webp 160w, /images/optimized/generated/unique/jeju-west-coast-sunset-generated-jeju-three-day-first-trip-1-240.webp 240w, /images/optimized/generated/unique/jeju-west-coast-sunset-generated-jeju-three-day-first-trip-1-320.webp 320w, /images/optimized/generated/unique/jeju-west-coast-sunset-generated-jeju-three-day-first-trip-1-330.webp 330w, /images/optimized/generated/unique/jeju-west-coast-sunset-generated-jeju-three-day-first-trip-1-360.webp 360w, /images/optimized/generated/unique/jeju-west-coast-sunset-generated-jeju-three-day-first-trip-1-480.webp 480w, /images/optimized/generated/unique/jeju-west-coast-sunset-generated-jeju-three-day-first-trip-1-520.webp 520w, /images/optimized/generated/unique/jeju-west-coast-sunset-generated-jeju-three-day-first-trip-1-640.webp 640w, /images/optimized/generated/unique/jeju-west-coast-sunset-generated-jeju-three-day-first-trip-1-680.webp 680w, /images/optimized/generated/unique/jeju-west-coast-sunset-generated-jeju-three-day-first-trip-1-768.webp 768w, /images/optimized/generated/unique/jeju-west-coast-sunset-generated-jeju-three-day-first-trip-1-960.webp 960w, /images/optimized/generated/unique/jeju-west-coast-sunset-generated-jeju-three-day-first-trip-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/jeju-west-coast-sunset-generated-jeju-three-day-first-trip-1.jpg" alt="jeju three day first travel guide image - jeju west coast sunset generated jeju three day first trip 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
-
-## 대중교통, 택시, 렌터카 선택 기준
-
-제주공항에서 동문시장까지 한 번에 이어 보면 지도상 거리는 짧아 보여도 실제 이동은 환승, 배차 간격, 짐 이동 때문에 달라질 수 있습니다.
-
-도심형 코스는 대중교통과 짧은 택시 조합이 가장 안정적입니다. 해변·산·섬·외곽 전망대가 들어가면 렌터카나 택시 비중을 높이는 편이 좋습니다.
-
-대중교통을 쓴다면 첫 목적지까지의 이동 시간보다 마지막 장소에서 숙소로 돌아오는 시간을 더 중요하게 보세요. 여행 만족도는 마지막 1시간에 크게 갈립니다.
-
-렌터카를 쓰는 경우에는 주차장 위치, 야간 운전, 음주 가능성, 성수기 정체를 함께 고려해야 합니다. 택시는 2~3명이 함께 움직이면 효율적이지만, 축제·해변·막차 시간대에는 호출이 늦어질 수 있습니다.
-
-## 교통, 숙소 위치, 예상 비용
-
-뚜벅이 여행이라면 역과 터미널에서 첫 목적지까지의 시간을 먼저 확인하세요. 버스로 한 번에 이동할 수 있어도 배차 간격이 길면 실제 체감 시간은 크게 늘어납니다.
-
-숙소는 가장 늦게 끝나는 일정 근처에 잡거나, 다음 날 출발지로 돌아가기 쉬운 곳을 고르는 편이 좋습니다. 식비와 카페, 지역 내 교통, 짧은 택시, 짐 보관까지 포함하면 2박3일은 숙소 제외 1인 15만~28만 원 정도를 기본 범위로 보면 무난합니다.
-
-<section class="planning-table compact">
-  <h2>예상 비용과 예산 잡는 법</h2>
-  <div class="planning-table-head"><span>항목</span><span>1인 기준</span><span>체크 포인트</span></div>
-  <div><span>지역 내 교통</span><strong>8,000~25,000원</strong><p>지하철·버스 중심이면 낮고, 짧은 택시를 2회 이상 넣으면 올라갑니다.</p></div>
-  <div><span>식사·카페</span><strong>35,000~70,000원</strong><p>시장 간식과 카페를 넣으면 만족도는 높지만 지출이 쉽게 늘어납니다.</p></div>
-  <div><span>입장·체험</span><strong>0~30,000원</strong><p>무료 따라 달라집니다.</p></div>
-  <div><span>비상 예산</span><strong>20,000~40,000원</strong><p>우천, 막차, 짐 이동 때문에 택시를 타야 할 상황을 대비합니다.</p></div>
-</section>
-
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/jeju-2-jeju-three-day-first-trip-1-160.webp 160w, /images/optimized/generated/unique/jeju-2-jeju-three-day-first-trip-1-240.webp 240w, /images/optimized/generated/unique/jeju-2-jeju-three-day-first-trip-1-320.webp 320w, /images/optimized/generated/unique/jeju-2-jeju-three-day-first-trip-1-330.webp 330w, /images/optimized/generated/unique/jeju-2-jeju-three-day-first-trip-1-360.webp 360w, /images/optimized/generated/unique/jeju-2-jeju-three-day-first-trip-1-480.webp 480w, /images/optimized/generated/unique/jeju-2-jeju-three-day-first-trip-1-520.webp 520w, /images/optimized/generated/unique/jeju-2-jeju-three-day-first-trip-1-640.webp 640w, /images/optimized/generated/unique/jeju-2-jeju-three-day-first-trip-1-680.webp 680w, /images/optimized/generated/unique/jeju-2-jeju-three-day-first-trip-1-768.webp 768w, /images/optimized/generated/unique/jeju-2-jeju-three-day-first-trip-1-960.webp 960w, /images/optimized/generated/unique/jeju-2-jeju-three-day-first-trip-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/jeju-2-jeju-three-day-first-trip-1.jpg" alt="jeju three day first travel guide image - jeju 2 jeju three day first trip 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
-
-## 숙소 위치와 식사 타이밍
-
-숙소는 무조건 저렴한 곳보다 “마지막 일정 이후 돌아가기 쉬운 곳”이 좋습니다. 동문시장 근처에서 저녁을 마치거나 야경을 본다면 숙소가 너무 멀지 않아야 다음 날 피로가 줄어듭니다. 반대로 다음 날 아침 이동이 빠르다면 터미널, 역, 공항 접근성이 좋은 곳을 고르는 편이 안전합니다.
-
-식사는 성산일출봉 이후에 한 번 길게 넣거나, 동문시장 근처에서 저녁을 먹는 방식이 무난합니다. 인기 식당 하나에 일정을 맞추기보다 같은 권역의 후보를 2~3개 저장해두세요. 웨이팅이 길면 카페나 시장 간식으로 먼저 체력을 회복하고, 본 식사는 다음 권역에서 해결하는 편이 낫습니다.
-
-## 비 오는 날과 더운 날 대체 운영
-
-비가 오면 야외 체류 시간을 줄이고 실내 전시, 시장, 카페, 짧은 택시 이동을 섞어야 합니다. 특히 사진 목적의 장소는 만족도가 떨어질 수 있으므로 낮 시간의 핵심 장소 1~2개만 남기는 편이 좋습니다.
-
-나머지는 식사와 실내 휴식으로 바꾸면 일정이 덜 흔들립니다. 여름에는 한낮 이동을 줄이고, 겨울에는 해가 짧으니 야외 사진 장소를 오전과 이른 오후로 당기세요.
-
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-three-day-first-trip-1-160.webp 160w, /images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-three-day-first-trip-1-240.webp 240w, /images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-three-day-first-trip-1-320.webp 320w, /images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-three-day-first-trip-1-330.webp 330w, /images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-three-day-first-trip-1-360.webp 360w, /images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-three-day-first-trip-1-480.webp 480w, /images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-three-day-first-trip-1-520.webp 520w, /images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-three-day-first-trip-1-640.webp 640w, /images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-three-day-first-trip-1-680.webp 680w, /images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-three-day-first-trip-1-768.webp 768w, /images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-three-day-first-trip-1-960.webp 960w, /images/optimized/generated/unique/jeju-east-coast-route-generated-jeju-three-day-first-trip-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/jeju-east-coast-route-generated-jeju-three-day-first-trip-1.jpg" alt="jeju three day first travel guide image - jeju east coast route generated jeju three day first trip 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
-
-## 계절별 주의사항
-
-여름에는 해변과 야외 이동 시간이 길어져 체력 소모가 큽니다. 우산보다 가벼운 우비와 여분 양말이 더 유용할 때가 많습니다.
-
-겨울에는 해가 짧아 사진을 찍을 수 있는 시간이 줄어드니 야외 명소를 앞쪽에 두세요. 연휴와 주말에는 식당 대기, 주차, 택시 호출 시간이 길어질 수 있으므로 Google Maps에서 장소별 위치를 미리 저장해두는 것을 추천합니다.
-
-## 처음 가는 사람이 자주 하는 실수
-
-가장 흔한 실수는 제주공항, 성산일출봉, 월정리해변, 협재해수욕장, 동문시장 같은 장소를 모두 같은 무게로 보는 것입니다. 실제 일정에서는 반드시 오래 머무를 장소와 짧게 확인할 장소를 나눠야 합니다. 모든 장소에서 사진, 식사, 카페를 다 넣으면 이동 시간보다 체류 시간이 길어져 마지막 일정이 밀립니다.
-
-두 번째 실수는 숙소를 먼저 정하고 코스를 끼워 맞추는 것입니다. 숙소는 가격보다 마지막 일정, 다음 날 출발지, 짐 보관 가능성을 함께 봐야 합니다.
-
-세 번째는 지도상 이동 시간만 믿는 것입니다. 주말, 성수기, 비 오는 날에는 대기와 호출 시간이 늘어나므로 최소 20~30분의 여유를 남겨두세요.
-
-## 사진 찍기 좋은 시간과 저장해둘 것
-
-바다와 전망은 오전 또는 해 질 무렵이 좋고, 시장과 야경은 저녁에 분위기가 살아납니다. 단, 겨울에는 해가 빨리 지므로 야외 사진 장소를 너무 늦게 두지 마세요.
-
-출발 전에는 Google Maps에 각 장소를 저장하고, 대체 식당, 근처 카페, 숙소 복귀 경로까지 같이 저장해두면 현장에서 흔들리지 않습니다.
-
-## 자주 묻는 질문
-
-### 이 코스는 처음 가는 사람에게도 괜찮나요?
-네. 처음 방문하는 사람이 길을 헤매기 쉬운 구간을 줄이고, 이동 순서를 단순하게 만드는 데 초점을 맞췄습니다.
-
-### 렌터카가 꼭 필요한가요?
-대부분의 도심형 코스는 대중교통과 짧은 택시 조합으로 가능합니다. 다만 섬, 산, 외곽 해변이 포함되면 배차 간격과 마지막 차 시간을 먼저 확인해야 합니다.
-
-### 숙소는 어느 기준으로 고르면 좋나요?
-가장 늦게 끝나는 일정과 다음 날 출발지를 기준으로 고르는 편이 좋습니다. 가격이 조금 저렴해도 밤에 돌아오기 어렵거나 짐 이동이 불편하면 전체 만족도가 떨어질 수 있습니다.
-
-### 비가 오면 일정을 그대로 진행해도 되나요?
-야외 사진과 해변, 전망 위주의 일정은 과감히 줄이는 것이 좋습니다. 시장, 실내 전시, 카페, 짧은 택시 이동을 섞어 핵심 장소만 남기면 실패 확률이 낮아집니다.
+날씨 때문에 주목적지를 방문하지 못하면 같은 권역에서 운영이 확인된 실내 한 곳으로 바꿉니다. 비를 피하겠다고 섬 반대편으로 이동하는 안은 대체시설 자체보다 교통 부담이 커질 수 있습니다. 확인일: 2026년 9월 13일. 위 날짜별 역할은 편집부의 계획 제안이며 운행·날씨 보장이 아닙니다.

@@ -1,5 +1,5 @@
 ---
-title: "부산 먹거리 여행 코스 2026: 자갈치시장부터 국제시장까지 하루 동선"
+title: "부산 먹거리 여행 코스: 자갈치시장부터 국제시장까지 하루 동선"
 description: "부산 시장 먹거리 여행을 처음 준비하는 사람을 위해 자갈치시장, 국제시장, 부평깡통시장의 이동 순서와 예산 포인트를 정리했습니다."
 category: "맛집"
 region: "부산"
@@ -14,6 +14,7 @@ heroImage: "/images/generated/unique/busan-jagalchi-market-busan-market-food-rou
 imageAlt: "부산 자갈치시장"
 imageCredit: "ⓒ한국관광공사 포토코리아-김지호"
 draft: false
+imageVerified: false
 ---
 
 부산 시장 먹거리 여행을 처음 준비하는 사람을 위해 자갈치시장, 국제시장, 부평깡통시장의 이동 순서와 예산 포인트를 정리했습니다.
@@ -47,8 +48,6 @@ draft: false
     </ul>
   </div>
 </div>
-
-## 추천 동선 한눈에 보기
 
 <div class="map-route">
   <div class="map-route-head">
@@ -153,21 +152,9 @@ draft: false
   </div>
 </section>
 
-## 사람들이 가장 궁금해하는 포인트
-
 가장 먼저 확인할 것은 “하루에 가능한가”가 아니라 “어느 구간에서 시간이 새는가”입니다. 역이나 터미널에서 첫 목적지까지 멀고, 중간에 식사 대기가 생기면 일정 만족도가 떨어집니다.
 
 마지막 장소에서 다시 숙소나 역으로 돌아오는 시간도 중요합니다. 그래서 이 코스는 시작 지점, 사진을 찍는 구간, 식사나 휴식 구간, 귀가 전 마지막 구간을 분리해 잡는 방식이 좋습니다.
-
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-station-busan-market-food-route-1-160.webp 160w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-240.webp 240w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-320.webp 320w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-330.webp 330w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-360.webp 360w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-480.webp 480w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-520.webp 520w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-640.webp 640w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-680.webp 680w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-768.webp 768w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-960.webp 960w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/busan-station-busan-market-food-route-1.jpg" alt="busan market food travel guide image - busan station busan market food route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
-
-## 시간대별로 짜는 방법
 
 오전에는 이동이 길거나 사람이 몰리기 쉬운 장소를 먼저 넣는 편이 좋습니다. 점심 이후에는 걷기 좋은 구간과 실내 대체지를 함께 생각해두면 날씨 변화에 대응하기 쉽습니다.
 
@@ -183,8 +170,6 @@ draft: false
   <figcaption>ⓒ한국관광공사 포토코리아</figcaption>
 </figure>
 
-## 대중교통, 택시, 렌터카 선택 기준
-
 자갈치시장에서 BIFF광장까지 한 번에 이어 보면 지도상 거리는 짧아 보여도 실제 이동은 환승, 배차 간격, 짐 이동 때문에 달라질 수 있습니다.
 
 도심형 코스는 대중교통과 짧은 택시 조합이 가장 안정적입니다. 해변·산·섬·외곽 전망대가 들어가면 렌터카나 택시 비중을 높이는 편이 좋습니다.
@@ -192,8 +177,6 @@ draft: false
 대중교통을 쓴다면 첫 목적지까지의 이동 시간보다 마지막 장소에서 숙소로 돌아오는 시간을 더 중요하게 보세요. 여행 만족도는 마지막 1시간에 크게 갈립니다.
 
 렌터카를 쓰는 경우에는 주차장 위치, 야간 운전, 음주 가능성, 성수기 정체를 함께 고려해야 합니다. 택시는 2~3명이 함께 움직이면 효율적이지만, 축제·해변·막차 시간대에는 호출이 늦어질 수 있습니다.
-
-## 교통, 숙소 위치, 예상 비용
 
 뚜벅이 여행이라면 역과 터미널에서 첫 목적지까지의 시간을 먼저 확인하세요. 버스로 한 번에 이동할 수 있어도 배차 간격이 길면 실제 체감 시간은 크게 늘어납니다.
 
@@ -208,41 +191,17 @@ draft: false
   <div><span>비상 예산</span><strong>20,000~40,000원</strong><p>우천, 막차, 짐 이동 때문에 택시를 타야 할 상황을 대비합니다.</p></div>
 </section>
 
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-160.webp 160w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-240.webp 240w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-320.webp 320w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-330.webp 330w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-360.webp 360w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-480.webp 480w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-520.webp 520w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-640.webp 640w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-680.webp 680w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-768.webp 768w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-960.webp 960w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/busan-market-food-generated-busan-market-food-route-1.jpg" alt="busan market food travel guide image - busan market food generated busan market food route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
-
-## 숙소 위치와 식사 타이밍
-
 숙소는 무조건 저렴한 곳보다 “마지막 일정 이후 돌아가기 쉬운 곳”이 좋습니다. BIFF광장 근처에서 저녁을 마치거나 야경을 본다면 숙소가 너무 멀지 않아야 다음 날 피로가 줄어듭니다. 반대로 다음 날 아침 이동이 빠르다면 터미널, 역, 공항 접근성이 좋은 곳을 고르는 편이 안전합니다.
 
 식사는 국제시장 이후에 한 번 길게 넣거나, BIFF광장 근처에서 저녁을 먹는 방식이 무난합니다. 인기 식당 하나에 일정을 맞추기보다 같은 권역의 후보를 2~3개 저장해두세요. 웨이팅이 길면 카페나 시장 간식으로 먼저 체력을 회복하고, 본 식사는 다음 권역에서 해결하는 편이 낫습니다.
-
-## 비 오는 날과 더운 날 대체 운영
 
 비가 오면 야외 체류 시간을 줄이고 실내 전시, 시장, 카페, 짧은 택시 이동을 섞어야 합니다. 특히 사진 목적의 장소는 만족도가 떨어질 수 있으므로 낮 시간의 핵심 장소 1~2개만 남기는 편이 좋습니다.
 
 나머지는 식사와 실내 휴식으로 바꾸면 일정이짧으니 야외 사진 장소를 오전과 이른 오후로 당기세요.
 
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-160.webp 160w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-240.webp 240w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-320.webp 320w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-330.webp 330w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-360.webp 360w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-480.webp 480w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-520.webp 520w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-640.webp 640w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-680.webp 680w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-768.webp 768w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-960.webp 960w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/busan-haeundae-view-busan-market-food-route-1.jpg" alt="busan market food travel guide image - busan haeundae view busan market food route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
-
-## 계절별 주의사항
-
 여름에는 해변과 야외 이동 시간이 길어져 체력 소모가 큽니다. 우산보다 가벼운 우비와 여분 양말이 더 유용할 때가 많습니다.
 
 겨울에는 해가 짧아 사진을 찍을 수 있는 시간이 줄어드니 야외 명소를 앞쪽에 두세요. 연휴와 주말에는 식당 대기, 주차, 택시 호출 시간이 길어질 수 있으므로 Google Maps에서 장소별 위치를 미리 저장해두는 것을 추천합니다.
-
-## 처음 가는 사람이 자주 하는 실수
 
 가장 흔한 실수는 자갈치시장, 국제시장, 부평깡통시장, BIFF광장 같은 장소를 모두 같은 무게로 보는 것입니다. 실제 일정에서는 반드시 오래 머무를 장소와 짧게 확인할 장소를 나눠야 합니다. 모든 장소에서 사진, 식사, 카페를 다 넣으면 이동 시간보다 체류 시간이 길어져 마지막 일정이 밀립니다.
 
@@ -250,13 +209,9 @@ draft: false
 
 세 번째는 지도상 이동 시간만 믿는 것입니다. 주말, 성수기, 비 오는 날에는 대기와 호출 시간이 늘어나므로 최소 20~30분의 여유를 남겨두세요.
 
-## 사진 찍기 좋은 시간과 저장해둘 것
-
 바다와 전망은 오전 또는 해 질 무렵이 좋고, 시장과 야경은 저녁에 분위기가 살아납니다. 단, 겨울에는 해가 빨리 지므로 야외 사진 장소를 너무 늦게 두지 마세요.
 
 출발 전에는 Google Maps에 각 장소를 저장하고, 대체 식당, 근처 카페, 숙소 복귀 경로까지 같이 저장해두면 현장에서 흔들리지 않습니다.
-
-## 자주 묻는 질문
 
 ### 이 코스는 처음 가는 사람에게도 괜찮나요?
 네. 처음 방문하는 사람이 길을 헤매기 쉬운 구간을 줄이고, 이동 순서를 단순하게 만드는 데 초점을 맞췄습니다.

@@ -3,7 +3,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import PopularCarousel from "../../components/PopularCarousel.astro";
 import PostCard from "../../components/PostCard.astro";
 import { getPopularPosts, getPostUrl, getPublishedTravelPosts } from "../../lib/travel";
-import { localizedCategories, localizedRegions, regionSlugMap } from "../../site.config";
+import { localizedCategories, localizedRegions, regionSlugMap, categories, categorySlugMap } from "../../site.config";
 
 const posts = await getPublishedTravelPosts("en");
 const latest = posts.slice(0, 6);
@@ -19,11 +19,11 @@ const categoryDescriptions = {
 const regionItems = localizedRegions.en.map((label, index) => {
   const koRegion = localizedRegions.ko[index];
   const post = posts.find((item) => item.data.regionSlug === regionSlugMap[koRegion]);
-  return { label, href: post ? getPostUrl(post) : "/en/#regions" };
+  return { label, href: post ? `/en/regions/${regionSlugMap[koRegion]}/` : null };
 });
 const categoryItems = localizedCategories.en.map((label, index) => {
   const post = posts.find((item) => item.data.category === label);
-  return { label, href: post ? getPostUrl(post) : "/en/#themes", description: categoryDescriptions[label] };
+  return { label, href: post ? `/en/categories/${categorySlugMap[categories[index]]}/` : null, description: categoryDescriptions[label] };
 });
 ---
 
@@ -39,7 +39,7 @@ const categoryItems = localizedCategories.en.map((label, index) => {
     <div class="section-head">
       <div>
         <h2>Latest Korea Travel Guides</h2>
-        <p>Practical Korea travel articles written around routes, costs, transport, stays, and search intent.</p>
+        <p>Plan station transfers, reservations, walking routes and travel costs.</p>
       </div>
       <a class="button secondary" href="/en/travel/">All guides</a>
     </div>
@@ -57,7 +57,7 @@ const categoryItems = localizedCategories.en.map((label, index) => {
         </div>
       </div>
       <div class="filter-grid">
-        {regionItems.map((region) => <a href={region.href}>{region.label}</a>)}
+        {regionItems.filter(item => item.href).map((region) => <a href={region.href}>{region.label}</a>)}
       </div>
     </div>
   </section>
@@ -70,7 +70,7 @@ const categoryItems = localizedCategories.en.map((label, index) => {
       </div>
     </div>
     <div class="info-grid">
-      {categoryItems.map((category) => (
+      {categoryItems.filter(item => item.href).map((category) => (
         <a class="info-card" href={category.href}>
           <h3>{category.label}</h3>
           <p>{category.description}</p>

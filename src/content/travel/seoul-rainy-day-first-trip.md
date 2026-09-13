@@ -1,5 +1,5 @@
 ---
-title: "서울 비 오는 날 여행 코스 2026: 첫 여행도 덜 꼬이는 실내 중심 동선"
+title: "서울 비 오는 날 여행 코스: 첫 여행도 덜 꼬이는 실내 중심 동선"
 description: "서울을 처음 가는데 비 예보가 잡힌 사람을 위해 국립중앙박물관, 용산역권, 더현대 서울, 여의도 마무리까지 이어지는 실내 중심 하루 동선과 교통, 비용, 숙소 기준을 정리했습니다."
 category: "여행 코스"
 region: "서울"
@@ -14,6 +14,7 @@ heroImage: "/images/generated/seoul-rainy-day-museum-arrival-generated.jpg"
 imageAlt: "여름비가 내린 서울 용산 국립중앙박물관 앞 광장으로 우산을 쓰고 들어가는 여행자들"
 imageCredit: "ⓒ한국플레이리스트"
 draft: false
+imageVerified: false
 ---
 
 서울을 처음 가는데 비 예보가 잡힌 사람을 위해 국립중앙박물관, 용산역권, 더현대 서울, 여의도 마무리까지 이어지는 실내 중심 하루 동선과 교통, 비용, 숙소 기준을 정리했습니다.
@@ -47,8 +48,6 @@ draft: false
     </ul>
   </div>
 </div>
-
-## 추천 동선 한눈에 보기
 
 <div class="map-route">
   <div class="map-route-head">
@@ -108,8 +107,6 @@ draft: false
   </div>
 </section>
 
-## 왜 비 오는 서울 첫날에는 이 순서가 안정적인가
-
 서울 비 오는 날 일정이 실패하는 가장 흔한 이유는 야외 명소를 그대로 고집하거나, 반대로 실내 목적지를 너무 늦게 넣어 오전 이동부터 젖고 지치는 것입니다. 첫 방문자일수록 오전에는 `목적이 분명한 실내 거점`, 오후에는 `식사와 휴식이 쉬운 상업권`, 저녁에는 `날씨를 보고 붙이는 선택지` 순서가 좋습니다.
 
 국립중앙박물관은 이촌 쪽 접근이 쉽고 체류 밀도를 조절하기 편해 오전 앵커로 적합합니다. 국립중앙박물관 공식 안내 기준으로 상설전시관은 무료이고, 특별전은 별도 요금이 붙을 수 있어 비 예보가 있는 날에도 예산 통제가 쉽습니다.  
@@ -118,15 +115,11 @@ draft: false
 비가 더 강해지는 오후에는 여의도처럼 실내 체류와 귀가 선택지가 많은 곳이 유리합니다. Visit Seoul 소개 기준 더현대 서울은 대형 실내 복합공간이라 우천 시 식사, 휴식, 쇼핑을 한 번에 처리하기 좋고, 여의도한강공원은 비가 잦아들 때만 짧게 연결하기 좋습니다.  
 출처: [The Hyundai Seoul | Visit Seoul](https://english.visitseoul.net/shopping/The-Hyundai-Seoul/ENP037170), [Yeouido Hangang Park | Visit Seoul](https://english.visitseoul.net/area/Yeouido-Hangang-Park-Girls%E2%80%99-Generation-Forest/ENP012993)
 
-## 오전은 국립중앙박물관으로 시작하는 편이 왜 좋은가
-
 비 오는 날 첫 일정은 “사진이 잘 나오는 곳”보다 “젖지 않고 체류 시간을 길게 쓰기 쉬운 곳”이 우선입니다. 국립중앙박물관은 상설전시, 로비 휴식, 우산 정리, 화장실, 매점 같은 기본 인프라가 안정적이라 첫 여행자에게 특히 편합니다.
 
 또한 오전 2시간 정도를 박물관에 두면 점심 시간대까지 자연스럽게 이어져 이후 외부 이동을 최소화할 수 있습니다. 비가 강한 날에는 박물관 체류를 길게 가져가고, 비가 약한 날에는 용산역권 점심으로 조금 더 빨리 넘어가면 됩니다.
 
 고궁 산책이 본래 목적이었지만 날씨 때문에 고민 중이라면, 맑은 날 대체 코스는 [서울 당일치기 도보 여행: 경복궁·북촌·인사동 하루 코스](/travel/seoul/seoul-one-day-palace-walk/)에서 다시 비교하는 편이 좋습니다. 비 오는 날에 고궁을 억지로 넣기보다 하루 전체 만족도를 지키는 쪽이 더 현실적입니다.
-
-## 점심 이후는 용산역권에서 템포를 낮추는 편이 낫다
 
 비 오는 날 서울에서 흔한 실수는 박물관을 보고 바로 다음 명소로 급하게 넘어가며 이동 피로를 키우는 것입니다. 실제로는 점심과 카페 시간을 넣으며 우산, 젖은 신발, 휴대폰 배터리 상태를 정리해야 오후 일정이 덜 무너집니다.
 
@@ -134,27 +127,13 @@ draft: false
 
 대중교통만 고집하지 않는 것도 중요합니다. 우산과 쇼핑백, 젖은 옷 상태에서 환승 2회를 하는 것보다 2~3명이 함께 짧은 택시 1회를 쓰는 편이 더 싸게 느껴질 때가 많습니다.
 
-## 더현대 서울은 쇼핑보다 실내 피난처로 생각하는 편이 실용적이다
-
 더현대 서울을 비 오는 날 핵심 목적지로 잡을 때는 “무조건 오래 쇼핑해야 한다”가 아니라 `실내 휴식`, `늦은 점심 또는 이른 저녁`, `비가 약해질 때까지 시간 조정`을 묶는다고 생각하는 편이 좋습니다. 비 오는 오후에는 외부 풍경보다 이동 동선이 간단한지가 훨씬 중요합니다.
 
 여의도는 서울 첫 여행자에게도 지하철 연결이 비교적 단순하고, 실내에서 시간을 보내다 날씨가 풀리면 한강 쪽으로 짧게 나가 보기 쉽습니다. 반대로 비가 계속 오면 더현대 서울이나 인접 실내권에서 바로 저녁을 먹고 귀가하면 됩니다.
 
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-320.webp 320w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-330.webp 330w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-360.webp 360w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-480.webp 480w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-520.webp 520w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-640.webp 640w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-680.webp 680w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-768.webp 768w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-960.webp 960w, /images/optimized/generated/seoul-rainy-day-yeouido-indoor-generated-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/seoul-rainy-day-yeouido-indoor-generated.jpg" alt="서울 여의도 실내 복합공간에서 비를 피하며 쉬는 여행자들과 유리창 밖 빗줄기" width="1536" height="1024" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
-
-## 한강은 옵션으로만 붙여야 실패 확률이 낮다
-
 비 오는 날 서울에서 가장 많이 흔들리는 선택이 “여기까지 왔으니 한강도 꼭 보자”입니다. 여의도한강공원은 접근이 좋지만, 비가 계속 오거나 바람이 강하면 산책 만족도가 빠르게 떨어집니다. 그래서 이 코스에서는 한강을 메인 목적지로 두지 않고 마지막 30~40분짜리 옵션으로만 다룹니다.
 
 비가 약해졌고 신발 상태가 괜찮다면 여의도한강공원으로 잠깐 내려가 강변만 보고 돌아오는 정도면 충분합니다. 반대로 비가 멎지 않으면 실내 저녁으로 일정 닫는 편이 낫습니다. 한강 야경 자체를 중심으로 보고 싶다면 [서울 한강 야경 코스: 여의도·반포 저녁 산책과 준비물](/travel/seoul/seoul-hangang-evening/)을 별도 일정으로 분리하는 것이 더 자연스럽습니다.
-
-## 교통은 어떻게 잡아야 덜 지치는가
 
 국립중앙박물관은 이촌역 접근이 쉬워 오전 시작점으로 좋지만, 오후 여의도 이동은 날씨가 나쁘면 체감 피로가 커질 수 있습니다. 서울 비 오는 날에는 “최저 요금”보다 `환승 횟수`, `지상 도보`, `젖은 짐을 들고 걷는 거리`가 훨씬 중요합니다.
 
@@ -189,8 +168,6 @@ draft: false
   </div>
 </section>
 
-## 숙소와 비용은 어떻게 잡아야 하나
-
 비 오는 날 하루 코스는 교통비보다 `중간 카페`, `짧은 택시`, `젖은 옷 때문에 늘어나는 실내 체류`에서 예산 체감이 커집니다. 박물관 상설전 중심으로 시작하면 입장비를 아끼기 쉬워 전체 예산도 안정적입니다.
 
 숙소는 다음 날 일정에 따라 다르게 보면 됩니다. 다음 날 서울역, KTX, 공항철도 접근이 중요하면 서울역~용산 축이 편하고, 저녁을 여의도에서 길게 보낼 계획이면 여의도나 시청 쪽이 귀가 피로를 줄이기 쉽습니다. 반대로 첫날 비 오는 일정인데 잠실이나 동서울 쪽 숙소를 잡으면 마지막 이동이 길어질 수 있습니다.
@@ -204,8 +181,6 @@ draft: false
   <div><span>카페·간식</span><strong>8,000~20,000원</strong><p>비 오는 날은 실내 체류 시간이 길어져 카페 비중이 자연스럽게 늘어납니다.</p></div>
   <div><span>비상 예산</span><strong>10,000~25,000원</strong><p>우산 추가 구매, 택시, 젖은 짐 정리 같은 변수 대응용입니다.</p></div>
 </section>
-
-## 비 오는 날 서울에서 자주 하는 실수
 
 첫 번째 실수는 야외 명소를 전부 포기하지도 못하고, 실내 명소도 과하게 넣는 것입니다. 그러면 이동만 늘고 어느 장소에서도 만족도가 높지 않습니다. 비 오는 날에는 `오전 실내 1곳`, `오후 실내 1권역`, `저녁 옵션 1개` 정도로 줄이는 편이 훨씬 낫습니다.
 
@@ -229,20 +204,10 @@ draft: false
   <figcaption>ⓒ한국관광공사 포토코리아-이범수</figcaption>
 </figure>
 
-## 자주 묻는 질문
-
-### 서울 비 오는 날 첫 여행이면 고궁보다 박물관이 더 나은가요?
-
 대체로 그렇습니다. 비 오는 날 첫 방문자는 이동과 대기에서 체력이 빠르게 빠지기 때문에, 국립중앙박물관처럼 체류 시간이 길고 실내 운영이 쉬운 장소가 안정적입니다.
-
-### 더현대 서울은 꼭 쇼핑 목적이어야 하나요?
 
 그렇지 않습니다. 비 오는 날에는 실내 휴식, 식사, 저녁 후보 탐색, 비가 약해질 때까지 시간 조정용으로 보는 편이 더 실용적입니다.
 
-### 여의도한강공원까지 꼭 가야 하나요?
-
 아닙니다. 이 일정에서는 옵션입니다. 비가 계속 오거나 바람이 강하면 실내 저녁으로 마무리하는 편이 전체 만족도가 더 높습니다.
-
-### 숙소는 어느 쪽이 편한가요?
 
 다음 날 출발 동선에 따라 다르지만, 비 오는 첫날 일정 기준으로는 서울역~용산 축 또는 여의도·시청 축이 무난합니다. 마지막 일정 이후 짧게 돌아갈 수 있는지가 가장 중요합니다.

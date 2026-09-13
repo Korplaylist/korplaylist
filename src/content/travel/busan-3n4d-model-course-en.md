@@ -1,5 +1,5 @@
 ---
-title: "Busan 4-Day Itinerary 2026: Haeundae, Gwangalli, Gamcheon, Nampo, and Markets Without Rushing"
+title: "Busan 4-Day Itinerary: Haeundae, Gwangalli, Gamcheon, Nampo, and Markets Without Rushing"
 description: "A practical Busan 4-day itinerary for first-time visitors, connecting Haeundae, Gwangalli, Gamcheon Culture Village, Nampo, Jagalchi, and market food with rest time and rainy-day alternatives."
 category: "Itineraries"
 region: "Busan"
@@ -15,6 +15,7 @@ imageAlt: "Haeundae Beach skyline on a relaxed four-day Busan itinerary"
 imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
+imageVerified: false
 ---
 
 A `Busan 4-day itinerary` is the easiest way to enjoy the city without turning every transfer into a race. Busan looks compact on a map, but Haeundae, Gwangalli, Nampo, Gamcheon Culture Village, and Songdo sit in different travel zones. A good four-day plan gives each area enough time to feel distinct, then leaves space for meals, luggage, weather, and late check-in.
@@ -50,8 +51,6 @@ This guide is written for travelers searching for a first-time Busan itinerary, 
   </div>
 </div>
 
-## Route Overview
-
 <div class="map-route">
   <div class="map-route-head">
     <strong>Google Maps route</strong>
@@ -74,70 +73,28 @@ This guide is written for travelers searching for a first-time Busan itinerary, 
   <div><span>Day 4</span><strong>Light final morning</strong><p>Choose a short cafe, beach, or station-area walk based on departure time.</p></div>
 </section>
 
-## Day 1: Arrive And Keep The First Evening Easy
-
 If your train or flight arrives in the afternoon, do not force Gamcheon, Gwangalli, and Nampo into the first day. Use the first evening to understand your hotel area, buy a transit card if needed, and make one low-risk walk near Haeundae or Seomyeon. Haeundae is especially easy if your hotel is nearby because the beach, cafes, dinner, and a short night view can all stay within one zone.
 
 Visit Busan's official [Mastering Busan in Three Days](https://www.visitbusan.net/en/index.do?lang_cd=en&menuCd=DOM_000000302011001000&uc_seq=392) route shows how wide a full Busan trip can become when temples, Haeundae, Taejongdae, Gamcheon, Songdo, and Dadaepo are all considered. For a relaxed four-day version, spread those ideas out and protect the first evening from overplanning.
-
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-3n4d-cafe-busan-3n4d-model-course-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/busan-3n4d-cafe-busan-3n4d-model-course-1.jpg" alt="Cafe break near the sea during a relaxed Busan four-day itinerary" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
-
-## Day 2: Haeundae, Dongbaekseom, And Gwangalli
 
 Use the second day for Busan's coastal identity. Start with Haeundae Beach before the area gets too hot or crowded, then add Dongbaekseom if the weather is comfortable. After lunch or a cafe break, move toward Gwangalli for sunset and the night view of Gwangandaegyo Bridge. This order feels natural because it keeps the day focused on the east coast instead of crossing the whole city twice.
 
 The official Visit Busan guide for a [two-night, three-day walking-style Busan trip](https://www.visitbusan.net/en/index.do?lang_cd=en&menuCd=DOM_000000302011001000&uc_seq=1211) includes Haeundae, Cheongsapo, Gwangalli, and Millak as sea-view stops. You do not need to copy every stop. The useful lesson is to keep the coastal day coherent and add rest before the evening view.
 
-## Day 3: Gamcheon Culture Village And Nampo Markets
-
 Gamcheon Culture Village is worth seeing, but it should not be treated like a flat station-side attraction. Streets and stairs take energy, especially in summer or after rain. Go in the morning or late morning, take photos without rushing, then move down toward Nampo for food, shopping, and an easier afternoon. Jagalchi Market, Gukje Market, BIFF Square, and nearby cafe streets give the day a strong finish without adding another far transfer.
 
 If your group includes older family members or small children, shorten Gamcheon and make Nampo the main stop. If your group loves photography, give Gamcheon two full hours and reduce shopping. Busan rewards focus. A slower Nampo afternoon is usually better than adding one more scenic spot just because it appears close on the map.
-
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-3n4d-gamcheon-busan-3n4d-model-course-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/busan-3n4d-gamcheon-busan-3n4d-model-course-1.jpg" alt="Colorful hillside streets at Gamcheon Culture Village in Busan" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
-
-## Where To Stay For This Route
 
 Haeundae is best if beach atmosphere matters most. Gwangalli is excellent for evening views and a slightly more social night. Seomyeon is the most practical middle base because transfers to Haeundae, Nampo, and Busan Station are easier to balance. Busan Station or Nampo works well if you arrive by KTX and want market food, old downtown streets, and short final-day logistics.
 
 For a first trip, choose the hotel area before choosing every attraction. A poor hotel location can turn a good itinerary into a tiring one. If you plan two sea-view nights, Haeundae or Gwangalli is worth it. If you plan many cross-city transfers, Seomyeon is less romantic but more efficient. If you have heavy luggage and an early train, Busan Station is practical.
 
-## Rainy-Day And Budget Adjustments
-
 Rain does not ruin Busan, but it changes the pace. Keep markets, cafes, malls, and short indoor stops ready. Gamcheon is the first place to cut in heavy rain because slopes and wet stairs reduce comfort. Gwangalli can still work if the rain is light, but strong wind makes the waterfront less pleasant. A rainy Busan day should be built around one dry anchor, one meal, one cafe, and one short view.
 
 Budget also depends on where you sleep. A sea-view hotel can be worth it for a first visit, but it is not necessary for every night. Mix market meals, casual local food, and one planned seafood or barbecue dinner. The goal is not to spend less at every meal; it is to avoid paying high prices while too tired to enjoy the experience.
 
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-3n4d-market-busan-3n4d-model-course-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/busan-3n4d-market-busan-3n4d-model-course-1.jpg" alt="Market food stop in Nampo during a Busan four-day itinerary" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
-
-## FAQ
-
-### Is four days enough for Busan?
-
 Yes. Four days is enough for Haeundae, Gwangalli, Gamcheon Culture Village, Nampo, markets, and one flexible final morning. It is better than trying to compress the same route into two days.
 
-### Should I stay in Haeundae or Seomyeon?
-
 Choose Haeundae for beach atmosphere and Seomyeon for easier transfers. If this is your first Busan trip and you value convenience, Seomyeon is very practical. If the sea is the main reason for your trip, Haeundae feels better.
-
-### Can I add Gyeongju or Ulsan to this itinerary?
 
 You can, but it is better only if you have already visited Busan before or have more than four days. First-time visitors should usually keep the main four days inside Busan.

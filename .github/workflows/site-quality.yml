@@ -1,0 +1,31 @@
+name: Site integrity
+
+on:
+  push:
+    branches: [main, codex/adsense-content-recovery]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  build-and-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - run: npm install
+      - run: npm run build
+      - run: npm run check:site
+      - name: Report outstanding editorial work
+        run: npm run check:adsense
+        continue-on-error: true
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: editorial-review-report
+          path: |
+            docs/editorial-recovery/built-site-report.json
+            docs/editorial-recovery/editorial-pending.json

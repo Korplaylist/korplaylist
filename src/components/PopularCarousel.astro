@@ -5,7 +5,7 @@ import { formatDate, getImageAlt, getPostLocale, getPostUrl } from "../lib/trave
 const { posts = [], locale = "ko" } = Astro.props;
 const labels = {
   ko: {
-    title: "인기 여행 가이드",
+    title: "선별 여행 가이드",
     controls: "인기글 이동",
     prev: "이전 인기글",
     next: "다음 인기글",
@@ -15,7 +15,7 @@ const labels = {
     readAria: "읽기"
   },
   en: {
-    title: "Popular Korea Travel Guides",
+    title: "Selected Korea Travel Guides",
     controls: "Move popular guides",
     prev: "Previous popular guide",
     next: "Next popular guide",
@@ -25,7 +25,7 @@ const labels = {
     readAria: "read"
   },
   ja: {
-    title: "人気の韓国旅行ガイド",
+    title: "おすすめの韓国旅行ガイド",
     controls: "人気記事の移動",
     prev: "前の人気記事",
     next: "次の人気記事",
@@ -35,7 +35,7 @@ const labels = {
     readAria: "を読む"
   }
 }[locale] ?? {
-  title: "인기 여행 가이드",
+  title: "선별 여행 가이드",
   controls: "인기글 이동",
   prev: "이전 인기글",
   next: "다음 인기글",
@@ -67,7 +67,7 @@ const labels = {
               <a class="button secondary" href={labels.regionsHref}>{labels.regions}<span class="visually-hidden">: {post.data.region}</span></a>
             </div>
           </div>
-          <a class="popular-slide-image" href={getPostUrl(post)} aria-label={`${post.data.title} ${labels.readAria}`}>
+          {post.data.imageVerified && <a class="popular-slide-image" href={getPostUrl(post)} aria-label={`${post.data.title} ${labels.readAria}`}>
             <picture>
               <source type="image/webp" srcset={getWebpSrcSet(post.data.heroImage, [480, 640, 680, 768])} sizes="(max-width: 760px) calc(100vw - 36px), 48vw" />
               <img
@@ -81,7 +81,7 @@ const labels = {
                 sizes="(max-width: 760px) calc(100vw - 36px), 48vw"
               />
             </picture>
-          </a>
+          </a>}
         </article>
       ))}
     </div>

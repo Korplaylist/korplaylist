@@ -14,6 +14,7 @@ heroImage: "/images/generated/unique/gyeongju-history-two-day-content-gyeongju-h
 imageAlt: "Gyeongju 2-Day History Itinerary: Daereungwon, Cheomseongdae and Bulguksa main image"
 imageCredit: "ⓒ한국관광공사 포토코리아-이범수"
 draft: false
+imageVerified: false
 ---
 
 A Gyeongju history route for Daereungwon, Cheomseongdae, Donggung and Wolji, Bulguksa, stay areas, transport, and evening timing.
@@ -47,8 +48,6 @@ This guide is written around the questions travelers usually search before booki
     </ul>
   </div>
 </div>
-
-## Route Overview With Google Maps
 
 <div class="map-route">
   <div class="map-route-head">
@@ -172,21 +171,9 @@ This guide is written around the questions travelers usually search before booki
   </div>
 </section>
 
-## What Travelers Usually Want to Know
-
 The most important question is not only whether the route is possible. It is where time gets lost. Long station transfers, meal queues, luggage storage, and the return trip often decide whether the itinerary feels smooth or exhausting.
 
 This route separates arrival, photo time, food breaks, and the final stop so you can adjust it without rebuilding the whole plan.
-
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-160.webp 160w, /images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-240.webp 240w, /images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-320.webp 320w, /images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-330.webp 330w, /images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-360.webp 360w, /images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-480.webp 480w, /images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-520.webp 520w, /images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-640.webp 640w, /images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-680.webp 680w, /images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-768.webp 768w, /images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-960.webp 960w, /images/optimized/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/gyeongju-family-content-gyeongju-history-two-day-route-1.jpg" alt="gyeongju history two day travel guide image - gyeongju family content gyeongju history two day route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
-
-## How to Plan the Day
 
 Put the longest or most crowded stop early in the day. Keep flexible time after lunch for cafes, indoor alternatives, or a slower walk.
 
@@ -196,16 +183,6 @@ If you are comparing similar routes, read [Gyeongju Family Trip Guide: Historic 
 
 Use related guides only when the route, transport method, and travel area actually overlap. Adding extra stops just because another guide exists usually makes the day harder rather than better.
 
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-160.webp 160w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-240.webp 240w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-320.webp 320w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-330.webp 330w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-360.webp 360w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-480.webp 480w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-520.webp 520w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-640.webp 640w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-680.webp 680w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-768.webp 768w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-960.webp 960w, /images/optimized/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/gyeongju-daereungwon-walk-generated-gyeongju-history-two-day-route-1.jpg" alt="Gyeongju 2-Day History Itinerary: Daereungwon, Cheomseongdae and Bulguksa travel guide image" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒKorea Playlist Image 2.0</figcaption>
-</figure>
-
-## Public Transport, Taxi, or Rental Car
-
 The route from Gyeongju Station to Bulguksa Temple may look simple on a map, but transfers, bus intervals, luggage, and the final return can change the real difficulty.
 
 For city routes, public transport plus short taxi rides is usually the most balanced option. For beaches, mountains, islands, or outer viewpoints, a rental car or extra taxi budget may be more realistic.
@@ -213,8 +190,6 @@ For city routes, public transport plus short taxi rides is usually the most bala
 If you use public transport, do not only check the first ride of the day. Check how you return from the final stop to your stay area.
 
 If you rent a car, check parking, night driving, possible congestion, and whether the evening plan includes alcohol. Taxis work well for two or three people, but waits can be longer near beaches, festivals, and late-night transport hubs.
-
-## Transport, Stay Area, and Budget
 
 For travelers without a car, check the time from the station or terminal to the first stop before anything else. A route may look close on the map but feel slow when buses are infrequent.
 
@@ -237,33 +212,17 @@ For accommodation, choose an area near the last evening stop or the next morning
   <figcaption>ⓒ한국관광공사 포토코리아</figcaption>
 </figure>
 
-## Stay Area and Food Timing
-
 The best stay area is not always the cheapest one. Choose a place that is easy to return to after the final stop. If you plan dinner or night views near Bulguksa Temple, staying too far away can make the next morning harder. If you leave early the next day, prioritize access to a station, terminal, or airport.
 
 For food, place one longer meal after Daereungwon or keep dinner near Bulguksa Temple. Do not build the whole day around one popular restaurant. Save two or three options in the same area. If the queue is long, recover with a cafe or market snack first and move the main meal to the next zone.
-
-## Rainy-Day and Hot-Weather Adjustments
 
 On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and short taxi rides. Photo-focused stops may lose value, so keep only one or two essential daylight stops.
 
 Use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, move kly.
 
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-160.webp 160w, /images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-240.webp 240w, /images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-320.webp 320w, /images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-330.webp 330w, /images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-360.webp 360w, /images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-480.webp 480w, /images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-520.webp 520w, /images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-640.webp 640w, /images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-680.webp 680w, /images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-768.webp 768w, /images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-960.webp 960w, /images/optimized/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/gyeongju-history-walk-generated-gyeongju-history-two-day-route-1.jpg" alt="gyeongju history two day travel guide image - gyeongju history walk generated gyeongju history two day route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
-
-## Seasonal Notes
-
 In summer, outdoor routes feel longer because of heat and crowds. In winter, sunset comes early, so outdoor photo stops should be placed earlier.
 
 On weekends and holidays, restaurant queues and taxi waits can change the route. Save each stop in Google Maps before leaving so you can adjust quickly.
-
-## Common Mistakes First-Time Visitors Make
 
 The biggest mistake is treating Gyeongju Station, Daereungwon, Cheomseongdae, Donggung and Wolji, and Bulguksa Temple as equally important.
 
@@ -273,13 +232,9 @@ The second mistake is booking accommodation first and forcing the route around i
 
 The third mistake is trusting map travel time too literally. On weekends, during peak season, or in rain, queues and ride-hailing time can add 20-30 minutes or more.
 
-## Best Photo Timing and What to Save
-
 Coasts and viewpoints are usually better in the morning or near sunset, while markets and night-view areas work better in the evening. In winter, avoid placing outdoor photo stops too late.
 
 Before leaving, save every stop in Google Maps along with backup restaurants, nearby cafes, and the return route to your stay area.
-
-## FAQ
 
 ### Is this route suitable for first-time visitors?
 Yes. It is designed to reduce backtracking and keep the order easy to follow.

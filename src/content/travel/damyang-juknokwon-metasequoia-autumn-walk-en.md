@@ -1,5 +1,5 @@
 ---
-title: "Damyang Bamboo Forest Itinerary 2026: Juknokwon, Gwanbangjerim, Metasequoia Road, and Autumn Walks"
+title: "Damyang Bamboo Forest Itinerary: Juknokwon, Gwanbangjerim, Metasequoia Road, and Autumn Walks"
 description: "A Damyang bamboo forest itinerary linking Juknokwon, Gwanbangjerim, Metasequoia-lined Road, cafe breaks, meal timing, weather backups, and photo pacing for first-time visitors."
 category: "Itineraries"
 region: "Jeonnam"
@@ -15,6 +15,7 @@ imageAlt: "Bamboo path inside Juknokwon Bamboo Garden in Damyang"
 imageCredit: "ⓒ한국플레이리스트"
 adsenseReady: true
 draft: false
+imageVerified: false
 ---
 
 A `Damyang bamboo forest itinerary` is strongest when it treats Juknokwon, Gwanbangjerim, and Metasequoia-lined Road as one walking-and-rest sequence. Damyang looks simple on a map, but the day becomes tiring if you try to rush every bamboo path, riverside walk, cafe, photo stop, and meal without breaks.
@@ -49,8 +50,6 @@ This guide is for travelers searching Juknokwon Bamboo Garden, Damyang Metasequo
   </div>
 </div>
 
-## Route Overview With Google Maps
-
 <div class="map-route">
   <div class="map-route-head">
     <strong>Google Maps route</strong>
@@ -73,23 +72,11 @@ This guide is for travelers searching Juknokwon Bamboo Garden, Damyang Metasequo
   <div><span>15:30</span><strong>Metasequoia Road</strong><p>Finish with the iconic tree-lined photo section when the light feels softer.</p></div>
 </section>
 
-## Start With Juknokwon
-
 Juknokwon is the stop most travelers mean when they search for Damyang bamboo forest. VisitKorea introduces it as a bamboo garden with walking paths and a strong forest atmosphere, while the official [Juknokwon website](https://www.juknokwon.go.kr/) is the place to check current visitor information. For English visitor context, use [VisitKorea Juknokwon](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=93987).
 
 Start here because it is the most distinctive stop and because bamboo paths are better when you are not already tired. Walk slowly, but do not try to photograph every curve in the path. The garden can feel similar if you move only for photos. Instead, choose a few good spots, then actually enjoy the shade, sound, and spacing.
 
 If you are visiting in summer, start early and bring water. If you are visiting in autumn, expect more people at the prettiest photo points. If it rains lightly, Juknokwon can still be atmospheric, but wet paths require careful shoes. Heavy rain is a reason to shorten the visit and move to lunch earlier.
-
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/ko-damyang-metasequoia-road-damyang-juknokwon-metasequoia-autumn-walk-2-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/ko-damyang-metasequoia-road-damyang-juknokwon-metasequoia-autumn-walk-2-v1.jpg" alt="Damyang Metasequoia-lined Road with tall trees and autumn walking atmosphere" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
-
-## Gwanbangjerim Is The Breathing Space
 
 After Juknokwon, Gwanbangjerim works as a softer middle walk. It does not need to compete with the bamboo forest. Its role is to slow the day, connect the scenery, and make the route feel like Damyang rather than one paid attraction and a photo road. This is where the itinerary should become less goal-driven.
 
@@ -97,46 +84,18 @@ Use this section to decide whether the day still has enough energy for Metasequo
 
 Travelers coming from Gwangju should be especially honest about return timing. A compact day trip can work well, but if you arrive late or depend on limited buses, do not force every stop. Juknokwon plus one nearby walk and a meal can already be enough.
 
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/ko-damyang-gwanbangjerim-stream-damyang-juknokwon-metasequoia-autumn-walk-3-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/ko-damyang-gwanbangjerim-stream-damyang-juknokwon-metasequoia-autumn-walk-3-v1.jpg" alt="Gwanbangjerim riverside forest walk in Damyang between bamboo and metasequoia stops" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
-
-## Metasequoia Road Is Best When You Still Have Energy
-
 Damyang Metasequoia-lined Road is one of the most recognizable tree-road images in Korea. VisitKorea's official page gives visitor context for the road: [Damyang Metasequoia-lined Road](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=89007). It is a simple stop in theory, but it can be less satisfying if you arrive exhausted, hungry, or in harsh midday light.
 
 Place it after lunch or later in the afternoon when the day feels softer. In autumn, the tree colors can make this the photo highlight, so it may be worth moving earlier if your main goal is photography. In summer, use it as a shorter walk and protect the cafe break. In rain, only continue if the ground and visibility are comfortable.
 
 This is also where the group should agree on photo pacing. Decide whether you want a few clean photos or a long portrait session. Both are fine, but they create different days. If you are traveling with people who do not enjoy posing, keep the photo plan short and reward the route with a meal or drink after.
 
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/ko-damyang-bamboo-meal-damyang-juknokwon-metasequoia-autumn-walk-4-v1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/ko-damyang-bamboo-meal-damyang-juknokwon-metasequoia-autumn-walk-4-v1.jpg" alt="Damyang local meal table after Juknokwon bamboo forest and Metasequoia Road walk" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
-
-## Final Recommendation
-
 For a first Damyang bamboo forest itinerary, start with Juknokwon, eat before the day gets heavy, walk Gwanbangjerim calmly, and finish with Metasequoia Road if the weather and energy still fit. That gives the trip variety without making every stop feel like another version of the same walk.
 
 Before visiting in 2026, check official pages for current opening details and local notices. Damyang is at its best when the schedule has room for shade, food, and quiet, not just photos.
 
-## FAQ
-
-### Is Juknokwon enough for a Damyang day trip?
-
 Juknokwon can be enough for a short visit, but pairing it with Gwanbangjerim, a local meal, and Metasequoia Road makes the day feel more complete.
 
-### Is Damyang good in autumn?
-
 Yes. Autumn is one of the best seasons for the bamboo forest, riverside walks, and Metasequoia Road photos, though peak foliage can bring more visitors.
-
-### Can I visit Damyang from Gwangju?
 
 Yes, Damyang is commonly paired with Gwangju travel. Check transport timing in advance and simplify the route if you arrive late.

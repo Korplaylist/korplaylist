@@ -1,0 +1,24 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import PostCard from "../../../components/PostCard.astro";
+import { getPublishedTravelPosts, getPostRegionSlug } from "../../../lib/travel";
+import { localizedRegions, regions, regionSlugMap } from "../../../site.config";
+export async function getStaticPaths() {
+  const paths = [];
+  for (const locale of ["en", "ja"]) {
+    const all = await getPublishedTravelPosts(locale);
+    for (const [i, region] of regions.entries()) {
+      const slug = regionSlugMap[region];
+      const posts = all.filter((post) => getPostRegionSlug(post) === slug);
+      if (posts.length) paths.push({ params: { locale, region: slug }, props: { locale, slug, posts, label: localizedRegions[locale][i] } });
+    }
+  }
+  return paths;
+}
+const { locale, slug, posts, label } = Astro.props;
+const title = locale === "en" ? `${label} Travel Guides` : `${label}の旅行ガイド`;
+---
+<BaseLayout title={title} description={title} canonical={`/${locale}/regions/${slug}/`} locale={locale}>
+  <section class="page-shell"><h1>{title}</h1><p>{locale === "en" ? "Routes, transport and practical visitor information." : "旅行ルート、交通、訪問前に必要な情報。"}</p></section>
+  <section class="section"><div class="post-grid">{posts.map(post => <PostCard post={post} />)}</div></section>
+</BaseLayout>

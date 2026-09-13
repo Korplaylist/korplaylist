@@ -1,5 +1,5 @@
 ---
-title: "釜山グルメ市場コース2026：チャガルチ市場から国際市場までの1日動線"
+title: "釜山グルメ市場コース：チャガルチ市場から国際市場までの1日動線"
 description: "チャガルチ市場、国際市場、富平カントン市場を中心に、釜山の市場グルメ、予算、移動順、滞在時間を整理します。"
 category: "グルメ"
 region: "釜山"
@@ -14,6 +14,7 @@ heroImage: "/images/generated/unique/busan-jagalchi-market-busan-market-food-rou
 imageAlt: "釜山グルメ市場コース2026：チャガルチ市場から国際市場までの1日動線 main image"
 imageCredit: "ⓒ한국관광공사 포토코리아-김지호"
 draft: false
+imageVerified: false
 ---
 
 チャガルチ市場、国際市場、富平カントン市場を中心に、釜山の市場グルメ、予算、移動順、滞在時間を整理します。
@@ -47,8 +48,6 @@ draft: false
     </ul>
   </div>
 </div>
-
-## Googleマップで見るルート概要
 
 <div class="map-route">
   <div class="map-route-head">
@@ -153,21 +152,9 @@ draft: false
   </div>
 </section>
 
-## 旅行者が知りたいポイント
-
 大切なのは「行けるかどうか」だけではありません。駅から最初の目的地までの移動、食事の待ち時間、荷物預かり、最後に戻る時間で満足度が変わります。
 
 このルートでは、到着、写真、食事、最後の目的地を分けて考え、予定を調整しやすくしています。
-
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-station-busan-market-food-route-1-160.webp 160w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-240.webp 240w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-320.webp 320w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-330.webp 330w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-360.webp 360w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-480.webp 480w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-520.webp 520w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-640.webp 640w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-680.webp 680w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-768.webp 768w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-960.webp 960w, /images/optimized/generated/unique/busan-station-busan-market-food-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/busan-station-busan-market-food-route-1.jpg" alt="busan market food travel guide image - busan station busan market food route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
-
-## 時間帯ごとの考え方
 
 午前中は移動が長い場所や混みやすい場所を先に入れると楽です。昼食後はカフェ、屋内スポット、短い散歩を組み合わせると天気に対応しやすくなります。
 
@@ -183,8 +170,6 @@ draft: false
   <figcaption>ⓒ한국관광공사 포토코리아</figcaption>
 </figure>
 
-## 公共交通・タクシー・レンタカーの選び方
-
 チャガルチ市場からBIFF広場まで地図上では簡単に見えても、乗り換え、バスの本数、荷物、最後の帰り道で実際の負担は変わります。
 
 都市型のコースは公共交通と短距離タクシーの組み合わせが安定します。海辺、山、島、郊外の展望スポットを入れる場合はレンタカーやタクシー予算を多めに見ると安心です。
@@ -192,8 +177,6 @@ draft: false
 公共交通を使うなら、最初の移動より最後の場所から宿泊エリアへ戻る時間を重視してください。
 
 レンタカーの場合は駐車場、夜間運転、渋滞、夕食時の飲酒予定も確認します。タクシーは2〜3人なら効率的ですが、海辺、祭り、終電前後は呼び出しに時間がかかることがあります。
-
-## 交通・宿泊エリア・予算
 
 車なしで動く場合は、駅やターミナルから最初の目的地までの時間を先に確認してください。地図上で近く見えても、バスの本数が少ないと体感時間は長くなります。
 
@@ -208,39 +191,15 @@ draft: false
   <div><span>予備費</span><strong>20,000〜40,000ウォン</strong><p>雨、終バス、荷物移動でタクシーが必要になる場合に備えます。</p></div>
 </section>
 
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-160.webp 160w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-240.webp 240w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-320.webp 320w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-330.webp 330w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-360.webp 360w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-480.webp 480w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-520.webp 520w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-640.webp 640w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-680.webp 680w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-768.webp 768w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-960.webp 960w, /images/optimized/generated/unique/busan-market-food-generated-busan-market-food-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/busan-market-food-generated-busan-market-food-route-1.jpg" alt="busan market food travel guide image - busan market food generated busan market food route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
-
-## 宿泊エリアと食事のタイミング
-
 宿泊エリアは安さだけでなく、最後の予定後に戻りやすい場所を選ぶのが大切です。BIFF広場周辺で夕食や夜景を入れるなら、宿が遠すぎると翌朝まで疲れが残ります。翌朝の移動が早い場合は、駅、ターミナル、空港へのアクセスを優先してください。
 
 食事は国際市場の後に長めに入れるか、BIFF広場周辺で夕食を取る流れが無理なく組みやすいです。人気店1つに予定を合わせるより、同じエリアで2〜3軒の候補を保存しておきましょう。待ち時間が長ければ、先にカフェや市場の軽食で休み、次のエリアで食事を取る方が安定します。
 
-## 雨の日・暑い日の代替案
-
 雨の日は屋外の滞在時間を減らし、屋内展示、市場、カフェ、短距離タクシーを組み合わせます。写真目的の場所は満足度が下がることがあるため、日中の重要スポットを1〜2か所だけ残すと安、冬は日没が早いので屋外写真スポットを前半に寄せてください。
-
-<figure class="content-photo">
-  <picture>
-    <source type="image/webp" srcset="/images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-160.webp 160w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-240.webp 240w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-320.webp 320w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-330.webp 330w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-360.webp 360w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-480.webp 480w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-520.webp 520w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-640.webp 640w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-680.webp 680w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-768.webp 768w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-960.webp 960w, /images/optimized/generated/unique/busan-haeundae-view-busan-market-food-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/busan-haeundae-view-busan-market-food-route-1.jpg" alt="busan market food travel guide image - busan haeundae view busan market food route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  </picture>
-  <figcaption>ⓒ한국플레이리스트</figcaption>
-</figure>
-
-## 季節別の注意点
 
 夏は暑さと混雑で屋外移動が長く感じます。冬は日没が早いので、写真を撮りたい屋外スポットを前半に置くのがおすすめです。
 
 週末や連休は食事の待ち時間、タクシー待ち、交通渋滞が増えるため、Googleマップで各スポットを保存しておくと変更しやすくなります。
-
-## 初めての人がしやすい失敗
 
 よくある失敗は、チャガルチ市場、国際市場、富平カントン市場、BIFF広場をすべて同じ重要度で見ることです。実際の旅程では、長く滞在する場所と短く確認する場所を分ける必要があります。すべての場所で写真、食事、カフェを入れると、最後の予定が遅れやすくなります。
 
@@ -248,13 +207,9 @@ draft: false
 
 3つ目は地図上の移動時間だけを信じることです。週末、繁忙期、雨の日は待ち時間が増えるため、20〜30分の余裕を残すと安心です。
 
-## 写真に向く時間帯と保存しておくもの
-
 海や展望は午前または夕方、市場や夜景は夜の雰囲気が出やすいです。ただし冬は日没が早いため、屋外写真スポットを遅い時間に置きすぎないでください。
 
 出発前にGoogleマップで各スポット、代替の食事候補、近くのカフェ、宿泊先への帰り道を保存しておくと現地で迷いにくくなります。
-
-## よくある質問
 
 ### 初めての韓国旅行でも使いやすいですか？
 はい。移動の戻りを減らし、初めてでも順番を追いやすいように構成しています。

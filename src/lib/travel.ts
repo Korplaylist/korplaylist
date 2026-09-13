@@ -59,7 +59,7 @@ export function getImageAlt(post: { data: { title: string; imageAlt?: string } }
 
 export function getRelatedPosts(currentPost: any, posts: any[], limit = 5) {
   return posts
-    .filter((post) => post.slug !== currentPost.slug && getPostLocale(post) === getPostLocale(currentPost))
+    .filter((post) => post.slug !== currentPost.slug && getPostLocale(post) === getPostLocale(currentPost) && post.data.region === currentPost.data.region)
     .map((post) => {
       const sharedTags = post.data.tags.filter((tag: string) => currentPost.data.tags.includes(tag)).length;
       const regionScore = getPostRegionSlug(post) === getPostRegionSlug(currentPost) ? 4 : 0;
@@ -100,10 +100,10 @@ export function getTopRegions(posts: any[], limit = 4) {
 }
 
 export function getPopularPosts(posts: any[], limit = 6) {
-  const intentKeywords = ["1박2일", "2박3일", "당일치기", "비용", "뚜벅이", "렌터카", "제주", "부산", "서울", "강릉"];
-
+  const selected = ["busan-station-luggage-first-day", "sokcho-without-car", "busan-gimhae-airport-to-gwangalli", "jongmyo-shrine-english-tour-guide", "seoul-sky-tickets-sunset-jamsil-guide", "cheonggyecheon-stream-walking-route-guide", "namdaemun-market-food-street-guide"];
+  const rank = (post: any) => { const index = selected.indexOf(getPostSlug(post)); return index < 0 ? selected.length : index; };
   return [...posts]
-    .sort((a, b) => getIntentScore(b, intentKeywords) - getIntentScore(a, intentKeywords) || b.data.updatedAt.valueOf() - a.data.updatedAt.valueOf())
+    .sort((a, b) => rank(a) - rank(b) || b.data.updatedAt.valueOf() - a.data.updatedAt.valueOf())
     .slice(0, limit);
 }
 
@@ -128,11 +128,6 @@ export function extractFaqItems(markdown: string) {
   }
 
   return items;
-}
-
-function getIntentScore(post: any, intentKeywords: string[]) {
-  const haystack = `${post.data.title} ${post.data.description} ${post.data.region} ${post.data.category} ${post.data.tags.join(" ")}`;
-  return intentKeywords.reduce((score, keyword) => score + (haystack.includes(keyword) ? 1 : 0), 0);
 }
 
 function stripMarkdown(value: string) {
