@@ -6,7 +6,15 @@ import {parse} from 'parse5';
 const origin='https://korplaylist.com';
 const walk=n=>[n,...(n.childNodes??[]).flatMap(walk)];
 const attr=(n,k)=>n.attrs?.find(a=>a.name===k)?.value;
-const plain=n=>n.nodeName==='#text'?n.value:(n.childNodes??[]).map(plain).join(' ');
+const plain=n=>{
+  // Cloudflare replaces email text in production with an encoded protected span.
+  const encoded=attr(n,'data-cfemail');
+  if(encoded&&/^(?:[0-9a-f]{2}){2,}$/i.test(encoded)){
+    const bytes=Buffer.from(encoded,'hex');
+    return Buffer.from([...bytes.subarray(1)].map(byte=>byte^bytes[0])).toString('utf8');
+  }
+  return n.nodeName==='#text'?n.value:(n.childNodes??[]).map(plain).join(' ');
+};
 const article=html=>{
   const nodes=walk(parse(html));
   const body=nodes.find(n=>attr(n,'class')?.split(' ').includes('article-content'));
