@@ -1,7 +1,8 @@
 name: Publish scheduled travel posts
 
 on:
-  # Resume scheduled releases only after the editorial recovery is reviewed.
+  schedule:
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:

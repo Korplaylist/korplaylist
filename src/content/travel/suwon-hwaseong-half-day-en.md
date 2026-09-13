@@ -1,5 +1,5 @@
 ---
-title: "Suwon Hwaseong Half-Day Itinerary: Hwaseong Haenggung, Haengnidan-gil, and Banghwasuryujeong"
+title: "Suwon Hwaseong Half-Day Itinerary 2026: Hwaseong Haenggung, Haengnidan-gil, and Banghwasuryujeong"
 description: "A first-visit half-day Suwon route covering Hwaseong Haenggung, Haengnidan-gil, Banghwasuryujeong, transport, costs, stay area choices, and seasonal cautions."
 category: "Itineraries"
 region: "Suwon"
@@ -15,7 +15,6 @@ imageAlt: "Early summer view of Banghwasuryujeong Pavilion and the Suwon fortres
 imageCredit: "ⓒKorea Playlist Image 2.0"
 adsenseReady: true
 draft: false
-imageVerified: false
 ---
 
 If you want a Seoul-area side trip that combines heritage, a walkable old-town atmosphere, and photo points without needing a full overnight plan, Suwon Hwaseong is one of the safest half-day choices. The route is easiest for first-time visitors when it starts at Hwaseong Haenggung, pauses in Haengnidan-gil, and then moves toward Banghwasuryujeong and Yeonmudae instead of trying to circle the entire fortress wall in one push.
@@ -44,11 +43,13 @@ This guide is written for travelers searching things like `Suwon half-day itiner
     <h2>When to change the plan</h2>
     <ul>
       <li>If you want a palace-focused Seoul route rather than a fortress city, <a href="/en/travel/seoul/seoul-one-day-palace-walk/">the Seoul palace walk guide</a> is more direct.</li>
-      <li>If you are planning by season first, start with <a href="/en/travel/seoul/korea-season-travel-calendar/">the Korea seasonal travel calendar</a> before locking the time slot.</li>
+      <li>If you are planning by season first, start with <a href="/en/travel/korea/korea-season-travel-calendar/">the Korea seasonal travel calendar</a> before locking the time slot.</li>
       <li>If you want to walk most of the full 5.74 km fortress circuit, expand the trip to a full day instead of forcing it into half a day.</li>
     </ul>
   </div>
 </div>
+
+## Route Overview With Google Maps
 
 <div class="map-route">
   <div class="map-route-head">
@@ -113,12 +114,24 @@ This guide is written for travelers searching things like `Suwon half-day itiner
   </div>
 </section>
 
+## Why Hwaseong Haenggung is the best first anchor
+
 Suwon Hwaseong is famous, but first-time visitors often underestimate how much the choice of starting point changes the whole day. The fortress wall stretches across different elevations and sections, so if you begin on the wrong side, the route starts to feel like fragmented walking rather than one coherent half-day plan.
 
 Hwaseong Haenggung solves that problem. The palace area gives you a clear historical anchor, easier food access, and simpler bus or taxi movement from Suwon Station. The Suwon Cultural Foundation lists Hwaseong Fortress itself as free to view, while the same site lists separate admission for Hwaseong Haenggung and additional paid options like the tourist trolley. That makes the area easy to customize without forcing one spending level on every traveler.  
 Sources: [Suwon Cultural Foundation ticket guide](https://www.swcf.or.kr/english/?p=38), [VisitKorea Hwaseong Fortress Tourist Trolley](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=108642), [UNESCO Suwon Hwaseong](https://whc.unesco.org/en/list/817/)
 
 The route becomes much smoother when you think of it in layers: palace first, rest and food second, scenic fortress section third. That structure prevents the common mistake of spending all your energy early and then rushing the best-looking part at the end.
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/suwon-haenggung-courtyard-suwon-hwaseong-half-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/suwon-haenggung-courtyard-suwon-hwaseong-half-day-1.jpg" alt="Visitors walking inside Hwaseong Haenggung courtyard during daylight" width="1200" height="800" loading="lazy" decoding="async" />
+  </picture>
+  <figcaption>ⓒKorea Playlist Image 2.0</figcaption>
+</figure>
+
+## Transport, costs, and where to stay
 
 From Seoul, the easiest practical version is to reach Suwon Station first and then move to the palace area by bus or a short taxi ride. Public transport is usually enough, but a short taxi at the start can save more energy than it costs if you are traveling in summer or arriving with bags.
 
@@ -135,6 +148,16 @@ Here is the most useful cost logic for a first visit:
 
 If you are staying overnight, the most useful split is simple. Stay near Haenggung-dong or Paldalmun if this half-day route is the main event and you want the old-city atmosphere into the evening. Stay closer to Suwon Station if the next morning’s train or cross-city connection matters more than the fortress ambiance.
 
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/suwon-haengnidan-street-suwon-hwaseong-half-day-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/suwon-haengnidan-street-suwon-hwaseong-half-day-1.jpg" alt="Late afternoon view of Haengnidan-gil street near the fortress area in Suwon" width="1200" height="800" loading="lazy" decoding="async" />
+  </picture>
+  <figcaption>ⓒKorea Playlist Image 2.0</figcaption>
+</figure>
+
+## Common mistakes first-time visitors make
+
 The first mistake is assuming half a day is enough for the entire fortress circuit. UNESCO lists the fortress at 5.74 kilometers in length, and that number matters because the route is not one flat city sidewalk. If you chase the whole wall without a clear priority, the most scenic sections often get reduced to quick check marks.
 
 The second mistake is delaying food and rest too long. Haengnidan-gil is not just a trendy extra. It is the buffer that keeps the later fortress section enjoyable. If you skip that pause and move straight from the station into continuous walking, the route feels heavier than it should.
@@ -149,10 +172,14 @@ The third mistake is thinking about the return to Suwon Station only at the end.
   <figcaption>ⓒKorea Tourism Organization Photo Korea</figcaption>
 </figure>
 
+## Seasonal cautions and how to adjust the half-day plan
+
 In summer, protect the route by shortening the longest sun-exposed section and moving the most scenic walking part closer to later afternoon. In winter, the issue is usually wind and earlier sunset, so keep the route compact and leave the optional extras for another visit. In rainy weather, focus on the palace area first and treat the outer fortress walk as conditional rather than mandatory.
 
 If you want to add the tourist trolley, VisitKorea describes two main formats: a sightseeing course from Hwaseong Haenggung and a circular course from Yeonmudae. That means the trolley works best as an optional support tool at the end of the route, not as a substitute for every walking section.  
 Source: [VisitKorea Hwaseong Fortress Tourist Trolley](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=108642)
+
+## FAQ
 
 ### Is this enough for a first trip to Suwon Hwaseong?
 Yes. For a first visit, a well-paced half-day route usually creates a better experience than trying to force the entire fortress wall at once.

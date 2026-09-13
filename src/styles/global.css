@@ -331,43 +331,6 @@ h3 {
   scroll-snap-align: start;
 }
 
-.popular-slide:not(:has(.popular-slide-image)),
-.related-card:not(:has(picture)) {
-  grid-template-columns: minmax(0, 1fr);
-}
-
-.popular-slide:not(:has(.popular-slide-image)) {
-  align-items: start;
-}
-
-.article-content table {
-  display: block;
-  width: 100%;
-  overflow-x: auto;
-  border-collapse: collapse;
-  margin: 24px 0;
-  font-size: 15px;
-}
-
-.article-content th,
-.article-content td {
-  padding: 12px;
-  border: 1px solid var(--line);
-  text-align: left;
-  vertical-align: top;
-  min-width: 110px;
-  overflow-wrap: anywhere;
-}
-
-.article-content th {
-  background: #edf2ee;
-  color: #22382b;
-}
-
-.article-content a {
-  overflow-wrap: anywhere;
-}
-
 .popular-slide-copy h2 {
   max-width: 780px;
   font-size: clamp(1.72rem, 3.7vw, 3rem);

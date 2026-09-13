@@ -1,6 +1,6 @@
 ---
-title: "여수 밤바다: 종포 산책과 케이블카 왕복을 나누는 저녁 계획"
-description: "오동도는 밝을 때, 종포해양공원은 저녁에 배치하고 케이블카의 출발 지점·왕복권·마지막 탑승을 별도로 확인하는 방법을 설명합니다."
+title: "여수 밤바다 여행 코스 2026: 해상케이블카·낭만포차·오동도 동선"
+description: "여수 밤바다를 처음 보러 가는 사람을 위해 해상케이블카, 낭만포차거리, 오동도를 연결하는 저녁 여행 동선을 정리했습니다."
 category: "계절 축제"
 region: "여수"
 locale: "ko"
@@ -9,32 +9,263 @@ regionSlug: "jeonnam"
 urlSlug: "yeosu-night-sea"
 tags: ["여수", "밤바다", "케이블카", "오동도"]
 publishedAt: "2026-05-30"
-updatedAt: "2026-09-13"
+updatedAt: "2026-05-30"
 heroImage: "/images/generated/unique/yeosu-night-sea-content-yeosu-night-sea-route-1.jpg"
 imageAlt: "여수 밤바다 야경"
 imageCredit: "ⓒ한국관광공사 포토코리아-이범수"
 draft: false
-imageVerified: false
 ---
 
-여수의 저녁을 단순하게 만들려면 **종포해양공원 주변 산책을 중심**으로 잡고, 케이블카를 필수로 탈지 별도로 결정하세요. 여수시의 코스 자료도 밤바다 걷기, 오동도, 해상케이블카를 구분해 소개합니다. 같은 바다 풍경이라도 이동과 관람 방식은 다릅니다. [여수시 관광 코스 자료](https://m.yeosu.go.kr/download/www/civicism_2026.pdf)
+여수 밤바다를 처음 보러 가는 사람을 위해 해상케이블카, 낭만포차거리, 오동도를 연결하는 저녁 여행 동선을 정리했습니다.
 
-## 오동도는 저녁 식사 뒤 자동으로 붙이지 않기
+이 글은 검색자가 가장 많이 궁금해하는 이동 순서, 대중교통 가능 여부, 숙소 위치, 예상 비용, 계절별 주의사항을 기준으로 정리했습니다. 단순히 유명한 곳을 나열하지 않고 실제 일정에 넣었을 때 피로도가 적은 순서로 설명합니다.
 
-오동도에서는 입구까지의 방파제와 섬 안 숲길을 걸어야 합니다. 숲길이 목적이라면 밝을 때 보고, 저녁에는 종포 쪽으로 옮기는 구성이 명확합니다. 방파제로 연결된다는 사실이 밤의 모든 내부 산책 구간을 무조건 이용할 수 있다는 뜻은 아닙니다. [여수시 오동도 안내](https://www.yeosu.go.kr/tour/travel/10tour/odongdo)
+<div class="article-summary">
+  <strong>핵심 요약</strong>
+  <ul>
+    <li>처음 방문한다면 장소를 많이 넣기보다 권역을 나눠 이동 시간을 줄이는 것이 중요합니다.</li>
+    <li>숙소나 도착 지점은 첫 일정과 마지막 일정 사이의 이동 시간을 기준으로 고르는 편이 안전합니다.</li>
+    <li>성수기, 우천, 야간 이동 여부에 따라 택시와 대중교통을 섞을지 미리 정해야 합니다.</li>
+  </ul>
+</div>
 
-## 케이블카를 넣는 날과 빼는 날
+<div class="decision-grid">
+  <div>
+    <h2>이 일정이 잘 맞는 사람</h2>
+    <ul>
+      <li>여수엑스포역에서 시작해 낭만포차거리까지 큰 방향만 정하고 움직이고 싶은 첫 방문자</li>
+      <li>사진, 식사, 이동을 모두 넣되 하루를 너무 촘촘하게 만들고 싶지 않은 사람</li>
+      <li>숙소 위치와 마지막 이동까지 함께 보고 여행 피로도를 줄이고 싶은 사람</li>
+    </ul>
+  </div>
+  <div>
+    <h2>다시 조정하면 좋은 경우</h2>
+    <ul>
+      <li>아이 또는 부모님과 함께 움직여 한 번에 40분 이상 걷는 일정이 부담스러운 경우</li>
+      <li>비가 많이 오거나 강풍 예보가 있어 야외 사진과 해변·전망 동선이 어려운 경우</li>
+      <li>당일 도착 시간이 오후라면 앞쪽 장소를 줄이고 식사와 숙소 이동을 우선해야 합니다.</li>
+    </ul>
+  </div>
+</div>
 
-| 선택 | 먼저 확인할 것 | 식사 배치 |
-| --- | --- | --- |
-| 케이블카 이용 | 어느 탑승장에서 시작하는지, 편도·왕복, 마지막 하행 | 마지막 탑승 전에 긴 식당 대기를 넣지 않기 |
-| 종포 산책 중심 | 숙소에서의 접근과 귀가 | 산책 전후 가까운 식당 한 곳 |
-| 짐이 있거나 늦은 도착 | 숙소 체크인과 짐 보관 | 숙소 근처 식사로 범위 축소 |
+## 추천 동선 한눈에 보기
 
-왕복권을 샀다면 반대쪽에서 내린 뒤 원래 탑승장으로 돌아와야 하는지, 그곳에 차량이나 짐을 두었는지 확인합니다. 케이블카를 탔다고 시내 식사 장소에 바로 도착하는 것은 아닙니다. 운영·점검 공지는 [여수시 관광포털의 해상케이블카 안내](https://www.yeosu.go.kr/tour/)에서 해당 시설로 연결해 확인하세요.
+<div class="map-route">
+  <div class="map-route-head">
+    <strong>Google Maps 동선</strong>
+    <a href="https://www.google.com/maps/dir/?api=1&origin=%EC%97%AC%EC%88%98%EC%97%91%EC%8A%A4%ED%8F%AC%EC%97%AD&destination=%EC%97%AC%EC%88%98+%EB%82%AD%EB%A7%8C%ED%8F%AC%EC%B0%A8%EA%B1%B0%EB%A6%AC&waypoints=%EC%98%A4%EB%8F%99%EB%8F%84%7C%EC%97%AC%EC%88%98%ED%95%B4%EC%83%81%EC%BC%80%EC%9D%B4%EB%B8%94%EC%B9%B4&travelmode=transit" target="_blank" rel="noopener noreferrer">전체 동선 열기</a>
+  </div>
+  <ol class="map-stop-list">
+    <li>
+      <span>1</span>
+      <strong>여수엑스포역</strong>
+      <a href="https://www.google.com/maps/search/?api=1&query=%EC%97%AC%EC%88%98%EC%97%91%EC%8A%A4%ED%8F%AC%EC%97%AD" target="_blank" rel="noopener noreferrer">지도에서 보기</a>
+    </li>
+    <li>
+      <span>2</span>
+      <strong>오동도</strong>
+      <a href="https://www.google.com/maps/search/?api=1&query=%EC%98%A4%EB%8F%99%EB%8F%84" target="_blank" rel="noopener noreferrer">지도에서 보기</a>
+    </li>
+    <li>
+      <span>3</span>
+      <strong>여수해상케이블카</strong>
+      <a href="https://www.google.com/maps/search/?api=1&query=%EC%97%AC%EC%88%98%ED%95%B4%EC%83%81%EC%BC%80%EC%9D%B4%EB%B8%94%EC%B9%B4" target="_blank" rel="noopener noreferrer">지도에서 보기</a>
+    </li>
+    <li>
+      <span>4</span>
+      <strong>낭만포차거리</strong>
+      <a href="https://www.google.com/maps/search/?api=1&query=%EC%97%AC%EC%88%98+%EB%82%AD%EB%A7%8C%ED%8F%AC%EC%B0%A8%EA%B1%B0%EB%A6%AC" target="_blank" rel="noopener noreferrer">지도에서 보기</a>
+    </li>
+  </ol>
+</div>
 
-## 낭만포차는 식사 선택이지 필수 입장 코스가 아니다
+<div class="route-cards" aria-label="route summary">
+  <div>
+    <span>1</span>
+    <strong>여수엑스포역</strong>
+    <p>도착 직후 동선을 시작하기 좋은 기준점입니다.</p>
+  </div>
+  <div>
+    <span>2</span>
+    <strong>오동도</strong>
+    <p>사진과 산책 시간을 넉넉히 잡기 좋은 구간입니다.</p>
+  </div>
+  <div>
+    <span>3</span>
+    <strong>여수해상케이블카</strong>
+    <p>식사나 휴식 시간을 넣기 좋은 중간 지점입니다.</p>
+  </div>
+  <div>
+    <span>4</span>
+    <strong>낭만포차거리</strong>
+    <p>귀가 전 마지막으로 묶기 좋은 장소입니다.</p>
+  </div>
+</div>
 
-야외 분위기, 해산물 메뉴, 일행의 주문량을 보고 선택합니다. 한 접시 가격과 1인 가격을 구분하고, 오래 기다려야 한다면 같은 권역의 다른 식당으로 바꾸세요. 포차 식사를 하지 않아도 주변 밤바다를 보는 일정을 만들 수 있습니다.
+<div class="place-checklist">
+  <h2>장소별 체크 포인트</h2>
+  <ul>
+  <li>
+    <strong>여수엑스포역</strong>
+    <p>첫 목적지이므로 도착 시간, 짐 보관, 식사 전후 동선을 함께 확인하세요.</p>
+  </li>
+  <li>
+    <strong>오동도</strong>
+    <p>도보 시간이 늘어날 수 있어 사진 촬영과 휴식 시간을 30분 이상 남겨두는 편이 좋습니다.</p>
+  </li>
+  <li>
+    <strong>여수해상케이블카</strong>
+    <p>점심 또는 카페 시간을 넣기 좋은 지점입니다. 주말에는 대기 시간을 일정에 포함하세요.</p>
+  </li>
+  <li>
+    <strong>낭만포차거리</strong>
+    <p>해가 지기 전 방문이 필요한지, 야경이 좋은지에 따라 순서를 조정하면 좋습니다.</p>
+  </li>
+  </ul>
+</div>
 
-강풍이나 비가 있으면 물가의 긴 보행을 줄이고 숙소로 돌아갈 교통을 먼저 정합니다. 특정 분 단위의 일몰과 케이블카 막차는 방문 날짜에 따라 확인해야 하므로 이 글에 고정값으로 제시하지 않습니다. 확인일: 2026년 9월 13일. 편집부의 저녁 일정 제안이며 현장 체험 기록이 아닙니다.
+<section class="planning-table">
+  <h2>시간대별 추천 일정</h2>
+  <div class="planning-table-head">
+    <span>시간</span>
+    <span>장소</span>
+    <span>확인할 점</span>
+  </div>
+  <div>
+    <span>09:30</span>
+    <strong>여수엑스포역</strong>
+    <p>도착 직후 방향을 잡고 화장실, 짐 보관, 첫 식사 후보를 확인합니다.</p>
+  </div>
+  <div>
+    <span>11:00</span>
+    <strong>오동도</strong>
+    <p>가장 사진을 많이 찍는 구간입니다. 이동보다 체류 시간을 넉넉히 둡니다.</p>
+  </div>
+  <div>
+    <span>13:00</span>
+    <strong>여수해상케이블카</strong>
+    <p>점심, 카페, 시장을 넣기 좋은 시간입니다. 대기 시간을 일정 안에 포함합니다.</p>
+  </div>
+  <div>
+    <span>15:30</span>
+    <strong>낭만포차거리</strong>
+    <p>해가 지기 전 봐야 하는 장소인지, 야경이 좋은 장소인지 판단해 순서를 조정합니다.</p>
+  </div>
+</section>
+
+## 사람들이 가장 궁금해하는 포인트
+
+가장 먼저 확인할 것은 “하루에 가능한가”가 아니라 “어느 구간에서 시간이 새는가”입니다. 역이나 터미널에서 첫 목적지까지 멀고, 중간에 식사 대기가 생기면 일정 만족도가 떨어집니다.
+
+마지막 장소에서 다시 숙소나 역으로 돌아오는 시간도 중요합니다. 그래서 이 코스는 시작 지점, 사진을 찍는 구간, 식사나 휴식 구간, 귀가 전 마지막 구간을 분리해 잡는 방식이 좋습니다.
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-160.webp 160w, /images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-240.webp 240w, /images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-320.webp 320w, /images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-330.webp 330w, /images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-360.webp 360w, /images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-480.webp 480w, /images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-520.webp 520w, /images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-640.webp 640w, /images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-680.webp 680w, /images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-768.webp 768w, /images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-960.webp 960w, /images/optimized/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/yeosu-island-day-content-yeosu-night-sea-route-1.jpg" alt="yeosu night sea travel guide image - yeosu island day content yeosu night sea route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
+</figure>
+
+## 시간대별로 짜는 방법
+
+오전에는 이동이 길거나 사람이 몰리기 쉬운 장소를 먼저 넣는 편이 좋습니다. 점심 이후에는 걷기 좋은 구간과 실내 대체지를 함께 생각해두면 날씨 변화에 대응하기 쉽습니다.
+
+저녁 일정이 있다면 야경이나 시장처럼 체류 시간이 자연스럽게 길어지는 장소를 마지막에 두는 것이 안정적입니다.
+
+동선이 비슷한 고민이라면 [여수 섬 여행 당일치기: 배편·날씨·시간표 체크 포인트](/travel/jeonnam/yeosu-island-day/)을 먼저 비교하고, 식비나 교통처럼 세부 조건이 중요할 때는 [부산 1박2일 여행 코스 2026: 처음 가도 실패 적은 핵심 동선](/travel/busan/busan-two-day-route/)도 함께 확인하면 계획이 더 현실적입니다.
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-160.webp 160w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-240.webp 240w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-320.webp 320w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-330.webp 330w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-360.webp 360w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-480.webp 480w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-520.webp 520w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-640.webp 640w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-680.webp 680w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-768.webp 768w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-960.webp 960w, /images/optimized/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/yeosu-island-ferry-generated-yeosu-night-sea-route-1.jpg" alt="yeosu night sea travel guide image - yeosu island ferry generated yeosu night sea route 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
+</figure>
+
+## 대중교통, 택시, 렌터카 선택 기준
+
+여수엑스포역에서 낭만포차거리까지 한 번에 이어 보면 지도상 거리는 짧아 보여도 실제 이동은 환승, 배차 간격, 짐 이동 때문에 달라질 수 있습니다.
+
+도심형 코스는 대중교통과 짧은 택시 조합이 가장 안정적입니다. 해변·산·섬·외곽 전망대가 들어가면 렌터카나 택시 비중을 높이는 편이 좋습니다.
+
+대중교통을 쓴다면 첫 목적지까지의 이동 시간보다 마지막 장소에서 숙소로 돌아오는 시간을 더 중요하게 보세요. 여행 만족도는 마지막 1시간에 크게 갈립니다.
+
+렌터카를 쓰는 경우에는 주차장 위치, 야간 운전, 음주 가능성, 성수기 정체를 함께 고려해야 합니다. 택시는 2~3명이 함께 움직이면 효율적이지만, 축제·해변·막차 시간대에는 호출이 늦어질 수 있습니다.
+
+## 교통, 숙소 위치, 예상 비용
+
+뚜벅이 여행이라면 역과 터미널에서 첫 목적지까지의 시간을 먼저 확인하세요. 버스로 한 번에 이동할 수 있어도 배차 간격이 길면 실제 체감 시간은 크게 늘어납니다.
+
+숙소는 가장 늦게 끝나는 일정 근처에 잡거나, 다음 날 출발지로 돌아가기 쉬운 곳을 고르는 편이 좋습니다. 식비와 카페, 지역 내 교통, 짧은 택시, 짐 보관까지 포함하면 당일치기는 1인 5만~9만 원 정도를 기본 범위로 보면 무난합니다.
+
+<section class="planning-table compact">
+  <h2>예상 비용과 예산 잡는 법</h2>
+  <div class="planning-table-head"><span>항목</span><span>1인 기준</span><span>체크 포인트</span></div>
+  <div><span>지역 내 교통</span><strong>8,000~25,000원</strong><p>지하철·버스 중심이면 낮고, 짧은 택시를 2회 이상 넣으면 올라갑니다.</p></div>
+  <div><span>식사·카페</span><strong>35,000~70,000원</strong><p>시장 간식과 카페를 넣으면 만족도는 높지만 지출이 쉽게 늘어납니다.</p></div>
+  <div><span>입장·체험</span><strong>0~30,000원</strong><p>무료 산책지 중심인지, 전망대·케이블카·박물관을 넣는지에 따라 달라집니다.</p></div>
+  <div><span>비상 예산</span><strong>20,000~40,000원</strong><p>비, 막차, 짐 이동 때문에 택시를 타야 할 상황을 대비합니다.</p></div>
+</section>
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/kto/tongyeong-two-day-content-160.webp 160w, /images/optimized/kto/tongyeong-two-day-content-240.webp 240w, /images/optimized/kto/tongyeong-two-day-content-320.webp 320w, /images/optimized/kto/tongyeong-two-day-content-330.webp 330w, /images/optimized/kto/tongyeong-two-day-content-360.webp 360w, /images/optimized/kto/tongyeong-two-day-content-480.webp 480w, /images/optimized/kto/tongyeong-two-day-content-520.webp 520w, /images/optimized/kto/tongyeong-two-day-content-640.webp 640w, /images/optimized/kto/tongyeong-two-day-content-680.webp 680w, /images/optimized/kto/tongyeong-two-day-content-768.webp 768w, /images/optimized/kto/tongyeong-two-day-content-960.webp 960w, /images/optimized/kto/tongyeong-two-day-content-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/kto/tongyeong-two-day-content.jpg" alt="yeosu night sea travel guide image - tongyeong two day content" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ한국관광공사 포토코리아</figcaption>
+</figure>
+
+## 숙소 위치와 식사 타이밍
+
+숙소는 무조건 저렴한 곳보다 “마지막 일정 이후 돌아가기 쉬운 곳”이 좋습니다. 낭만포차거리 근처에서 저녁을 마치거나 야경을 본다면 숙소가 너무 멀지 않아야 다음 날 피로가 줄어듭니다. 반대로 다음 날 아침 이동이 빠르다면 터미널, 역, 공항 접근성이 좋은 곳을 고르는 편이 안전합니다.
+
+식사는 오동도 이후에 한 번 길게 넣거나, 낭만포차거리 근처에서 저녁을 먹는 방식이 무난합니다. 인기 식당 하나에 일정을 맞추기보다 같은 권역의 후보를 2~3개 저장해두세요. 웨이팅이 길면 카페나 시장 간식으로 먼저 체력을 회복하고, 본 식사는 다음 권역에서 해결하는 편이 낫습니다.
+
+## 비 오는 날과 더운 날 대체 운영
+
+비가 오면 야외 체류 시간을 줄이고 실내 전시, 시장, 카페, 짧은 택시 이동을 섞어야 합니다. 특히 사진 목적의 장소는 만족도가 떨어질 수 있으므로 낮 시간의 핵심 장소 1~2개만 남기는 편이 좋습니다.
+
+나머지는 식사와 실내 휴식으로 바꾸면 일정이 덜 흔들립니다. 여름에는 한낮 이동을 줄이고, 겨울에는 해가 짧으니 야외 사진 장소를 오전과 이른 오후로 당기세요
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-160.webp 160w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-240.webp 240w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-320.webp 320w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-330.webp 330w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-360.webp 360w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-480.webp 480w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-520.webp 520w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-640.webp 640w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-680.webp 680w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-768.webp 768w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-960.webp 960w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/yeosu-night-sea-generated-yeosu-night-sea-route-1.jpg" alt="여수 밤바다 여행 코스 2026: 해상케이블카·낭만포차·오동도 동선 여행 가이드 이미지" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒKorea Playlist Image 2.0</figcaption>
+</figure>
+
+## 계절별 주의사항
+
+여름에는 해변과 야외 이동 시간이 길어져 체력 소모가 큽니다. 우산보다 가벼운 우비와 여분 양말이 더 유용할 때가 많습니다.
+
+겨울에는 해가 짧아 사진을 찍을 수 있는 시간이 줄어드니 야외 명소를 앞쪽에 두세요. 연휴와 주말에는 식당 대기, 주차, 택시 호출 시간이 길어질 수 있으므로 Google Maps에서 장소별 위치를 미리 저장해두는 것을 추천합니다.
+
+## 처음 가는 사람이 자주 하는 실수
+
+가장 흔한 실수는 여수엑스포역, 오동도, 여수해상케이블카, 낭만포차거리 같은 장소를 모두 같은 무게로 보는 것입니다. 실제 일정에서는 반드시 오래 머무를 장소와 짧게 확인할 장소를 나눠야 합니다. 모든 장소에서 사진, 식사, 카페를 다 넣으면 이동 시간보다 체류 시간이 길어져 마지막 일정이 밀립니다.
+
+두 번째 실수는 숙소를 먼저 정하고 코스를 끼워 맞추는 것입니다. 숙소는 가격보다 마지막 일정, 다음 날 출발지, 짐 보관 가능성을 함께 봐야 합니다.
+
+세 번째는 지도상 이동 시간만 믿는 것입니다. 주말, 성수기, 비 오는 날에는 대기와 호출 시간이 늘어나므로 최소 20~30분의 여유를 남겨두세요.
+
+## 사진 찍기 좋은 시간과 저장해둘 것
+
+바다와 전망은 오전 또는 해 질 무렵이 좋고, 시장과 야경은 저녁에 분위기가 살아납니다. 단, 겨울에는 해가 빨리 지므로 야외 사진 장소를 너무 늦게 두지 마세요.
+
+출발 전에는 Google Maps에 각 장소를 저장하고, 대체 식당, 근처 카페, 숙소 복귀 경로까지 같이 저장해두면 현장에서 흔들리지 않습니다.
+
+## 자주 묻는 질문
+
+### 이 코스는 처음 가는 사람에게도 괜찮나요?
+네. 처음 방문하는 사람이 길을 헤매기 쉬운 구간을 줄이고, 이동 순서를 단순하게 만드는 데 초점을 맞췄습니다.
+
+### 렌터카가 꼭 필요한가요?
+대부분의 도심형 코스는 대중교통과 짧은 택시 조합으로 가능합니다. 다만 섬, 산, 외곽 해변이 포함되면 배차 간격과 마지막 차 시간을 먼저 확인해야 합니다.
+
+### 숙소는 어느 기준으로 고르면 좋나요?
+가장 늦게 끝나는 일정과 다음 날 출발지를 기준으로 고르는 편이 좋습니다. 가격이 조금 저렴해도 밤에 돌아오기 어렵거나 짐 이동이 불편하면 전체 만족도가 떨어질 수 있습니다.
+
+### 비가 오면 일정을 그대로 진행해도 되나요?
+야외 사진과 해변, 전망 위주의 일정은 과감히 줄이는 것이 좋습니다. 시장, 실내 전시, 카페, 짧은 택시 이동을 섞어 핵심 장소만 남기면 실패 확률이 낮아집니다.

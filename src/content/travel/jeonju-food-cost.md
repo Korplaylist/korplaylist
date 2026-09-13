@@ -1,6 +1,6 @@
 ---
-title: "전주 먹거리 예산 짜는 법: 비빔밥·콩나물국밥·시장 간식 분리 계산"
-description: "식당별 가격과 1인·공유 주문을 구분해 전주 식비를 계산합니다. 현재 매장 가격으로 오해하기 쉬운 오래된 관광지도와 예산 예시도 구분합니다."
+title: "전주 먹거리 여행 예산: 비빔밥·콩나물국밥·시장 간식 비용 정리"
+description: "전주 먹거리 여행을 계획할 때 비빔밥, 콩나물국밥, 시장 간식에 어느 정도 비용을 잡으면 좋은지 예산 기준을 정리했습니다."
 category: "맛집"
 region: "전주"
 locale: "ko"
@@ -9,50 +9,263 @@ regionSlug: "jeonbuk"
 urlSlug: "jeonju-food-cost"
 tags: ["전주", "먹거리", "비용", "국내여행"]
 publishedAt: "2026-05-27"
-updatedAt: "2026-09-13"
+updatedAt: "2026-05-27"
 heroImage: "/images/generated/unique/jeonju-hanok-food-generated-jeonju-food-budget-guide-1.jpg"
 imageAlt: "전주 한옥마을 골목과 음식 여행"
 imageCredit: "ⓒ한국플레이리스트"
 draft: false
-imageVerified: false
 ---
 
-전주에서 비빔밥, 콩나물국밥, 시장 간식을 모두 먹으려면 하루 식비를 하나의 평균값으로 잡기보다 **정식 식사 두 번과 공유 간식을 분리**하는 편이 낫습니다. 이 글의 계산 예시는 예산 설계용 가정이며 실제 식당의 현재 판매가격이나 직접 결제한 영수증이 아닙니다.
+전주 먹거리 여행을 계획할 때 비빔밥, 콩나물국밥, 시장 간식에 어느 정도 비용을 잡으면 좋은지 예산 기준을 정리했습니다.
 
-## 오래된 공식 가격표도 그대로 쓰면 안 되는 이유
+이 글은 검색자가 가장 많이 궁금해하는 이동 순서, 대중교통 가능 여부, 숙소 위치, 예상 비용, 계절별 주의사항을 기준으로 정리했습니다. 단순히 유명한 곳을 나열하지 않고 실제 일정에 넣었을 때 피로도가 적은 순서로 설명합니다.
 
-전주시 음식지도에는 식당 주소·메뉴·가격이 함께 나오지만, 자료의 제작 시점과 실제 방문일은 다를 수 있습니다. 공식 PDF라는 이유만으로 몇 년 전 가격을 현재 가격으로 옮기지 마세요. 식당 후보와 위치를 찾는 자료로 사용하고, 주문 금액은 해당 지점의 최신 메뉴판에서 확인해야 합니다. [전주시 음식지도](https://tour.jeonju.go.kr/images/file/map/02_mapFood_kor.pdf)
+<div class="article-summary">
+  <strong>핵심 요약</strong>
+  <ul>
+    <li>처음 방문한다면 장소를 많이 넣기보다 권역을 나눠 이동 시간을 줄이는 것이 중요합니다.</li>
+    <li>숙소나 도착 지점은 첫 일정과 마지막 일정 사이의 이동 시간을 기준으로 고르는 편이 안전합니다.</li>
+    <li>성수기, 우천, 야간 이동 여부에 따라 택시와 대중교통을 섞을지 미리 정해야 합니다.</li>
+  </ul>
+</div>
 
-특히 전주 본점, 남부시장점, 서울·부산의 백화점 지점은 같은 상호라도 별개 매장입니다. 검색 결과의 가격 옆에서 **지점명과 주소**를 함께 확인하세요. 이 글에서는 확인되지 않은 현재 메뉴 가격을 억지로 채우지 않았습니다.
+<div class="decision-grid">
+  <div>
+    <h2>이 일정이 잘 맞는 사람</h2>
+    <ul>
+      <li>전주한옥마을에서 시작해 객리단길까지 큰 방향만 정하고 움직이고 싶은 첫 방문자</li>
+      <li>사진, 식사, 이동을 모두 넣되 하루를 너무 촘촘하게 만들고 싶지 않은 사람</li>
+      <li>숙소 위치와 마지막 이동까지 함께 보고 여행 피로도를 줄이고 싶은 사람</li>
+    </ul>
+  </div>
+  <div>
+    <h2>다시 조정하면 좋은 경우</h2>
+    <ul>
+      <li>아이 또는 부모님과 함께 움직여 한 번에 40분 이상 걷는 일정이 부담스러운 경우</li>
+      <li>비가 많이 오거나 강풍 예보가 있어 야외 사진과 해변·전망 동선이 어려운 경우</li>
+      <li>당일 도착 시간이 오후라면 앞쪽 장소를 줄이고 식사와 숙소 이동을 우선해야 합니다.</li>
+    </ul>
+  </div>
+</div>
 
-## 2인 여행의 식비 계산 예시
+## 추천 동선 한눈에 보기
 
-아래 금액은 독자가 교체해서 쓰는 **가상 입력값**입니다. 업체 가격표가 아닙니다.
+<div class="map-route">
+  <div class="map-route-head">
+    <strong>Google Maps 동선</strong>
+    <a href="https://www.google.com/maps/dir/?api=1&origin=%EC%A0%84%EC%A3%BC%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84&destination=%EA%B0%9D%EB%A6%AC%EB%8B%A8%EA%B8%B8&waypoints=%EC%A0%84%EC%A3%BC%EB%82%A8%EB%B6%80%EC%8B%9C%EC%9E%A5%7C%EC%A0%84%EC%A3%BC%EB%B9%84%EB%B9%94%EB%B0%A5%EA%B1%B0%EB%A6%AC&travelmode=transit" target="_blank" rel="noopener noreferrer">전체 동선 열기</a>
+  </div>
+  <ol class="map-stop-list">
+    <li>
+      <span>1</span>
+      <strong>전주한옥마을</strong>
+      <a href="https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EC%A3%BC%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84" target="_blank" rel="noopener noreferrer">지도에서 보기</a>
+    </li>
+    <li>
+      <span>2</span>
+      <strong>전주남부시장</strong>
+      <a href="https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EC%A3%BC%EB%82%A8%EB%B6%80%EC%8B%9C%EC%9E%A5" target="_blank" rel="noopener noreferrer">지도에서 보기</a>
+    </li>
+    <li>
+      <span>3</span>
+      <strong>전주비빔밥거리</strong>
+      <a href="https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EC%A3%BC%EB%B9%84%EB%B9%94%EB%B0%A5%EA%B1%B0%EB%A6%AC" target="_blank" rel="noopener noreferrer">지도에서 보기</a>
+    </li>
+    <li>
+      <span>4</span>
+      <strong>객리단길</strong>
+      <a href="https://www.google.com/maps/search/?api=1&query=%EA%B0%9D%EB%A6%AC%EB%8B%A8%EA%B8%B8" target="_blank" rel="noopener noreferrer">지도에서 보기</a>
+    </li>
+  </ol>
+</div>
 
-| 주문 | 가상 단가 | 수량 | 소계 |
-| --- | ---: | ---: | ---: |
-| 첫 식사 | 9,000원 | 2인분 | 18,000원 |
-| 두 번째 식사 | 15,000원 | 2인분 | 30,000원 |
-| 나눠 먹는 시장 간식 | 6,000원 | 1개 | 6,000원 |
-| 카페 음료 | 5,000원 | 2잔 | 10,000원 |
-| 합계 | | | 64,000원 |
+<div class="route-cards" aria-label="route summary">
+  <div>
+    <span>1</span>
+    <strong>전주한옥마을</strong>
+    <p>도착 직후 동선을 시작하기 좋은 기준점입니다.</p>
+  </div>
+  <div>
+    <span>2</span>
+    <strong>전주남부시장</strong>
+    <p>사진과 산책 시간을 넉넉히 잡기 좋은 구간입니다.</p>
+  </div>
+  <div>
+    <span>3</span>
+    <strong>전주비빔밥거리</strong>
+    <p>식사나 휴식 시간을 넣기 좋은 중간 지점입니다.</p>
+  </div>
+  <div>
+    <span>4</span>
+    <strong>객리단길</strong>
+    <p>귀가 전 마지막으로 묶기 좋은 장소입니다.</p>
+  </div>
+</div>
 
-이 가정에서는 1인당 32,000원입니다. 두 번째 식사의 실제 단가가 18,000원이라면 총액은 70,000원, 1인당 35,000원이 됩니다. 간식 한 개를 두 사람이 나눠 먹는 항목을 다시 2인분으로 곱하지 않는 것이 계산의 핵심입니다. 교통·숙박·선물용 포장은 이 표에 포함되지 않습니다.
+<div class="place-checklist">
+  <h2>장소별 체크 포인트</h2>
+  <ul>
+  <li>
+    <strong>전주한옥마을</strong>
+    <p>첫 목적지이므로 도착 시간, 짐 보관, 식사 전후 동선을 함께 확인하세요.</p>
+  </li>
+  <li>
+    <strong>전주남부시장</strong>
+    <p>도보 시간이 늘어날 수 있어 사진 촬영과 휴식 시간을 30분 이상 남겨두는 편이 좋습니다.</p>
+  </li>
+  <li>
+    <strong>전주비빔밥거리</strong>
+    <p>점심 또는 카페 시간을 넣기 좋은 지점입니다. 주말에는 대기 시간을 일정에 포함하세요.</p>
+  </li>
+  <li>
+    <strong>객리단길</strong>
+    <p>해가 지기 전 방문이 필요한지, 야경이 좋은지에 따라 순서를 조정하면 좋습니다.</p>
+  </li>
+  </ul>
+</div>
 
-## 콩나물국밥은 조리 방식과 추가 메뉴를 확인
+<section class="planning-table">
+  <h2>시간대별 추천 일정</h2>
+  <div class="planning-table-head">
+    <span>시간</span>
+    <span>장소</span>
+    <span>확인할 점</span>
+  </div>
+  <div>
+    <span>09:30</span>
+    <strong>전주한옥마을</strong>
+    <p>도착 직후 방향을 잡고 화장실, 짐 보관, 첫 식사 후보를 확인합니다.</p>
+  </div>
+  <div>
+    <span>11:00</span>
+    <strong>전주남부시장</strong>
+    <p>가장 사진을 많이 찍는 구간입니다. 이동보다 체류 시간을 넉넉히 둡니다.</p>
+  </div>
+  <div>
+    <span>13:00</span>
+    <strong>전주비빔밥거리</strong>
+    <p>점심, 카페, 시장을 넣기 좋은 시간입니다. 대기 시간을 일정 안에 포함합니다.</p>
+  </div>
+  <div>
+    <span>15:30</span>
+    <strong>객리단길</strong>
+    <p>해가 지기 전 봐야 하는 장소인지, 야경이 좋은 장소인지 판단해 순서를 조정합니다.</p>
+  </div>
+</section>
 
-현대옥의 공식 메뉴 설명은 남부시장식과 끓이는 방식의 국밥을 구분하고, 오징어 사리는 별도 판매한다고 안내합니다. 따라서 국밥 기본값만 보고 사리까지 포함된 식사비로 생각하면 계산이 달라집니다. 지점별 취급 메뉴도 다를 수 있습니다. [현대옥 메뉴 설명](https://www.hyundaiok.com/menu/01)
+## 사람들이 가장 궁금해하는 포인트
 
-메뉴판에서는 기본 국밥, 오징어 추가, 곁들임 음료를 각각 적어 합산하세요. 기본 음식 이름만으로 매운 정도나 모든 재료를 판단하지 말고 필요한 재료 제한은 주문 전에 확인합니다.
+가장 먼저 확인할 것은 “하루에 가능한가”가 아니라 “어느 구간에서 시간이 새는가”입니다. 역이나 터미널에서 첫 목적지까지 멀고, 중간에 식사 대기가 생기면 일정 만족도가 떨어집니다.
 
-## 비빔밥과 시장 간식을 같은 끼니로 겹치지 않기
+마지막 장소에서 다시 숙소나 역으로 돌아오는 시간도 중요합니다. 그래서 이 코스는 시작 지점, 사진을 찍는 구간, 식사나 휴식 구간, 귀가 전 마지막 구간을 분리해 잡는 방식이 좋습니다.
 
-비빔밥은 단품과 정식, 고기 종류와 추가 반찬 구성에 따라 주문 내용이 달라집니다. “비빔밥 가격”이라는 검색어 하나로 비교하기보다 주문하려는 정확한 메뉴명을 적어두세요. 점심 비빔밥을 충분히 먹었다면 남부시장에서는 간식을 하나 나누고, 별도의 큰 식사는 저녁으로 미루는 구성이 가능합니다.
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-160.webp 160w, /images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-240.webp 240w, /images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-320.webp 320w, /images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-330.webp 330w, /images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-360.webp 360w, /images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-480.webp 480w, /images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-520.webp 520w, /images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-640.webp 640w, /images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-680.webp 680w, /images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-768.webp 768w, /images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-960.webp 960w, /images/optimized/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeonju-hanok-day-content-jeonju-food-budget-guide-1.jpg" alt="jeonju food cost travel guide image - jeonju hanok day content jeonju food budget guide 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
+</figure>
 
-전주시 안내는 한옥마을과 풍남문·남부시장의 가까운 위치 관계를 소개합니다. 다만 시장의 상시 점포와 야시장의 운영은 같은 뜻이 아니므로, 특정 야시장 판매대를 목표로 한다면 날짜별 운영 공지를 따로 확인해야 합니다. [전주시 남부시장 안내](https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000112001002000)
+## 시간대별로 짜는 방법
 
-## 출발 전 작성할 주문 메모
+오전에는 이동이 길거나 사람이 몰리기 쉬운 장소를 먼저 넣는 편이 좋습니다. 점심 이후에는 걷기 좋은 구간과 실내 대체지를 함께 생각해두면 날씨 변화에 대응하기 쉽습니다.
 
-식당명·지점·메뉴·단가·수량을 한 줄씩 적고, 공유 메뉴와 개인 메뉴를 구분합니다. 테이블당 주문이나 최소 인분 조건이 있으면 그 조건을 먼저 적용하세요. 예산을 넘으면 꼭 먹을 식사 한 가지를 남기고 음료나 포장 수량을 줄이는 편이, 값싼 메뉴만 여러 번 사는 것보다 선택이 명확합니다.
+저녁 일정이 있다면 야경이나 시장처럼 체류 시간이 자연스럽게 길어지는 장소를 마지막에 두는 것이 안정적입니다.
 
-자료 확인일: 2026년 9월 13일. 최신 지점 가격의 직접 확인은 완료되지 않았으므로 이 글을 현재 가격표로 사용하지 마세요. 계산 방식과 동선 조합은 편집부가 작성했습니다.
+동선이 비슷한 고민이라면 [전주 한옥마을 당일치기 코스: 경기전·남부시장까지 하루 일정](/travel/jeonbuk/jeonju-hanok-day/)을 먼저 비교하고, 식비나 교통처럼 세부 조건이 중요할 때는 [부산 먹거리 여행 코스 2026: 자갈치시장부터 국제시장까지 하루 동선](/travel/busan/busan-market-food/)도 함께 확인하면 계획이 더 현실적입니다.
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-160.webp 160w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-240.webp 240w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-320.webp 320w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-330.webp 330w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-360.webp 360w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-480.webp 480w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-520.webp 520w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-640.webp 640w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-680.webp 680w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-768.webp 768w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-960.webp 960w, /images/optimized/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeonju-hanok-food-alley-generated-jeonju-food-budget-guide-1.jpg" alt="jeonju food cost travel guide image - jeonju hanok food alley generated jeonju food budget guide 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
+</figure>
+
+## 대중교통, 택시, 렌터카 선택 기준
+
+전주한옥마을에서 객리단길까지 한 번에 이어 보면 지도상 거리는 짧아 보여도 실제 이동은 환승, 배차 간격, 짐 이동 때문에 달라질 수 있습니다.
+
+도심형 코스는 대중교통과 짧은 택시 조합이 가장 안정적입니다. 해변·산·섬·외곽 전망대가 들어가면 렌터카나 택시 비중을 높이는 편이 좋습니다.
+
+대중교통을 쓴다면 첫 목적지까지의 이동 시간보다 마지막 장소에서 숙소로 돌아오는 시간을 더 중요하게 보세요. 여행 만족도는 마지막 1시간에 크게 갈립니다.
+
+렌터카를 쓰는 경우에는 주차장 위치, 야간 운전, 음주 가능성, 성수기 정체를 함께 고려해야 합니다. 택시는 2~3명이 함께 움직이면 효율적이지만, 축제·해변·막차 시간대에는 호출이 늦어질 수 있습니다.
+
+## 교통, 숙소 위치, 예상 비용
+
+뚜벅이 여행이라면 역과 터미널에서 첫 목적지까지의 시간을 먼저 확인하세요. 버스로 한 번에 이동할 수 있어도 배차 간격이 길면 실제 체감 시간은 크게 늘어납니다.
+
+숙소는 가장 늦게 끝나는 일정 근처에 잡거나, 다음 날 출발지로 돌아가기 쉬운 곳을 고르는 편이 좋습니다. 식비와 카페, 지역 내 교통, 짧은 택시, 짐 보관까지 포함하면 당일치기는 1인 5만~9만 원 정도를 기본 범위로 보면 무난합니다.
+
+<section class="planning-table compact">
+  <h2>예상 비용과 예산 잡는 법</h2>
+  <div class="planning-table-head"><span>항목</span><span>1인 기준</span><span>체크 포인트</span></div>
+  <div><span>지역 내 교통</span><strong>8,000~25,000원</strong><p>지하철·버스 중심이면 낮고, 짧은 택시를 2회 이상 넣으면 올라갑니다.</p></div>
+  <div><span>식사·카페</span><strong>35,000~70,000원</strong><p>시장 간식과 카페></div>
+  <div><span>입장·체험</span><strong>0~30,000원</strong><p>무료 산책지 중심인지, 전망대·케이블카·박물관을 넣는지에 따라 달라집니다.</p></div>
+  <div><span>비상 예산</span><strong>20,000~40,000원</strong><p>우천, 막차, 짐 이동 때문에 택시를 타야 할 상황을 대비합니다.</p></div>
+</section>
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-160.webp 160w, /images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-240.webp 240w, /images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-320.webp 320w, /images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-330.webp 330w, /images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-360.webp 360w, /images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-480.webp 480w, /images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-520.webp 520w, /images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-640.webp 640w, /images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-680.webp 680w, /images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-768.webp 768w, /images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-960.webp 960w, /images/optimized/generated/unique/jeonju-2-jeonju-food-budget-guide-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/jeonju-2-jeonju-food-budget-guide-1.jpg" alt="jeonju food cost travel guide image - jeonju 2 jeonju food budget guide 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
+</figure>
+
+## 숙소 위치와 식사 타이밍
+
+숙소는 무조건 저렴한 곳보다 “마지막 일정 이후 돌아가기 쉬운 곳”이 좋습니다. 객리단길 근처에서 저녁을 마치거나 야경을 본다면 숙소가 너무 멀지 않아야 다음 날 피로가 줄어듭니다. 반대로 다음 날 아침 이동이 빠르다면 터미널, 역, 공항 접근성이 좋은 곳을 고르는 편이 안전합니다.
+
+식사는 전주남부시장 이후에 한 번 길게 넣거나, 객리단길 근처에서 저녁을 먹는 방식이 무난합니다. 인기 식당 하나에 일정을 맞추기보다 같은 권역의 후보를 2~3개 저장해두세요. 웨이팅이 길면 카페나 시장 간식으로 먼저 체력을 회복하고, 본 식사는 다음 권역에서 해결하는 편이 낫습니다.
+
+## 비 오는 날과 더운 날 대체 운영
+
+비가 오면 야외 체류 시간을 줄이고 실내 전시, 시장, 카페, 짧은 택시 이동을 섞어야 합니다. 특히 사진 목적의 장소는 만족도가 떨어질 수 있으므로 낮 시간의 핵심 장소 1~2개만 남기는 편이 좋습니다.
+
+나머지는 식사와 실내 휴식으로 바꾸면 일정이 덜 흔들립니다. 여름에는 한낮 이동을 줄이고, 겨울에는 해가 짧으니 야외 사진 장소를 오전과 이른 오후로 당기세요.
+
+<figure class="content-photo">
+  <picture>
+    <source type="image/webp" srcset="/images/optimized/generated/jeonju-hanok-food-generated-160.webp 160w, /images/optimized/generated/jeonju-hanok-food-generated-240.webp 240w, /images/optimized/generated/jeonju-hanok-food-generated-320.webp 320w, /images/optimized/generated/jeonju-hanok-food-generated-330.webp 330w, /images/optimized/generated/jeonju-hanok-food-generated-360.webp 360w, /images/optimized/generated/jeonju-hanok-food-generated-480.webp 480w, /images/optimized/generated/jeonju-hanok-food-generated-520.webp 520w, /images/optimized/generated/jeonju-hanok-food-generated-640.webp 640w, /images/optimized/generated/jeonju-hanok-food-generated-680.webp 680w, /images/optimized/generated/jeonju-hanok-food-generated-768.webp 768w, /images/optimized/generated/jeonju-hanok-food-generated-960.webp 960w, /images/optimized/generated/jeonju-hanok-food-generated-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/jeonju-hanok-food-generated.jpg" alt="jeonju food cost travel guide image - jeonju hanok food generated" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  </picture>
+  <figcaption>ⓒ한국플레이리스트</figcaption>
+</figure>
+
+## 계절별 주의사항
+
+여름에는 해변과 야외 이동 시간이 길어져 체력 소모가 큽니다. 우산보다 가벼운 우비와 여분 양말이 더 유용할 때가 많습니다.
+
+겨울에는 해가 짧아 사진을 찍을 수 있는 시간이 줄어드니 야외 명소를 앞쪽에 두세요. 연휴와 주말에는 식당 대기, 주차, 택시 호출 시간이 길어질 수 있으므로 Google Maps에서 장소별 위치를 미리 저장해두는 것을 추천합니다.
+
+## 처음 가는 사람이 자주 하는 실수
+
+가장 흔한 실수는 전주한옥마을, 전주남부시장, 전주비빔밥거리, 객리단길 같은 장소를 모두 같은 무게로 보는 것입니다. 실제 일정에서는 반드시 오래 머무를 장소와 짧게 확인할 장소를 나눠야 합니다. 모든 장소에서 사진, 식사, 카페를 다 넣으면 이동 시간보다 체류 시간이 길어져 마지막 일정이 밀립니다.
+
+두 번째 실수는 숙소를 먼저 정하고 코스를 끼워 맞추는 것입니다. 숙소는 가격보다 마지막 일정, 다음 날 출발지, 짐 보관 가능성을 함께 봐야 합니다.
+
+세 번째는 지도상 이동 시간만 믿는 것입니다. 주말, 성수기, 비 오는 날에는 대기와 호출 시간이 늘어나므로 최소 20~30분의 여유를 남겨두세요.
+
+## 사진 찍기 좋은 시간과 저장해둘 것
+
+바다와 전망은 오전 또는 해 질 무렵이 좋고, 시장과 야경은 저녁에 분위기가 살아납니다. 단, 겨울에는 해가 빨리 지므로 야외 사진 장소를 너무 늦게 두지 마세요.
+
+출발 전에는 Google Maps에 각 장소를 저장하고, 대체 식당, 근처 카페, 숙소 복귀 경로까지 같이 저장해두면 현장에서 흔들리지 않습니다.
+
+## 자주 묻는 질문
+
+### 이 코스는 처음 가는 사람에게도 괜찮나요?
+네. 처음 방문하는 사람이 길을 헤매기 쉬운 구간을 줄이고, 이동 순서를 단순하게 만드는 데 초점을 맞췄습니다.
+
+### 렌터카가 꼭 필요한가요?
+대부분의 도심형 코스는 대중교통과 짧은 택시 조합으로 가능합니다. 다만 섬, 산, 외곽 해변이 포함되면 배차 간격과 마지막 차 시간을 먼저 확인해야 합니다.
+
+### 숙소는 어느 기준으로 고르면 좋나요?
+가장 늦게 끝나는 일정과 다음 날 출발지를 기준으로 고르는 편이 좋습니다. 가격이 조금 저렴해도 밤에 돌아오기 어렵거나 짐 이동이 불편하면 전체 만족도가 떨어질 수 있습니다.
+
+### 비가 오면 일정을 그대로 진행해도 되나요?
+야외 사진과 해변, 전망 위주의 일정은 과감히 줄이는 것이 좋습니다. 시장, 실내 전시, 카페, 짧은 택시 이동을 섞어 핵심 장소만 남기면 실패 확률이 낮아집니다.

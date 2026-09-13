@@ -21,6 +21,8 @@ For a first Cheonggyecheon visit, start at Cheonggye Plaza and walk east through
 
 This guide is for travelers staying or sightseeing in central Seoul who want an easy outdoor addition to their day. Ordinary access is free, so the main costs are getting there and anything you buy before or afterward. Allow 45 to 60 minutes for an unhurried introductory section, longer if you add a market meal. These are planning allowances, not official trail completion times.
 
+## Start at Cheonggye Plaza, not an arbitrary map pin
+
 [Visit Seoul describes Cheonggyecheon](https://english.visitseoul.net/nature/cheonggyecheonstream/ENP000034) as an approximately 11-kilometer stream starting at Cheonggye Plaza. A place that long can have many valid map results. Search for the plaza when you want the recognizable central starting section, rather than navigating to a generic pin somewhere along the water.
 
 Gwanghwamun Station on Line 5 and City Hall Station on Lines 1 and 2 are useful approaches to this end of the stream. Compare the walk from your actual station exit and hotel location using the [Cheonggye Plaza map](https://www.google.com/maps/search/?api=1&query=Cheonggye+Plaza+Seoul). Visitors already near Jonggak or Euljiro can join farther east instead of making a detour just to begin at the plaza.
@@ -35,6 +37,8 @@ At street level, identify both the descent and the place where you intend to com
   <figcaption>© Basile Morin · <a href="https://commons.wikimedia.org/wiki/File:Cheonggyecheon_stream_at_sunrise_with_trees_in_Seoul.jpg">Original photograph</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a> (resized/WebP)</figcaption>
 </figure>
 
+## Three ways to fit the walk into your day
+
 **A short introduction:** descend near Cheonggye Plaza, continue east past Gwangtonggyo and choose a convenient exit around the central bridges. Stop for the view beneath a bridge and allow time to return to street level. This works well before lunch when you do not want the rest of the day's plans to depend on a long walk.
 
 **A longer central walk:** continue toward Samilgyo, then decide whether to finish near the Jongno 3-ga or Euljiro 3-ga area. Do not turn this into a compulsory out-and-back. Leaving by a different subway station is often more useful than retracing every step to your starting point. Allow about an hour to an hour and a half with photographs and pauses, adjusting for your actual entry and exit.
@@ -42,6 +46,8 @@ At street level, identify both the descent and the place where you intend to com
 **A market-linked route:** continue east toward the area south of Gwangjang Market and leave the stream for a meal. Check the surface-street approach on your map before the final ascent. Plan this as a two-to-three-hour walk-and-food outing, not a single uninterrupted promenade. Our [Gwangjang Market food guide](/en/travel/seoul/gwangjang-market-food-ordering-guide/) explains how to choose portions and confirm prices once you arrive.
 
 These are three different time commitments. A short visit is complete in its own right; there is no need to continue toward Dongdaemun simply because it appears farther along the same waterway.
+
+## Daylight or evening?
 
 Daylight makes it easier to read the surroundings and identify exits. Choose it when navigation, accessibility or photographing architectural detail matters most. In hot weather, the exposed approaches and stretches between bridges still require water and a sensible walking pace; being next to a stream does not make the entire route shaded.
 
@@ -57,11 +63,15 @@ Early evening can fit neatly after central-Seoul sightseeing. You can see the tr
 
 Seasonal light events are a separate reason to visit. Do not expect festival installations on an ordinary evening, and verify the current event dates through official city announcements. A photograph of lanterns from another year is not evidence that the same display is present now.
 
+## Rain can close the path
+
 Visit Seoul lists ordinary promenade access as around the clock but explicitly notes that rain can restrict entry. The [Seoul Facilities Corporation's stream service](https://www.sisul.or.kr/open_content/cheonggye/) publishes access notices. Staff instructions and closed gates take priority over an online map showing a walking route.
 
 Do not descend into a closed section, cross a barrier or wait underneath a bridge during a storm. Conditions upstream can matter even when the street where you stand does not look especially wet. If rain starts, use an open designated exit and move to street level as directed. Stepping stones are not a substitute for a safe exit or an accessible bridge crossing.
 
 For a wet-day alternative, choose an indoor stop and use the subway or surface streets. The [National Museum of Korea guide](/en/travel/seoul/national-museum-korea-visitor-guide/) can help plan a museum-focused replacement, but note that it requires travel to Yongsan rather than a short walk off the stream.
+
+## What to bring, and what to leave at the hotel
 
 A small day bag, comfortable shoes and a charged phone are more useful here than a packed sightseeing kit. Keep water and any necessary layers with you, and secure loose items when leaning near the edge for photographs. Plan toilets and a drink break around known facilities at street level rather than assuming you will find them immediately beside the water.
 
@@ -77,13 +87,23 @@ Suitcases add difficulty at stairs and on narrow stretches. Finish this walk aft
 
 When meeting friends, name a bridge or a street-level landmark and specify which side of the stream. "Meet at Cheonggyecheon" leaves far too much room for confusion. Keep to one agreed meeting point if the group separates, and avoid stopping across the full width of the path for a photograph.
 
+## Frequently asked questions
+
+### How long does the Cheonggyecheon walk take?
+
 A central introductory section can fit into 45-60 minutes with pauses. The full stream is much longer; this guide does not recommend treating it as a quick end-to-end attraction.
 
+### Do I need a ticket or a tour?
+
 No ticket is needed for an ordinary promenade visit. A guided city walk is optional, and a special event may have its own arrangements.
+
+### Can I walk there after heavy rain?
 
 Only if the relevant section is officially open. Check current notices and on-site barriers; do not use a general opening-hours listing as proof that access is safe that day.
 
 Information checked September 11, 2026. Weather closures and event arrangements can change at short notice. Archival photographs illustrate the stream; they do not show today's water level, path access or event installations.
+
+## Photo credits
 
 Photographs are licensed individually below. Display copies are resized or converted to WebP; responsive previews may crop the visible area. Image licenses remain those of the originals. No endorsement is implied.
 

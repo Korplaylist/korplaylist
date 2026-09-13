@@ -1,8 +1,6 @@
 node_modules/
-node_modules-linked-backup/
 dist/
 .astro/
-.astro-recovery-backup/
 .env
 .env.*
 *.zip

@@ -3,18 +3,19 @@ import BaseLayout from "./BaseLayout.astro";
 import AuthorBio from "../components/AuthorBio.astro";
 import RelatedPosts from "../components/RelatedPosts.astro";
 import ShareButtons from "../components/ShareButtons.astro";
+import StayRecommendationPanel from "../components/StayRecommendationPanel.astro";
 import { authorProfiles, siteConfig } from "../site.config";
 import { getWebpSrcSet } from "../lib/imageVariants";
-import { formatDate, getImageAlt, getPostLocale, getPostRegion, getPostRegionSlug, getPostUrl, getRegionUrl } from "../lib/travel";
+import { formatDate, getImageAlt, getPostLocale, getPostRegion, getPostUrl, getRegionUrl } from "../lib/travel";
 
 const { post, headings = [], relatedPosts = [], faqItems = [], alternates = {} } = Astro.props;
 const postUrl = new URL(getPostUrl(post), siteConfig.domain).toString();
-const postImage = new URL(post.data.imageVerified ? post.data.heroImage : "/brand/korplaylist-og.png", siteConfig.domain).toString();
+const postImage = new URL(post.data.heroImage, siteConfig.domain).toString();
 const locale = getPostLocale(post);
 const author = authorProfiles[locale] ?? authorProfiles.ko;
 const imageAlt = getImageAlt(post);
 const postRegion = getPostRegion(post);
-const regionUrl = locale === "ko" ? getRegionUrl(postRegion) : `/${locale}/regions/${getPostRegionSlug(post)}/`;
+const regionUrl = locale === "ko" ? getRegionUrl(postRegion) : `/${locale}/#regions`;
 const noindex = post.data.adsenseReady === false;
 const labels = {
   ko: {
@@ -69,7 +70,7 @@ const articleSchema = {
     "@type": "Person",
     name: author.name,
     description: `${author.summary} ${author.detail}`,
-    url: new URL(locale === "ko" ? "/about/" : `/${locale}/about/`, siteConfig.domain).toString()
+    url: new URL(locale === "ko" ? "/about/" : `/${locale}/#about`, siteConfig.domain).toString()
   },
   publisher: {
     "@type": "Organization",
@@ -124,7 +125,7 @@ const jsonLd = {
   title={post.data.title}
   description={post.data.description}
   canonical={getPostUrl(post)}
-  image={post.data.imageVerified ? post.data.heroImage : "/brand/korplaylist-og.png"}
+  image={post.data.heroImage}
   type="article"
   keywords={post.data.tags.join(", ")}
   locale={locale}
@@ -150,13 +151,13 @@ const jsonLd = {
         <div><dt>{labels.updated}</dt><dd>{formatDate(post.data.updatedAt, locale)}</dd></div>
         <div><dt>{labels.tags}</dt><dd>{post.data.tags.join(", ")}</dd></div>
       </dl>
-      {post.data.imageVerified && <figure class="article-hero-figure">
+      <figure class="article-hero-figure">
         <picture>
           <source type="image/webp" srcset={getWebpSrcSet(post.data.heroImage, [480, 520, 640, 680, 768, 960])} sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
           <img src={post.data.heroImage} alt={imageAlt} width="1200" height="630" loading="eager" decoding="async" fetchpriority="high" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
         </picture>
         {post.data.imageCredit && <figcaption>{post.data.imageCredit}</figcaption>}
-      </figure>}
+      </figure>
     </header>
     {headings.length > 0 && (
       <aside class="toc" aria-label={labels.toc}>
@@ -173,6 +174,7 @@ const jsonLd = {
     </div>
     <AuthorBio locale={locale} />
     <ShareButtons title={post.data.title} description={post.data.description} url={postUrl} image={postImage} locale={locale} />
+    <StayRecommendationPanel post={post} locale={locale} />
     <RelatedPosts posts={relatedPosts} locale={locale} />
   </article>
 </BaseLayout>

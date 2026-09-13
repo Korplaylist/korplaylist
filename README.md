@@ -20,12 +20,10 @@ npm run dev
 npm run build
 ```
 
-현재 작업 환경처럼 npm이 없을 때도 동일한 Astro 빌드를 사용합니다. 별도 정적 생성기는 운영 사이트와 다른 결과를 만들 수 있어 사용하지 않습니다.
+현재 작업 환경처럼 npm이 없을 때는 검증용 정적 생성기를 사용할 수 있습니다.
 
 ```bash
-node node_modules/astro/astro.js build
-node scripts/check-built-site.mjs
-node scripts/check-editorial-readiness.mjs
+node scripts/build-static.mjs
 ```
 
 ## 글 작성

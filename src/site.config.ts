@@ -49,15 +49,6 @@ export const authorProfiles = {
 
 export const categories = ["여행 코스", "여행지", "맛집", "숙소", "교통 준비", "계절 축제"];
 
-export const categoryAliases: Record<string, string> = {
-  "여행코스": "여행 코스", "관광지": "여행지", "교통": "교통 준비",
-  "계절 여행": "계절 축제", "맛집·시장": "맛집", "전시·문화": "여행지",
-  "Day Trips": "Itineraries", "Seasonal Guides": "Seasonal Trips", "Summer Travel": "Seasonal Trips",
-  "Transport Guides": "Transport", "Transport Planning": "Transport", "Travel Tips": "Transport",
-  "季節ガイド": "季節旅行", "季節の旅": "季節旅行", "空港アクセス": "交通準備",
-  "交通計画": "交通準備", "交通ガイド": "交通準備", "旅行コース": "モデルコース", "日帰り旅行": "モデルコース"
-};
-
 export const categoryDescriptions: Record<string, string> = {
   "여행 코스": "당일치기, 1박2일, 2박3일처럼 일정별로 바로 따라가기 좋은 국내 여행 동선을 정리합니다.",
   "여행지": "지역별 대표 명소, 산책 코스, 문화유산, 바다와 섬 여행지를 객관적으로 소개합니다.",
