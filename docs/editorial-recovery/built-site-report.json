@@ -911,7 +911,7 @@
       "url": "/travel/busan/busan-haeundae-gwangalli-night/",
       "bodyCharacters": 4132,
       "externalSources": 0,
-      "repeatedParagraphs": 4
+      "repeatedParagraphs": 3
     },
     {
       "url": "/travel/busan/busan-haeundae-gwangalli-stay-guide/",
@@ -935,7 +935,7 @@
       "url": "/travel/busan/busan-rainy-day-first-trip/",
       "bodyCharacters": 4050,
       "externalSources": 0,
-      "repeatedParagraphs": 4
+      "repeatedParagraphs": 3
     },
     {
       "url": "/travel/busan/busan-seomyeon-stay-first-trip/",
@@ -945,9 +945,9 @@
     },
     {
       "url": "/travel/busan/busan-station-half-day/",
-      "bodyCharacters": 4246,
-      "externalSources": 0,
-      "repeatedParagraphs": 4
+      "bodyCharacters": 2986,
+      "externalSources": 4,
+      "repeatedParagraphs": 0
     },
     {
       "url": "/travel/busan/busan-station-luggage-first-day/",
@@ -1781,7 +1781,6 @@
         "/travel/busan/busan-haeundae-gwangalli-stay-guide/",
         "/travel/busan/busan-rainy-day-first-trip/",
         "/travel/busan/busan-seomyeon-stay-first-trip/",
-        "/travel/busan/busan-station-half-day/",
         "/travel/busan/busan-station-to-seomyeon/",
         "/travel/busan/busan-stay-area-first-trip/",
         "/travel/daejeon/daejeon-expo-evening-course/",
@@ -1789,16 +1788,7 @@
         "/travel/gyeonggi/suwon-hwaseong-half-day/",
         "/travel/incheon/incheon-songdo-day-trip/"
       ],
-      "count": 12
-    },
-    {
-      "text": "부산 여행 코스 글은 지도상 최단 시간만 보고 고르면 실제 여행에서 흔들리기 쉽습니다. 도착 시간, 짐의 크기, 비나 더위, 체크인 전 공백, 첫 식사 위치, 마지막 이동 거리를 함께 봐야 첫 여행자가 체감하는 피로도가 줄어듭니다.",
-      "urls": [
-        "/travel/busan/busan-haeundae-gwangalli-night/",
-        "/travel/busan/busan-rainy-day-first-trip/",
-        "/travel/busan/busan-station-half-day/"
-      ],
-      "count": 3
+      "count": 11
     },
     {
       "text": "출발 전에는 첫 이동역, 마지막 하차 지점, 비가 올 때 대체할 실내 장소를 미리 저장해 두세요. 현장에서 검색을 다시 시작하는 시간을 줄이면 짧은 일정에서도 동선이 훨씬 안정적으로 유지됩니다.",
@@ -1806,22 +1796,20 @@
         "/travel/busan/busan-haeundae-gwangalli-night/",
         "/travel/busan/busan-haeundae-gwangalli-stay-guide/",
         "/travel/busan/busan-rainy-day-first-trip/",
-        "/travel/busan/busan-station-half-day/",
         "/travel/busan/busan-station-to-seomyeon/",
         "/travel/busan/busan-stay-area-first-trip/",
         "/travel/daejeon/daejeon-expo-night-walk/"
       ],
-      "count": 7
+      "count": 6
     },
     {
       "text": "출발 당일에는 운영 시간, 날씨, 가장 가까운 출구 번호를 한 번 더 확인하는 것이 좋습니다. 지도상으로는 가까워 보여도 비가 오거나 짐이 있으면 이동 난이도가 달라지고, 짧은 여행일수록 이런 작은 차이가 전체 만족도를 크게 바꿉니다.",
       "urls": [
         "/travel/busan/busan-haeundae-gwangalli-night/",
         "/travel/busan/busan-rainy-day-first-trip/",
-        "/travel/busan/busan-station-half-day/",
         "/travel/daejeon/daejeon-expo-night-walk/"
       ],
-      "count": 4
+      "count": 3
     },
     {
       "text": "부산 숙소 글은 지도상 최단 시간만 보고 고르면 실제 여행에서 흔들리기 쉽습니다. 도착 시간, 짐의 크기, 비나 더위, 체크인 전 공백, 첫 식사 위치, 마지막 이동 거리를 함께 봐야 첫 여행자가 체감하는 피로도가 줄어듭니다.",

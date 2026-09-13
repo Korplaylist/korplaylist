@@ -1,21 +1,5 @@
----
-title: "부산역 반나절 코스: 남포동 기본 일정과 감천을 선택하는 조건"
-description: "부산역 도착 후 남은 시간, 짐 회수, 다음 목적지에 따라 남포동 산책과 감천 방문을 나눕니다. 귀환 시각 계산 예시와 지연 시 생략할 구간을 안내합니다."
-category: "여행 코스"
-region: "부산"
-locale: "ko"
-translationKey: "busan-station-half-day"
-regionSlug: "busan"
-urlSlug: "busan-station-half-day"
-tags: ["부산", "부산역", "반나절", "남포동", "감천문화마을"]
-publishedAt: "2026-06-16"
-updatedAt: "2026-09-14"
-heroImage: "/images/generated/unique/busan-station-route-generated-busan-station-half-day-1.jpg"
-imageAlt: "부산역 주변 도심 출발 동선"
-imageCredit: "ⓒ한국플레이리스트"
-draft: false
-imageVerified: false
----
+부산역 반나절 코스: 남포동 기본 일정과 감천을 선택하는 조건
+부산역 도착 후 남은 시간, 짐 회수, 다음 목적지에 따라 남포동 산책과 감천 방문을 나눕니다. 귀환 시각 계산 예시와 지연 시 생략할 구간을 안내합니다.
 
 부산역에서 반나절을 쓴다면 먼저 **오늘 부산역으로 돌아와야 하는지**를 정하세요. 같은 날 기차를 타는 사람과 해운대 숙소로 들어가는 사람은 짐을 두는 장소부터 달라집니다. 이 글의 기본안은 남포동에서 식사와 짧은 산책을 하고 끝내는 일정입니다. 감천문화마을은 여기에 자동으로 더하는 경유지가 아니라, 언덕 산책을 원하는 날 선택하는 대체 목적지로 다룹니다.
 
