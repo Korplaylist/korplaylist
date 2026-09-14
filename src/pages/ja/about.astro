@@ -1,0 +1,18 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AuthorBio from '../../components/AuthorBio.astro';
+---
+<BaseLayout title="韓国プレイリストについて" description="韓国プレイリストの目的、編集方針、運営者をご案内します。" canonical="/ja/about/" locale="ja">
+  <section class="page-shell">
+    <p class="eyebrow">About</p>
+    <h1>韓国プレイリストについて</h1>
+    <div class="page-copy">
+      <p>韓国プレイリストは、韓国の旅行先、旅程、交通、食事、宿泊エリアを比較するための旅行情報サイトです。移動ルートや予算、出発前に確認したい点を整理しています。</p>
+      <h2>編集方針</h2>
+      <p>営業時間、料金、交通、予約条件は変更される場合があります。訪問前に各施設や運営機関の案内をご確認ください。おすすめルートと予算は旅行計画の参考であり、所要時間や支払額を保証するものではありません。</p>
+      <h2>訂正・画像に関するお問い合わせ</h2>
+      <p>古い情報、リンクの不具合、画像の権利に関するご連絡は、記事のURLと確認が必要な内容を添えて<a href="/ja/contact/">お問い合わせページ</a>からお寄せください。</p>
+      <AuthorBio locale="ja" compact />
+    </div>
+  </section>
+</BaseLayout>

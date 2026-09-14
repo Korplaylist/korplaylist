@@ -42,7 +42,7 @@ draft: false
     <h2>다른 글이 더 맞는 경우</h2>
     <ul>
       <li>하루 종일 궁궐 중심으로 걷고 싶다면 <a href="/travel/seoul/seoul-one-day-palace-walk/">서울 고궁 도보 코스</a>가 더 직접적입니다.</li>
-      <li>계절별 여행 시기부터 먼저 정리하고 싶다면 <a href="/travel/korea/korea-season-travel-calendar/">한국 계절 여행 캘린더</a>를 먼저 보는 편이 좋습니다.</li>
+      <li>계절별 여행 시기부터 먼저 정리하고 싶다면 <a href="/travel/seoul/korea-season-travel-calendar/">한국 계절 여행 캘린더</a>를 먼저 보는 편이 좋습니다.</li>
       <li>수원 화성 전체를 길게 돌거나 야간 개장까지 넣을 계획이면 반나절보다 하루 일정으로 다시 짜는 편이 낫습니다.</li>
     </ul>
   </div>

@@ -153,8 +153,12 @@ const localizeRating = (rating) => {
 };
 const localizeStay = (stay) => {
   const name = localizedStayNames[locale]?.[stay.name] ?? stay.name;
+  const bookingUrl = new URL(stay.url);
+  bookingUrl.searchParams.delete('checkIn');
+  bookingUrl.searchParams.delete('checkOut');
   return {
     ...stay,
+    url: bookingUrl.toString(),
     name,
     price: localizePrice(stay.price),
     rating: localizeRating(stay.rating),
@@ -217,19 +221,34 @@ const labels = {
   affiliate: "이 영역에는 제휴 링크가 포함될 수 있습니다. 링크를 통해 예약이 발생하면 한국플레이리스트가 일정 수수료를 받을 수 있으며, 이용자에게 추가 비용이 부과되지는 않습니다."
 };
 const searchUrl = `https://www.myrealtrip.com/search?keyword=${encodeURIComponent(labels.searchKeyword)}`;
+const regionNotice = {
+  ko: `${stayRegionLabel} 검색 / 아래 사진은 ${recommendationRegionLabel} 숙소 참고 목록입니다`,
+  en: `Search ${stayRegionLabel} / the photos below are reference listings in ${recommendationRegionLabel}`,
+  ja: `${stayRegionLabel}を検索 / 下の写真は${recommendationRegionLabel}の宿泊施設です`
+}[locale];
+const referenceTitle = {
+  ko: `${recommendationRegionLabel} 숙소 참고 목록 (여행지와 다른 지역)`,
+  en: `${recommendationRegionLabel} stay references (a different destination)`,
+  ja: `${recommendationRegionLabel}の宿泊情報（今回の旅行先とは別地域）`
+}[locale];
+const currentDetailsNotice = {
+  ko: '사진과 숙소명은 참고용입니다. 요금과 평점은 실시간 정보가 아니므로 예약 페이지에서 날짜를 선택해 확인하세요.',
+  en: 'Photos and property names are reference information. Select your dates on the booking page for current prices and ratings.',
+  ja: '写真と施設名は参考情報です。現在の料金と評価は予約ページで宿泊日を選んでご確認ください。'
+}[locale];
 ---
 
 <aside class:list={["stay-panel", { empty: stays.length === 0 }]} aria-labelledby="stay-recommend-title">
   <div class="stay-panel-head">
     <div>
       <p class="eyebrow">{labels.eyebrow}</p>
-      <h2 id="stay-recommend-title">{labels.title}</h2>
-      <p>{labels.description}</p>
+      <h2 id="stay-recommend-title">{usesFallbackRegion ? referenceTitle : labels.title}</h2>
+      <p>{currentDetailsNotice}</p>
     </div>
   </div>
   {stays.length > 0 ? (
     <>
-    {usesFallbackRegion && <p class="stay-fallback-note">{labels.fallbackNotice}</p>}
+    {usesFallbackRegion && <p class="stay-fallback-note"><a href={searchUrl} target="_blank" rel="sponsored nofollow noopener noreferrer">{regionNotice}</a></p>}
     <div class="stay-grid">
       {localizedStays.map((stay) => (
         <a class="stay-card" href={stay.url} target="_blank" rel="sponsored nofollow noopener noreferrer">
@@ -242,8 +261,8 @@ const searchUrl = `https://www.myrealtrip.com/search?keyword=${encodeURIComponen
           </figure>
           <div>
             <strong>{stay.name}</strong>
-            <p>{stay.rating || labels.fallbackRating}</p>
-            <span>{stay.price || labels.fallbackPrice}</span>
+            <p>{labels.fallbackRating}</p>
+            <span>{labels.fallbackPrice}</span>
           </div>
         </a>
       ))}

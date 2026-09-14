@@ -43,7 +43,7 @@ This guide is written for travelers searching things like `Suwon half-day itiner
     <h2>When to change the plan</h2>
     <ul>
       <li>If you want a palace-focused Seoul route rather than a fortress city, <a href="/en/travel/seoul/seoul-one-day-palace-walk/">the Seoul palace walk guide</a> is more direct.</li>
-      <li>If you are planning by season first, start with <a href="/en/travel/korea/korea-season-travel-calendar/">the Korea seasonal travel calendar</a> before locking the time slot.</li>
+      <li>If you are planning by season first, start with <a href="/en/travel/seoul/korea-season-travel-calendar/">the Korea seasonal travel calendar</a> before locking the time slot.</li>
       <li>If you want to walk most of the full 5.74 km fortress circuit, expand the trip to a full day instead of forcing it into half a day.</li>
     </ul>
   </div>

@@ -1,17 +1,17 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import PostCard from "../../components/PostCard.astro";
-import { getCategorySlug, getCategoryUrl, getPublishedTravelPosts } from "../../lib/travel";
+import { getCategorySlug, getCategoryUrl, getPublishedTravelPosts, normalizeCategory } from "../../lib/travel";
 import { categories, categoryDescriptions } from "../../site.config";
 
 export async function getStaticPaths() {
   const posts = await getPublishedTravelPosts();
-  const allCategories = [...new Set([...categories, ...posts.map((post) => post.data.category)])];
+  const allCategories = [...new Set([...categories, ...posts.map((post) => normalizeCategory(post.data.category))])];
   return allCategories.map((category) => ({ params: { category: getCategorySlug(category) }, props: { category } }));
 }
 
 const { category } = Astro.props;
-const posts = (await getPublishedTravelPosts()).filter((post) => post.data.category === category);
+const posts = (await getPublishedTravelPosts()).filter((post) => normalizeCategory(post.data.category) === category);
 const description = categoryDescriptions[category] ?? `${category} 한국여행 정보를 모았습니다.`;
 const hasPosts = posts.length > 0;
 ---

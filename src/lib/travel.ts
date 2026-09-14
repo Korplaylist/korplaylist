@@ -46,7 +46,15 @@ export function getPostUrl(post: { slug: string; data: { region: string; locale?
 }
 
 export function getCategorySlug(category: string) {
-  return categorySlugMap[category] ?? slugify(category);
+  return categorySlugMap[normalizeCategory(category)] ?? slugify(category);
+}
+
+export function normalizeCategory(category: string) {
+  const aliases: Record<string, string> = {
+    '여행코스': '여행 코스', '관광지': '여행지', '교통': '교통 준비',
+    '계절 여행': '계절 축제', '맛집·시장': '맛집', '전시·문화': '여행지'
+  };
+  return aliases[category] ?? category;
 }
 
 export function getCategoryUrl(category: string) {

@@ -146,7 +146,7 @@ The third mistake is reaching the Expo side too late and expecting the whole are
 
 In high summer, the route feels longer because the bakery stop happens indoors but the Expo finish happens in an open area. Carry water and move your longest outdoor pause closer to late afternoon. On rainy days, do not force a full green-space walk if the ground conditions are poor. Use the arboretum section more as a lighter transition and protect the cleaner parts of the Expo finish.
 
-If your whole Korea trip is being organized by season first, compare [Korea Seasonal Travel Calendar 2026: Cherry Blossoms, Summer Coasts, Foliage, and Winter Trips](/en/travel/korea/korea-season-travel-calendar/) before deciding how long to hold the outdoor sections.
+If your whole Korea trip is being organized by season first, compare [Korea Seasonal Travel Calendar 2026: Cherry Blossoms, Summer Coasts, Foliage, and Winter Trips](/en/travel/seoul/korea-season-travel-calendar/) before deciding how long to hold the outdoor sections.
 
 <figure class="content-photo">
   <picture>

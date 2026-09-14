@@ -1,13 +1,17 @@
-import { getCategoryUrl, getPostRegion, getPublishedTravelPosts, getPostUrl, getRegionUrl } from "../lib/travel";
+import { getCategoryUrl, getPostRegion, getPublishedTravelPosts, getPostUrl, getRegionUrl, normalizeCategory } from "../lib/travel";
 import { categories, regions, siteConfig } from "../site.config";
 
 const staticPaths = [
   "/",
   "/en/",
+  "/en/about/",
+  "/en/travel/",
   "/en/contact/",
   "/en/privacy/",
   "/en/terms/",
   "/ja/",
+  "/ja/about/",
+  "/ja/travel/",
   "/ja/contact/",
   "/ja/privacy/",
   "/ja/terms/",
@@ -26,7 +30,7 @@ export async function GET() {
     ...(await getPublishedTravelPosts("en")),
     ...(await getPublishedTravelPosts("ja"))
   ];
-  const categoriesWithPosts = categories.filter((category) => posts.some((post) => post.data.category === category));
+  const categoriesWithPosts = categories.filter((category) => posts.some((post) => normalizeCategory(post.data.category) === category));
   const categoryUrls = categoriesWithPosts.map((category) => getCategoryUrl(category));
   const regionsWithPosts = regions.filter((region) => posts.some((post) => getPostRegion(post) === region));
   const regionUrls = regionsWithPosts.map((region) => getRegionUrl(region));
