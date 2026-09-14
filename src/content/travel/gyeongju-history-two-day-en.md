@@ -18,7 +18,7 @@ draft: false
 
 A Gyeongju history route for Daereungwon, Cheomseongdae, Donggung and Wolji, Bulguksa, stay areas, transport, and evening timing.
 
-This guide is written around the questions travelers usually search before booking: route order, public transport, where to stay, realistic costs, food timing, and what to check when the weather changes. It avoids a simple list of famous places and focuses on how the trip actually works on the ground.
+Plan the Bulguksa portion separately from the Daereungwon, Cheomseongdae and Donggung and Wolji visits. With two days available, leave space after the first evening so an early departure for the next stop does not depend on rushing breakfast or luggage collection.
 
 <div class="article-summary">
   <strong>Key takeaways</strong>
@@ -247,7 +247,7 @@ For food, place one longer meal after Daereungwon or keep dinner near Bulguksa T
 
 On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and short taxi rides. Photo-focused stops may lose value, so keep only one or two essential daylight stops.
 
-Use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, move kly.
+Use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, keep daylight for the outdoor heritage stops before returning to your accommodation.
 
 <figure class="content-photo">
   <picture>

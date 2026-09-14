@@ -18,7 +18,7 @@ draft: false
 
 A practical Jeju transport guide comparing buses, taxis, day tours, stay locations, costs, and route limits for travelers without a rental car.
 
-This guide is written around the questions travelers usually search before booking: route order, public transport, where to stay, realistic costs, food timing, and what to check when the weather changes. It avoids a simple list of famous places and focuses on how the trip actually works on the ground.
+Compare actual bus connections before treating Jeju Airport, the bus terminal, Hamdeok and Seongsan as a fixed sequence. Decide whether the day is mainly for Hamdeok or for reaching Seongsan, and reduce stops when the return connection does not fit.
 
 <div class="article-summary">
   <strong>Key takeaways</strong>

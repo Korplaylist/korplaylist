@@ -7,6 +7,22 @@ const root = 'src/content/travel';
 const names = execFileSync('git', ['ls-tree', '-r', '--name-only', baseline, root], {encoding: 'utf8'}).trim().split('\n');
 const walk = node => [node, ...(node.childNodes ?? []).flatMap(walk)];
 const normal = text => text.replace(/\r\n/g, '\n');
+// These two malformed URLs resolve to the same preserved JPG; no photo replacement is allowed.
+const repairedImageSuffixes = new Map([
+  ['src/content/travel/yeosu-island-day.md', '\uC0B0\uCC45\uB85C\uC640 \uD56D\uAD6C \uC57C\uACBD'],
+  ['src/content/travel/yeosu-island-day-en.md', 'night sea promenade and harbor lights']
+]);
+const markupRepairs = JSON.parse(fs.readFileSync('docs/editorial-audit-20260914/allowed-markup-repairs.json', 'utf8'));
+function repairBaselineImageUrl(file, text) {
+  // Restore only the recorded broken closing tags before comparing protected structures.
+  for (const [target, before, after] of markupRepairs) {
+    if (file === target) text = text.replace(before, after);
+  }
+  const suffix = repairedImageSuffixes.get(file);
+  if (!suffix) return text;
+  const image = '/images/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1.jpg';
+  return text.replace(`src="${image} ${suffix}"`, `src="${image}"`);
+}
 const protectedMarkup = text => {
   text = text.replaceAll('/travel/korea/korea-season-travel-calendar/', '/travel/seoul/korea-season-travel-calendar/');
   const nodes = walk(parseFragment(text, {sourceCodeLocationInfo: true}));
@@ -25,7 +41,7 @@ for (const file of names) {
   const header = text => text.match(/^---\n[\s\S]*?\n---\n/)?.[0];
   if (!header(before) || !header(after)) { errors.push(`${file}: invalid frontmatter`); continue; }
   if (header(before).replace(/^updatedAt:.*$/m, '') !== header(after).replace(/^updatedAt:.*$/m, '')) errors.push(`${file}: protected metadata changed`);
-  const beforeBody = before.slice(header(before).length);
+  const beforeBody = repairBaselineImageUrl(file, before.slice(header(before).length));
   const afterBody = after.slice(header(after).length);
   if (JSON.stringify(protectedMarkup(beforeBody)) !== JSON.stringify(protectedMarkup(afterBody))) errors.push(`${file}: photo/table/route markup changed`);
   const images = text => text.match(/<(?:img|source)\b[^>]*>|!\[[^\]]*\]\([^)]*\)/g) ?? [];

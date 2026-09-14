@@ -18,7 +18,7 @@ draft: false
 
 A practical seasonal Korea travel calendar covering spring flowers, summer coast trips, autumn foliage, winter routes, costs, weather checks, and when to book.
 
-This guide is written around the questions travelers usually search before booking: route order, public transport, where to stay, realistic costs, food timing, and what to check when the weather changes. It avoids a simple list of famous places and focuses on how the trip actually works on the ground.
+Seoul blossoms, Gangneung's coast, autumn in Gyeongju and winter in Jeju are separate seasonal choices, not stops to complete in one day. Use the examples below to select a season and destination; the combined map and timeline are not a workable single-day itinerary.
 
 <div class="article-summary">
   <strong>Key takeaways</strong>

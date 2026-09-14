@@ -18,7 +18,7 @@ draft: false
 
 A first Jeju itinerary that divides east and west routes, rental car timing, stay areas, coastal stops, food planning, and weather backup ideas.
 
-This guide is written around the questions travelers usually search before booking: route order, public transport, where to stay, realistic costs, food timing, and what to check when the weather changes. It avoids a simple list of famous places and focuses on how the trip actually works on the ground.
+Use the three days to separate Seongsan and Woljeongri from the Hyeopjae portion instead of treating the map as one uninterrupted daily route. Consider Dongmun Market alongside the airport transfer, with the final day's scope set by your flight.
 
 <div class="article-summary">
   <strong>Key takeaways</strong>

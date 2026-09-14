@@ -18,7 +18,7 @@ draft: false
 
 A Tongyeong sea-view route connecting Dongpirang Village, the cable car, Gangguan Port, walking time, photo spots, and food stops.
 
-This guide is written around the questions travelers usually search before booking: route order, public transport, where to stay, realistic costs, food timing, and what to check when the weather changes. It avoids a simple list of famous places and focuses on how the trip actually works on the ground.
+This is a viewpoint route through Dongpirang, Jungang Market, the cable car and Gangguan, not an island-ferry itinerary. Check cable-car operation first; if it is unavailable, allocate more time to the village and harbor rather than assuming another sailing or attraction is included.
 
 <div class="article-summary">
   <strong>Key takeaways</strong>
@@ -218,7 +218,7 @@ For accommodation, choose an area near the last evening stop or the next morning
 
 ## Stay Area and Food Timing
 
-The best stay area is not always the cheapest one. Choose a place that is easy to return to after the final stop. If you plan dinner or night views near Gangguan Port, staying too far away can make the next morning harder. If you leave early the next day, prioritize access to a statiomeal after Tongyeong Jungang Market or keep dinner near Gangguan Port. Do not build the whole day around one popular restaurant. Save two or three options in the same area. If the queue is long, recover with a cafe or market snack first and move the main meal to the next zone.
+The best stay area is not always the cheapest one. Choose a place that is easy to return to after the final stop. If you plan dinner or night views near Gangguan Port, staying too far away can make the next morning harder. If you leave early the next day, prioritize access to your departure point. For food, plan a meal after Tongyeong Jungang Market or keep dinner near Gangguan Port. Do not build the whole day around one popular restaurant. Save two or three options in the same area. If the queue is long, recover with a cafe or market snack first and move the main meal to the next zone.
 
 ## Rainy-Day and Hot-Weather Adjustments
 
@@ -255,6 +255,10 @@ The third mistake is trusting map travel time too literally. On weekends, during
 Coasts and viewpoints are usually better in the morning or near sunset, while markets and night-view areas work better in the evening. In winter, avoid placing outdoor photo stops too late.
 
 Before leaving, save every stop in Google Maps along with backup restaurants, nearby cafes, and the return route to your stay area.
+
+## Official Information Check
+
+Fare checked 2026-09-14: the [official cable-car site](https://cablecar.ttdc.kr/main/main.php) lists an individual adult return ticket at KRW 17,000. Recheck operating dates and discounts; this check excludes ferries and meals.
 
 ## FAQ
 

@@ -18,7 +18,7 @@ draft: false
 
 A half-day Daegu city route covering Modern Alley, Gyesan Cathedral, Kim Gwangseok Street, walking order, cafes, and transport.
 
-This guide is written around the questions travelers usually search before booking: route order, public transport, where to stay, realistic costs, food timing, and what to check when the weather changes. It avoids a simple list of famous places and focuses on how the trip actually works on the ground.
+Use Banwoldang as the starting point for Gyesan Cathedral and the modern-history alleys, with Kim Gwangseok Street as a separate final stop. Allow for that last transfer if you expect to spend a long time photographing the earlier streets.
 
 <div class="article-summary">
   <strong>Key takeaways</strong>
@@ -218,7 +218,7 @@ For accommodation, choose an area near the last evening stop or the next morning
 
 ## Stay Area and Food Timing
 
-The best stay area is not always the cheapest one. Choose a place that is easy to return to after the final stop. If you plan dinner or night views near Kim Gwangseok Street, staying too far  early the next day, prioritize access to a station, terminal, or airport.
+The best stay area is not always the cheapest one. Choose a place that is easy to return to after the final stop. If you plan dinner or night views near Kim Gwangseok Street, check the return journey before booking. If you leave early the next day, prioritize access to a station, terminal, or airport.
 
 For food, place one longer meal after Gyesan Cathedral or keep dinner near Kim Gwangseok Street. Do not build the whole day around one popular restaurant. Save two or three options in the same area. If the queue is long, recover with a cafe or market snack first and move the main meal to the next zone.
 

@@ -1,6 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
-import {parse} from 'parse5';
+import {parse, parseFragment} from 'parse5';
 
 const walk = node => [node, ...(node.childNodes ?? []).flatMap(walk)];
 const attr = (node, name) => node.attrs?.find(item => item.name === name)?.value;
@@ -8,6 +8,12 @@ const plain = node => node.nodeName === '#text' ? node.value : (node.childNodes 
 const key = url => decodeURIComponent(url).normalize('NFC').replace(/\/$/, '') || '/';
 const pages = new Map();
 const errors = [];
+for (const file of fs.readdirSync('src/content/travel').filter(name => name.endsWith('.md'))) {
+  const source = fs.readFileSync(path.join('src/content/travel', file), 'utf8');
+  const nodes = walk(parseFragment(source, {sourceCodeLocationInfo: true}));
+  if (nodes.some(node => node.nodeName === 'section' && node.sourceCodeLocation && !node.sourceCodeLocation.endTag)) errors.push(`${file}: unclosed HTML section`);
+  if (/<\/st\/div>|<\/strong\/div>|mo\/div>/.test(source)) errors.push(`${file}: malformed budget row`);
+}
 function scan(dir) {
   for (const entry of fs.readdirSync(dir, {withFileTypes: true})) {
     const file = path.join(dir, entry.name);

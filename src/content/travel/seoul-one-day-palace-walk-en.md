@@ -18,7 +18,7 @@ draft: false
 
 A first-time Seoul walking itinerary that connects Gyeongbokgung Palace, Bukchon Hanok Village, Insadong, transport tips, photo timing, and food stops.
 
-This guide is written around the questions travelers usually search before booking: route order, public transport, where to stay, realistic costs, food timing, and what to check when the weather changes. It avoids a simple list of famous places and focuses on how the trip actually works on the ground.
+Allocate time to Gyeongbokgung and Bukchon before continuing to Insadong and Cheonggyecheon. Check official palace opening information and Bukchon's visitor restrictions before following the sequence; the walking plan is not an exception to either site's access rules.
 
 <div class="article-summary">
   <strong>Key takeaways</strong>
@@ -218,7 +218,7 @@ For accommodation, choose an area near the last evening stop or the next morning
 
 ## Stay Area and Food Timing
 
-The best stay area is not always the cheapest one. Choose a place that is easy to retu you plan dinner or night views near Cheonggyecheon Stream, staying too far away can make the next morning harder. If you leave early the next day, prioritize access to a station, terminal, or airport.
+The best stay area is not always the cheapest one. Choose a place that is easy to return to after the final stop. If you plan dinner or night views near Cheonggyecheon Stream, staying too far away can make the next morning harder. If you leave early the next day, prioritize access to a station, terminal, or airport.
 
 For food, place one longer meal after Bukchon Hanok Village or keep dinner near Cheonggyecheon Stream. Do not build the whole day around one popular restaurant. Save two or three options in the same area. If the queue is long, recover with a cafe or market snack first and move the main meal to the next zone.
 
@@ -257,6 +257,10 @@ The third mistake is trusting map travel time too literally. On weekends, during
 Coasts and viewpoints are usually better in the morning or near sunset, while markets and night-view areas work better in the evening. In winter, avoid placing outdoor photo stops too late.
 
 Before leaving, save every stop in Google Maps along with backup restaurants, nearby cafes, and the return route to your stay area.
+
+## Official Information Check
+
+Checked 2026-09-14: [palace opening guidance](https://royal.khs.go.kr/ROYAL/contents/R702000000.do) lists Tuesday closure for Gyeongbokgung, with holiday exceptions. [Seoul's Bukchon notice](https://hanok.seoul.go.kr/m/kor/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000031&nttId=2482) restricts tourist visits to the Red Zone from 17:00 to 10:00. This check covers these access notices, not every price or business in this guide.
 
 ## FAQ
 

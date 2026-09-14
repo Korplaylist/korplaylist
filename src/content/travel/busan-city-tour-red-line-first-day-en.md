@@ -156,6 +156,10 @@ If your hotel choice is still open, use [Busan First Day From Gimhae Airport 202
   <figcaption>Korea Playlist Image 2.0</figcaption>
 </figure>
 
+## Official Timetable Check
+
+Timetable checked 2026-09-14: the [official weekend schedule](https://citytourbusan.com/ko/02course/01_02.php) covers Friday through Sunday and links to a separate weekday schedule. Check your travel day and final reboarding stop. This check does not revalidate every fare or discount in the article.
+
 ## FAQ
 
 ### Is the Red Line good for a first trip to Busan?

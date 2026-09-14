@@ -18,7 +18,7 @@ draft: false
 
 A family-friendly Gyeongju guide covering child-friendly ruins, museums, walking routes, rest stops, and how to avoid an exhausting schedule.
 
-This guide is written around the questions travelers usually search before booking: route order, public transport, where to stay, realistic costs, food timing, and what to check when the weather changes. It avoids a simple list of famous places and focuses on how the trip actually works on the ground.
+Choose the length of the Daereungwon and Cheomseongdae walks around your family's pace and the time you want at Gyeongju National Museum. Treat the final Donggung and Wolji visit as a decision to revisit before dinner, not an obligation after a tiring day.
 
 <div class="article-summary">
   <strong>Key takeaways</strong>

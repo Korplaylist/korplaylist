@@ -18,7 +18,7 @@ draft: false
 
 A one-day Busan food route for Jagalchi Market, Gukje Market, Bupyeong Kkangtong Market, snack budgets, timing, and nearby internal route planning.
 
-This guide is written around the questions travelers usually search before booking: route order, public transport, where to stay, realistic costs, food timing, and what to check when the weather changes. It avoids a simple list of famous places and focuses on how the trip actually works on the ground.
+Jagalchi is the main-meal decision in this route; Gukje and Bupyeong Kkangtong are opportunities to browse and choose smaller snacks. Before continuing to BIFF Square, check whether another food stop still fits your appetite and return plans.
 
 <div class="article-summary">
   <strong>Key takeaways</strong>
@@ -226,7 +226,7 @@ For food, place one longer meal after Gukje Market or keep dinner near BIFF Squa
 
 On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and short taxi rides. Photo-focused stops may lose value, so keep only one or two essential daylight stops.
 
-Use the rest of the day for food and rest. In summer, avoid long midday walks. In winte because sunset comes quickly.
+Use the remaining time for a market meal or a seated break. In summer, shorten exposed walks between the markets; in winter, leave daylight for any outdoor photographs before continuing with dinner.
 
 <figure class="content-photo">
   <picture>

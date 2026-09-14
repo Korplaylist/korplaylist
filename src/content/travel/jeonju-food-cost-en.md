@@ -18,7 +18,7 @@ draft: false
 
 A Jeonju food cost guide for bibimbap, bean sprout soup, market snacks, cafe breaks, daily budget ranges, and route-friendly meals.
 
-This guide is written around the questions travelers usually search before booking: route order, public transport, where to stay, realistic costs, food timing, and what to check when the weather changes. It avoids a simple list of famous places and focuses on how the trip actually works on the ground.
+Set a main meal before budgeting for snacks around Hanok Village, Nambu Market, Bibimbap Street and Gaekridan-gil. Keeping bibimbap or kongnamul gukbap separate from the snack and cafe allowance makes extra orders easier to judge.
 
 <div class="article-summary">
   <strong>Key takeaways</strong>

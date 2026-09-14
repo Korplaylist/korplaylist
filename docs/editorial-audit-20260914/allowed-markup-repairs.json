@@ -1,0 +1,32 @@
+[
+  [
+    "src/content/travel/busan-station-luggage-first-day.md",
+    "  <div><span>비상 예산</span><strong>15,000~25,000원</st/div>",
+    "  <div><span>비상 예산</span><strong>15,000~25,000원</strong></div>"
+  ],
+  [
+    "src/content/travel/yeosu-island-day.md",
+    "  <div><span>비상 예산</span><strong>20,000~40,000원</strong/div>",
+    "  <div><span>비상 예산</span><strong>20,000~40,000원</strong></div>"
+  ],
+  [
+    "src/content/travel/yeosu-island-day-en.md",
+    "  <div><span>Backup budget</span><strong>KRW 20,000-40,000</strong><p>Keep room for rain, missed buses, luggage mo/div>",
+    "  <div><span>Backup budget</span><strong>KRW 20,000-40,000</strong><p>Keep room for rain, missed buses, luggage movement, or a taxi at the end of the day.</p></div>"
+  ],
+  [
+    "src/content/travel/incheon-open-port-en.md",
+    "  <div><span>Tickets and activities</span><strong>KRW 0-30,000</strong><p>The range depends on whether you choose free walks or paid viewpoints, museums, cable cars, or experiences.</p></div>",
+    "  <div><span>Tickets and activities</span><strong>KRW 0-30,000</strong><p>The range depends on whether you choose free walks or paid viewpoints, museums, cable cars, or experiences.</p></div>\n</section>"
+  ],
+  [
+    "src/content/travel/incheon-open-port-ja.md",
+    "  <div><span>入場・体験</span><strong>0〜30,000ウォン</strong><p>無料散策中心か、展望台、博物館、ケーブルカーを入れるかで変わります。</p></div>",
+    "  <div><span>入場・体験</span><strong>0〜30,000ウォン</strong><p>無料散策中心か、展望台、博物館、ケーブルカーを入れるかで変わります。</p></div>\n</section>"
+  ],
+  [
+    "src/content/travel/incheon-open-port.md",
+    "  <div><span>입장·체험</span><strong>0~30,000원</strong><p>무료 산책지 중심인지, 전망대·케이블카·박물관을 넣는지에 따라 달라집니다.</p></div>",
+    "  <div><span>입장·체험</span><strong>0~30,000원</strong><p>무료 산책지 중심인지, 전망대·케이블카·박물관을 넣는지에 따라 달라집니다.</p></div>\n</section>"
+  ]
+]

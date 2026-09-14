@@ -18,7 +18,7 @@ draft: false
 
 A realistic first Busan itinerary that separates Haeundae, Gwangalli, Gamcheon Culture Village, Nampo-dong, stay areas, transport, and budget.
 
-This guide is written around the questions travelers usually search before booking: route order, public transport, where to stay, realistic costs, food timing, and what to check when the weather changes. It avoids a simple list of famous places and focuses on how the trip actually works on the ground.
+Separate the Haeundae, Dongbaekseom and Gwangalli portion from the Gamcheon and Jagalchi portion when dividing these stops over two days. Decide whether a longer Gwangalli evening or a relaxed market meal matters more before choosing where to sleep.
 
 <div class="article-summary">
   <strong>Key takeaways</strong>
@@ -239,7 +239,7 @@ For accommodation, choose an area near the last evening stop or the next morning
 
 The best stay area is not always the cheapest one. Choose a place that is easy to return to after the final stop. If you plan dinner or night views near Jagalchi Market, staying too far away can make the next morning harder. If you leave early the next day, prioritize access to a station, terminal, or airport.
 
-For food, place one longener near Jagalchi Market. Do not build the whole day around one popular restaurant. Save two or three options in the same area. If the queue is long, recover with a cafe or market snack first and move the main meal to the next zone.
+For food, plan a longer meal near Jagalchi Market. Do not build the whole day around one popular restaurant. Save two or three options in the same area. If the queue is long, recover with a cafe or market snack first and move the main meal to the next zone.
 
 ## Rainy-Day and Hot-Weather Adjustments
 

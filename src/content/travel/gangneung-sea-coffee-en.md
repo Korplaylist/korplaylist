@@ -18,7 +18,7 @@ draft: false
 
 A Gangneung day trip from the station to Anmok Beach, Coffee Street, Gyeongpo Lake, transport timing, food breaks, and weather alternatives.
 
-This guide is written around the questions travelers usually search before booking: route order, public transport, where to stay, realistic costs, food timing, and what to check when the weather changes. It avoids a simple list of famous places and focuses on how the trip actually works on the ground.
+This day starts from Gangneung Station, pairs Anmok Beach with Coffee Street, and adds Gyeongpo Lake afterward. Choose between a longer beach stop and a longer cafe break, then size the lake walk around your return train.
 
 <div class="article-summary">
   <strong>Key takeaways</strong>
@@ -218,7 +218,7 @@ For accommodation, choose an area near the last evening stop or the next morning
 
 ## Stay Area and Food Timing
 
-The best stay area is not always the cheapest one. Choose a place that is easy to return to after the final stop. If you plan dinner or night views near Gyeongpo Lake, If you leave early the next day, prioritize access to a station, terminal, or airport.
+The best stay area is not always the cheapest one. Choose a place that is easy to return to after the final stop. If you plan dinner or night views near Gyeongpo Lake, check how you will get back to your room. If you leave early the next day, prioritize access to a station, terminal, or airport.
 
 For food, place one longer meal after Anmok Beach or keep dinner near Gyeongpo Lake. Do not build the whole day around one popular restaurant. Save two or three options in the same area. If the queue is long, recover with a cafe or market snack first and move the main meal to the next zone.
 

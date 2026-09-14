@@ -18,7 +18,7 @@ draft: false
 
 A Seoul evening route for Han River night views, covering Yeouido, Banpo Bridge, picnic timing, transport, and what to prepare after sunset.
 
-This guide is written around the questions travelers usually search before booking: route order, public transport, where to stay, realistic costs, food timing, and what to check when the weather changes. It avoids a simple list of famous places and focuses on how the trip actually works on the ground.
+Choose between visiting both Yeouido and Banpo and spending the evening at just one park. If you continue toward Sebitseom, retain time for the final Express Bus Terminal Station transfer instead of letting the park-to-park movement consume the evening.
 
 <div class="article-summary">
   <strong>Key takeaways</strong>
@@ -226,7 +226,7 @@ For food, place one longer meal after Banpo Hangang Park or keep dinner near Exp
 
 On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and short taxi rides. Photo-focused stops may lose value, so keep only one or two essential daylight stops.
 
-Use the rest of the day forid long midday walks. In winter, move outdoor photo stops earlier because sunset comes quickly.
+Use the remaining time for food and a seated break. In summer, avoid long midday walks. In winter, move outdoor photo stops earlier because sunset comes quickly.
 
 <figure class="content-photo">
   <picture>

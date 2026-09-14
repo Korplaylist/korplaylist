@@ -18,7 +18,7 @@ draft: false
 
 A Yeosu island planning guide for ferry schedules, weather checks, day-trip timing, backup plans, and what to prepare before boarding.
 
-This guide is written around the questions travelers usually search before booking: route order, public transport, where to stay, realistic costs, food timing, and what to check when the weather changes. It avoids a simple list of famous places and focuses on how the trip actually works on the ground.
+The ferry terminal, Odongdo, Dolsan Park and cable car are planning references, not a confirmed round-trip sailing to a particular island. For a boat trip, establish the island and return departure first, then decide how much of the city-view portion still fits.
 
 <div class="article-summary">
   <strong>Key takeaways</strong>
@@ -205,7 +205,7 @@ For accommodation, choose an area near the last evening stop or the next morning
   <div><span>Local transport</span><strong>KRW 8,000-25,000</strong><p>Subway and bus routes stay low; several short taxis raise the total quickly.</p></div>
   <div><span>Meals and cafes</span><strong>KRW 35,000-70,000</strong><p>Markets and cafes improve the day but are usually where small costs stack up.</p></div>
   <div><span>Tickets and activities</span><strong>KRW 0-30,000</strong><p>The range depends on whether you choose free walks or paid viewpoints, museums, cable cars, or experiences.</p></div>
-  <div><span>Backup budget</span><strong>KRW 20,000-40,000</strong><p>Keep room for rain, missed buses, luggage mo/div>
+  <div><span>Backup budget</span><strong>KRW 20,000-40,000</strong><p>Keep room for rain, missed buses, luggage movement, or a taxi at the end of the day.</p></div>
 </section>
 
 <figure class="content-photo">
@@ -226,12 +226,12 @@ For food, place one longer meal after Odongdo Island or keep dinner near Yeosu C
 
 On rainy days, reduce outdoor time and mix indoor exhibits, markets, cafes, and short taxi rides. Photo-focused stops may lose value, so keep only one or two essential daylight stops.
 
-Use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, move s quickly.
+Use the rest of the day for food and rest. In summer, avoid long midday walks. In winter, keep the outdoor viewpoints within the available daylight rather than leaving them until the end.
 
 <figure class="content-photo">
   <picture>
     <source type="image/webp" srcset="/images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-160.webp 160w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-240.webp 240w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-320.webp 320w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-330.webp 330w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-360.webp 360w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-480.webp 480w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-520.webp 520w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-640.webp 640w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-680.webp 680w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-768.webp 768w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-960.webp 960w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1.jpg night sea promenade and harbor lights" alt="yeosu island day travel guide image - yeosu night sea generated yeosu island day trip 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1.jpg" alt="yeosu island day travel guide image - yeosu night sea generated yeosu island day trip 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>

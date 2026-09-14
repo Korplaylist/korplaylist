@@ -18,7 +18,7 @@ draft: false
 
 여수에서 섬 여행을 당일치기로 준비할 때 배편, 날씨, 이동 여유 시간을 먼저 확인해야 하는 이유와 일정 기준을 정리했습니다.
 
-이 글은 검색자가 가장 많이 궁금해하는 이동 순서, 대중교통 가능 여부, 숙소 위치, 예상 비용, 계절별 주의사항을 기준으로 정리했습니다. 단순히 유명한 곳을 나열하지 않고 실제 일정에 넣었을 때 피로도가 적은 순서로 설명합니다.
+여수연안여객선터미널·오동도·돌산공원·케이블카를 비교하되, 아래 목록만으로 특정 섬의 왕복 배편이 정해지는 것은 아닙니다. 배를 타는 여행을 선택했다면 목적 섬과 돌아오는 편부터 확인하고, 시내 전망 코스와 구분해서 일정을 잡으세요.
 
 <div class="article-summary">
   <strong>핵심 요약</strong>
@@ -205,7 +205,7 @@ draft: false
   <div><span>지역 내 교통</span><strong>8,000~25,000원</strong><p>지하철·버스 중심이면 낮고, 짧은 택시를 2회 이상 넣으면 올라갑니다.</p></div>
   <div><span>식사·카페</span><strong>35,000~70,000원</strong><p>시장 간식과 카페를 넣으면 만족도는 높지만 지출이 쉽게 늘어납니다.</p></div>
   <div><span>입장·체험</span><strong>0~30,000원</strong><p>무료 산책지 중심인지, 전망대·케이블카·박물관을 넣는지에 따라 달라집니다.</p></div>
-  <div><span>비상 예산</span><strong>20,000~40,000원</strong/div>
+  <div><span>비상 예산</span><strong>20,000~40,000원</strong></div>
 </section>
 
 <figure class="content-photo">
@@ -231,7 +231,7 @@ draft: false
 <figure class="content-photo">
   <picture>
     <source type="image/webp" srcset="/images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-160.webp 160w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-240.webp 240w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-320.webp 320w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-330.webp 330w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-360.webp 360w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-480.webp 480w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-520.webp 520w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-640.webp 640w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-680.webp 680w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-768.webp 768w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-960.webp 960w, /images/optimized/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-    <img src="/images/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1.jpg 산책로와 항구 야경" alt="yeosu island day travel guide image - yeosu night sea generated yeosu island day trip 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+    <img src="/images/generated/unique/yeosu-night-sea-generated-yeosu-island-day-trip-1.jpg" alt="yeosu island day travel guide image - yeosu night sea generated yeosu island day trip 1" width="1200" height="800" loading="lazy" decoding="async" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
   </picture>
   <figcaption>ⓒ한국플레이리스트</figcaption>
 </figure>

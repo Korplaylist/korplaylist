@@ -18,7 +18,7 @@ draft: false
 
 A Sokcho day plan connecting Seoraksan, the sea, Jungang Market food, bus movement, walking time, and what to check before visiting.
 
-This guide is written around the questions travelers usually search before booking: route order, public transport, where to stay, realistic costs, food timing, and what to check when the weather changes. It avoids a simple list of famous places and focuses on how the trip actually works on the ground.
+Set a limit for the Seoraksan walk before planning the Sokcho Tourist and Fishery Market meal. If the mountain visit expands, shorten or skip the beach stop so the return to the bus terminal does not depend on a rushed final transfer.
 
 <div class="article-summary">
   <strong>Key takeaways</strong>
@@ -258,6 +258,10 @@ The third mistake is trusting map travel time too literally. On weekends, during
 Coasts and viewpoints are usually better in the morning or near sunset, while markets and night-view areas work better in the evening. In winter, avoid placing outdoor photo stops too late.
 
 Before leaving, save every stop in Google Maps along with backup restaurants, nearby cafes, and the return route to your stay area.
+
+## Official Information Check
+
+Guidance checked 2026-09-14: consult [KNPS access restrictions](https://chiak.knps.or.kr/front/portal/safe/acsCtrList.do?menuNo=8000340) for the Seoraksan section you intend to visit. This is not confirmation of opening or bus service on your travel date.
 
 ## FAQ
 

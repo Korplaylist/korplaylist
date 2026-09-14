@@ -18,7 +18,7 @@ draft: false
 
 A Yeosu night route covering the cable car, night sea viewpoints, Romantic Pocha, Odongdo, stay areas, timing, and weather cautions.
 
-This guide is written around the questions travelers usually search before booking: route order, public transport, where to stay, realistic costs, food timing, and what to check when the weather changes. It avoids a simple list of famous places and focuses on how the trip actually works on the ground.
+From Yeosu Expo Station, divide the Odongdo visit, cable-car wait and Nangman Pocha dinner into separate time allowances. Leave room to enjoy the night waterfront and still return to your accommodation or station without relying on an immediate taxi.
 
 <div class="article-summary">
   <strong>Key takeaways</strong>
