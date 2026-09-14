@@ -7,6 +7,7 @@ Baseline: `13dd0ba`. Backup branch: `codex/backup-before-navigation-20260914`.
 - Add 47 nonempty English/Japanese region/theme index and archive pages. Menus and home-page category links lead to lists, not a single arbitrary article.
 - Normalize category aliases in the browsing layer only. Article metadata remains untouched. Archives use stable ASCII paths and are included in the sitemap.
 - Add search, region/theme filters, 12-item pagination, counts, empty results, and reset controls to the three all-guide pages and the new archives.
+- Break equal-publication-date sort ties by the existing article URL so page membership is consistent across local and production builds.
 - Keep all guide links and existing photos in server-rendered HTML. Without JavaScript, every card remains visible. Filter and page state uses URL parameters and survives returning from an article or reloading. The canonical remains the unfiltered archive.
 - Connect article language controls to existing translations; when unavailable, use the destination-language all-guide list. The current language stays on the article. Common support/index pages retain their section when switching languages. 404 language controls return home.
 - Link translated article breadcrumbs to their region archives and structured author records to the real About pages.

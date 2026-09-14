@@ -3,7 +3,13 @@ import { categorySlugMap, postRegionMap, regionSlugMap } from "../site.config";
 
 export async function getPublishedTravelPosts(locale = "ko") {
   const posts = await getCollection("travel", ({ data }) => isIndexableTravelData(data) && (data.locale ?? "ko") === locale);
-  return posts.sort((a, b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf());
+  return posts.sort((a, b) => {
+    const dateOrder = b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf();
+    if (dateOrder) return dateOrder;
+    const aUrl = getPostUrl(a);
+    const bUrl = getPostUrl(b);
+    return aUrl < bUrl ? -1 : aUrl > bUrl ? 1 : 0;
+  });
 }
 
 export function isPublishedTravelData(data: { draft?: boolean; publishedAt: Date }) {
