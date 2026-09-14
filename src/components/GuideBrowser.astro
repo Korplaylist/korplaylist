@@ -1,0 +1,101 @@
+---
+import PostCard from './PostCard.astro';
+import { browseGroups, browseLabels, browseCategory } from '../lib/browse';
+import { getPostRegionSlug } from '../lib/travel';
+const { posts, locale = 'ko' } = Astro.props;
+const labels = browseLabels[locale];
+---
+<guide-browser>
+  <form class="guide-controls" hidden role="search">
+    <label>{labels.search}<input name="q" type="search" autocomplete="off" /></label>
+    <label>{labels.region}<select name="region"><option value="">{labels.all}</option>{browseGroups(posts, locale, 'regions').map(group => <option value={group.key}>{group.label}</option>)}</select></label>
+    <label>{labels.theme}<select name="theme"><option value="">{labels.all}</option>{browseGroups(posts, locale, 'categories').map(group => <option value={group.key}>{group.label}</option>)}</select></label>
+    <button type="reset">{labels.reset}</button>
+  </form>
+  <p class="guide-count" role="status" aria-live="polite" data-label={labels.results}></p>
+  <div class="post-grid">
+    {posts.map(post => <div data-guide data-region={getPostRegionSlug(post)} data-theme={browseCategory(post.data.category)} data-search={`${post.data.title} ${post.data.description} ${post.data.region} ${post.data.tags.join(' ')}`}><PostCard post={post} /></div>)}
+  </div>
+  <p data-empty hidden>{labels.empty}</p>
+  <nav class="guide-pagination" aria-label={labels.page} hidden>
+    <button type="button" data-prev aria-label={labels.previous} title={labels.previous}>&larr;</button>
+    <span data-page></span>
+    <button type="button" data-next aria-label={labels.next} title={labels.next}>&rarr;</button>
+  </nav>
+</guide-browser>
+<style>
+  guide-browser { display: block; }
+  .guide-controls { display: grid; grid-template-columns: minmax(160px, 2fr) repeat(2, minmax(120px, 1fr)) auto; gap: 12px; align-items: end; }
+  .guide-controls label { display: grid; gap: 6px; min-width: 0; font-size: 14px; }
+  input, select, button { font: inherit; min-height: 44px; border: 1px solid #a8afb5; border-radius: 4px; background: white; color: #202529; padding: 8px 12px; min-width: 0; }
+  button { cursor: pointer; }
+  button:disabled { opacity: .45; cursor: default; }
+  .guide-pagination { display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 28px; }
+  .guide-pagination button { width: 44px; }
+  [data-page] { min-width: 70px; text-align: center; }
+  [hidden] { display: none !important; }
+  @media(max-width: 600px) { .guide-controls { grid-template-columns: 1fr 1fr; } .guide-controls label:first-child { grid-column: 1 / -1; } }
+</style>
+<script>
+  class GuideBrowser extends HTMLElement {
+    connectedCallback() {
+      if (this.dataset.ready) return;
+      this.dataset.ready = 'true';
+      const form = this.querySelector('form')!;
+      const input = form.elements.namedItem('q') as HTMLInputElement;
+      const region = form.elements.namedItem('region') as HTMLSelectElement;
+      const theme = form.elements.namedItem('theme') as HTMLSelectElement;
+      const items = [...this.querySelectorAll<HTMLElement>('[data-guide]')];
+      const pager = this.querySelector<HTMLElement>('.guide-pagination')!;
+      const previous = this.querySelector<HTMLButtonElement>('[data-prev]')!;
+      const next = this.querySelector<HTMLButtonElement>('[data-next]')!;
+      const status = this.querySelector<HTMLElement>('[role="status"]')!;
+      const normalize = (value: string) => value.normalize('NFKC').toLocaleLowerCase();
+      let page = 1;
+      const readUrl = () => {
+        const params = new URLSearchParams(location.search);
+        input.value = params.get('q') ?? '';
+        region.value = params.get('region') ?? '';
+        theme.value = params.get('theme') ?? '';
+        if (region.selectedIndex < 0) region.value = '';
+        if (theme.selectedIndex < 0) theme.value = '';
+        page = Math.max(1, Number(params.get('page')) || 1);
+      };
+      const render = (save = true) => {
+        const words = normalize(input.value).trim().split(/\s+/).filter(Boolean);
+        const matched = items.filter(item => (!region.value || item.dataset.region === region.value) && (!theme.value || item.dataset.theme === theme.value) && words.every(word => normalize(item.dataset.search ?? '').includes(word)));
+        const pages = Math.max(1, Math.ceil(matched.length / 12));
+        page = Math.min(pages, Math.floor(page));
+        const visible = new Set(matched.slice((page - 1) * 12, page * 12));
+        items.forEach(item => { item.hidden = !visible.has(item); });
+        status.textContent = `${status.dataset.label}: ${matched.length}`;
+        this.querySelector<HTMLElement>('[data-empty]')!.hidden = matched.length > 0;
+        this.querySelector('[data-page]')!.textContent = `${page} / ${pages}`;
+        pager.hidden = pages <= 1;
+        previous.disabled = page <= 1;
+        next.disabled = page >= pages;
+        if (save) {
+          const url = new URL(location.href);
+          for (const [key, value] of [['q', input.value], ['region', region.value], ['theme', theme.value], ['page', page > 1 ? String(page) : '']]) {
+            if (value) url.searchParams.set(key, value); else url.searchParams.delete(key);
+          }
+          history.replaceState(null, '', url);
+        }
+      };
+      form.hidden = false;
+      form.addEventListener('submit', event => { event.preventDefault(); page = 1; render(); });
+      form.addEventListener('input', () => { page = 1; render(); });
+      form.addEventListener('reset', event => {
+        event.preventDefault();
+        input.value = ''; region.value = ''; theme.value = '';
+        page = 1; render();
+      });
+      const turn = (step: number) => { page += step; render(); form.scrollIntoView({ block: 'start' }); input.focus({ preventScroll: true }); };
+      previous.addEventListener('click', () => turn(-1));
+      next.addEventListener('click', () => turn(1));
+      window.addEventListener('popstate', () => { readUrl(); render(false); });
+      readUrl(); render(false);
+    }
+  }
+  if (!customElements.get('guide-browser')) customElements.define('guide-browser', GuideBrowser);
+</script>

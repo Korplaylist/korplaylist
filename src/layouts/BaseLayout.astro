@@ -87,7 +87,7 @@ const alternateEntries = Object.entries(alternates);
     <style set:html={globalStyles} />
   </head>
   <body>
-    <Header locale={locale} />
+    <Header locale={locale} alternates={alternates} />
     <main>
       <slot />
     </main>

@@ -4,6 +4,7 @@ import PopularCarousel from "../../components/PopularCarousel.astro";
 import PostCard from "../../components/PostCard.astro";
 import { getPopularPosts, getPostUrl, getPublishedTravelPosts } from "../../lib/travel";
 import { localizedCategories, localizedRegions, regionSlugMap } from "../../site.config";
+import { browseGroups, browseUrl } from '../../lib/browse';
 
 const posts = await getPublishedTravelPosts("ja");
 const latest = posts.slice(0, 6);
@@ -19,12 +20,9 @@ const categoryDescriptions = {
 const regionItems = localizedRegions.ja.map((label, index) => {
   const koRegion = localizedRegions.ko[index];
   const post = posts.find((item) => item.data.regionSlug === regionSlugMap[koRegion]);
-  return { label, href: post ? getPostUrl(post) : "/ja/#regions" };
-});
-const categoryItems = localizedCategories.ja.map((label, index) => {
-  const post = posts.find((item) => item.data.category === label);
-  return { label, href: post ? getPostUrl(post) : "/ja/#themes", description: categoryDescriptions[label] };
-});
+  return { label, href: post ? `/ja/regions/${regionSlugMap[koRegion]}/` : null };
+}).filter(item => item.href);
+const categoryItems = browseGroups(posts, 'ja', 'categories').map(group => ({ label: group.label, href: browseUrl('ja', 'categories', group.key), description: categoryDescriptions[group.label] }));
 ---
 
 <BaseLayout

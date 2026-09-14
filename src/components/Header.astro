@@ -1,7 +1,7 @@
 ---
 import { localeLabels, siteConfig } from "../site.config";
 
-const { locale = "ko" } = Astro.props;
+const { locale = "ko", alternates = {} } = Astro.props;
 const labels = localeLabels[locale] ?? localeLabels.ko;
 const siteName = siteConfig.localizedSiteNames[locale] ?? siteConfig.siteName;
 
@@ -10,6 +10,18 @@ const languages = [
   { href: "/en/", flagImage: "/icons/flag-en.svg", label: "English", code: "EN" },
   { href: "/ja/", flagImage: "/icons/flag-ja.svg", label: "日本語", code: "JA" }
 ];
+const currentPath = Astro.url.pathname;
+const articlePage = /\/travel\/[^/]+\/[^/]+\/$/.test(currentPath);
+const languageHref = (language) => {
+  const targetLocale = language.code.toLowerCase();
+  if (/^\/404(?:\.html)?\/?$/.test(currentPath)) return language.href;
+  if (targetLocale === locale) return currentPath;
+  if (alternates[targetLocale]) return alternates[targetLocale];
+  if (articlePage) return `${language.href}travel/`;
+  const sectionPath = currentPath.replace(/^\/(en|ja)\//, '/');
+  if (['/travel/', '/about/', '/contact/', '/privacy/', '/terms/', '/regions/', '/categories/'].includes(sectionPath)) return `${language.href}${sectionPath.slice(1)}`;
+  return language.href;
+};
 ---
 
 <header class="site-header">
@@ -18,15 +30,15 @@ const languages = [
     <span>{siteName}</span>
   </a>
   <nav class="nav" aria-label={labels.navLabel}>
-    <a href={locale === "ko" ? "/regions/" : `/${locale}/#regions`}>{labels.regions}</a>
-    <a href={locale === "ko" ? "/categories/" : `/${locale}/#themes`}>{labels.categories}</a>
+    <a href={locale === "ko" ? "/regions/" : `/${locale}/regions/`}>{labels.regions}</a>
+    <a href={locale === "ko" ? "/categories/" : `/${locale}/categories/`}>{labels.categories}</a>
     <a href={locale === "ko" ? "/about/" : `/${locale}/about/`}>{labels.about}</a>
     <a href={locale === "ko" ? "/contact/" : `/${locale}/contact/`}>{labels.contact}</a>
   </nav>
   <div class="header-actions">
     <nav class="language-switcher" aria-label={labels.languageLabel}>
       {languages.map((language) => (
-        <a class="language-link" href={language.href} aria-label={`${language.label} 메인 페이지로 이동`} title={language.label}>
+        <a class="language-link" href={languageHref(language)} aria-label={language.label} title={language.label} lang={language.code.toLowerCase()} aria-current={language.code.toLowerCase() === locale ? 'page' : undefined}>
           <img class="language-flag" src={language.flagImage} alt="" width="24" height="16" loading="lazy" decoding="async" />
           <span class="language-label">{language.label}</span>
           <span class="language-code">{language.code}</span>

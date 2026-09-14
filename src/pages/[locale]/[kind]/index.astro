@@ -1,0 +1,22 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { getPublishedTravelPosts } from '../../../lib/travel';
+import { browseGroups, browseUrl, browseLabels } from '../../../lib/browse';
+export async function getStaticPaths() {
+  const paths = [];
+  for (const locale of ['en', 'ja']) {
+    const posts = await getPublishedTravelPosts(locale);
+    for (const kind of ['regions', 'categories']) paths.push({ params: { locale, kind }, props: { groups: browseGroups(posts, locale, kind) } });
+  }
+  return paths;
+}
+const { locale, kind } = Astro.params;
+const { groups } = Astro.props;
+const title = kind === 'regions' ? browseLabels[locale].region : browseLabels[locale].theme;
+---
+<BaseLayout title={title} description={title} locale={locale} canonical={browseUrl(locale, kind)}>
+  <section class="page-shell"><h1>{title}</h1></section>
+  <section class="section"><div class="filter-grid">
+    {groups.map(group => <a href={browseUrl(locale, kind, group.key)}>{group.label} ({group.posts.length})</a>)}
+  </div></section>
+</BaseLayout>

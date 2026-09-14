@@ -6,7 +6,7 @@ import ShareButtons from "../components/ShareButtons.astro";
 import StayRecommendationPanel from "../components/StayRecommendationPanel.astro";
 import { authorProfiles, siteConfig } from "../site.config";
 import { getWebpSrcSet } from "../lib/imageVariants";
-import { formatDate, getImageAlt, getPostLocale, getPostRegion, getPostUrl, getRegionUrl } from "../lib/travel";
+import { formatDate, getImageAlt, getPostLocale, getPostRegion, getPostRegionSlug, getPostUrl, getRegionUrl } from "../lib/travel";
 
 const { post, headings = [], relatedPosts = [], faqItems = [], alternates = {} } = Astro.props;
 const postUrl = new URL(getPostUrl(post), siteConfig.domain).toString();
@@ -15,7 +15,7 @@ const locale = getPostLocale(post);
 const author = authorProfiles[locale] ?? authorProfiles.ko;
 const imageAlt = getImageAlt(post);
 const postRegion = getPostRegion(post);
-const regionUrl = locale === "ko" ? getRegionUrl(postRegion) : `/${locale}/#regions`;
+const regionUrl = locale === "ko" ? getRegionUrl(postRegion) : `/${locale}/regions/${getPostRegionSlug(post)}/`;
 const noindex = post.data.adsenseReady === false;
 const labels = {
   ko: {
@@ -70,7 +70,7 @@ const articleSchema = {
     "@type": "Person",
     name: author.name,
     description: `${author.summary} ${author.detail}`,
-    url: new URL(locale === "ko" ? "/about/" : `/${locale}/#about`, siteConfig.domain).toString()
+    url: new URL(locale === "ko" ? "/about/" : `/${locale}/about/`, siteConfig.domain).toString()
   },
   publisher: {
     "@type": "Organization",
