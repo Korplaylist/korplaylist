@@ -29,3 +29,9 @@ No changes to article files, titles, body text, publication dates, article URLs,
 Unverified hotel listings have not been invented or substituted. Other-city reference cards remain explicitly labeled and preserve their photos. Replacing these with verified destination-specific inventory still requires source data.
 
 No DNS, AdSense verification/consent setting, CSP permission, or Search Console setting changed. These require the relevant account access and configuration decisions. This release does not guarantee AdSense approval and does not submit a review request.
+
+## Header entry follow-up
+
+All three languages now share the same header entry points: an all-guide link and a 44px search icon link. Labels are localized (전체 글 / All guides / 記事一覧). Search opens the correct language's guide list, scrolls to the input and focuses it. Re-entering search on that list preserves the current query and filters. Mobile navigation wraps without changing existing menu destinations. The search icon is the unmodified Lucide 0.468.0 asset; its license is stored alongside it in `public/icons/`.
+
+The navigation checker asserts the header links and search target on every generated page, and compares inline as well as external module scripts during public release verification. Article source and image files remain unchanged.

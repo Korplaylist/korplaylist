@@ -7,7 +7,7 @@ const labels = browseLabels[locale];
 ---
 <guide-browser>
   <form class="guide-controls" hidden role="search">
-    <label>{labels.search}<input name="q" type="search" autocomplete="off" /></label>
+    <label>{labels.search}<input id="guide-search" name="q" type="search" autocomplete="off" /></label>
     <label>{labels.region}<select name="region"><option value="">{labels.all}</option>{browseGroups(posts, locale, 'regions').map(group => <option value={group.key}>{group.label}</option>)}</select></label>
     <label>{labels.theme}<select name="theme"><option value="">{labels.all}</option>{browseGroups(posts, locale, 'categories').map(group => <option value={group.key}>{group.label}</option>)}</select></label>
     <button type="reset">{labels.reset}</button>
@@ -25,7 +25,8 @@ const labels = browseLabels[locale];
 </guide-browser>
 <style>
   guide-browser { display: block; }
-  .guide-controls { display: grid; grid-template-columns: minmax(160px, 2fr) repeat(2, minmax(120px, 1fr)) auto; gap: 12px; align-items: end; }
+  .guide-controls { display: grid; grid-template-columns: minmax(160px, 2fr) repeat(2, minmax(120px, 1fr)) auto; gap: 12px; align-items: end; scroll-margin-top: 160px; }
+  #guide-search { scroll-margin-top: 160px; }
   .guide-controls label { display: grid; gap: 6px; min-width: 0; font-size: 14px; }
   input, select, button { font: inherit; min-height: 44px; border: 1px solid #a8afb5; border-radius: 4px; background: white; color: #202529; padding: 8px 12px; min-width: 0; }
   button { cursor: pointer; }
@@ -35,6 +36,8 @@ const labels = browseLabels[locale];
   [data-page] { min-width: 70px; text-align: center; }
   [hidden] { display: none !important; }
   @media(max-width: 600px) { .guide-controls { grid-template-columns: 1fr 1fr; } .guide-controls label:first-child { grid-column: 1 / -1; } }
+  @media(min-width: 621px) and (max-width: 900px) { .guide-controls, #guide-search { scroll-margin-top: 260px; } }
+  @media(max-width: 620px) { .guide-controls, #guide-search { scroll-margin-top: 24px; } }
 </style>
 <script>
   class GuideBrowser extends HTMLElement {
@@ -95,6 +98,19 @@ const labels = browseLabels[locale];
       next.addEventListener('click', () => turn(1));
       window.addEventListener('popstate', () => { readUrl(); render(false); });
       readUrl(); render(false);
+      const focusSearch = () => {
+        input.focus({ preventScroll: true });
+        form.scrollIntoView({ block: 'start' });
+      };
+      if (location.hash === '#guide-search') focusSearch();
+      window.addEventListener('hashchange', () => { if (location.hash === '#guide-search') focusSearch(); });
+      document.querySelector<HTMLAnchorElement>('.header-search')?.addEventListener('click', event => {
+        const link = event.currentTarget as HTMLAnchorElement;
+        if (link.pathname !== location.pathname || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
+        event.preventDefault();
+        history.replaceState(null, '', `${location.pathname}${location.search}#guide-search`);
+        focusSearch();
+      });
     }
   }
   if (!customElements.get('guide-browser')) customElements.define('guide-browser', GuideBrowser);

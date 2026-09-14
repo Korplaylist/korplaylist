@@ -25,6 +25,14 @@ let articles = 0;
 let archives = 0;
 let translatedLinks = 0;
 for (const [url, nodes] of pages) {
+  const pageLocale = attr(nodes.find(node => node.nodeName === 'html'), 'lang');
+  const guidesUrl = `${pageLocale === 'ko' ? '' : `/${pageLocale}`}/travel/`;
+  const allGuides = nodes.find(node => hasClass(node, 'header-all-guides'));
+  const searchLink = nodes.find(node => hasClass(node, 'header-search'));
+  assert.equal(attr(allGuides ?? {}, 'href'), guidesUrl, `${url}: all-guides entry`);
+  assert.equal(attr(searchLink ?? {}, 'href'), `${guidesUrl}#guide-search`, `${url}: search entry`);
+  assert.ok(attr(searchLink, 'aria-label') && attr(searchLink, 'title'), `${url}: search label/tooltip`);
+  assert.ok(pages.get(guidesUrl).some(node => attr(node, 'id') === 'guide-search'), `${url}: search target missing`);
   if (nodes.some(node => hasClass(node, 'article-content'))) {
     articles++;
     const alternates = new Map(nodes.filter(node => node.nodeName === 'link' && attr(node, 'hreflang')).map(node => [attr(node, 'hreflang'), attr(node, 'href')]));
@@ -78,7 +86,7 @@ if (process.argv.includes('--production')) {
     const links = nodes => nodes.filter(node => node.nodeName === 'a').map(node => attr(node, 'href'));
     assert.deepEqual(links(actual), links(expected), `${url}: public navigation differs`);
     assert.equal(actual.filter(node => attr(node, 'data-guide') !== undefined).length, expected.filter(node => attr(node, 'data-guide') !== undefined).length, `${url}: public card count`);
-    const scripts = nodes => nodes.filter(node => node.nodeName === 'script' && attr(node, 'src')?.startsWith('/_astro/')).map(node => attr(node, 'src'));
+    const scripts = nodes => nodes.filter(node => node.nodeName === 'script' && attr(node, 'type') === 'module').map(node => attr(node, 'src') ?? node.childNodes.map(child => child.value ?? '').join(''));
     assert.deepEqual(scripts(actual), scripts(expected), `${url}: public client code differs`);
     checked++;
   }

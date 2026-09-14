@@ -91,6 +91,30 @@ img {
 .header-actions {
   display: flex;
   justify-content: end;
+  align-items: center;
+  gap: 10px;
+}
+
+.header-search {
+  display: inline-flex;
+  flex: 0 0 44px;
+  width: 44px;
+  height: 44px;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: var(--paper);
+}
+
+.header-search:hover {
+  background: var(--soft);
+}
+
+.header-search:focus-visible,
+.header-all-guides:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
 }
 
 .language-switcher {
@@ -1211,6 +1235,15 @@ h3 {
 
   .site-header {
     position: static;
+  }
+
+  .site-header .nav {
+    gap: 4px 10px;
+    font-size: 14px;
+  }
+
+  .site-header .nav a {
+    white-space: nowrap;
   }
 
   .language-label {

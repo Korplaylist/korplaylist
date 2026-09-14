@@ -4,6 +4,8 @@ import { localeLabels, siteConfig } from "../site.config";
 const { locale = "ko", alternates = {} } = Astro.props;
 const labels = localeLabels[locale] ?? localeLabels.ko;
 const siteName = siteConfig.localizedSiteNames[locale] ?? siteConfig.siteName;
+const guidesUrl = locale === 'ko' ? '/travel/' : `/${locale}/travel/`;
+const guideLabels = { ko: { all: '전체 글', search: '여행 글 검색' }, en: { all: 'All guides', search: 'Search guides' }, ja: { all: '記事一覧', search: '旅行記事を検索' } }[locale];
 
 const languages = [
   { href: "/", flagImage: "/icons/flag-ko.svg", label: "한국어", code: "KO" },
@@ -30,12 +32,16 @@ const languageHref = (language) => {
     <span>{siteName}</span>
   </a>
   <nav class="nav" aria-label={labels.navLabel}>
+    <a class="header-all-guides" href={guidesUrl}>{guideLabels.all}</a>
     <a href={locale === "ko" ? "/regions/" : `/${locale}/regions/`}>{labels.regions}</a>
     <a href={locale === "ko" ? "/categories/" : `/${locale}/categories/`}>{labels.categories}</a>
     <a href={locale === "ko" ? "/about/" : `/${locale}/about/`}>{labels.about}</a>
     <a href={locale === "ko" ? "/contact/" : `/${locale}/contact/`}>{labels.contact}</a>
   </nav>
   <div class="header-actions">
+    <a class="header-search" href={`${guidesUrl}#guide-search`} aria-label={guideLabels.search} title={guideLabels.search}>
+      <img src="/icons/lucide-search.svg" width="22" height="22" alt="" />
+    </a>
     <nav class="language-switcher" aria-label={labels.languageLabel}>
       {languages.map((language) => (
         <a class="language-link" href={languageHref(language)} aria-label={language.label} title={language.label} lang={language.code.toLowerCase()} aria-current={language.code.toLowerCase() === locale ? 'page' : undefined}>
