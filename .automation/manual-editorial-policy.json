@@ -1,5 +1,9 @@
 {
   "mode": "manual-request-only",
+  "writingPrompt": "docs/article-writing-prompt.md",
+  "imagePolicy": "docs/image-sourcing-policy.md",
+  "policyVersion": "2026-09-16-final",
+  "scope": "Future articles only. Existing articles, metadata, URLs and images must not be modified without separate explicit authorization.",
   "timezone": "Asia/Seoul",
   "dailyCount": {
     "min": 3,
@@ -37,8 +41,14 @@
     "Select keywords separately for each locale instead of translating the same Korean keyword.",
     "Use English URL slugs for every locale.",
     "Do not add a year to article titles unless a date-specific event, rule, price change, or edition makes it essential.",
-    "Keep body source lists out of articles. Keep only legally required image attribution captions.",
-    "Each article must pass content integrity, image existence, image duplicate, AdSense readiness, automation health, and Astro build checks before commit.",
+    "Read and follow docs/article-writing-prompt.md before planning, drafting or reviewing future articles in any locale. It supersedes conflicting historical writing prompts and queue instructions.",
+    "Link important verifiable claims to official sources naturally in the body. Record the source URL, actual verification date and covered claim; never invent verification dates.",
+    "Compare search intent with existing same-language articles before choosing a new topic. Do not modify existing articles to resolve overlap without explicit permission.",
+    "There is no mandatory article length, body image count, FAQ count or keyword density. Complete the reader's task without filler.",
+    "Daily counts are planning targets, not permission to publish unverified articles. Hold incomplete drafts and report the shortfall.",
+    "Each new article must pass documented editorial review, content integrity, image existence, image duplicate, automation health, and Astro build checks before commit. Legacy AdSense length diagnostics do not certify Google approval and must never trigger noindex or deletion.",
+    "Verify image-specific commercial use, modification, reference-input permission and credit before generation. Unclear rights or unresolved substantial similarity means hold, not publish. Follow docs/image-sourcing-policy.md in every locale.",
+    "Review hero and body image purposes, mobile tables, image cropping and loading before handoff. Verify the public URL after authorized publication.",
     "Do not stage unrelated dirty files."
   ]
 }

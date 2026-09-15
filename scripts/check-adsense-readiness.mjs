@@ -6,6 +6,7 @@ const MIN_TEXT_CHARS = 3000;
 const MIN_BODY_IMAGES = 3;
 
 const failures = [];
+const diagnostics = [];
 
 for (const file of fs.readdirSync(CONTENT_DIR).filter((name) => name.endsWith(".md"))) {
   const fullPath = path.join(CONTENT_DIR, file);
@@ -19,9 +20,10 @@ for (const file of fs.readdirSync(CONTENT_DIR).filter((name) => name.endsWith(".
 
   const textChars = (stripMarkup(body).match(/[\p{L}\p{N}]/gu) ?? []).length;
   const imageCount = (body.match(/!\[[^\]]*]\([^)]+\)|<img\b/gi) ?? []).length;
+  if (textChars === 0) failures.push(file);
 
   if (textChars < MIN_TEXT_CHARS || imageCount < MIN_BODY_IMAGES) {
-    failures.push({
+    diagnostics.push({
       file,
       textChars,
       imageCount,
@@ -33,13 +35,15 @@ for (const file of fs.readdirSync(CONTENT_DIR).filter((name) => name.endsWith(".
   }
 }
 
+console.log("Legacy length/image diagnostics only: these are not Google requirements or approval criteria.");
+if (diagnostics.length) console.table(diagnostics);
 if (failures.length) {
-  console.error("AdSense readiness check failed. Mark these posts adsenseReady: false or improve them first.");
+  console.error("Content check failed: empty article body. Review the affected draft; do not bulk change existing articles or indexing.");
   console.table(failures);
   process.exit(1);
 }
 
-console.log("AdSense readiness check passed.");
+console.log("Nonempty-body check passed. Human editorial review is still required; no Google approval is implied.");
 
 function stripMarkup(value) {
   return value

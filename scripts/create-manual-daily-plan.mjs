@@ -18,7 +18,7 @@ const keywordPlaybooks = {
       "\ub9db\uc9d1",
       "\ube44\uc6a9"
     ],
-    titlePattern: "\uc9c0\uc5ed + \uac15\ud55c \uac80\uc0c9 \uc758\ub3c4 + \uc5f0\ub3c4 + \uc2e4\uc81c \uace0\ubbfc \ud574\uacb0 \ubb38\uc7a5",
+    titlePattern: "Place + specific reader question in Korean; year only when essential",
     intentExamples: [
       "\ubd80\uc0b0 1\ubc152\uc77c \ucf54\uc2a4",
       "\uc81c\uc8fc \ube44\uc624\ub294\ub0a0 \uc11c\uadc0\ud3ec",
@@ -42,7 +42,7 @@ const keywordPlaybooks = {
       "budget",
       "public transport"
     ],
-    titlePattern: "Place + practical English travel intent + year + decision-focused promise",
+    titlePattern: "Place + specific reader question in English; year only when essential",
     intentExamples: [
       "Seoul rainy day itinerary",
       "Busan 2 day itinerary first time",
@@ -66,7 +66,7 @@ const keywordPlaybooks = {
       "\u7a7a\u6e2f\u30a2\u30af\u30bb\u30b9",
       "\u5730\u4e0b\u9244"
     ],
-    titlePattern: "\u5730\u57df\u540d + \u65e5\u672c\u8a9e\u691c\u7d22\u8a9e + 2026 + \u8ff7\u3044\u3092\u89e3\u304f\u5177\u4f53\u7684\u306a\u7d04\u675f",
+    titlePattern: "Place + specific reader question in Japanese; year only when essential",
     intentExamples: [
       "\u30bd\u30a6\u30eb \u96e8\u306e\u65e5 \u30e2\u30c7\u30eb\u30b3\u30fc\u30b9",
       "\u91dc\u5c71 2\u6cca3\u65e5 \u521d\u3081\u3066",
@@ -96,6 +96,11 @@ const plan = {
   date,
   locale,
   mode: "manual-request-only",
+  writingPrompt: policy.writingPrompt,
+  imagePolicy: policy.imagePolicy,
+  policyVersion: policy.policyVersion,
+  preservationScope: policy.scope,
+  publicationRule: "Hold unverified drafts even if fewer than the requested count are ready.",
   status: "planning",
   count,
   keywordStrategy: keywordPlaybooks[locale],
@@ -105,25 +110,36 @@ const plan = {
     targetKeyword: "",
     secondaryKeywords: [],
     searchIntent: "",
+    readerQuestion: "",
+    demandEvidence: { basis: "hypothesis", observations: [], checkedAt: null, limitations: "" },
+    existingIntentReview: { comparedUrls: [], overlap: "", decision: "pending", distinctValue: "" },
+    claimLedger: [],
+    claimLedgerFields: ["claim", "officialUrl", "checkedAt", "applicableConditions", "status"],
     regionSlug: "",
     title: "",
+    yearJustification: "",
+    description: "",
+    outline: [],
     urlSlug: "",
     internalLinkTargets: [],
-    imagePlan: [
-      "unique hero image",
-      "unique body image 1",
-      "unique body image 2",
-      "unique body image 3"
-    ],
+    imagePlan: [],
+    imagePlanFields: ["role", "purpose", "placement", "sourceUrl", "author", "license", "licenseEvidenceUrl", "checkedAt", "commercialUse", "modificationAllowed", "referenceInputAllowed", "thirdPartyRights", "credit", "prompt", "alt", "generatedDisclosure", "similarityReview", "rightsReviewStatus"],
+    imageReview: { status: "pending", heroPurpose: "", bodyPurposes: [], missingBodyImageReason: "", unresolvedRights: [] },
+    presentationReview: { mobile: "pending", desktop: "pending", tables: "pending", imageLoading: "pending" },
+    editorialReview: { status: "pending", reviewer: "", checkedAt: null, findings: [], unresolvedClaims: [] },
     status: "planned"
   }))
 };
 
-const outDir = path.resolve(".automation/manual-daily-plans");
-fs.mkdirSync(outDir, { recursive: true });
-const outPath = path.join(outDir, `${date}-${locale}.json`);
-fs.writeFileSync(outPath, `${stringifyAsciiJson(plan)}\n`, "utf8");
-console.log(`Created manual daily plan: ${outPath}`);
+if (args.stdout === "true") {
+  console.log(stringifyAsciiJson(plan));
+} else {
+  const outDir = path.resolve(".automation/manual-daily-plans");
+  fs.mkdirSync(outDir, { recursive: true });
+  const outPath = path.join(outDir, `${date}-${locale}.json`);
+  fs.writeFileSync(outPath, `${stringifyAsciiJson(plan)}\n`, { encoding: "utf8", flag: "wx" });
+  console.log(`Created manual daily plan: ${outPath}`);
+}
 
 function parseArgs(argv) {
   const result = {};
