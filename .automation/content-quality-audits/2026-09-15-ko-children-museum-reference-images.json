@@ -1,0 +1,30 @@
+{
+  "article": "national-museum-children-reservation-guide.md",
+  "request": "User explicitly requested photorealistic generation from reference photos, replacing this article's three images.",
+  "method": "Downloaded references privately outside public, inspected each reference, supplied each local reference directly to built-in image generation, inspected outputs and generated responsive WebP variants. Reference photographs are not deployed.",
+  "limitations": "Historical references, not current exhibit verification. Generated reconstructions differ from actual photography. Alt text identifies AI generation; visible credits remain Korean Playlist per user request.",
+  "assets": [
+    {
+      "asset": "children-museum-reference-exterior-ko-20260915.png",
+      "referencePage": "https://www.newscj.com/news/articleView.html?idxno=3228814",
+      "referenceImage": "https://cdn.newscj.com/news/photo/202502/3228814_3283540_245.jpg",
+      "generation": "exec-19bc5df0-da45-481e-916e-ccb9133309e5.png",
+      "review": "Museum pale facade, pine trees and pond retained; new viewpoint and seasonal appearance, not documentary photography"
+    },
+    {
+      "asset": "children-museum-reference-entrance-ko-20260915.png",
+      "referencePage": "https://www.ikoreanspirit.com/news/articleView.html?idxno=75610",
+      "referenceImage": "https://cdn.ikoreanspirit.com/news/photo/202404/75610_84147_3017.jpg",
+      "generation": "exec-5d70ff0c-3da4-4310-9555-aeea4dd75f89.png",
+      "review": "Mint horse-and-rider structure and ceiling geometry referenced; not an exact floor plan or current entrance guarantee"
+    },
+    {
+      "asset": "children-museum-reference-exhibit-ko-20260915.png",
+      "referencePage": "https://www.khan.co.kr/article/202404231431001",
+      "referenceImage": "https://img.khan.co.kr/news/2024/04/23/news-p.v1.20240423.d55617f11a7849469eb0cc7454a11ff4_P1.jpg",
+      "generation": "exec-c6c5363c-d94c-4725-bf58-f1ccc9c68a5d.png",
+      "review": "Red train exhibit, blue wheels and central column referenced; historical installation may have changed"
+    }
+  ],
+  "preservation": "Article text, table, URL, publication date and other articles unchanged. Previous assets retained for rollback, only this article's image references changed."
+}

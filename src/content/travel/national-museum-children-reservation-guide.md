@@ -10,8 +10,8 @@ urlSlug: "national-museum-children-reservation-guide"
 tags: ["국립중앙박물관 어린이박물관 예약", "어린이박물관 예약 취소", "서울 아이랑 실내", "가족 박물관"]
 publishedAt: "2026-09-15T15:45:00+09:00"
 updatedAt: "2026-09-15T15:45:00+09:00"
-heroImage: "/images/generated/children-museum-reservation-preparation-ko-20260915.png"
-imageAlt: "가족 나들이 준비를 표현한 가방, 겉옷, 휴대전화와 빈 수첩의 AI 생성 이미지"
+heroImage: "/images/generated/children-museum-reference-exterior-ko-20260915.png"
+imageAlt: "국립중앙박물관 외관과 거울못 참고사진을 바탕으로 만든 실사풍 AI 생성 이미지"
 imageCredit: "한국플레이리스트"
 adsenseReady: true
 draft: false
@@ -31,8 +31,8 @@ draft: false
 
 <figure class="content-photo content-infographic">
   <picture>
-  <source type="image/webp" srcset="/images/optimized/generated/children-museum-reservation-headcount-ko-20260915-480.webp 480w, /images/optimized/generated/children-museum-reservation-headcount-ko-20260915-768.webp 768w, /images/optimized/generated/children-museum-reservation-headcount-ko-20260915-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  <img src="/images/optimized/generated/children-museum-reservation-headcount-ko-20260915-1200.webp" srcset="/images/optimized/generated/children-museum-reservation-headcount-ko-20260915-480.webp 480w, /images/optimized/generated/children-museum-reservation-headcount-ko-20260915-768.webp 768w, /images/optimized/generated/children-museum-reservation-headcount-ko-20260915-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" width="1536" height="1024" loading="lazy" decoding="async" alt="예약 인원 계산 안내도: 보호자 2명, 어린이 1명, 유아 1명은 총 4명이며 36개월 미만 유아도 포함합니다." />
+  <source type="image/webp" srcset="/images/optimized/generated/children-museum-reference-entrance-ko-20260915-480.webp 480w, /images/optimized/generated/children-museum-reference-entrance-ko-20260915-768.webp 768w, /images/optimized/generated/children-museum-reference-entrance-ko-20260915-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <img src="/images/optimized/generated/children-museum-reference-entrance-ko-20260915-1200.webp" srcset="/images/optimized/generated/children-museum-reference-entrance-ko-20260915-480.webp 480w, /images/optimized/generated/children-museum-reference-entrance-ko-20260915-768.webp 768w, /images/optimized/generated/children-museum-reference-entrance-ko-20260915-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" width="1536" height="1024" loading="lazy" decoding="async" alt="어린이박물관의 연녹색 말 모양 구조물과 전시 공간 참고사진을 바탕으로 만든 AI 생성 이미지로 현재 현장 모습과 다를 수 있습니다." />
   </picture>
   <figcaption>한국플레이리스트</figcaption>
 </figure>
@@ -51,8 +51,8 @@ draft: false
 
 <figure class="content-photo content-infographic">
   <picture>
-  <source type="image/webp" srcset="/images/optimized/generated/children-museum-reservation-timeline-ko-20260915-480.webp 480w, /images/optimized/generated/children-museum-reservation-timeline-ko-20260915-768.webp 768w, /images/optimized/generated/children-museum-reservation-timeline-ko-20260915-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  <img src="/images/optimized/generated/children-museum-reservation-timeline-ko-20260915-1200.webp" srcset="/images/optimized/generated/children-museum-reservation-timeline-ko-20260915-480.webp 480w, /images/optimized/generated/children-museum-reservation-timeline-ko-20260915-768.webp 768w, /images/optimized/generated/children-museum-reservation-timeline-ko-20260915-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" width="1536" height="1024" loading="lazy" decoding="async" alt="예약 일정 안내도: 관람일 14일 전 0시 예약 시작, 방문이 어렵다면 회차 시작 전 취소, 입장 시 모바일 티켓 준비." />
+  <source type="image/webp" srcset="/images/optimized/generated/children-museum-reference-exhibit-ko-20260915-480.webp 480w, /images/optimized/generated/children-museum-reference-exhibit-ko-20260915-768.webp 768w, /images/optimized/generated/children-museum-reference-exhibit-ko-20260915-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <img src="/images/optimized/generated/children-museum-reference-exhibit-ko-20260915-1200.webp" srcset="/images/optimized/generated/children-museum-reference-exhibit-ko-20260915-480.webp 480w, /images/optimized/generated/children-museum-reference-exhibit-ko-20260915-768.webp 768w, /images/optimized/generated/children-museum-reference-exhibit-ko-20260915-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" width="1536" height="1024" loading="lazy" decoding="async" alt="어린이박물관의 빨간 기차 모양 체험 전시 참고사진을 바탕으로 만든 AI 생성 이미지로 현재 전시 상태를 보장하지 않습니다." />
   </picture>
   <figcaption>한국플레이리스트</figcaption>
 </figure>
