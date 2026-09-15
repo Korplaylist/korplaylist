@@ -10,8 +10,8 @@ urlSlug: "national-museum-children-reservation-guide"
 tags: ["국립중앙박물관 어린이박물관 예약", "어린이박물관 예약 취소", "서울 아이랑 실내", "가족 박물관"]
 publishedAt: "2026-09-15T15:45:00+09:00"
 updatedAt: "2026-09-15T15:45:00+09:00"
-heroImage: "/images/generated/children-museum-reference-exterior-ko-20260915.png"
-imageAlt: "국립중앙박물관 외관과 거울못 참고사진을 바탕으로 만든 실사풍 AI 생성 이미지"
+heroImage: "/images/generated/museum-family-original-arrival-20260916.png"
+imageAlt: "밝은 실내로 함께 들어가는 가족을 표현한 AI 연출 이미지로 실제 박물관 현장 사진이 아닙니다."
 imageCredit: "한국플레이리스트"
 adsenseReady: true
 draft: false
@@ -20,6 +20,8 @@ draft: false
 국립중앙박물관 어린이박물관은 무료지만 **온라인 예약이 필요한 회차제 공간**입니다. 아이와 함께 갈 예정이라면 관광 코스를 먼저 채우기보다 방문 날짜, 들어갈 회차, 보호자를 포함한 인원을 먼저 확정하세요. 현장 발권은 불가능하므로 예약 없이 도착해서 입장권을 받는 일정은 잡지 않는 편이 좋습니다.
 
 아래 예약 조건과 관람 안내는 **2026년 9월 15일 공식 페이지에서 확인**했습니다. 잔여석은 실시간으로 달라지며, 이 글에서 특정 날짜의 예약 가능 여부를 보장하지 않습니다. 신청할 때는 [어린이박물관 공식 개인예약 안내](https://www.museum.go.kr/MUSEUM/contents/M0104010000.do?act=intro&schM=child)의 최신 조건을 다시 확인하세요.
+
+이 글의 이미지는 가족의 방문 준비와 학습을 설명하는 AI 연출 이미지이며, 실제 국립중앙박물관의 시설·전시·체험 프로그램을 촬영하거나 재현한 사진이 아닙니다.
 
 ## 예약 전에 가족 인원부터 세어 보세요
 
@@ -31,8 +33,8 @@ draft: false
 
 <figure class="content-photo content-infographic">
   <picture>
-  <source type="image/webp" srcset="/images/optimized/generated/children-museum-reference-entrance-ko-20260915-480.webp 480w, /images/optimized/generated/children-museum-reference-entrance-ko-20260915-768.webp 768w, /images/optimized/generated/children-museum-reference-entrance-ko-20260915-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  <img src="/images/optimized/generated/children-museum-reference-entrance-ko-20260915-1200.webp" srcset="/images/optimized/generated/children-museum-reference-entrance-ko-20260915-480.webp 480w, /images/optimized/generated/children-museum-reference-entrance-ko-20260915-768.webp 768w, /images/optimized/generated/children-museum-reference-entrance-ko-20260915-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" width="1536" height="1024" loading="lazy" decoding="async" alt="어린이박물관의 연녹색 말 모양 구조물과 전시 공간 참고사진을 바탕으로 만든 AI 생성 이미지로 현재 현장 모습과 다를 수 있습니다." />
+  <source type="image/webp" srcset="/images/optimized/generated/museum-family-original-booking-20260916-480.webp 480w, /images/optimized/generated/museum-family-original-booking-20260916-768.webp 768w, /images/optimized/generated/museum-family-original-booking-20260916-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <img src="/images/optimized/generated/museum-family-original-booking-20260916-1200.webp" srcset="/images/optimized/generated/museum-family-original-booking-20260916-480.webp 480w, /images/optimized/generated/museum-family-original-booking-20260916-768.webp 768w, /images/optimized/generated/museum-family-original-booking-20260916-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" width="1536" height="1024" loading="lazy" decoding="async" alt="아이와 함께 휴대전화를 확인하는 보호자의 AI 연출 이미지로 실제 예약 화면이나 박물관 시설이 아닙니다." />
   </picture>
   <figcaption>한국플레이리스트</figcaption>
 </figure>
@@ -51,8 +53,8 @@ draft: false
 
 <figure class="content-photo content-infographic">
   <picture>
-  <source type="image/webp" srcset="/images/optimized/generated/children-museum-reference-exhibit-ko-20260915-480.webp 480w, /images/optimized/generated/children-museum-reference-exhibit-ko-20260915-768.webp 768w, /images/optimized/generated/children-museum-reference-exhibit-ko-20260915-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
-  <img src="/images/optimized/generated/children-museum-reference-exhibit-ko-20260915-1200.webp" srcset="/images/optimized/generated/children-museum-reference-exhibit-ko-20260915-480.webp 480w, /images/optimized/generated/children-museum-reference-exhibit-ko-20260915-768.webp 768w, /images/optimized/generated/children-museum-reference-exhibit-ko-20260915-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" width="1536" height="1024" loading="lazy" decoding="async" alt="어린이박물관의 빨간 기차 모양 체험 전시 참고사진을 바탕으로 만든 AI 생성 이미지로 현재 전시 상태를 보장하지 않습니다." />
+  <source type="image/webp" srcset="/images/optimized/generated/museum-family-original-learning-20260916-480.webp 480w, /images/optimized/generated/museum-family-original-learning-20260916-768.webp 768w, /images/optimized/generated/museum-family-original-learning-20260916-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <img src="/images/optimized/generated/museum-family-original-learning-20260916-1200.webp" srcset="/images/optimized/generated/museum-family-original-learning-20260916-480.webp 480w, /images/optimized/generated/museum-family-original-learning-20260916-768.webp 768w, /images/optimized/generated/museum-family-original-learning-20260916-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" width="1536" height="1024" loading="lazy" decoding="async" alt="보호자와 아이가 나무 블록으로 함께 배우는 AI 연출 이미지로 실제 박물관 체험 프로그램을 재현한 것이 아닙니다." />
   </picture>
   <figcaption>한국플레이리스트</figcaption>
 </figure>

@@ -1,0 +1,23 @@
+{
+  "article": "national-museum-children-reservation-guide.md",
+  "request": "Replace closely derived images with newly composed photorealistic scenes using rights-reviewed references.",
+  "reference": {
+    "page": "https://commons.wikimedia.org/wiki/File:Hall-of-National-Museum-of-Korea.jpg",
+    "permalink": "https://commons.wikimedia.org/w/index.php?title=File:Hall-of-National-Museum-of-Korea.jpg&oldid=1089755661",
+    "file": "https://upload.wikimedia.org/wikipedia/commons/1/16/Hall-of-National-Museum-of-Korea.jpg",
+    "author": "Allen R Francis",
+    "license": "PD-user: uploader/author public-domain dedication worldwide, with fallback permission for any purpose without conditions unless required by law",
+    "checkedAt": "2026-09-16",
+    "scope": "Photography license verified on file page, not inferred from Commons metadata/footer. No warranty of third-party rights. Only general daylight and stone material cues used; no depicted people, signs, artwork or distinctive architecture copied."
+  },
+  "method": "Only the rights-reviewed reference supplied to image generation. Previous press photographs and generated reconstructions were not supplied. Original fictional compositions, people and activities requested; no remix-as-copyright-workaround claim.",
+  "assets": [
+    {"file": "museum-family-original-arrival-20260916.png", "generation": "exec-95b21154-7d6d-409d-9af7-6b1866205fa3.png", "purpose": "Conceptual family arrival", "review": "Eye-level fictional family and rectangular foyer, unlike reference's elevated circular-hall composition"},
+    {"file": "museum-family-original-booking-20260916.png", "generation": "exec-8eb2133d-341a-449a-8a8d-e2eff5c3129c.png", "purpose": "Parent checking phone before visit", "review": "New close composition; no readable ticket, app interface or copied person"},
+    {"file": "museum-family-original-learning-20260916.png", "generation": "exec-e3363e3d-de6c-42fe-9ad2-009aa74355f7.png", "purpose": "Conceptual shared learning", "review": "Generic wood forms, not a replica or claim of an actual museum program"}
+  ],
+  "disclosure": "Visible article note and descriptive alt text identify fictional AI scenes; image credits remain Korean Playlist per user preference.",
+  "retired": "39 prior reference-reconstruction source/variant files moved outside public to .automation/retired-generated-images/20260916, preserving a rollback archive. Earlier git history and old deployment caches are not erased by this action.",
+  "riskStatement": "Rights-reviewed reference and independently composed scenes reduce risk; no guarantee of zero copyright, personality, property or other legal risk. Multiple references alone do not establish permission.",
+  "futureRule": "Verify the image-specific commercial/derivative permissions before using a reference. Save author, license and evidence URL. Never treat AI generation, source blending, crop, color change or a brand caption as a replacement for permission. Distinguish fictional scenes from actual facilities."
+}
