@@ -12,7 +12,7 @@ publishedAt: "2026-09-15T15:45:00+09:00"
 updatedAt: "2026-09-15T15:45:00+09:00"
 heroImage: "/images/generated/children-museum-reservation-preparation-ko-20260915.png"
 imageAlt: "가족 나들이 준비를 표현한 가방, 겉옷, 휴대전화와 빈 수첩의 AI 생성 이미지"
-imageCredit: "ⓒ한국플레이리스트 이미지 2.0 · AI 생성 준비물 이미지, 실제 박물관 현장 사진 아님"
+imageCredit: "한국플레이리스트"
 adsenseReady: true
 draft: false
 ---
@@ -29,6 +29,14 @@ draft: false
 
 5명을 넘는 가족은 임의로 여러 계정에 나누어 예약하기 전에 공식 조건을 확인하세요. 공식 안내에는 **자녀가 4명 이상인 다자녀 가족의 증빙서류·동반 입장 예외**가 별도로 있습니다. 모든 대가족에 적용되는 규정은 아니므로 해당 여부가 애매하면 예약 페이지의 문의처에 확인하는 것이 정확합니다.
 
+<figure class="content-photo content-infographic">
+  <picture>
+  <source type="image/webp" srcset="/images/optimized/generated/children-museum-reservation-headcount-ko-20260915-480.webp 480w, /images/optimized/generated/children-museum-reservation-headcount-ko-20260915-768.webp 768w, /images/optimized/generated/children-museum-reservation-headcount-ko-20260915-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <img src="/images/optimized/generated/children-museum-reservation-headcount-ko-20260915-1200.webp" srcset="/images/optimized/generated/children-museum-reservation-headcount-ko-20260915-480.webp 480w, /images/optimized/generated/children-museum-reservation-headcount-ko-20260915-768.webp 768w, /images/optimized/generated/children-museum-reservation-headcount-ko-20260915-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" width="1536" height="1024" loading="lazy" decoding="async" alt="예약 인원 계산 안내도: 보호자 2명, 어린이 1명, 유아 1명은 총 4명이며 36개월 미만 유아도 포함합니다." />
+  </picture>
+  <figcaption>한국플레이리스트</figcaption>
+</figure>
+
 ## 예약은 언제 열리고, 어떤 순서로 준비하면 될까요?
 
 개인예약은 **관람일 14일 전 0시**부터 열립니다. 온라인 접수는 박물관 서버 시간을 기준으로 합니다. 예약하려는 날짜를 정한 뒤 달력에서 14일을 거슬러 올라가 알림을 등록해 두세요. 예약이 빠르게 마감된다고 단정할 수는 없지만, 원하는 날과 회차가 정해져 있다면 오픈 시점을 미리 아는 것이 도움이 됩니다.
@@ -41,18 +49,30 @@ draft: false
 
 알림을 켰거나 예약 화면을 열어 둔 것만으로 신청이 끝난 것은 아닙니다. 가족끼리 역할을 나눴다면 누가 실제 예약을 완료했는지까지 확인하세요. 이동을 맡은 보호자에게도 회차 시작 시각을 공유하면 지하철 도착 시각과 입장 시각을 혼동하는 일을 줄일 수 있습니다.
 
+<figure class="content-photo content-infographic">
+  <picture>
+  <source type="image/webp" srcset="/images/optimized/generated/children-museum-reservation-timeline-ko-20260915-480.webp 480w, /images/optimized/generated/children-museum-reservation-timeline-ko-20260915-768.webp 768w, /images/optimized/generated/children-museum-reservation-timeline-ko-20260915-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" />
+  <img src="/images/optimized/generated/children-museum-reservation-timeline-ko-20260915-1200.webp" srcset="/images/optimized/generated/children-museum-reservation-timeline-ko-20260915-480.webp 480w, /images/optimized/generated/children-museum-reservation-timeline-ko-20260915-768.webp 768w, /images/optimized/generated/children-museum-reservation-timeline-ko-20260915-1200.webp 1200w" sizes="(max-width: 860px) calc(100vw - 36px), 792px" width="1536" height="1024" loading="lazy" decoding="async" alt="예약 일정 안내도: 관람일 14일 전 0시 예약 시작, 방문이 어렵다면 회차 시작 전 취소, 입장 시 모바일 티켓 준비." />
+  </picture>
+  <figcaption>한국플레이리스트</figcaption>
+</figure>
+
 ## 늦을 때와 못 갈 때는 대응이 다릅니다
 
 공식 안내상 취소는 **예약한 회차가 시작하기 전까지** 가능합니다. 시작 후 30분 안에 입장하지 않으면 예약이 자동 취소되며, 사전 취소 없이 미입장한 경우에는 60일간 관람 제한과 해당 기간의 예약 취소가 적용됩니다. 자세한 적용 조건은 [공식 예약 유의사항](https://www.museum.go.kr/MUSEUM/contents/M0104010000.do?act=intro&schM=child)을 기준으로 판단하세요.
 
 여기서 중요한 것은 '30분까지는 늦어도 되는 일정'으로 계획하지 않는 것입니다. 도착 직전 화장실을 가거나 휴대전화에서 티켓을 찾는 일이 생길 수 있습니다. 교통편을 비교할 때는 박물관 근처에 도착하는 시각이 아니라 **입구에서 티켓을 보여 줄 수 있는 시각**을 기준으로 선택하세요.
 
-| 출발 전 상황 | 권하는 대응 |
-| --- | --- |
-| 아이 컨디션 때문에 방문 자체가 어려움 | 회차 시작 전에 예약 취소 여부부터 처리합니다. |
-| 예상 도착 시각이 시작 시각보다 늦어짐 | 입장 규정을 재확인하고, 불확실하면 공식 문의처에 확인합니다. |
-| 함께 갈 가족의 인원이 달라짐 | 기존 예약으로 임의 입장하지 말고 변경·재예약 방법을 확인합니다. |
-| 휴대전화 배터리가 부족함 | 입구에서 모바일 티켓을 제시할 수 있도록 충전 수단을 준비합니다. |
+<table class="reservation-guide-table">
+  <caption>출발 전 상황별 대응</caption>
+  <thead><tr><th scope="col">출발 전 상황</th><th scope="col">권하는 대응</th></tr></thead>
+  <tbody>
+    <tr><th scope="row">아이 컨디션 때문에 방문 자체가 어려움</th><td>회차 시작 전에 예약 취소 여부부터 처리합니다.</td></tr>
+    <tr><th scope="row">예상 도착 시각이 시작 시각보다 늦어짐</th><td>입장 규정을 재확인하고, 불확실하면 공식 문의처에 확인합니다.</td></tr>
+    <tr><th scope="row">함께 갈 가족의 인원이 달라짐</th><td>기존 예약으로 임의 입장하지 말고 변경·재예약 방법을 확인합니다.</td></tr>
+    <tr><th scope="row">휴대전화 배터리가 부족함</th><td>입구에서 모바일 티켓을 제시할 수 있도록 충전 수단을 준비합니다.</td></tr>
+  </tbody>
+</table>
 
 ## 예약을 못 했다면 현장 대기보다 목적을 다시 정하세요
 

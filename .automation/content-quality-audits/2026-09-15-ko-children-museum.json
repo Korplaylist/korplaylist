@@ -25,9 +25,19 @@
     "sourceUrl": null,
     "rights": "Generated for this article; no third-party photograph reused",
     "photographer": null,
-    "generatedDisclosure": "Public hero credit and alt explicitly identify an AI-generated preparation image, not an on-location photo",
+    "generatedDisclosure": "Hero alt identifies an AI-generated preparation image. Visible caption shortened to Korean Playlist at the user's request; no claim of an on-location photo.",
     "review": "Inspected: no museum building, exhibits, tickets or fabricated reservation screen"
   }],
+  "visualRevision": {
+    "requestedBy": "User feedback on missing table borders, insufficient body images and long credits",
+    "scope": "This article only; CSS selectors target its new table and infographics",
+    "newAssets": [
+      {"path": "public/images/generated/children-museum-reservation-headcount-ko-20260915.png", "source": "Built-in image generation exec-4832a971-7334-4d82-a539-c3f25297775c.png", "purpose": "Four-person family headcount example", "rights": "Generated for this article", "review": "Korean text and arithmetic visually verified"},
+      {"path": "public/images/generated/children-museum-reservation-timeline-ko-20260915.png", "source": "Built-in image generation exec-893b141c-15a9-4fd3-8d2d-0e5945064991.png", "purpose": "Reservation opening and cancellation timeline", "rights": "Generated for this article", "review": "Matches verified rules in body; explanatory diagram, not official signage"}
+    ],
+    "visibleCredit": "한국플레이리스트",
+    "verification": "390px mobile and 1280px desktop screenshots inspected; no horizontal overflow, table borders visible, both body images loaded without cropping"
+  },
   "editorialReview": {
     "status": "pass",
     "reviewer": "AI-assisted editorial review",

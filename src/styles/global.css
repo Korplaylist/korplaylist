@@ -642,6 +642,62 @@ h3 {
   text-align: right;
 }
 
+.content-infographic img {
+  display: block;
+  height: auto;
+  max-height: none;
+  object-fit: contain;
+}
+
+.reservation-guide-table {
+  width: 100%;
+  margin: 28px 0;
+  border-collapse: collapse;
+  table-layout: fixed;
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+.reservation-guide-table caption {
+  margin-bottom: 10px;
+  font-weight: 700;
+  text-align: left;
+}
+
+.reservation-guide-table th,
+.reservation-guide-table td {
+  padding: 14px;
+  border: 1px solid #bcc7cc;
+  text-align: left;
+  vertical-align: top;
+  word-break: normal;
+  overflow-wrap: anywhere;
+}
+
+.reservation-guide-table thead th {
+  background: #eaf1f3;
+  color: #202b30;
+}
+
+.reservation-guide-table th:first-child {
+  width: 38%;
+}
+
+.reservation-guide-table tbody th {
+  font-weight: 500;
+}
+
+.reservation-guide-table tbody tr:nth-child(even) {
+  background: #f7f9fa;
+}
+
+@media (max-width: 480px) {
+  .reservation-guide-table th,
+  .reservation-guide-table td {
+    padding: 10px;
+  }
+}
+
 .article-summary,
 .article-tip,
 .compare-table,
