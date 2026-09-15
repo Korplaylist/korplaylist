@@ -1,0 +1,38 @@
+{
+  "locale": "ko",
+  "article": "src/content/travel/national-museum-children-reservation-guide.md",
+  "targetKeyword": "국립중앙박물관 어린이박물관 예약",
+  "readerQuestion": "가족 인원과 예약 회차를 어떻게 정하고 취소 및 미입장 실수를 피할까?",
+  "demandEvidence": {
+    "basis": "hypothesis",
+    "checkedAt": "2026-09-15",
+    "observations": "Official search results include individual reservation and visitor FAQ pages. This supports a concrete information need, not measured search demand.",
+    "limitations": "No Search Console metrics, keyword volume, competition score or booking availability measured."
+  },
+  "existingIntentReview": {
+    "comparedFiles": ["seoul-rainy-day-first-trip.md", "seoul-rainy-day-date-course.md", "korea-rainy-season-travel.md", "seoul-3-day-summer-itinerary.md", "gwacheon-science-museum-family-reservation-guide.md", "national-museum-korea-visitor-guide-en.md"],
+    "decision": "new distinct Korean article",
+    "distinctValue": "Family reservation headcount and cancellation decision guide, not a general museum itinerary or translation of the existing English museum guide. Existing Korean museum mentions do not cover this reservation task."
+  },
+  "claimLedger": [
+    {"claim": "Individual booking, headcount, opening window, mobile admission and cancellation/no-show conditions", "officialUrl": "https://www.museum.go.kr/MUSEUM/contents/M0104010000.do?act=intro&schM=child", "checkedAt": "2026-09-15", "applicableConditions": "Individual family reservations; large-family exception distinguished from ordinary reservations", "status": "verified"},
+    {"claim": "Admission categories and children's museum hours distinguished from main museum evening opening", "officialUrl": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do", "checkedAt": "2026-09-15", "applicableConditions": "General posted rules; no claim of specific-day availability or identical closure scope", "status": "verified"}
+  ],
+  "imagePlan": [{
+    "path": "public/images/generated/children-museum-reservation-preparation-ko-20260915.png",
+    "purpose": "Family visit preparation, not a depiction of the museum",
+    "source": "Built-in image generation, exec-3217a364-4f85-4308-aa32-1f145ea63fdf.png",
+    "sourceUrl": null,
+    "rights": "Generated for this article; no third-party photograph reused",
+    "photographer": null,
+    "generatedDisclosure": "Public hero credit and alt explicitly identify an AI-generated preparation image, not an on-location photo",
+    "review": "Inspected: no museum building, exhibits, tickets or fabricated reservation screen"
+  }],
+  "editorialReview": {
+    "status": "pass",
+    "reviewer": "AI-assisted editorial review",
+    "checkedAt": "2026-09-15",
+    "findings": ["Direct answer and natural official links", "No claimed firsthand visit or invented availability", "Planning recommendations distinguished from operator requirements", "Unique translation key", "No existing article or image edited"],
+    "unresolvedClaims": []
+  }
+}
